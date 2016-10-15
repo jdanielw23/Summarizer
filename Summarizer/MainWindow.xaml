@@ -5,8 +5,58 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Summarizer"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
+        WindowStartupLocation="CenterScreen"
+        Title="Document Summarizer" Height="350" Width="525">
+
+    <DockPanel>
+        <!-- TITLE BAR -->
+        <Border DockPanel.Dock="Top" Background="DarkBlue" Height="50">
+            <TextBlock Text="Document Summarizer" VerticalAlignment="Center" Padding="10,0" FontSize="24" Foreground="White"/>
+        </Border>
+
+        <!-- TEXT BOX LABEL -->
+        <TextBlock DockPanel.Dock="Top" Text="File to be Summarized:" Style="{StaticResource Tb_Heading}" Padding="5,5,0,0"/>
         
-    </Grid>
+        <!-- UPLOAD TEXT BOX -->
+        <DockPanel DockPanel.Dock="Top">
+            <Button DockPanel.Dock="Right" Padding="8,2" Margin="4" Background="DodgerBlue" Foreground="White" FontWeight="Bold" Content="UPLOAD"/>
+            <TextBox DockPanel.Dock="Left" Margin="4" />
+        </DockPanel>
+
+        <!-- SUMMARIZATION PANE -->
+        <Border DockPanel.Dock="Bottom" BorderThickness="0,2,0,0" BorderBrush="DimGray" Margin="0,5,0,0">
+            <DockPanel>
+                
+                <!-- SUMMARY -->
+                <TextBlock DockPanel.Dock="Top" Text="SUMMARY" Style="{StaticResource Tb_Heading}"/>
+                <TextBox x:Name="Tb_Summary" DockPanel.Dock="Top" Margin="5,0,5,5" Padding="5" TextWrapping="Wrap" Height="120"
+                         ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Auto" IsReadOnly="True"
+                         Text="This is a long sentence that will represent what a summary might look like. Hopefully it works and does not destroy anything. I am also making sure that it will wrap around the edges and that when it passes the bottom of the box a vertical scroll bar will appear.&#x0d;&#x0d;Also, I need to make sure that it can handle new paragraphs. Blah blah blah.... More text more text. I'm almost to the end. What about this sentence or this sentence or this sentence. or this word. How about a whole book of words that will show that this thing will create a vertical scroll bar when necessary."/>
+
+                <Grid DockPanel.Dock="Bottom">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    
+                    <!-- WORD COUNT OF ORIGINAL DOCUMENT -->
+                    <TextBlock Text="Original Document:" Style="{StaticResource Tb_Label}"/>
+                
+                    <!-- WORD COUNT OF SUMMARY -->
+                    <TextBlock Grid.Row="1" Text="Summary:" Style="{StaticResource Tb_Label}"/>
+                
+                    <!-- PERCENT REDUCTION -->
+                    <TextBlock Grid.Row="2" Text="Percent Reduction:" Style="{StaticResource Tb_Label}"/>
+                    
+                </Grid>
+
+            </DockPanel>
+        </Border>
+
+    </DockPanel>
 </Window>

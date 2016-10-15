@@ -4,6 +4,20 @@
              xmlns:local="clr-namespace:Summarizer"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
+        
+        <!-- TEXT BOX STYLES-->
+        <Style x:Key="Tb_Heading" TargetType="TextBlock">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Padding" Value="10,5"/>
+        </Style>
+
+        <Style x:Key="Tb_Label" TargetType="TextBlock">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+            <Setter Property="TextAlignment" Value="Right"/>
+            <Setter Property="Padding" Value="5,0"/>
+        </Style>
          
     </Application.Resources>
 </Application>
