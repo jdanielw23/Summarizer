@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Summarizer.View_Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +21,17 @@ namespace Summarizer
     /// </summary>
     public partial class MainWindow : Window
     {
+        private MainWindowViewModel ViewModel = new MainWindowViewModel();
+
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = ViewModel;
+        }
+
+        private void UploadDocument_Click(object sender, RoutedEventArgs e)
+        {
+            ViewModel.OpenNewDocument();
         }
     }
 }

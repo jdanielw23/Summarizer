@@ -5,7 +5,7 @@
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         
-        <!-- TEXT BOX STYLES-->
+        <!-- TEXT BLOCK STYLES-->
         <Style x:Key="Tb_Heading" TargetType="TextBlock">
             <Setter Property="VerticalAlignment" Value="Center"/>
             <Setter Property="FontWeight" Value="Bold"/>

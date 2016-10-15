@@ -19,8 +19,8 @@
         
         <!-- UPLOAD TEXT BOX -->
         <DockPanel DockPanel.Dock="Top">
-            <Button DockPanel.Dock="Right" Padding="8,2" Margin="4" Background="DodgerBlue" Foreground="White" FontWeight="Bold" Content="UPLOAD"/>
-            <TextBox DockPanel.Dock="Left" Margin="4" />
+            <Button DockPanel.Dock="Right" Padding="8,2" Margin="4" Background="DodgerBlue" Foreground="White" FontWeight="Bold" Content="UPLOAD" Click="UploadDocument_Click"/>
+            <TextBox DockPanel.Dock="Left" Margin="4" Text="{Binding FilePath}"/>
         </DockPanel>
 
         <!-- SUMMARIZATION PANE -->
