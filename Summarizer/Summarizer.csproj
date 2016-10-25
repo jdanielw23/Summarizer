@@ -117,6 +117,18 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="Documents\727SSG_ATA28_Fuel.pdf" />
+    <None Include="Documents\727SSG_ATA30_IceAndRain.pdf" />
+    <None Include="Documents\727SSG_CH10.pdf" />
+    <None Include="Documents\727SSG_CH2.pdf" />
+    <None Include="Documents\727SSG_CH3.pdf" />
+    <None Include="Documents\727SSG_CH4.pdf" />
+    <None Include="Documents\727SSG_CH5.pdf" />
+    <None Include="Documents\727SSG_CH6.pdf" />
+    <None Include="Documents\727SSG_CH7.pdf" />
+    <None Include="Documents\727SSG_CH8.pdf" />
+    <None Include="Documents\727SSG_CH9.pdf" />
+    <None Include="Documents\727SSG_CH1.pdf" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
