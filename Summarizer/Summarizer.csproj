@@ -39,6 +39,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\External Libraries\PDFBox.NET-1.8.9\bin\commons-logging.dll</HintPath>
     </Reference>
+    <Reference Include="DocX">
+      <HintPath>..\packages\DocX.1.0.0.22\lib\net40\DocX.dll</HintPath>
+    </Reference>
     <Reference Include="fontbox-1.8.9, Version=1.8.9.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\External Libraries\PDFBox.NET-1.8.9\bin\fontbox-1.8.9.dll</HintPath>
@@ -92,6 +95,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Model\Utils\DocumentHelper.cs" />
+    <Compile Include="Model\Utils\ErrorHandler.cs" />
     <Compile Include="Model\Utils\PdfToText.cs" />
     <Compile Include="View Model\MainWindowViewModel.cs" />
     <Compile Include="MainWindow.xaml.cs">

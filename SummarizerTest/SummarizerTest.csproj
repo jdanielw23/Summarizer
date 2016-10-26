@@ -35,6 +35,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DocX, Version=1.0.0.22, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocX.1.0.0.22\lib\net40\DocX.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="IKVM.OpenJDK.Core">
       <HintPath>..\..\External Libraries\PDFBox.NET-1.8.9\bin\IKVM.OpenJDK.Core.dll</HintPath>
     </Reference>
@@ -62,7 +66,6 @@
   </Choose>
   <ItemGroup>
     <Compile Include="ModelTest\PdfToTextTest.cs" />
-    <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -70,6 +73,9 @@
       <Project>{995cc20b-692f-4975-83ed-b9c4bdb7b523}</Project>
       <Name>Summarizer</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
