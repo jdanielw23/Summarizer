@@ -1,26 +1,16 @@
-﻿using org.apache.pdfbox.pdmodel;
-using org.apache.pdfbox.util;
-
+﻿
 namespace Summarizer.Model.Utils
 {
     public static class PdfToText
     {
         public static string ExtractTextFromPdf(string path)
         {
-            PDDocument doc = null;
-            try
-            {
-                doc = PDDocument.load(path);
-                PDFTextStripper stripper = new PDFTextStripper();
-                return stripper.getText(doc);
-            }
-            finally
-            {
-                if (doc != null)
-                {
-                    doc.close();
-                }
-            }
+
+            // This should include code which uses character recognition
+            // to convert the image PDF's in the Documents package to
+            // a text document or PDF.
+
+            return null;
         }
     }
 }
