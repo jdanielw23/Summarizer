@@ -1,0 +1,34 @@
+﻿MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D0C ID 27E. Page 39
+IV. PITOT AND STATIC 727-lOOC
+A. Pitot Static and Temperature Probe Anti-Icing System
+l.
+Description and Operation
+The left, right and auxiliary pitot tubes, six static ports, both left and right elevator pitot tubes and the temperature probe are heated to prevent the formation of ice on the sensor which could affect sensing accuracy. The heating is accomplished by electrical heaters installed as an integral part of the units. The heaters consist of resistance elements which operate on ll 5 volt single phase Current.
+The current of the heaters is supplied from six circuit breakers on the P6-l panel, and is controlled by two switches on the Pitot Static Heat and Monitor panel on the overhead P5 panel. The left switch controls the heating of the left pitot, temperature probe (Rosemont), left static ports and left elevator pitot. The right switch controls the heating of the right pitot, auxiliary pitot, right static ports and right elevator pitot. Current for the left system is supplied from the ll 5 ac Essential bus. Current for the right system is supplied from the ll 5 ac Bus No. 2.
+The monitor panel incorporates eight annunciator lights, four for left and four for right system for their respective heaters. With power applied to the busses and the control switches OFF the lights will be illuminated. When the control switches are ON and the heaters are operational the annunciator lights will be extinguished. Should an electrical failure occur in the heating system the respective light will illuminate to indicate the failure. Electrical 28 VDC power for the annunciator lights is supplied by the radio essential bus circuit breaker om the P6-2 pamel .
+Each electrical circuit to each heater has a line Current transformer to sense the operation of each heater and the monitor panel incorporates the failure warning monitor circuit which will cause the annunciator lights to illuminate when a failure occurs.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 DOC ID 27E. Page 40
+NO
+NCE SEE DETAL A sNI/ ހަހިހ~ Azਸ I had
+\ c 14—
+N NNY ރ / ހ ޗ
+ゞつ一至こニすtー二
+* .سستے SLLMSSS SS LS SS SSS s Vつて سمےے
+NO.
+WINDOWNO. 2 -NO. 2 THERMAL WINDOW HEAT
+SWITCH SENSORS
+NO. 3 ار- N
+LEFT-HAND WINDOWS RIGHT-HAND WINDOWS
+/ 、 N.
+trgu har
+1. FT AT
+ATG
+t
+�". LÉON
+DETAL A
+Control Cabin Window Antil -Icing System. Equipment Location

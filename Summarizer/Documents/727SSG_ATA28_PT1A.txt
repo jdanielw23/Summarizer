@@ -1,0 +1,22 @@
+﻿ూ
+FEO-M-12s 23 Juneo
+MAINTENANCE TECHNICAL TRAINING
+SUBJECT 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 03
+FOR TRAINING PURPOSES ONLY
+I. FUEL SYSTEM ATA-28
+A. Fuel System Differences between 727-100C and 727-200F.
+l.
+The 727-200F fuel system has major differences in tank design and minor differences in components and control. The following is a listing of the differences that will be CO vered in this text:
+a. Tank volume has been increased by a change in No. 2
+tank. The fuel cell bladders have been removed and the entire No. 2 center section is a integral type tank.
+b. Tank No. 2 fuel boost pumps are a higher output pump and
+will override the fuel pumps in tanks and 3 when the Crossfeed manifold system is selected.
+c. Main fuel shutoff valve control switch normally found on
+-lOOC aircraft has been deleted. The main fuel Shutoff valve on the -200F is normally controlled by the movement of the Start/Cutoff lever and closed in an emergency by the applicable Fire Switch.
+d. The refueling system incorporates the Volumetric Top off (WTO) capacitance system for automatic fuel shutoff during the fueling operation. Unique to this WTO system is the addition of WTO tank reset Switches located on the P-15 refuel ing panel .
+e. Additional dripsticks have been added in tanks No. l and No. 3 and are incorporated in wing tank lower access plates. There are four dripsticks each in tanks No. and No. 3, one dripstick in tank No. 2 for a total of
+le
+f. The APU fuel feed line from No. 2 tank can now be
+pressurized by use of any No. 2 boost pump.
+g. The fuel quantity indicators are the new "Pre-Calibrated"
+type which allows the indicator to be changed with only minor adjustment required to the tank unit trimmers.

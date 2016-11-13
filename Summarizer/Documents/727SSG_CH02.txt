@@ -1,0 +1,694 @@
+﻿MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 D0C ID l 26E DATE 2/89 PAGE 27
+CHAPTER 2
+A. BASIC ENGINE (72-00)
+1. GENERAL DESCRIPTION
+a. The airplane is powered by three JT8D turbo fan engines mounted on the aft fuselage area. One engine is Strut mounted, in a conventional nacelle, on each side of the fuselage. A center engine is mounted aft of the fuselage structure. Air is ducted to this engine through an inlet in the vertical fin leading edge just above the fuselage. All three engines are secured to the engine mount fittings at three points. Two cone bolts, bolted to a double flange at the fan discharge intermediate case, and one cone bolt attached to a double flange at the fan di Scharge turbine exhaust outer duct, secure the engine to the forward and rear mount fittings.
+b. The major accessories fitted to each engine include a fuel pump, fuel con
+trol unit, constant speed drive unit, pneumatic starter and N and N2 tachometer generators. A generator is mounted on the constant speed drive unit. Hydraulic pumps are installed on engines No. 1 and No. 2. Fire detection and fire extinguishing systems are provided in each engine area.
+C. The power section of the engine consists of a twin spool, l3 stage, front fan, axial flow compressor, a fan discharge duct, a diffuser case, a combustion section of nine separate burner cans symmetrically arranged within an annular chamber and a split four-stage turbine.
+d. The four-state turbine extracts enough energy from the expanding gases to
+operate the compressors, including two fan stages and accessories. The first stage turbine drives the high pressure (N2) compressor and the remaining three stages drive the low pressure (Ní compressor and integral fan.
+e. The engine starting system provides a means of rotating the N2 compressor
+to establish a flow of air through the engine. Rotation of fie N2 compressor also drives the engine fuel pump and fuel control to meter fuel, under pressure, to the combustion chamber. An ignition system provides a high voltage discharge for ignition of the fuel/air mixture. Following ignition, continuous combustion takes place and the rotors accelerate until the engine becomes self sustaining. There are two flow paths which the air follows through the engine - one through the fan, and one through the primary engine, or gas generator. All of the air that enters the inlet cowl flows through the first two stages of N compressor and fan. As the air leaves the N second stage, it is forced to divide. At this point, the peripheral air enters the fan discharge duct and flows rearward where it it allowed to discharge to atmosphere to produce thrust. The inner air mass is forced to flow into the remaining N compressor stages. From the N compressor discharge, the air enters the N2 compressor where it it further compressed and discharged into the diffuser. Rotation and velocity of the air are somewhat reduced in the diffuser before it enters the combustion section.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID 26E DATE 12/89 PAGE 28
+f. As the fuel/air mixture burns in the combustion chambers, it expands and due
+to the design of the chambers, increases the velocity of the gasses while the pressure remains relatively constant. The hot gasses, thus accelerated, pass through the turbine section and decrease in velocity and temperature as energy is extracted to turn the compressors and operate the accessories. After the gasses leave the final turbine stage, they are discharged through the exhaust nozzle to atmosphere.
+g. Each engine is fitted with a self contained oil System to
+provide cooling and lubrication of engine gears and bearings.
+h. Air is bled from the low pressure and high pressure compressors and the fan discharge duct to operate various airplane Systems. A thrust reverser is attached to the exhaust Section of each engine.
+i. The engine at sea level on a standard day will develop in pounds
+thrust:
+JT8D ENGINE 7A & 7B l6 ll. A
+Take-Off Thru St. . . . . . . . . . . . . . 14,000 lbs 15,500 l6,000 Maximum Continous Thru St. . . . . 12,600 lbs 13,750 l4, 200 Maximum Cruise Thrust. . . . . . . . ll, 400 lbs l2,400 l2,800
+j. At sea level take-off thrust, the fan produces approximately 43%
+and the basic engine 57% of the gross thrust.
+________________
+SUBJECT:
+2. Engine Specifications (ATA 72-00)
+а.
+B727 ENGINES ATA 71-80
+General
+Type
+Number of Combustion Chambers
+Type of Combustion Chambers
+Type of Compressor
+Type of Turbine
+Engine Dry Weight
+Engine Length at Room Temperature
+Engine Inlet Diameter at Room Temperature
+Ignition System
+Ignition Exciter
+Igniter Plugs
+Lubrication System
+Oil Specification
+Oil Tank
+Usable quantity
+Fuel System
+Fuel Specification
+Fuel Control
+Fuel Pump
+DOC ID
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+126E DATE ] 2/89
+Axial-Flow, gas turbine turbo-fan
+9
+Can-annular, two piece
+Two-spool, l3 stage, front fan, having a 6 Stage low pressure compressor and a 7 stage high pressure compressor
+4 stage, split, having first stage high pressure and second, third, and fourth stage low pressure
+2994 pounds (approx.)
+l2O in. (approx.)
+42.5 in. (approx.)
+Bendix - Scintil la
+Champion
+Mobil Jet 254
+4.0 gallons
+Jet ιΑι 11 8 * יץס
+Hamilton Standard
+Thompson Ramo Woolridge
+PAGE 29
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+30
+DOC ID 1216E DATE I 2/89 PAGE
+-80
+B727 ENGINES ATA 7)
+SUBJECT:
+SETTVA – JO -EX VIL T\70 ld. Al
+F,*,*****
+■■■■■■■■■■aeae
+~
+Ur-m] EHITASSE. Hod5.ZÎ7758*----\/[Sc] [ 'f7'I | 1 l l–|—––1––1––|— BHT|1\783d W31 j„tog/ooooo"300ŻLI4.8g/3,69830/61노 o69 \|–|—–||–||–|——1– NOI. LVLSŁ9Gțy£G"ZZ
+8/ — *\]/- * /-C|8,1 s
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+31
+2/89 PAGE
+26E DATE
+DOC ID .
+B727 ENGINES ATA 71-80
+SUBJECT:
+N\; IN H OH H = d'
+NÕTT5V7ĘTXETETV7GĦETE HO HBMOd ON "E
+IL E E H S XI HO WA \7||L\7C] E30
+[5] LVLS) LST HHL HBO-BXVI CIBLV8 ‘Z
+fiH sgwarınıw-FETÕT- essa −7FFT - eĥH„-ā57āī- = uued
+Ā7GTāEī£7ūNV71S”īĒTĀĒTĪVES 'L Ɔ.9 |3, −35 = uel 0,069 - buB 8C-SNO||LICINOO SON|1\/HB dO HN10NE 위회TE되피워7귀 -TV/Old Al 193 Œ ann dag iba06009|dÅ Z %TĀTNĪTĘ on aNIT 038 FG5īWāūT575āT 'N ANII dag % 00 || Wd8 Gţ?“ZI%ooL*N 최T희터헌퍼T헌%001 'N Z--~--~į. d.0ך % ). „Ndɛ „4. st. Tvold^1 °N % ș.agwał otoạ Tvold^1 °N 86 o l= Z√d/L}d8° G l= Z\d/oldG6 o €= Ɛŋd/ţłd 20 o fy= Z√d/£}d96 * |= Zld/g'Zld }B G89 o0-ISLɔəS/#GIɛM0£I o 8du-3 4PMU 06 lo 8deM }MɔəS/#G9||0/8° Gļul : 1 ( 1= - JēĀ = Hd85557Ț55T deM000 offiu-si 8/ — *\{/.- * [-C.8,1 s
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+32
+DOC ID 26E DATE 12/89 PAGE
+-80
+B727 ENGINES ATA 7
+SUBJECT:
+SETTIVA E HO-EXIVIL TVO IdAIL
+~)
+laen]] abnSSāķłşa TTTĒTĪSTĘ5TyršūTĘ
+E HTML\7 HB|d|W.E.
+NOI. LVLS
+sur
+| Z
+9
+|
+L
+論生s/허리다 히 회의
+G
+WISd 092 —1– 36688
+–|— ț7
+WISd 2 ( 99 WISd / o 62WISd / o ff | –1––1––|— 30988 369024669 —||—||—||——1– ƐG“ ZZ
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+33
+26E DATE 1 2/89 PAGE
+B727 ENGINES ATA 71-80 DOC ID
+SUBJECT:
+ILE E HIS XI E O WA \7. LVG E O N \7 IN H OH H E ɖ
+NOŢILOVÝ HLX E HIV/ CIEBT18 HO HEIMOA ON '8
+(O] LVLS) IST HHL -s-JO-EXIVI CJELVE ‘Z
+BH savgrīılw -3-5TŪīesses7FFT efiH.35F5F = ued O.9 |3.69= uue 1 00029ENIT CIE. H. 15DE %TŪŪTNĒĒĒTāT °N BNII dag % 00 LWdo Gozo ZI%0.01 °N %T떠대회헌T원헌TTT InvoleXL 3N ZI“ Z= Z\d/1}d/9 " [ [= Z\d/ţ}}d Ɛŋ * s;= Zld/ɛ}dZ0° Z †76G “ɔɔSl日이sz神구페지여ļBM 4H/# /OZ6}M5557Ę ĖJŲ4eM deŅA I : IO ’ 1= - JēW = Hd8ɔə5/#T109||deM
+AVCTORIVOINVIS "TĒTĀĒTŶES · 1
+SNO||LICINO O 5DNI_1\/\HB dO EN 15DNE
+Gț79T\/Old A.L. 15DE
+헌T헌T "NENInc田正
+% 001 WdB 6898%001 'N
+Ķī775 WOEFŒāT IvoidAl 'N
+66 o €= £ļd/tyłd = Zļd/9^2}d
+055* 8du
+01Go 9ļu-l
+009 “G|U-,
+51 , C] 83』 『
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+34
+PAGE
+DATE T 2/89
+26E
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+SETTVA H H O - E X \7 IL T\70|d AJL
+Ur-m] EHTISSE. Hod
+E HTML\783d W31
+NOI. LVLS
+sur
+| 000II
+{ Z
+5° To so 95
+_!
+os 19 l
+9
+的的zz |
+o 1861
+G
+9’88 g : +9 g - og ||
+ol 19 3089 „VIZ ||
+Z o £ƐG” Z
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+35
+26E DATE ] 2/89 PAGE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT
+ILE E HIS ȘI HO WA VIL V G E O N \7 IN H O - H E ɖ
+NOILOV HLX E HIV CIEBTE HO HEMOd ON "E
+(5īIVISJISTĚHL H-HO-EXHV71 GELVE ‘Z
+ĥH SHVGITTIINeĮSdefiH,,= uued
+£IOI/* # !26 "62
+= uue 1
+AVG] QHVOINVIS "TEWET VEIS ‘l
+SNO||LIOJNO O 9NI LW7HB dO EN 15DNE
+0,099BNIT C13H 19E5ĀJĒ Iwoldal 1Đ3 — Z아1.아-아1 L
+*T헌T공 "N 목NT 9山:4 헌T헌N BINIT OBH
+% 00 || Wd8 Gozo ZI%ooL*N 편이희비히뛰그헌%001 'N %T헌T헌리 TwoldAL *N 헌최T헌Twɔıda 1 "N
+[[' Z= Złd/Lłd6 * 9. ||= Z\d/ţ}}dG8 o £= €\d/tyłd
+69 ° †= Złd/Ɛļdg연rz= Zld/G"Zld Gisgo<O-ISL5557 ŠūTĘŻsļBMdu-i Hdd 0.22* 01}MɔƏs/sql go £9ī4 BMļu-l deMde|- [ : 20° 1= (JEW = ddaɔƏs/Sql Go 09IM* sqT 000*9.I u-3
+vai - C|8,1 s
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 12/89 PAGE 36
+e. Directional References (72-00)
+Unless otherwise Specified right and left, clockwise and counterclockwise, upper and lower, and Similar directional references apply to the engine as viewed from the rear (exhaust end) with the engine in a horizontal position and with the main accessory section at the bottom of the engine. The rotation of the rotor assemblies is clockwise.
+f. Combustion Chamber Numbering (72-00)
+The combustion chambers are numbered one to nine in a clockwise direction, with the top center combustion chamber designated as number one. The number four and seven chambers have sparkigniter bosses.
+g. Bearing Locations
+The rotating masses inside the engine turn at two different speeds. They must turn as freely as possible so that we have bearings placed at the best
+locations to properly support these units.
+SEARBOX . GEARBox.
+DIRECTIONAL REFERENCES
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+37
+T 216E DATE 1 2/89 PAGE
+* DOC ID
+80
+B727 ENGINES ATA 7
+SUBJECT:
+NO I L O B S L S T W HX E
+SS\/dÅ8 NV-s
+3/\| B O A BOSSE OO\f
+==
+NO|JL\/[^\NBILLY/ ESION
+SE N\//\ BC]\/OSW7O 8 BS8 BA38 LSTYBHL
+SBN|8}} T_1
+SN\/O HEN HT19
+ŹN HOSS38dWOO 38 TISSE H d H5) | H
+1 N JOSS38dWOO 38 TISSE 8 d. NAOT
+LETNI
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 38
+12/89
+26E DATE
+DOC ID
+-80
+B727 ENGINES ATA 7
+SUBJECT:
+町|
+SE H (TILVE E N 5) I SE G E NIE) N E
+EN 18 HT91 B/\[8C]EN|8}} T_1 EA1HC) BHTTSSE Hd-MOTE\{s^SSE 80-H5)|H NOI LOES LST VHXE|NOI LOES NOLLST18||WOOHOSSE HOEWOOHOSSE HAWOO
+EHTISSE Hd-H5) | HEHTISSE!Hed-MOT
+sos(!!!!!!!!!--o-o-o-o-o-oo.oooooo!!!!!!!!!!!!!
+Insi
+F儿归sloopas
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID
+h. Engine Sections (ATA 72-00)
+26E DATE 12/89 PAGE 39
+The engine has six general sections, the air inlet section, the compressor section, the combustion section, the turbine and exhaust section, the accessory drives, and the fan di Scharge section. Detai la d information on each is given within the appropriate sections of this
+manual.
+(l) Engine Section Numbering
+AIR INLET SECTION
+COMPRESSOR SECTION
+COMBUSTION SECTION
+TURBINE AND EXHAUST SECTION
+ACLESSORY DRIVES
+i. Engine Flange Destinations (ATA 72-00)
+72-20
+72-30
+72-40
+72-50
+72-60
+To facilitate identification of the engine flanges, they are designated by letter. Interruptions in the lettering sequence may result where development changes have removed or added flanges.
+j. JT8D Design and Construction Features
+(1) General
+The JT8D is an axial-flow front turbofan engine. It employs a
+four-stage turbine to drive a "dual-spool", thirteen-stage compressor.
+The term "dual-spool" identifies the compressor design that separates the compressor into two independent rotating assemblies.
+The six-stage low-pressure, (Nl) is driven by the Second, third and
+fourth stage turbines.
+The seven-stage high pressure compressor, (N2) is driven by the first
+stage turbine.
+The two-stage fan is equipped with a full length annular di Scharge duct. This permits the fan air (secondary air flow) to be di scharged with the exhaust gases (primary gas flow) through a common exhaust
+no ZZ e.
+The major rotating assemblies are supported by Seven main bearings.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 1 2/89 PAGE 40
+i
+溪一
+ー1
+ur 攀 密 D ܚܝܐ
+岩
+s ص C ܝܐܐܗ
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 41
+2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 71-80
+*
+SUBJECT
+(ļ8|us ue}) Z uoļļeļS=Z |eļO_L=} 3InSSðug=es
+Č}d
+SNO ILVOOT NOILLVILS EINIÐ NE
+:ə|duJex3
+·ųụedsefi əų uỊ səunssəud pue səunļeuəduan use snoỊuea əų, fiuỊAgļņuəps ļo pouļaud uuuoy-luous e əpỊAoud on sudsuɔsqns seoļuəuunu /eųdie qļļw pəuļquoɔ əue suəquunu uoụeus asəų 1 sæsod -und ɔɔuədəgəu Ieuauə6 uos suoņeɔos qņedse5 oy pəufiỊsse uəəq əAeų suəquun.N uoụeųS pə||eɔ suoụeufissəp seoļuəunN
+suoņeɔon qedse!)
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+26E DATE T 2/89 PAGE 42
+B727 ENGINES ATA 71-80 DOC ID
+SUBJECT:
+1000 BB100 1ST WHX3 398vHɔSIQ Nyg W.-x.
+J1000 HE100 3N1880.LINOILSn8WOɔ ɛsɔwysłɔsig Ny-, 1000 HB100 HBS'n-i-JIO 308vHɔsig Ny-J 1000 HB100 HW38 EÐgwHɔsig Nyg 3SVO B1\/IC]BWłJELNI JOSSEudywoɔ
+x1-to ቦ-ዙዛ 工-D 9-oj
+SLOT G G N V SE 9 NVT H o SE SV75
+lƆnQ 83100 LNOB-) 398 VHOSIQ, Ny-, 4-3 BSVO LIXE NVH, E-0 BSVO HVE!!! Ny-, d-o BSV/O 1NO!!! N\/& 0-8 BSV/O 1ETNI N\/& &-\/
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 43
+2/89
+DOC ID 26E DATE
+B727 ENGINES ATA 71-80
+SUBJECT:
+ScłITOHE EINIENE HOT\/|/\\
+NOI LOES NOLLST18||WOO
+BNI88/il
+ESVO 1ST VHXEEHITYSSE!!!d-H9||H
+EN 188H01 NV7-)EN18|}][^l
+EŁNITYSSE!&ld-MOT
+ESVO LETNI N\/>' HOSSE!!!dĻŅOOSO
+EHTISSE Hd-MOT
+XO8|\!\/E|5) AHOSS390w
+HOSSE HdWOO ±ITYSSEŁd-H50||H.
+ESVO HEISTA-I-NICI
+SLOsmC1 NV-J CINV BSVO EL\/IC]B WłHELNI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 44
+26E DATE 12/89
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+B801 CIV/ET HELBWOHOV/1
+EETIL HE HIV/EH8
+}}|B|NEdWV/C)] NO|1\/H8||A HEB80B
+3801 39 NEAVOS TIO
+B8IT01 EŁJTISSE HOE סור
+Banı Zod
+AT E UN E S S \7 E N \7/\ G N \, E S \760 JLET IN I N \7 H
+SSO8 HOSNES Z}_1
+SSO8
+SSOɛ 38084 Złd
+5ÐNIST OH SON!!!}\738 ! !!! BosWTIN
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+45
+2/89 PAGE
+DOC ID 1216E DATE
+B727 ENGINES ATA 71-80
+SUBJECT:
+NO 1 10 ES NO|JLS.[18] 'N OoO
+SSO8|| 83||1|N|9|||
+35 wɔ HENNI
+壽
+岩
+ESVO HELTTO
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+46
+26E DATE 2/89 PAGE
+B727 ENGINES ATA 71-80 DOC ID
+SUBJECT:
+E S \70 JLS (T \7 HI XE E N I 8 H (↓ 1)
+5ONISTOH SÐNI HVEIE 9 HE|8|WITAN
+ĐNigivo GNw 1ɔño 1ST VHXE EN 18801
+\&|\, \,らQ | -4N汐影召口 忽冷 Q
+广之必
+Qシ E18||Ołłd /31~ |ESV/O LST VHXE EN 1818-ITAL {『%JLT|}}_1S WW*\739) \\\Q · 3808d Lod
+° geir
+SSO8
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+47
+26E DATE 12/89 PAGE
+B727 ENGINES ATA 71-80 DOC ID
+SUBJECT:
+ILNO BE --XO E RIVE E ZAŁO SSE€O5 V NIVUN
+l8Od TIO 39N3AVOS ĐNIHWEIG I HEgwnNNIVHO TIO Cl\/d 1NTOWo oO O XINVIL TIOJLHOd A.TddTIS TIONIVĤOJ TVEIS
+OO (C) O
+C) ©)O {{BIH.LV/EH8© C18HV7098EAO
+t-1O t~~] t~~] ©t-1\© *-* C-J 阿_e)© O(O)()\\ ----o L-\U 川水}旧剧BEIHILVE!!!8\Q_^
+•· 18Od5) NI HVEo į. 1łHOdHEHLVERH8HEELWITIN TIO ESO NEAVOSClwyd LNTIO'N TOH1NOO CIN\/ dWTld TETs-1
+ 
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+48
+T 2/89 PAGE
+DOC ID 26E DATE
+B727 ENGINES ATA 71-80
+SUBJECT:
+E \7E H - XOXE HV75|5) AH O S SE SO SO V NIVÝ VN
+BATIVA ONI LVTT,5)EH EHITISSE HỖ TIO
+MOTH HEAO o NIVHO CISOdWT\d TIO CTVd LNTìOW 'G'S'OHEILTI-, TIO -歌(9文动けしば四NIVĤOJ TVEIS NIVHO TVEIS·-(831114 380438) @)@) ·d\71
+\,-38nss3dd llo
+{@)@)@@( 83 LT|3 |4314\/)
+Ov/d LNTROW dWond ‘CLAH
+d\/l BlaenSSHƐd ... \TIO CIV/d●fT그(Sメ〜 1 NT\OW HOV/1 ZN多©)/)~/ @)@@- \1 NBA 广何@حکستNIO کے ©) SSOg 9NIHOV 1. Ly 1+\/HS HEIMAO 1OV78|| }|E|1}{\/1S
+18Od BosnSSE!!!d TIO 5) NI HV38, 8 so Z HEGWITAN
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: WALSAN SUPPLEMENT DOC. ID 26E DATE 8/90 PAGE 48A
+PROPULSION SYSTEM DESIGN
+The JT8D-200 has two independent rotor systems. The low pressure rotor consists of a single stage fan and a six stage compressor driven by a three stage turbine. The fan stage provides additional thrust by accelerating a portion of the in take air (secondary air) through the full length annular duct and di s chargi ng it with exhaust gases (primary air) through a common exhaust nozzle. The high pressure rotor system consists of a seven stage compressor driven by a single stage turbine.
+o Front Compressor (LPC):
+- 7 stages:
+l fan stage 6 primary stages
+o Rear Compressor (HPC) :
+- 7 stages - 8th and l3th stage air used for aircraft
+ble ed a i r - Drives main accessory gearbox
+o Combustion Section :
+- 9 low emissions fuel nozzles - 9 combustion chambers
+o Rear Compressor Drive Turbine (HPT) :
+- Single (l) stage - Drives rear compressor (HPC)
+o Front Compressor Drive Turbine (LPT):
+- 3 stages - Drives front compressor (LPC)
+O Exhaust Section:
+- Rear engine mount location
+O Mixer Section:
+- l2 lobe mixer
+ 
+________________
+(); 2 2. <s Dr. H–1 <!, に z ~~ (_) | 11 HLII C) z <, z LII H2. <s 品
+FOR TRAINING PURPOSES ONLY
+48B
+DATE 8/90 PAGE
+ID 26E
+V AUS AN SUPPLEMENT OOC.
+SUBJECT:
+SNOILOHS CINY SdnOHS) HNIÐNH HOTVIN
+Nollo as ĐNIHŶag g 'ON GNW NOILSn8WOO HTZZON HNIGHT\ll\ HNIGHn L BAIHCI HOSSE HdWOO HVB B -
+aswo Isny HXa HNIE HTML EA1HC) HHeHWOO LNOB NOI LOBSu=x, \OSSE HdWOO LNOBH
+雪1量
+*
+*名 受//y)
++ ...... , \
+密-------LEITINĮ |N名HOSSE HdWOO 丝$白叶!HOSSB Hc{WOOsuosẾo 太__----*XOE HY35)LNO H-I/ LNO H H ،A HOSSHOOW NIWW ELWIGE WHELNI事 HOSSE HdWNO O/|-/
+HOSSE HđWO O
+LOT}(1 NV-s . ġājno HāSolda10
+HESTì-l-H1C]
+H\/E|| H
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 1216E DATE 8/90 PAGE - 48C
+s
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: WALSAN SUPPLEMENT DOC. ID 121 6E DATE 8/90 PAGE 48D
+ENGINE GENERAL - DESCRIPTION
+ENGINE SPECIFICATIONS
+GenerQl
+TYPe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Axiol -Flow, gOS turbine turbofon
+Number of Cornbustion Chornbers . . . . . . . . . . . . . . . . . 9
+Type of Cornbustion Chomber . . . . . . . . . . . . . . . . . . . . . Con-onnulor
+Type of Compressor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Tvo -spool. 4 Stoge, front fon, hoving O 7 stoge low pressure compressor Ondo 7 stoge high preSSure COrthpressor
+Type of Turbine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 stoge, Split, hoving list stoge
+high pressure Cnd 2nd, 3rd, ond 4th Stoge low pressure turbine
+Engine Dry Weight (Opprox.) . . . . . . . . . . . . . . . . . . . . . . . 4410 lbs. (2002.14 kilogroms)
+Engine Length of Room Temperoture (opprox.) . . . . . . l54.2n. (3.9 meters)
+Engine Inlet Diometer of Room Temperature (opprox.) . . . . . . . . . . . . . . . . . . . . . . . . . . . 54 in. (.37 meters)
+Ignition Excffer , ... . . . . . . . . . . . . . . , . . . . ......... Bendix-SCintilo Or Generol
+Loborotory Associotes (GLA)
+lgnster Plugs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Chompion
+UUOriCQUtin th
+Oil Specification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . PWA 521
+Oil Tonk USOble CUOntity . . . . . . . . . . . . . . . . . . . . . . . . . . 4.O gollons (3.33 imperical gollons
+or 5.4 liters)
+Fuel n
+Fuel Specificotion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . SB 2O6
+Fuel Control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . HChilton SfCIndCrci
+Fuel Pump . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Thompson Rorno Woolridge
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 1216E DATE 8/9 O PAGE 48E
+nqin tinC LintS JT |7
+MOX. EGT Min. ( Degrees C) Oil MOX. ThľUSŤ Tine Linnft SS Press. Oi! Temp Setting (Minutes) JT8D-27C (PSI) ( Degrees C )
+TokeOff 5 590 *40 35
+2 595 (276 KPO)
+MOX. Continuous 58O *4O 35 Continuous (276 kPO)
+Storting Momentory: **475 "AO 35
+(276 kPO)
+CAUTION: NORMAL OIL PRESSURE IS 4O TO 55 PS (276 TO 380 KPA ). OIL PRESSURE BETWEEN 35 AND 40 PSI ( 242 - 276 KPA) IS PERMISSIBLE FOR SUSTAINED OPERATIONS (TO COMPLETE FLIGHT), PREFERABLY AT REDUCED THROTTLE SETTING. OU PRESSURE BELOW 35 PSI ( 242 KPA ) IS UNSAFE.
+NOTE: Temperoture is time inited to momentory. If the moximum EGT
+temperoture is exceeded, the engine should be Shut down Ond inspected in occordonce with the instructions contoined in Prott & Whitney JT8D Mointenonce MQnUO), 72-00-00.
+A. With the exception of idle, thrust settings ore obtoined by positioning the thrust control levers to
+obtain the reduired engine pressure rotio for existing inlet oir temperoture.
+8. Amoximum oil temperoture of 163° C isolowoble for Otime period not to exceed 15 minutes.
+C. At normal tokeoff, the N2 high-pressure compressor rotor speed should not exceed 100.9 percent (12.350 rpm), ond the N low-pressure compressor rotor Speed should not exceed 98.3 percent (8,080 rpm).
+D. Storter duty cycle:
+(1) Three successive 30 seconds stort ottempts i.e.: 90 seconds On. 5 minutes off.
+(2) Subsequent stort ottempts: 30 seconds on, 5 minutes off or ó0 seconds on, 10 minutes off.
+(3) Dry motoring: 90 seconds on 15 minutes off.
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID lll 21 6E DATE - 8/90 PAGE 48F
+DO NOTUSE
+խitt0 FORWARD CON out
+CORRECT 727A FORWARO conse Olt
+BARRY 66 k2219-9SA3 5/M ΙΑ ΙΙ .
+MACE EN U.S.A.
+BARRY is ጀ2219- ፵5ÂXX S.M. H . .
+MADE If Ա. S - A .
+કે આorદડાઇ
+SECTION
+Do NOT USE Most
+t CORRECT Art Corsic
+727A AFT CONE BOT
+sARRf 1536 R K2219- 3SAii : SAIF JI SM MAE i !.S.A.
+HA0E IR U. S.A.
+NOTE: S.HEAR
+SECTION
+NAM 255
+Cone Bolt - Identification
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 26 E DATE 8/9 O PAGE 48G
+SAFETY ATCH CUTOUT
+நி နှီမှီနိုုး†
+STRUI APRON
+AFT LOWER COWL OOOR
+ATTACH Bolt
+up PER
+OU DOOR
+FORWARD
+OWER COW 000 R.
+صے N
+C
+Upper COL 000R A PRON EYE BOLT TENS I ON ATH
+~പ്പ PLATCH كطلا <g- YE 8 W II E C ҮАк *1!
+Cow Door - installotion
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 126E DATE 8/9 O PAGE 48H
+BLANK
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE I 2/89 PAGE 49
+THIS PAGE INTENTIONALLY
+LEFT BLANK
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+DOC ID 216E DATE 12/89 PAGE 50
+-8O
+B727 ENGINES ATA 71
+SUBJECT:
+SILNE NOd VNOSO INE. ILS AS THÍTH
+HE LLIWS NW BL MOTl + "13 fl
+- ---- --w田„ vaivaoCjNW HET OOO TIO-T3{\-]
+HIV/• EÐVLS H1ɛ! *
+HOLVIT. LOV
+CIN\, E^T\//\ --HOLT! HS HIV sɔNIOIEQ TETT=}
+TOH1NOSO
+ETIZZON

@@ -1,0 +1,75 @@
+﻿gడా
+SUBJECT
+FEC-hit- 8 26 Juneo
+MAINTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28
+FOR TRAINING PURPOSES ONLY
+DATE 6/83 PAGE “8
+D. Fuel System - Engine Feed
+l.
+Fuel System Schematic
+The B00ST PUMPS deliver vapor-free fuel to the engines
+d.
+and dump fuel. On the ground, they are used for defueling and transferring operations. Each BOOST PUMP PRESSURE SWITCH turns on an amber light With the di Scharge pressure is low. After a pump change the BOOST PUMP REMOVAL VALVE must be opened for normal Operation. Also, the pump must be primed. The boost pumps in No. 2 tank have a higher pressure rating than those in No. 1 and No. 3 tanks. The higher pressure boost pumps are called "override pumps", but they are not labeled so on the control panels.
+CROSS FEED CROSS FEED
+ANFOLD WALWES
+DEFUEL WAVE
+FUELING AND OOOST DUMP PANFOLD PUF P WENT ဦးဒိုး”မှီ; YLE!
+CH WALW CHECK WALWE BOOST OWER RIDE p PUMP VENT
+30OST PUPP CHECK WALWE (TANK No. 2 ONLY) Σ TO BOOST PUP
+LOld PRESSURE Ы SITCHES ב -f ※ BOOST PUMP
+(NON-OVERRIDE) (TANK No. 1 & 3)
+800ST PUP GOOST PUMP ဗူးဗူUD ORAN DRYBA Y CHECK WALWE
+CHECK WALWE
+BOOST محتسبیب THERMAL PRESSURE 三T-エラ PUPP RELEF WALWE ޙުކުމެވަނަމަވެސް WENT
+2 ENGINE CHECK 2 SHUTOFF Bos VALVE. APU FUEL 2 WALWE PUPP SHUTOFF WALWE 3 sHROUD THERMAL PRESSURE REMOWAL
+TUs r WENT RELEF WALWE WALWE FUEL FEED s 罪 志ー BOOST LINE SHROUD s A PUPP OWERRIDE
+STA 1183. bypass CHECK WALWE WALWE
+EN GINE FUEL 「J DISCONNECT AFT SHROUD
+ORAN
+Engine Fuel Feed Systern Flow Diagran
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+FEC-M-1: 28 Juneo gP MAINTENANCE TECHNICAL TRANING
+SUBJECT - 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 49
+FOR TRAINING PURPOSES ONLY
+b. The BOOST PUMP CHECK WALWE isolates the pump and its
+pressure switch from the system. It also prevents back flow into a tank through an inoperative boost pump. This check valve prevents suction feed through an inoperative pump and facilitates boost pump removal.
+c. The BOOST PUMP VENT CHECK VALVES facilitate pump removal,
+but because of their back pressuring effect, a new pump must be primed before use.
+d. Fuel feed for the APU is from the No. 2 engine feed
+line. The APU feed line incorporates a check valve and thermal relief valve. The APU feed line is pressurized anytime the No. 2 engine feed line is pressurized.
+e. The OVERRIDE CHECK VALVES (in tank No. 1 and No. 3
+systems) assure the override pressure difference between boost pumps over a wide range of engine fuel flows and combinations of operating pumps. The principle of "override" is to facilitate tank sequencing.
+f. The BOOST PUMP BY PASS WALVES (in the main tanks) allow an
+engine to suction feed from its main tank if the boost pumps are OFF or inoperative. They also prevent Crossfeed suction. When locked closed, they facilitate engine shutoff valve replacement.
+g. THERMAL RELIEF WALVES (in main tanks) limit pressure
+trapped in the lines between the boost pump bypass valves and the engine fuel control unit outlet, when the engine is shut down.
+h. The ENGINE FUEL SHUTOFF WALVES are opened and closed to control fuel feed to an engine. They are controlled by two switches, one start lever operated and the fire Switch. A manually operated third switch located on the fuel management panel is a customer option.
+i. The CROSSFEED WALWES are opened and closed to control the
+flow of fuel to and from the crossfeed manifold. These valves control tank sequencing aided by the boost pump pressure differences (override versus standard).
+j. The CROSSFEED MANIFOLD provides a multi-path
+interconnection between crossfeed valves and, on the ground defueling valve.
+k . The manually operated DEFUEL VALWE provides a two-way
+flow path between the crossfeed manifold and the fueling and dump manifold. It is opened for defueling and transferring. The defuel valve lever is interlocked with its access door to assure valve closure before flight.
+________________
+ht-ha - 2 No
+MAINTENANCE TECHNICAL TRAINING
+suBJECT 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 50
+FOR TRAINING PURPOSES ONLY
+TO ENGINES AND/OR DUMP
+༧.་ *甲 SCHEMATIC CHECK WALWE DAGRAM - - SYMBOL ー一寸
+TO LOW PRESSURE V SWITCH
+YA VENT CHECK VAL VE
+~. -
+l | || || FK 主
+CL - لہ
+PUMP REMOVAL NLET
+PUMP DRAN COCK H
+SHUTOFF WALVE
+FUEL BOOST PUMP INSTALLATION

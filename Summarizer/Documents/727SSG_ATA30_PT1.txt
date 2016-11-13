@@ -1,0 +1,30 @@
+﻿MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID ll 27E. Page 3
+I. GENERAL DESCRIPTION
+The following systems are used to protect the airplane and aid the pilot when operating under ice and rain conditions.
+Thermal anti-icing (TAI) systems using engine bleed air are provided for the Wing, engine, engine Cowls and Center engine inlet duct, and the upper VHF antenna mast.
+Electrical anti-icing systems are provided for the control cabin Windows, pitot-static and temperature probe Sensors, Stall Warning sensor, and the water and toilet drains.
+Rain removal is provided for the No. 1 control cabin Windows by a windshield wiper system. A rain repellent system is also provided to be used in conjunction with the wiper system.
+A. Thermal Anti-Icing Systems
+The wing anti-icing system de-ices the No. 2 through No. 5 Krueger flaps, the fixed inboard leading edge above the flaps and the leading edge slats. The TAI air for the system is supplied from the engine Nos . Il and 3.
+The engine anti-ice system de-ices the engine nose dome and inlet guide vanes.
+The engine cowls and center engine inlet duct anti-icing systems de-ice the engine inlets and constant speed drive oil cooler scoops. Each engine Supplies its own TAI air and is separate and independent of the Other two.
+B. Electrical Anti-Icing Systems
+The control cabin window anti-icing system deices and provides bird proofing of the No. 1, 2, 4 and 5 control cabin windows on each side of the control cabin. The windows are heated by the use of a transparent electrical resistance coating incorporated as an integral part of the windows.
+The pitot-static and temperature probe anti-icing system deices the left, right and auxiliary pitot tubes, the corresponding Six Static ports, the elevator left and right pitot tubes and the temperature probe. The sensors are heated by electrical resistance elements installed within the sensing had of the units.
+The stall warning sensor is deiced by electrical resistance elements installed within the attitude Sensor weather vane. The heater is controlled by the stall warning system and is heated whenever that system is in operation.
+________________
+MAINTENANCE TECHNICAL TRAINING
+ääsir
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID ll 27E. Page 4
+The water and toilet drain anti-icing system deices the forward water drain mast, and the toilet drain connectors. The drain masts are heated by electrical resistance elements wound around the tube within the mast. The toilet drain connectors are heated by electrical resistance elements instal led as an integral part of the connector gasket. The heaters are controlled directly by their respective Circuit breakers and are heated whenever the airplane has electrical pOWer.
+Rain Removal Systems
+The windshield Wiper System maintains clear areas on the No. control cabin windows during takeoff, approach, and landing in rain or snow. The wipers are driven independently by electric motors which are controlled by a common Switch.
+The rain repellent system sprays a rain repellent solution on the No. l control cabin windows and is used in conjunction with the windshield wiper system to improve visibility during heavy rain. The repellent solution for both windows is supplied from a common pressurized container, but is controlled independently by separate control switches for each Window.
+II. WING THERMAL ANTI-ICING SYSTEM
+A.
+General Description
+A thermal anti-icing (TAI) system using engine bleed air is provided to prevent the formation of ice on the Nos. 2, 3, 4 and 5 Krueger flaps, the fixed in board leading edge above these flaps and the Wing leading edge slats. The system uses a combination of hot 6th and 13th stage engine bleed air from engines No. 1 and No. 3. The bulk of the air is supplied from the 6th stage engine bleed manifold which is connected to the TAI supply duct. This air is boosted in temperature by 13th stage engine bleed air fed into the TAI supply duct by use of an ejector. The system consists of Supply and distribution ducting, control valves, electrical control components and indicating components.
+On all aircraft, a section of the wing TAI air distribution system is used in common with the auxiliary power unit (APU) air supply System during ground operations. The common manifold is connected to the APU at the forward end at the right hand wheel well and to the pneumatic system by a crossover duct located at the aft end. A check valve in the connection to the APU prevents air from flowing from the wing TAI system to the APU, and a check valve in the crossover duct prevents air from flowing from the pneumatic system into the wing TAI system. When the APU is in use for ground air supply, the common manifold is isolated from the wing TAI system by a left and right APU isolation valve in the ducting leading to each wing TAI distribution manifold and the engine No. 1 and No. 3 wing TAI shutoff valves. The left and right APU isolation valves are controlled by operation of the APU. Electrical interlocks in the control circuitry of both systems prevent the use of APU air and the wing TAI system at the Sarthe time .

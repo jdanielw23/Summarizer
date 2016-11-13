@@ -1,0 +1,338 @@
+﻿MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT:
+B727 ENGINES ATA 71-80 DOC ID 26E DATE ] 2/89 PAGE 103
+CHAPTER 5
+A. ENGINE PNEUMATIC SYSTEMS
+l. General Description
+а .
+d.
+The following engine air systems are installed by Pratt and Whitney
+and comprise part of the basic engine; anti-i cing provisions for the engine inlet guide vanes and forward compressor case, deicing system
+for the engine fuel supply, and cooling and Sealing air for the engine bearings. An air bleed system to balance performance between the engine high and low pressure compressors is also included with the basic engine.
+The following systems are installed by Boeing and require an air bleed from the engine at the appropriate temperature and pressure: airplane air conditioning pack, cowling and wing anti-icing air system, generator cooling air, and CSD oil cooling air supply. An air pressure supply for the reverse actuating System is also extracted from the engine high pressure compressor.
+Further information on the systems which use engine bleed air, but do not form part of the power plant assembly will be found in ATA 36, "Pneumatic" and Ice and Rain Protection ATA 30.
+CSD cooling is covered in ATA 24 electrical systems.
+B. COMPRESSOR BLEED SYSTEM
+l. General Description
+а .
+The compressor bleed air system is designed to permit operational flexibility by allowing high compressor discharge air (l3th stage), to bleed into the fan discharge duct. Two compressor bleed valves are located on the diffuser case, at the four and Seven o'clock positions.
+In the static position (engine not running), the bleed valves may be either open or closed, depending upon gravity and/or drag caused by contact of valves with cylinder walls. During periods of engine operation, high compressor discharge pressure exerted on the valve faces force the valves in to the open position. Pressure (PS3) on one side of a diaphragm, in the pressure ratio bleed control, increases to the point where it overcomes combined (Pt2) and spring pressure forces; the poppet valves, in the control, reverse position; the muscle valve is repositioned, and PS4 actuating air is directed to the back side of both bleed valves. This PS4 air, acting on the larger area of the back side of the valves, is sufficient to overcome "thirteenth stage" discharge pressure acting on the valve faces, and the valves close. As the PS3/Pt2 differential pressure decreases, the procedure is reversed. The actuating pressure (PS4), on the back side of the valves, is reduced to ambient and internal engine pressure forces the bleed valves open.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+2 6 E DATE 2/89 PAGE 104
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT
+081f - 30 IS IH9||81 | X B H I Y X0 £ 8 BYW 8.0 ± 5 HY 8.1o) N I TO O D 8 0 1 Y H H H 3 %) B 01 Y H E HE s) 1. HE 88T12)* H
+83.13 WOHɔw 1 ČRTO H 1 HOI)影
+8 B 1 - || H. CINÝ
+4 Ws] & T E T13||
+TO 8, 1 NOID TE slo -=z
+{ 8s w Now - || 8 | y ĐỊNH "1001) & 0 1 ( 83 H 3 0
+ՕՈ 1ց !!01|N|9||
+( 3 0 y 15 HI 9)
+! 国量。雷 8 IW HO12) ET E 또 썬 T1 CD-CD D-، TIO O SID
+"$ $ E. Hod (15 D.
+'$ $3 8 4 os o
+*$$ 3 8 4 os o8 | Y \} E 1 W B H|TO 81 HOID-nɔ nɔ-eבוחבור
+8. Ivo E. DI-I 1 NY—厂 E NI Ð HE
+8] įw Boy 15 H19
+E AT Y A Q E E "1 8
+*$$ E. 8. Two No 15 E A TŶ A Q. E. B. To
+|-o Nr 1 w ñ 1 ) Y
+E a "1 y A 0 & E T1B & | \, E D Io || 1 Hy-8 OS $ E H & W OD
+El H10 HE 8 is 39 y 15 H 18
+8 ||Y E 0 y 15 H I Ł ł
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRANING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 1 2/89 PAGE 105
+حد كسر
+7
+D لمســــــــــــــــــــــــــــــــ۔
+夏口l園 s 7下寸- 臨
+d /
+d
+a UU 凯 Ό ط ெ
+á ()
+器 CU
+D d
+2 C
+IGGI
+s
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 12/89 PAGE 106
+ 
+ 
+ 
+ 
+________________
+SUBJECT:
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 7-80 DOC ID 26E DATE 2/89 PAGE 107
+2. System Components
+а .
+CompreSS Bleed Val Ves
+Two compressor bleed valves are mounted on the diffuser case at th four and seven o'clock positions. After SB 5425 one 13th stage bleed valve on the diffuser case and three eight stage bleed valves on the rear compressor. They allow "thirteenth stage" and "eighth stage" air to bleed overboard into the fan discharge duct at low engine speeds.
+Pressure Ratio Beed Contro
+The pressure ratio bleed control is mounted on the lower right side of the engine on the fan discharge rear outer duct. It functions to provide proper scheduling of the compressor bleed valves.
+Description and Operation of Pressure Ratio Bleed Control
+(l) The pressure ratio bleed control is located on the lower right side of the engine at the diffuser section. -
+(2) Compressor discharge air (Ps4) is routed to the pressure ratio bleed control mounted on the outside of the engine. This unit operates to schedule the bleed valve operation as a function of the pressure rise across the front compressor. Senses utilized are inlet total pressure (Pt2) and compressor discharge static pressure (PS3).
+(3) Ps3 is ported through a two-stage nozzle system and the resultant imput, upstream of the second nozzle, moves a diaphragm against Pt2 and Spring pressure. Any change from the schedule position of the diaphragm produces a corrective action by varying the low pressure bleed valves. This is accomplished by a yoke which transmits the signal from the diaphragm to a transfer valve assembly consisting of poppet valves linked together. Movement of these valves directs high compressor discharge air (Ps4) to a "servo valve" which, in turn, moves to port actuating air to the manifold which supplies the individual bleed valves.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 108
+126E DATE 12/89
+B727 ENGINES ATA 7-80 DOC ID
+SUBJECT:
+(=swɔ gossāJawƆƆƆŋysg
+*O WOLLO8) BAony A 03318 39WIS H18
+WEILS AS GEETE EIE HITS-IILNV
+22
+%
+ང་
+(BSwɔ ɖESno-JIO NO OMUL) Banya gaang abwls. Hųcı
+!}}
+介
+3088] d
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+109
+PAGE
+2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+(Gasolo sqāānas UNE ILS AS GIE ET € E15) HITS-ILNV
+[3Swɔ BOSS Nowoɔīgysg 30 WOLLO 8) BATWA CJBETE 35)\/1S H18
+(Esoro 83Sno-JIO NO OMJ.) aanya daana aevusHlɛ!
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+- FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 216E DATE 12/89 PAGE 110
+3. In current JT8D engines this is accomplished by two basic arrangements
+of 8th and l3th stage bleed valves:
+a. Prior to P&WA SB 5425: Two l3th stage bleed valves (at four and
+seven o'clock positions on annulus of diffuser case) bleeds compressor discharge air (PS4) into the fan stream. On current engines an additional, single 8th stage bleed valve on the rear compressor case (acting in unison with the l3th Stage valves) bleeds 8th stage compressor air into the fan stream. Actuating air (Ps4) to the 8th and l3th stage bleed valves is interrupted by the pressure ratio bleed control.
+8TH STAGE BLEED VALWE - REF S84 597
+t3THSTAGE BUEED WALWES
+b. Incorporating P&WA SB 5425: One l3th stage bleed valve (at four o'clock position on annulus of diffuser case) bleeds compressor discharge air (Ps4) into the fan stream. Three 8th stage bleed valves on the rear compressor case bleeds 8th stage compressor air into the fan stream. Both the l3th Stage bleed valve and the 8th stage bleed valves are actuated by PS4 air; actuating air to the l3th stage bleed valve is interrupted by the start bleed control valve, and actuating air to the 8th stage bleed valves is interrupted by the pressure ratio bleed control.
+8TH STAGE BLEED WALWES ඉණු
+PS4
+13THSTAGE
+pt Ps 2 BLEED WALWE
+|-
+STAAT
+CHECK WALLWE
+4. In the static position (engine not running) bleed valves may be either
+open or closed, depending upon gravity and/or drag caused by contact of the valves with the cylinder walls. During periods of engine operation, compressor discharge air pressure exerted on the valve faces acts to force valves into the open position.
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 D0C ID - 20t DATE 1 2/89 PAGE lll
+S35425
+Y
+SS
+BOEMG 727
+1 . Bleed Control Ps 4 Tube ( Lower) 2. Bleed Control Ps 4 Tube (Upper) 3. Start Bleed Control Wal We
+Start Bleed Control Wal We
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+26E DATE T 2/89 PAGE 112
+DOC ID
+(SNOILWOOT ɛ) H5)\/1S H18 BATVA GEET)
+B727 ENGINES ATA 71-80
+SUBJECT:
+WAZ
+淅=补
+BATŶ A TO 8.1 NOO CIEEJT8 1.8\/LS
+(ESDVLS HLƐ L) HATVA GIEBT8 L'HV71S
+个
+}}
+(Nodo sq=aTa). UNE ILS AS CIE ET 8 E 5 HTS- || LNV,
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+113
+2/89 PAGE
+l216E DATE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+GE ET £ EÐ HITS-ILNV
+(q=solo sqāānas UNE ILSAS
+(SNOILWOOT ɛ) E5DVILS HL8 BATIVA CJEET8
+R
+(39 VLS HLƐ L) BATVA GIEBT8LHwls 介 EATŶ A TOBILNO O CIELETE LEVILS, ,=페=
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAIN NG PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 126E DATE 8/90 PAGE ll3A
+ANTI-SURGE BLEED SYSTEM OPERATION
+Eng i ne Start and Idle
+O During engine start and i dle operation,
+the 8th stage bleed valves are open because the muscle valve in the PRBC is closed to the flow of PS4, and is open to atmospheric vent. This allows the compressor a i r t o push the ble ed val v es open . As the e ng in e rpm increas es the Ps 4 pressure is sufficient to open the start bleed control valve and flow to the l3th stage bleed valve forcing it closed.
+Above Idle
+e As the eng i ne is accel erat ed above i dle
+the increasing PS3. 2 overcomes the combined force of Pt.2 and spring. This causes the poppet val ve to rev er se position, allowing PS4 to reposition the muscle valve. The repositioning of the muscle valve allows PS4 muscle pressure to flow to the compressor bleed val v es forci ng then closed.
+Snap Deceleration
+o The fuel control cuts off the high
+pressure fuel signal (PDBO) to the bleed valve control permitting spring force to reposition the bleed valve control transfer valve. This action prevents the Ps 4 muscle from flowing through the bleed valve control, and at the same time vents the bleed valves to atmosphere. The 8th stage compressor air pushes the bleed val v es to the open posit i on . As the engine decels to idle power the fuel control PDBO pressure recovers. The Ps4 muscle pressure flow path is resto red, but
+the engine has decelerated to low power
+and the Pt 2 and spring force is greater than Ps3. 2. Therefore, the bleed valves would remain open due to normal PRBC Schedul ing .
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+113B
+8/9 O PAGE
+ID || 21 6E DATE
+DOC.
+WALSAN SUPPLEMENT
+SUBJECT:
+(=q-ICII HAOGV) INHLSAS CIERTEH9HTS-ILNV
+W9\fBHdW/IC]
+quued
+BAT\//\ LEddOd
+1OHLNO O Tān-, WOH + O8C]d
+TOHLNO O TA[m:+ Ol Old
+(SNOILWOOT €) H5)\,f_1S HL8 HATVA CJ3378
+TOHLNO O HATVA C1HBT18
+盘的白名
+HATVA ET OSTW
+(H9v LS HLƐ L)
+HATVA GIBBT8 LHV LS
+0 0 0 0 0
+HENIVÍ HLS __-------- Zoo Sd
+BATvA TOHI NOQ GJEET 9 LHV LS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRANING PURPOSES ONLY
+SUBJECT: WALSAN SUPPLEMENT DOC. ID 1216E DATE 8/90 PAGE 113°
+PS 4 --- PRBC
+P54
+BLEED WALWE BLEED OVERRIDE MUSCLE PRESSURE סק REFERENCE PRESSURE CONTROL VAYE PDBO h U
+N - \\ΛΛΔ FUEl CONTROL SIGNAL PRESSURE - NSNS
+BLEED CONTROL لا لالالا (DECREASE ON DECEL) Pv8 AMBIENT BLEED WALWE
+MUSCLE PRESSURE (AMBIENT IN POSITION SHOWN)
+COMPONENTS SHOWN IN BLEED vAyE DE CEL OVERRI DE POSITION
+Bleed Override Control Wolve - Scher notic
+ 
+ 
+ 
+ 
+________________
+aTGI OJ. Taoaeg cssNS
+C.- 를|A|...]] SÅS (JHEITH EIẾ)\!|[\$"|LNW 약 除-(= 邻W5)\/HH d\/IC] cae L l 灯QUU (2 d. () st :TO HLNO O TETì- WOH-H O 8C]d影 2.死没冠“之结 部 ? 的TO HLNO O TETs-3 OJ. Old| 印机 —· · · · · -... -- + o = 配感.(SNO||L\/OOT €)TO HLNO O藏 地 활 院H5O \f LS HL8E/\TV7/\laer. 홍 뿔 =HATVA C12HBT18CJHET 8} O d- m. u! (!) H− z 院 홍 등|---- ?#粗||一「」 瓣鱷%口 환 5 的· 作及刑HATVA 2~(B9V LS HLE L.)ETO S[\W 献2HATVA OBHT8 LHV LS 城 이藏1999辩尉 ずき >HENIW HLS臣止"影 --l.{ - -|×3: H–;\!* 深{ 刘徐飞介<u*)/M| BATVA TO HLNO O|: CJBET 9 LHV LS . ț7 Sc}劑ü活*(\&\s+|!, ,
+*
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 12/89 PAGE 14
+FAN AR BLE ED
+OG EN ERA TOR COOL ING AR NU ET DUCT GENERATOR
+CoOLING AiR
+| E XHAUST
+I DUCT
+/
+○ ANs
+ミ。 V キやマハ
+2 影 స్ట్రో إجا | =
+GENERATOR سے COOL ING A R SHR OU O
+CO OU ING A R
+COLLECTOR RNG UP
+GENERATOR COOLI NG AR EXIT (TYPICAL ALL ENGINES)
+TYPCAL ENGINES NO. AND 3 COWL PAN EL
+GENERATOR COOLI NG AIR EXHAUST DUCT (TYPCAL ALL ENGINES)
+2 .ENGINE NO *ہے۔ Generator Cooling COWU PANEL
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT:
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 1216E DATE 12/89 PAGE 115
+B. GENERATOR COOLING
+l. General Description
+a .
+The generator is a high speed unit that requires cooling whenever it is operating. To provide this cooling, the generator is supplied with engine bleed air. A port on the outer fan case of the engine is connected by a large duct, to a fitting on the end of the generator. An exhaust duct, attached t the generator Shroud, mates with the cooling air exhaust port in the engine cowl panel.
+When an engine is operating, low pressure fan air is forced through the large duct into the generator. The air circulates around the inside of the generator then leaves through the screened openings around the forward end of the generator casing. After leaving the generator, the air enters the generator shroud, passes through the exhaust duct and is then exhausted overboard through the exhaust port in the engine cowl panel.
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 12/89 PAGE 116
+KM STAR TR PRESSUR 2 N గ్రశ్వి (ぶ N
+ay Ang AP N/ 2
+UT OF VALY
+ቋ፩A?
+(్సకి(4
+ACCESSOR Y DRIVS
+G2 AR CAS
+LOY PRESSUR
+AR STAR YR 3 PLACES, TYPICAL
+s
+NSR ༡ Yi N1
+PNEUMATC STARTER SYSTEM

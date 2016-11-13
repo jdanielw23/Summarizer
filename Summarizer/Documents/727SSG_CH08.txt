@@ -1,0 +1,805 @@
+﻿MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID 26E DATE 1 2/89 PAGE 143
+CHAPTER 8
+A. THRUST REVERSER - DESCRIPTION AND OPERATION
+l. General
+a. A thrust reverser unit, located on the aft end of each engine, is used
+to reduce the length of the landing roll. The thrust reverser is of the clamshell door type, providing thrust reversal by blocking the engine exhaust gas flow path with Clamshell doors and deflecting the gases through openings in the reverser frame onto two cascade vane deflectors which further deflect the gases forward and overboard. Each thrust reverser operates independently. The major components of the thrust reverser are the frame assembly, two axially mounted clamshell doors, two hinge installations for the clamshell doors, two cascade vane deflectors, two thrust rever Ser actuators, a thrust reverser lockout actuator. The tailpipe is attached to the thrust reverser unit and is considered as part of the thrust reverse assembly. A thrust reverser shroud assembly installed around the circumference of the thrust reverser forward mounting ring acts as a gas seal between the engine and the thrust reverser.
+b. The thrust reverser on the center engine (engine No. 2) is the same as the thrust reversers on the strut mounted engines (engines l and 3) except for certain installation features. The center engine thrust reverser is mounted so that the exhaust gases are deflected out the sides of the thrust reverser or aft fuselage since the thrust reverser forms the aft end of the fuselage. The Strut mounted thrust reverser installations are oriented to deflect exhaust gases above and below the engine, resulting in the center engine reverser instal lation being rotated 90° with respect to the strut mounted reversers. Also, a double flanged adapter ring or Spacer tapered from top to bottom is installed between the aft end of the engine and the forward end of the thrust reverser on engines l and 3 to di rect the exhaust gases for the proper thrust angle. Engine No. 3 thrust reverser installation is rotated 180° from engine No. 1 installation to make the installations compatible with the thrust reverser pneumatic tubing installation on the respective engines.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+144
+26E DATE 12/89 PAGE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+WV89\, |0 TW NOI10Ns + H3SHBAB 8. 1Sm 8, H1
+HATVA
+B01\/[\10\; X 001T\/N0||1038 10
+韃{ H3 H 10 01
+S8000 TT3HSWV, 13
+83 SB3A38 LSDHHI
+N0||1||S0d* - 1Ss18H13SB3A38
+SBNWA 30\/0SWO(Z) 801\/[\10\/ 83 SB3A38 1S/18 H1
+0Ns 1S 108 1N00
+4o)A 38
+83A3T 1ST18H1 3 SH3A 38
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE I 2/89 PAGE 145
+THRUST REVER SER FRAME
+FORWARD SEAL ASSEMBLY
+THRUST FRE VERSER AFT FAIRING
+Կ TA LIPPE
+CASCADE VANE DE FLECTOR
+THRUST RE VERSER CAMSHELL ACTUATOR
+OOOR
+THRUST REVER SER SHOWN IN FORWARD THRUST POSITION
+(OUTBOARD Si DE OF ENGINE No. 1)
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 2/89 PAGE 146
+c. The thrust reverser is pneumatically actuated and control is provided
+by a reverse lever (one for each engine) on the pilot's control stand. Pressure is supplied by engine l3th stage bleed air source (Psa). The thrust reverser pneumatic plumbing taps into a l3th stage air distribution line located on the engine (center engine) and in the strut (side engines). The pneumatic supply line routes air to a thrust reverser directional valve which is mounted to the engine control shaft bracket underneath the forward end of the engine on the center engine and in the strut on the side engines. Thrust lever input is transmitted to the engine controls shaft installation by direct cable connection. A thrust reverser control can on the lower end of the shaft provides position input for the directional valve. Air is routed from the directional valve by the pneumatic plumbing to two thrust reverser actuators providing the input to the thrust reverser for "cruise" and reverse thrust actuation and operation. The thrust reverser lockout actuator, located upstream of the thrust reverser actuators in the reverse thrust pneumatic line, maintains the thrust reverser mechanically locked in forward thrust position until reverse thrust is selected. When reverse thrust is selected the actuator is pneumatically operated to unlock the reverser and route air to the thrust reverser actuators for reverse thrust operation. A push pull control follow up system running between the thrust reverser clamshell hinge arm and follow up cam in the thrust control mechanism limits thrust control motion while reverser is in transit or is not in command position.
+d. Reverse or "cruise" thrust operation is selected by use of the reverse
+thrust lever in the control Cabin. Actuation of the reverse thrust levers positions the directional valve to direct PS4 pneumatic air to the appropriate ports of the thrust reverser actuators causing the Clamshell doors to be actuated to the selected thrust position. The follow up control prevent full thrust command from being applied while the thrust reverser is in transit or is not in command position.
+2. Thrust Reverser Frame Assembly
+a. The thrust reverser frame is a welded Structure to which the clamshell doors, Clamshell door actuating linkage, thrust reverser actuators, and tailpipe are attached. Hinge support assemblies are installed through the upper and lower vertical centerlines of the frame providing attachment for the clamshell door hinge assemblies.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 12/89 PAGE 147
+3. Cascade Vane Deflectors
+a. Cascade vane deflectors are mounted on each Side of the aft reverser
+frame assembly on the center engine. The Side engines have cascade vanes top and bottom. Each vane is a welded assembly with l () rows of built in turning vanes. The forward end of the vane assembly is bolted to the forward end of the reverser frame. The aft end is inserted in the aft ring of the frame. The cascade vane deflector has turning vanes installed at different angles to achieve the desired direction of exhaust gas deflection during reverse thrust.
+b. Cascade vane deflector installation, fixed covers are added over
+portions of the exposed cascade vane deflectors for reduction of drag and improved airplane performance.
+4. Clamshell Doors
+a. Two thrust reverser Clamshell doors, located inside the thrust
+reverser frame assembly, are attached to Coaxial hinge assemblies installed at the upper and lower surfaces of the frame assembly on the vertical centerline. The doors are fabricated from panels of stainless steel honeycomb Core Sandwich construction. Each door is made from a panel which is composed of two facing Sheets welded to a cellular shaped foil ribbon core, and contoured to the clamshell door configuration. A leaf type seal installation on the outer surface of the doors serves as a gas seal between the doors and the front frame when the doors are in the forward thrust position. The front edge of the doors are in the forward thrust position contacts a leaf type seal assembly installed circumferentially around the inner surface of the thrust reverser forward mounting ring.
+5. Clamshell Door Hinge Assemblies
+a. Two clamshell door hinge assemblies are installed diametrically
+opposite each other in recesses in the thrust reverser frame. Each hinge assembly consists of two concentric shafts flanged on one end to attach to the clamshell door fittings. Hinge arms on the other end of the shaft provide attachment to the actuator piston rod mechanism. The hinge shafts and the recess cutout are separated by bearings.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 216E DATE 12/89 PAGE 148
+Truck AC tu at Or
+Clamshell door actuator arm
+THRUST REVER SER LOCKOUT ACTUATOR
+THRUST REVERSER ACTUATOR
+THRUST REVER SER OPERATING LIGHT ། SWITCH
+THRUS T ARE YER SER LO KOUT ACTJA T0 Ř
+RWERSE THRUST
+(l-- ፲፱፱፻፶፫፰'ናይ፧፻፫ ROS PNEUA, TO AR OUT 37 TCH R TO THRUST ARE YERS ER
+ACTUATORS
+LCC KOUT ACTUATOAR
+龟 PISTON
+C) PER AT I M G
+GHT SWITCH ----- FREY ER SE THARUST
+T R KER PKEUAATIO AIR ti
+UN LOCKING 80LT HOLE
+(o)s- ... e. LOCKHMG PIN 27- - ka----- (PISToN Roo)
+专
+TARUCK ( ) – THRUST KE VER SEK
+ACT VATOR CARRAGE
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 2/89 PAGE 149
+6. Thru St. ReverSer AC tuatorS
+a. The thrust reverser actuators are pneumatically operated piston units,
+and provide the mechanical driving force to operate the clamshell doors when reverse or "cruise" thrust has been selected at the control stand. There are two actuators on each thrust reverser, one actuator assembly being located on each of the clamshell door hinges on opposite sides of the thrust reverser.
+b. Each thrust reverser actuator assembly consists of a piston actuator,
+a carriage track assembly attached to the actuator and the clamshell door truck, mounted on the track. The actuator cylinder contains a piston. In "cruise" position the piston head is bottomed against the rod end of the cylinder. Outside the actuator, the piston rod attaches at the rod end to the door truck.
+(c) When reverse thrust operation is selected with the reverse thrust
+lever at the control Stand, air is routed through the thrust reverser lockout actuator to the rod ports of the actuators driving the piston aft, causing the clamshell doors to actuate to the exhausts through a restrictor which provides some degree of snubbing. The push pull control is repositioned. When the reverse thrust lever is repositioned to select "cruise" operation, air is routed to the primary head port of the actuators, pressurizing the piston head, causing the clamshell door piston to drive forward, actuating the clamshell doors to the cruise position.
+7. Thru St Re VerSer LockOut Actuator
+a. The thrust reverser lockout actuator maintains the thrust reverser
+mechanically locked in the forward thrust position at all times except when reverse thrust operation is selected at which time it actuates to unlock the thrust reverser operation. The lockout actuator is mounted to the end of the thrust reverser actuator carriage on the side engine inboard actuator installation and the Center engine upper actuator installation. Functionally, it is located in the reverse thrust pneumatic line just upstream of the thrust reverse actuators. The lockout actuator consists of a cylinder and a piston which is spring loaded in the extended position. The piston rod is a locking pin which, when extended, prevents the truck from moving aft. When reverse thrust is selected, air enters a port beneath the piston, forcing it up, retracting the locking pin and at the same time, uncovering a port in the cylinder which routes the air to the thrust reverser actuators. The piston has a tapped hole into which a long bolt may be threaded and used as a handle to manually unlock the truck.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 150
+26E DATE 12/89
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT
+|W31SÅS H3SB3A3 H 1ST HH1|×
+HOOC T T BHSWŶ10
+ŹdC-9 d. T3SIT CINI ONI 1 w B jds) |Ö H1NOJbase 3a3800 ^8, "1 "| Theo HST, 8358 3^38 1snu H1) } \ \,A 380\\ 3 1Ɔ EN NOOSIO\儿子归,
+{\,\?]
+/WHŶ 乐山圣00乐
+& s \, \\O 1 10+ 8 BSH B .\ 3 H 15f\łH HIL
+T__. – HOLYn 1ɔwo xɔOT
+HO 1\, s^1))\, \J BIH 10 01įNos J. HƆ 1 || WAS WĒısısı/」エC11TOH 1NO3) \ \}X00 B1 H000 ONI I w g3.JOB BSB B A B \} \\H O LŶf! 10\,TT BHSWvs 10 u 3sg 3A3 g1ST BIH 1. \TIHIHi NÕI LISOd\ 1ST HH1\nojso 拜)(\\TS)3. Tl 11O BH1 BSB B A38|}^T \, ^ TŶNO | 103 H 1C] Mae w|— 8 BSH BA 38 吃下儿NO| 103 NNOO1SñłJH1 =d /ኣገw ለ»ɔɔŋɔ,
+*
+NOI LISOd 1ST HH1 QM3
+HOOO TT3HSWŶTɔS3 N\, ^
+3C]\'OSVO
+No. 103 NNoɔ od
+| 3
+}} B 171 | } }} | \f
+H|O A H B SE HA
+0 IT f(\f!! CJAH OLBATÝ A XO3H3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT:
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 216E DATE 1 2/89 PAGE 151
+8. Thrust Reverser Operating Light Circuits
+a .
+A thrust reverser operating light circuit for each engine provides amber light indication to the crew that either the thrust reverse is not in the full forward thrust position or the thrust reverser lockout actuator is in the unlocked (piston retracted) position. The circuit for each engine consists of an amber light on the engine instrument panel and a microswitch mounted to the lockout actuator housing. The switch plunger is maintained in the depressed position during forward thrust operation by a pivoting switch striker which at one end is pushed downward by the lockout actuator piston So that the other end pushes upward against the Switch plunger maintaining the plunger in the depressed position when the door truck is fully forward. When the thrust reverser is out of the forward thrust position the switch striker will move so as to close the switch causing the thrust reverser operating light to illuminate. During normal operation the thrust reverser operating light illuminates following reverse thrust selection as soon as the lockout actuator piston retracts. The light remains illuminated until the thrust reverser returns to forward thrust position.
+9. Tailpipe and Thrust Reverser Aft Fairing
+d.
+Attached to the left aft mount ring of the thrust reverser frame is the engine exhaust nozzle or tailpipe. The tailpipe is a welded assembly consisting of a forward portion cylindrical in shape and an aft portion in the form of a truncated cone and welded to the forward section. The tailpipe provides the exit path for exhaust gases during cruise operation. A circumferential attachment angle around the outer surface of the tailpipe, about a quarter of the way back from the forward end provides attachment for the thrust reverser aft fairing.
+The thrust reverser aft fairing is a complete circumferential ring located around the forward end of the tailpipe and shaped to provide a fairing surface between the cascade vane deflector and the tailpipe. A circumferential attachment angle around the inner surface of the aft fairing provides for direct attachment of the aft fairing to the tailpipe at a mating circumferential attach angle on the tailpipe. This enables the tailpipe and aft fairing to be removed as a single unit for ease of maintenance. Access plates around the forward end of: the aft fairing, when removed, provide access to the tailpipe installation bolts and the thrust reverser plumbing in the area of the tailpipe.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 1 2/89 PAGE 152
+THRUST REVERSER FRAME
+FORWARD SEAL ASSEMBLY
+TRUST REVERSER AFT FAIRING
+TA LP PE
+CASCADE VANE DE FLECTOR
+THRUST REVERSER CLAMSHELL ACTUATOR Y 2 PLACES )
+DOOR
+THRUST REVERSER SHOWN
+N FORWARD THRUST POSITON
+(OUTBOARD SI DE OF ENGI NE NO. 1 )
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+26E DATE 12/89 PAGE 153
+DOC ID
+3 N|9|N|E. BH1N30 - 5JN|8|Ws]]d HBSH.3A3 H 1ST] HH1
+(LST HJHL CHW’NAHOB) AT dos S H |\* ĤOJ.\/[^|LOW
+(BSH-JABB) AT dd|[^\S H |\)/ H O LŶ TALOW? BATY'^ TŶNOI LOEB 1C]
+ASSỸ L-}\/HS (8 WŶO JES83 AB \}
+(Zyɛl o LS) TTŶNAB}]|-}
+B727 ENGINES ATA 71-80
+SUBJECT:
+, sgol wnlow wTlOH1NOO giv TTnd-HSnd 39v., 15 , 83.S83A38 点短H1E !LST!!!H_1
+HOVOSVO
+ァ、„*
+(~~~~10 INNOJS10 (~~~~<!--aalanıyı
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+154
+12/89 PAGE
+26E DATE
+DOC ID
+B727 ENGINES ATA 7-80
+SUBJECT:
+EINIÐNGI HEILNEHO-STIOHJ, NOO HEIS HEAGHŶI J, SITHHJ,
+(QENIT.JS ) wwɔ do no A OTTO-s, \!35M3A3 M 1508||HL
+X'NIT 801 w SNEdWOɔ
+W&W WEX, OO, "los 1 Noɔ ĐATWA TYMOI 1ɔE MIQ
+XIMIT ĐỊATWA TỶ NOI.1938. Iq
+ETOH NI & ĐI!! W wɔ ɑso. A0 "T"10, 83$ MEAE, §. 150 MH1
+_^
+_^T^< .
+•
+lowHTM "1081 MOƆ åŋ-MOTTO) 83583A38, 15 mðH1
+弱忆 an Aonno
+TTVÅ381, EN 10NE
+| _^ „NI,, www.·
+(GENIT 48) WWɔ TOụ1NO2 M3$83A38, 15 Th8 H1
+1-Novos o
+saen!!0 1\,\/1$. EN 150 NE| -
+zoZ ATGYWEISSY DIE ODSETEL いーの¿?T081 MOD T’Indu-Hsinae
+|(35 (EAE ( 1508 HIL D2, `J|---- LITACINOD TO (1NO2
+Tolslae • HST, %!!E SẼ BAB & |1508||HL
+WƆƆ "1081 MOƆ F(T.1.108. H1 -
+" E "To wɔ wnwg anılıoụHı-* !
+! XOs:waaoɔ---
+Eolg wɔ TOM 1NOɔ Tonnd-Hsm)
+T0&1\\02) ET 1.108||HL
+(dannas)“ XNÝ MAJ 15 nɛAL
+XINWŁO 801 wśNEd W01) 00!! 15f\!JH1 Nolaeth
+ATGWE5$w ɑ08, dsv x1}{w}: "108.1}{0, 18W 1$ EINIONE
+Y TIV130 33$ E. ATYA Two NO110|)|\||0
+\
+! W
+83$83. A38, 15 TT8||H1 |0 TIY/13C] JES
+|-WNY 39 NIH 1 800Q TT3 H5 ww nɔ
+Z SSS
+TOM 1NOD谓亡TTY MAE: 1-1 & E. S 8 EAE ( 15 TB HIL
+TWƆI 183A
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT:
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 1216E DATE 12/89 PAGE 55
+l0. Thrust Reverser Shroud Assembly
+d.
+The thrust reverser shroud assembly is a four piece box type structure forming an annular ring around the forward end of the thrust reverser. The shroud assembly provides a fairing between the engine cowling and the thrust reverser and also provides a gas and vapor seal between the engine compartment and the thrust reverser compartment. The four shroud assembly sections are installed around the Circumference of the reverser and are attached to the rever ser forward mounting flange forming a complete Circumferential ring except for a gap on either Side of the reverser, which accommodates the extension of the actuator carriage tracks. Each of these gaps is bridged by a fiberglass track cover which encloses the end of the actuator carriage and is fastened to both of the shroud sections adjoining the gap, thereby providing continuity of the sealing effect of the shroud in this area.
+ll. Thrust Reverser Controls and Pneumatic System
+а.
+b.
+Pneumatic Plumbing
+(l) The thrust reverser pneumatic plumbing rputes pneumatic high pressure compressor air (l3th a stage bleed air), Ps4) to the thrust reverser actuators for thrust reverser actuation. On the center engine the pneumatic supply line taps off high pressure air from either the l3the stage bleed manifold or the hydraulic oil cool er air supply line. The pneumatic supply line for the thrust reverser on engines l and 3 taps into the 3th, stage air supply duct in the strut and routes air to the directional valve. Two manifolds route air from the directional valve to the thrust reverser actuators. The "reverse" manifold line directs air from the directional valve and through the thrust reverser lockout actuator to the rod ports on the thrust reverser actuators for "reverser" thrust operation. The cruise manifold line directs air from the directional valve to the head port on the actuators for forward thrust actuation and operation.
+Thrust Reverser Directional Valve
+(l) The thrust reverser directional valve is a two position pneumatic
+control valve providing the directional control for routing air through the "reverse" or "cruise" manifolds, as selected by the reverse thrust lever in the control cab. The directional valve is actuated by the thrust reverser control can on the throttle Control shaft. When "reverse" or "Cruise" thrust is selected at the control stand, control shaft rotation repositions the directional valve, and air is routed through the valve to the appropriate manifold. The directional valve is mounted to the engine controls bracket at the engine control shaft.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT:
+С .
+B727 ENGINES ATA 71-80 D0C ID l 26E DATE 12/89 PAGE 156
+Thru St. Rever Ser Contro Cam
+(l) The thrust reverser control cam transmits position input to the
+thrust reverser directional valve from the thrust levers. The control cam is splined to the end of the throttle control shaft. When the forward or reverse thrust levers are operated, the throttle shaft rotates and the control cam positions the directional valve through a rocker arm.
+Thrust Reverser Follow up Controls
+(l) The thrust reverser follow up controls on the center engine
+consists of a shaft on which are installed the thrust reverser follow up cam, directional valve rocker arm, and a follow up crank. The shaft installation is supported between two flanges on the same bracket that SupportS the engine Controls drum-and-shaft installation at the engine vertical firewall. The follow up cam and follow up crank are splined to opposite ends of the shaft. The rocker arm is supported by bearings at the middle of the shaft and is connected to the directional valve piston. The follow up crank is connected to the thrust reverser push pull control.
+(2) The thrust reverser follow up control components on the side
+engines consist of a bolt serving as a shaft on which are installed the thrust reverser follow up Cam and the directional valve rocker arm. The shaft installation is supported between two flanges on the same bracket that supports the engine controls drum-and-shaft installation in the engine strut. The follow up cam and rocker arm are supported by bearings on the shaft. A lever arm on the follow up cam connects the Cam to the thrust reverser push-pull control.
+(3) The rocker arm transmits thrust reverser control cam rotation to
+the directional valve, repositioning it to the selected thrust position. The thrust reverser follow up cam and follow up crank (center engine only) transmit thrust reverser clamshell door position from the thrust reverser push-pull control to the throttle control shaft to lock shaft against command of increased thrust until the clamshell doors have reached the selected thrust position.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 12/89 PAGE 157
+e. Thrust Reverser Push-Pull Cable
+(l) The thrust reverser push-pull cable transmits clamshell door
+position to the throttle control shaft to provide lockout of the shaft at a low thrust setting when the thrust reverser is in transit between thrust positions. The push-pull cable is connected at one end to the clamshell door hinge arm on the thrust reverser and at the opposite end to the thrust reverser follow up controls at the throttle control shaft. The cable consists of two cable subassemblies joined at a quick disconnect and enclosed in a conduit inside which the cable translates when actuated. The quick disconnect facilitates removal and installation of the engine and thrust reverser. A telescopic assembly is located at both ends of the Cable.
+(2) On the center engine, the forward telescopic assembly of the
+push-rod cable terminates the cable beneath a bracket mounted to the engine vertical firewall just above the thrust reverser controls. The telescopic assembly rod end is attached to a follow up crank on the controls. The cable runs in the conduit from above the bracket, up the vertical firewall and along the underside of the horizontal firewall to the thrust reverser upper actuator. The cable terminates at the upper actuator carriage in the aft telescopic assembly. The quick di SConnect in the cable and conduit is located near the aft end of the cable above the thrust reverser actuator track. The inner slider of the aft telescopic assembly and the cable end fitting is attached to the clamshell door hinge arm. The cable conduit consists of several rigid sections and two flexible sections at the aft end. The flexible conduit sections are at the aft end and are joined together at the quick disconnect.
+(3) On the side engines, the forward end of the push-pull cable
+terminates in the forward telescopic assembly inside the engine strut, near the forward end at the thrust reverser controls. The forward telescopic unit rod end is connected to the thrust reverser follow up cam. The cable runs aft inside the conduit from the telescopic unit bulkhead connection through the length of the Strut and through a bulkhead connection in the strut firewall to the thrust reverser inboard actuator track, where the cable terminates in the aft telescopic assembly. The quick disconnect in the cable and conduit is located just aft of the conduit aft bulkhead fitting in the strut firewall on the reverse reverser side. The inner slider of the aft telescopic assembly and the cable end fitting are part of the aft cable subassembly. The cable end fitting is attached to the clamshell door hinge arm. The conduit consists of two flexible conduit sections. The forward conduit section is located inside the strut. The forward end of the conduit is connected to the forward telescopic unit at the strut bulkhead connection. The aft end of the conduit terminates in the Strut firewall Connection at the aft end of the
+Strut.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+26E DATE I 2/89 PAGE 58
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT
+W31SÅS H3SH3A3 H 1ST HH1
+?d£-98 in OŃI łJ OOCL T T BHS WŶ TOT3S 1 T1 Os pŅ|| || vs H 3d()--. - - - |VI108 1NOJbashaa3u----ɔ0as: -T1 i Tae HST||J. aes– = r.|os_- ----83583a38 1snuo 1\, Ao*.- ZTTN /i \\^ 3 \}q}\\} /^\\ーとて }**,1Ɔ 3 NNOOSIO*任 ^,=)= *^J/Wł}\f ae:
+Vaev ||I斗H E XEOOB ,\\\?] /-----\Jflow\O 1 TO3 /→ ·H BSŁ|3,\ j \! / ...’15f\ H H I j',/T__..— 801 w sn10° × 90'i // { !JO 1 Voss 10\;įW\s] U BHIO O 1HƆ 1 IAAS\Ērsisav/1H5) I T10H1NO3) \ \ HO1wn1ɔwoTTJHSWŶ13)įJ3SH3A381ST HH1 \ \1ST, HH1INIT 80 NŒ|1||SOd\ \TO B 1 NO2) 1ST, HH1\3 T 110 HH1
+B'SHEABH
+NO 110 BINNOO 8 |\' 0 NT1089
+BATŶ A XOB HO
+NOI LISOd 1ST BIH 1 CJMJ
+HOOO TT13HSWŶTOSENYA
+3C]\? OSVO
+JITTIV; H CJAH O 1
+\ \ JA T\, ^ Tŷ NO|103||H|C] H. BSH B A B B 2國_.1STAH H1 _^----
+No1123NNOɔ *$d |
+\
+8 3 1 1| + |B|\?
+}} |O W H B S B BX{0}}{2}
+gi w na w ~~
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID 26E DATE ] 2/89 PAGE 59
+12. Operation
+a. The thrust reverser control system is actuated and controlled entirely
+by use of the reverse thrust lever. Pneumatic pressure for actuation is supplied from the engine diffuser casing.
+b. Reverse thrust operation is initiated by operation of the reverse
+thrust levers in the control cab. The operation of each thrust reverser is independent. The forward thrust lever must be returned to idle before the reverse thrust lever can be operated sufficiently to initiate reverse thrust actuation. This prevents accidental actuation of the reverser during forward thrust Operation. Initial movement of the reverse thrust lever aft to an interlock positions provides sufficient thrust control shaft rotation for the thrust reverser control cam to reposition the directional valve, causing high pressure bleed air to be routed through the reverse thrust manifold to the rod ports of the thrust reverser actuators. Before reaching the actuator rod ports, the air passes through a lockout actuator in the reverse thrust line just upstream of the actuators. At entering the lockout actuators retracts the lockout actuator piston, unlocking the truck to free the thrust reverser for reverse thrust actuation. Simultaneously, ports in the piston housing are uncovered, allowing air to be routed through the lockout actuator to the rod ports of the thrust reverse actuators. Retraction of the lockout actuator piston also releases the thrust reverser operating light switch plunger illuminating the thrust reverser operating light in the control cab.
+The thrust reverser follow up cam prohibits movement of the reverse thrust lever beyond interlock until the reverse reverser clamshell doors approach the full reverse thrust position. Pressure at the actuator rod ports drives the piston aft actuating the clamshell doors. Clamshell door hinge arm rotation pulls the push-pull cable aft causing the telescopic section at the hinge arm to extend and the telescopic section at the engine controls thrust shaft to retract, rotating the follow up cam. When push-pull cable travel is completed (clamshell door near end of travel) the follow up cam has rotated sufficiently to allow throttle control shaft movement for application of maximum reverse thrust.
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 216 E DATE 12/89 PAGE 60
+(c) To return the thrust reverser to "cruise" position, the reverse thrust lever is moved forward. As the reverse thrust lever nears the off position, the thrust reverser control cam, rotating with the throttle shaft, repositions the directional valve. Bleed air entering the directional valve is then routed through the "Cruise" manifold. The thrust reverser follow up cam prohibits further movement of the reverse thrust lever until the Clamshell doors have almost reached the "cruise" position. Air is routed to the primary head port of both thrust reverser actuators. Air entering this port pressurizes the piston head driving the piston forward causing the clamshell doors to actuate to the cruise position. The push-pull cable, which is slaved to the clamshell hinge arm, retracts at the clamshell end telescopic section and extends at the control shaft end, rotating the follow up cam to free the control shaft maximum cruise thrust application after the clamshell doors have nearly retracted to the cruise position. When the thrust reverser reaches the forward thrust position, the thrust reverse operating light switch plunger is depressed by the switch striker on the truck causing the operating light to go out.
+(d) The interlock provision limits power setting if the thrust reverser is not in the correct position for the selected thrust condition. If the thrust reverser inadvertently moves to reverse thrust position during forward thrust operation, the push-pull control drives the follow up cam at the control shaft, forcing the throttle control shaft to a reduced thrust setting. If the thrust reverser inadvertently actuates to "cruise" while in reverse thrust, the same sequence of actions occurs to reduce the thrust setting, except that all control movements are in the opposite direction.
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID ) 21 6E DATE 8/90 PAGE 160A
+THRUST REVERSER-DESCRIPTION AND OPERATION
+l. GenerQ!
+A. The thrust reverses System provides Oneons of reversing the direction of engine exhoust 9OS
+flow ofter londing to provide Odditional dynomic broking. No. lond No. 3 engine eochhos on identicol independent thrust reverser Systern.
+B. The thrust reverser System is mechanicotly selected and hydroutically operated to the fully
+Stowed or fully deployed position.
+C. Eoch control systern responds to movement of the reverse thrust lever ot the control pedestol
+by octivoting o hydroulic control volve, locoted forword of Station 1243.
+D. The indicoting system presents visible evidence in the flight cornportment of thrust reverser
+SfOfUS OnC Ov nyGrCUlic OCCUs nuldfOr OreSSUre.
+2. Thrust Reverser - Endines No. 1 Ond NQ, 3
+A. Description
+Eoch thrust reverser consists of two reverser doors, two door lotch Ossemblies, two door Octuotors ond the door octuoting linkoges.
+(l) Door Actuotor - The door octuotor drives the octuoting linkoge guide corrioges for Upper ond lower reverser doors. A dosh pot instOiled in the forword end of e och OCfUCtor obsorbs energy OS the reverser deploys, to prevent dornoge. The reverses consists of O guide corridge on eoch side connected through OverCenter links to the driver links. A set of icdler linkS compolete the fOUr boor linkoge,
+(o) Two door octuotors ore instotled on eoch engine thrust reverser. The piston-type OctUCitoris Ottoched to the door OctUOting linkOge through O movedble corridge, Selecting reverse thrust on the reverse thrust levers opplies oircroft moin nydroulic pressure to the deploy port of the octuotor cousing the piston to retroct, unlocking the overcenter linkoge. The reverses doors Ore deployed. Selecting forword on the reverse thrust lever opplies hydroUlic pressure to the Stow port of the piston to Stow the reverser doors. The piston Octuotor incorporotes o doshpot consisting of two springs, O vorioble orifice ond O fitter to protect the orifice. The doshpot prevents the reverser doors from forcibly bottoming out in the deployed position.
+(2) Thrust Reverser Door Lotch Assembly - The door lotch Ossembly is o hydroulicotty powered sofety device thot retoins the reverser doors in the Stowed position should the reverser octuoting linkoge be moved out of overcenter position. Eoch lotch Ossembly consists of o door lotch ond tension spring, striker om ond tension spring, hydroulic OCtUOtt Or Ond OtCh Swff Ch.
+ 
+________________
+MANTENANCE TECHNICAL TRANING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 121 6E DATE 8/90 PAGE 160B
+(o) One lotch ossembly is instotledot the forward edge of each door. The piston-type octuotor is ottoched to the thrust reverser door lotch. Selecting reverse thrust applies hydroulic pressure to the deploy port of the actuator cousing the piston to retroctond unlotch the doors, Selecting forword (stowed) on the reverse thrust lever Operotes the control volve Ondhydroutic pressure is opplied to the stow port of the octuotor cousing the piston to extend ond lotch the reverser doors when they ore Stowed.
+(3) Thrust Reverser Doors - The doors ore torget-type. The doors become the upper ond lower of foiring for the demoUnfoble power plont when stowed. The doors ore hydroulicolly operated ond meChonically Confrolled.
+(4) Thrust Reverser Door Actuoting Linkoge - The door octuoting linkoge consists of a sliding corridge driven by the door octuotor, connected to on overcenter linkoge, driver links ond O feedbock Control rod (ef side only).
+3. Thrust Reverser Control System - Encines No. Ond No.
+A. Description
+Thrust reverser control system levers ore mounted on the control pedestol in the flight Cornportment. The lever, one for eoch engine, is hinged to eoch thrust control lever. The levers Ore Connected to the some clutches ond coble Systems used by the thrust control levers, but connot be operated unless the thrust control levers ore in the idle position (Ref. 7ó-OO-OO). Eoch thrust reverse lever hos o totoi trovel of 138 degrees (2.41 rod.) with the thrust control lever of idle. The thrust reverser control system consists of reverse thrust levers, thrust coble systemn, control volve ond push-pull coble. hydroulic occumulotor, interlock mechonisrn ond push-pUl Cooles, Control corn ond flow limiter volve.
+(l)
+(2)
+(3)
+Thrust Reverser Hydroulic Accumulator - The hydrousic occumulotor, located in †he Off Stoirwell, provides hydroulic pressure to the octuoting cylinders while the doors ore Stowed ond the reverser system is isoloted from the oircroft hydroutic system in flight. The Occumulotor provides sufficient pressure to extend ond portiotly stow the reverser doors.
+The Occumulotor is equipped with o pressure goge, oir filler volve Ondo low-pressure worning switch.
+Thrust Reverser interlock Feedbock Mechonism ond Push-Pull Coble - The interlock mechonismond push-pull coble locoted on the left side of the thrust reverser consists of on interlock cronk (operoted by the guided corridge rod), on interlock control CrOnk Ond d push-pull feedbock coble connected to the interlock control. Cronk. The interlock mechonism prevents reverse thrust being opplied until the thrust reverser doors Ore fully deployed.
+Thrust Reverser Control Conn - The control contronsmits the thrust leverSposition input to the hydroulic control volve. The control corn is splined to the end of the engine thrust controlshoft in the engine support strut. When the reverse thrust levers Ore operated, the thrust controlshoff rototes to move the corn, rocker or nond the OUS-pull Control Coble attached to the hydroulic control volve control carrn.
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: WALSAN SUPPLEMENT DOC. ID lll 21 6E DATE 8/90 PAGE 160C
+(4)
+(5)
+Thrust Reverser Control Wolve - The control volve consists of O mechonically CACTUAfed, slide-type, four-woy control volve and O Solenoid Operoted, hydroulicotly piloted slide-type, isolotion volve enclosed in the Some housing. The four-woy control volve is octuoted through O control CrOnk Ondo Coble System by O reverse thrust lever, on each thrust control lever. The reverse thrust lever connot be moved Until the thrust control lever is ploced in the idle position (Ref. 76-OO-OO). The isolotion volve portion of the control volve is spring-looded to the open position Ond Solenoid octuoted to the closed position. Electricol power to the isototion Solenoid is controlled by the thrust reverser lower lotch Switch, in series with a ground sensing reloy, Ond nose geor Squot Switch. The ground Sensing reloy ond SQuot Switch Ore normolly closed when the nose geor strut is extended. The ground sensing reloy and nose geor Squat Switch will open ond deenergize the isolotion Solenoid when the nose geor Strut is compressed. This ollows the thrust reverser Occumulotor to be chorged when the Oirolone is on the ground, independent of thrust reverser position. When performing ground nointenonce neor the reverser doors, the volve should be lockpinned in the dump position to render the doors inoperotive.
+(o) A check volve is incorporofed in the Systern pressure port of the thrust reverser control volve. The check volve will prevent loss of Occumulotor pressure if system foilure occurs upstreom of the control Wolve, with the control volve open. A check volve is instolled in the return line of the control volve ond functions to prevent hydroulic Surges from octing on the thrust reverser hydroulic systern.
+Thrust Reverser Flow Regulotor Limiter Wolve - A flow regulotor limiter Wolve is instotled in the stow pressure line on the firewoll, forword of eoch thrust reverser door octuotor. In the event of inodvertent thrust reverser deployment in flight, the volve prevents pressure
+SUrge by limiting the pressure flow to the thrust reverser door octuotor of l5OOpsi (10342 kPO),
+B. Operotion
+(l)
+When the thrust control levers ore in the idle position ond fuloirplone hydroulic pressure is ovoiloble to the systern, lifting the reverse thrust lever to the detent position operotes the control volve. Hydroulic pressure is directed to the deploy side of the door lotch ond thrust reverser door octuctors. The door lotch octuotor operotes first, withdrowing the door lotches. An ornber REVERSER OPERATING light comes on in the P2 engine instrument ponel indicoting that the doors ore unlotched. Initiol movement of the door octuotor removes the overcenter lock; further movement of the Octuotor fully deploys the thrust reverser doors. Once the doors ore fully deployed, the interlock is removed from the reverse thrust lever Cnd reverse thrust con be Opplied. The deployment Sequence is completed in opproximofely 2 Seconds.
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: WALSAN SUPPLEMENT DOC. ID lll 21 6E DATE 8/90 PAGE 160D
+(2)
+(3)
+(4)
+Placing the thrust reverser lever in the full forword (Stowed) position octuotes the thrust reverser control volve Ond engoges the interiock. The four-way portion of the control volve moves to the stow position, connecting the deploy port to return. The occurn Ulotor and pressure ports ore connected to the stow port. The door octuotor moves the doors to the Stowed position in opproximotely 2 seconds. As the door lotch engoges, the omber REVERSER OPERATING light goes off. Accumulator pressure retains the doors in the Stowed position.The Omberindicotor light REVERSEROPERATING will go out when the door lotch OCTUOtors hove completed their trovel to lock the doors.
+While the Oirplone is in flight, the isolation portion of the control volve isolotes oiplone System pressure from the thrust reverser door actuator ofter the latch has closed, isolating the thrust reverser hydroulic System from the diplone hydroulic systern. However, normol thrust reverser deployment in flight is possible. Isoloting the thrust reverser hydroulic system from the airplone hydroutic system is occomplished through isototion of the thrust
+reverser control volve by meons of moin ond nose undercorridge microswitches (Ref. Fig. 1).
+Ground mointenonce moy be performed only ofter the System hos been placed in a safe condition. This moy be occomplished with the doors stowed or deployed, as desired, by monuolly placing the control volve lever in the dump position ond instolling the lockpin. When the doors ore stowed or deployed, the shutoff portion of the control volve blockS system pressure.
+4. Thrust Reverser indicoting System
+A. Description
+(l)
+The thrust reverser indicoting system for No. 1 ond No. 3 engine thrust reversers consists of O thrust reverser low pressure worning Switch (mounted on the thrust reverser hydroulic
+OCCumulotor brocket) ond o reverser position Switch locoted on eoch reverser door lotch ossembly.
+(d) Thrust Reverser Accumulotor Low Pressure Worning Switch - A thrust reverser Occumulotor low pressure worning switch is instolled on eoch side of the reor fuseloge, ond forword of Stotion 243 odjocent to the thrust reverser hydroulic Occumulotor. The switch octuotes on Omber legend No. 1 REV ACCUM LOW PRESS or No. 3 THRUST REVACCUM LOWPRESS on the (P4) third crewmon's ponel. A two second deloy relay in the indicotor light circuitry prevents illumination of the legend when omomentory drop in hydroulic pressure occurs on door octuotor deployment.
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAIN NG PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID lll 21 6E DATE 8/90 PAGE 160E
+(○)
+The thrust reverser operoting light circuits for No. 1 ond No. 3 engines provides omber light indicotion to the crew thot the thrust reverser is in the unlocked position. The circuit for each engine consists of on Omber light on the (P2) engine instrument pone operated by microSwitch mounted on eoch door lotch octuotor housing. The Switch plunger is maintoined in the depressed position during forword thrust opercution by a pivoting Switch plunger Striker which ot one end is pushed forword by the lotch octuotor. When reverse thrust is selected the REVERSER OPERATING light illuminotes os Soon OS the door mechonism becomes unlocked. The light remoins illuminoted until the thrust reverser doors ore returned to the fully Stowed/locked position.
+ 
+________________
+MAINTENANCE TECHNICAL TRAIN ING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 121 6E DATE 8/90 PAGE 160F
+-
+RETURN SPRING
+STO ಟ್ಗTING ፲፰`} otքLot STA இ M ROD END
+RIGGG HOLE イ SIGHT NG HOLE (RIG P N 102) CABLE SIGHTING
+HOUE
+. TELESCOP UNT G) SIGHTING. HOLE N.
+JAMUT ሥÃ CoNou T NUT
+| PLUGLOCK 2. : HYDRAU EIC
+استحصی control. NALYE RUBBER BOOT
+ス ܔܖ عي d DUHP WALYE トム T --
+o گی
+BRAXET PUSH Pull DUHP POSITION CCH TROU CABLE
+TELESCOPIC UNIT
+ኮዘዐUዘT TELESCOP (C UN IT
+v SGHTING HOLE RODO ENKO
+SIGHTING Hole
+BELLORANK OLE
+RGGING Hole
+(RIG PEN 101),
+PUSH-թԱԼԼ
+CABLE CONTROL CABLE ل SIGHTING HOLE
+RUBBER SOOT HOLE
+No. 1 ENGINE SHON KFWO NO. ENGHE SMILAR
+ENGINE CONTROL ORUM WAM 252
+Thrush Reversier Control Wolve cand Push-Pull Couble
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAIN ING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 1216E DATE 8/90 PAGE 1606
+8ULKHEAO FITTING
+محصے ܐܸܵܠ
+W ,ހ USH-PUL.
+ONTROU (A8LE
+SCREW
+士 Sمحمےخ VASHER
+NUT
+STA FUSELAGE SKIN 124
+JASHER
+CABLS CLAMP s
+թԱSH-թԱԱԼ CONTROL CABLE
+6r
+437ra
+○
+HYCRAULIC CONTR0L. WAU WE
+CABLE. CLAMPS པའོ།། །།
+~
+~.
+TELESCOP (C MOUNT
+همتی حمير
+TELESCOPIC - - SYN
+S$میر A UNIT سمي" 褒
+MAN STRUT
+− NO. 1 ENGINE 5HO'N C0 NTROL. N.O. ENGINE SHAR
+ORUM
+ଔ
+Thrust Reverser Push-Pull Control Coble
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 1216E DATE 8/90 PAGE loo"
+(OLER VINK
+3USHI NG (235.)
+*CREY (2PLS. )
+EchAri (Sa suppoRT
+UPPER DR W AR
+STANG FALANG
+REYERSER 000R
+SPACER-LEFT. S[DE
+BUNSHING
+ORLYER LINK
+Thrust Reverser Door Actuating Linkage
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+Gj 仪 2 <Ç Dr. H-l <C じ 2. ~~ (_) LU |- LLI (_) 2 <s 2 Lid H以 < 南
+FOR TRAINING PURPOSES ONLY
+8/9 O PAGE 16 OI
+ID || 2 6 E DATE
+OOC
+WALSAN SUPPLEMENT
+SUBJECT:
+(IGN, a y-9 a.) SYHOEDT, THE LID O HIJ 5) NINTHWYM ÐAnSSZIŁa MO'I HEISHAAGTH IS D’HHI,
+SBATYACIATIVA 103 NNOHOMOJ r--B31N I •NOIJIVTOSI Ở3,3 ganya
+NIYWbƆƆƆ
+goM 18N NグNグNグae @ @ @ @
+ONTTOB O BYŁYH9
+口鬥 7W■|w) Ɔ،∞●
+Ɔ sumɔɔVỊ AGIH JLS (THHJ,*
+çGH. I ON r—vWE19AS|NYHŶMIGJITT1-3| NHŶM SBATYAsganya "SS38 d " ONIuy3 H 7 SS3 YH 3 +3|01/THSd}^{TldMO’I A 10\!3^0MOTI
+ミリグNグ g Bグ Nグ Nグ )c-닛원∞■►, :|
+bio 10× do T-3 31 YN83 ATY
+001 flO
+b0.10}^+ d'Yn: 31 YN HB ITY
+0B-nl hae Y WA
+NO 11 WO|C1N1 TYųny 38TISSBB deSTOHI HOO|NOLLISOd dÝT-4| NIBYO390335X13
+r-ụolor:dyn!! (JNY OI 1B I YN HB ITY|bNITIYụi||ĐHIŌYBT|
+○ QQQQQQ
+(181)(\O []{}}{!09 LIÑO (JR HI1531
+51 HOIT n.30 (Oulu NOVO
+BTI I Og 130
+ayyuq r-noBuNoɔ Bazı ılgyıs-1 03 385 TOHI NO O TOł31 HOɔu Olof 110 Y
+e--~~~~);No 『?[772习 M2Q،\\s. →∞،
+o un Y B'SITTHOl-olulosisNiwr –l
+STATYA
+r–s=anya3401mHs-1HB1|WIT3903 saenioušŢöġġi, šīs (ģgoonử Tōyōi on Ti polovom
+:口No©، 考s?习syR0门7习 ¿ʊW،UMsj©ƐW£
+NBYAA TOB1NO2
+Ɛ sƆ 1WƆƆƆ\{WƆƆƆ\! 3 NIÐNB BNION3 3^{10}{3A3CHAG (H J.S 0\{HJ,JLSTTHHJ, -| * TOH1NO3)dwnd-i ds^{f\d, ! & '0N! "ON AgOHY 15|AgƠNY 1Sł g SÅS8 SAS |- ∞&l) ~召|- :-)Ķ ビTMs.Mae r-S1H0lıSSBb}dMOT-1NO|1\/O||O|N| o z toN | ON ? (JNY !Tognssjua “TT drosod dros\d0NE---- NグNグ(@)Nグ& Nグ ∞42(@)WY, ልደW،Ws. 8 SA5 g SÅS Y SÅS8 SÅSY SÅS B'XYłH8 - W31SÅS OITTY’HQAH
+Thess
+STOBINOO IHÐIī3
+ZỢC Y 1S CJY3HXHTT18 NO 11 YOOT (13 NYd
+ 
+ 
+ 
+ 
+ 
+________________
+~
+활
++---+
+HEMOT SH33NI9N3 1H9||13
+能
+<s
+ri
+O
+魔 („--~~~~
+cae
+L l
+H–期
+队邝 ();厨厕 2死 2.공기 融心飞
+Z“...t . . . . 町%5is. < \!\, ,江)法》决”汉沙 G & c_3@@@@ 郡 親 홍@@@爵 ır:明-*转药*三.חוחנויחת C_Xtl-daerae tae unordJ- - --U- - LLI (:)woływnown nipaxo____ LJz 9 홍 明扎工r斗市 3 EE 더- £ ONI ỦN 敬 홍 홍시지시시어]]「시니시T1T니시시시T@》俞》 km&Qシ
+作只刑北上乘止于印ŞŞ38d M0Tl 2邯Hnojo A38 - 15f\’HH1 서적U^) 品±
+<Ľ
+{A()Ĥ
+—]* SS
+>sirvi...*****... 多****، 引
+... | |_)段)念)念
+r-5ဇိုမ်ိဳးမ်ားzး ခေါ်ခိါး ၈ont,《飞忍**ş, Ao
+3ごまさし**3.1廷:!减)Ĥ
+(/)voj vojo@@zo
+|-()- . 、 \,|★**注 Íw i is lae sae [Y u-o~
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+(...) 2. 2. <Ç sae H–1 <Ç に 2 ~~ ( ) LLI |- LLI C) 2 <s z LII H2. <s 帖
+FOR TRAINING PURPOSES ONLY
+VALSAN SUPPLEMENT
+DATE 8/9 0 PAGE 160 K
+ID 26E
+DOC.
+SUBJECT
+1 ዘ059 }ጋጋY  ̊ 9  ̊ 7
+| |}|[]
+Iso I IHS IYTŮ S UH9
+8 ||Y .13JIIM JSON班 유」9()|(~, † qy}}|{3^0 = }}|}}|} } så四108180J gy0ī 81 d 3 3ı3ɔYN TI 3HYJ38|| Y[]}{5}H || Y 현-31I "OH STIĘ |JŲ A82 |-- TTYM3813ŹdJJO ITH'S HIJJY HS JH I HJI YT HAT2) ĐẠI LYH840098358] A38 1 o 0}\ 9}{3 [] }}|I) I YTH] I WTHI] (}哈}工-Obst}^1(D-H ------------------**----31----T3}{YdHI YH – }} ] }} }] 801 YT110y || JIWT HOXX]3B ·|- 1}{3HT|8,15}{ 1 }{ 1!}}{3TŪ81}{[]] [ĴYŰT 9J 3 TJYJ X JY8----$TIẾ 83HH! [] HYj dn-ĦUT 103 1ɔ}}}}{0.05 10[]]}} T1Tid - H5TldHIJ SHBA} H I SfiłłH18315 YH 318 YJ HS IHWII JJH_)==+==+=O=C=}HYT TUHIHŌ)]JŮ Å8? XTY 80 JH3→=}łHY HjXJŪ8HH SHJA JH 1SÍTH}{1 /XTININo(H011~影心儿$1||011 UH || || 1035 (401430) ởŒ:S ※ 7-CH31$ÅS TO HIROJ 3.11.108||1 13. YH5**, +T08 IH^~--~ 8311811,8013► : |*|흑@ 引-fr之.&ZV „J_ JU* Sí } * :||-y-ASSY (THW))HDI ] [504^, ^, i ! 3 ATW A HŮ I JYTUS !;*、 Sü01yn4DY羽%鱈三王}=—II, onɔɔy łosiłow01 H I 1 TJ sig3 TU I 1 HJ || 14ŹŹ倪之- --( WB dO HMOHS )nulli 0:3, 1903 shioyal nomo caelsyaeo}} 539 YXH || T.非其'l君眠配器umn)• 、{ } !}}{11 YT110 Y¡ !|-ss ||W IX.5 39W 13 ST15'f,”* ... S\![][][]831 I HIT|---- ----日 パ HỰ13±}}|AJTBIJA]] ZY IX1$[18f1115f18 H I HUIWTTIHTI]]''----그}SH} AJB - 83583 A}\!#| |#)','|-'n-註Hid [] HYM803 800×] H3g d'Îl]}S EI 3 HT1SS3 !]}{[\; dSVTHŰT HESH BAH8 白:::<2) Hofi.138*년 ŒPo@H的MUT HI1JJY 割y_“P可|*83583||M]}}H IYH - HJ1H3] ĶīīīīīīīĘ 4 ||H3 I 'OHTO HIROJ UYOT 94
+ו) וך (JJIIJ I YT) ((13H01 YTHn) HS UH1 HJI W 1 83|dd|[]
+[]
+I “ OH STĘ JŲ AB?
+15]]9 - ነd
+ni령혁혁한「젊對T터「A4
+—«, »—
+$538 d M01 H[l]]Y 83583 AHH ! " UH
+Thrust Reverser Contro Scherndtic
+Figure
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID lll 21 6E DATE - 8/90 PAGE 160L
+THRUST REWERS ER CONTROL VALWE
+PUSHROD
+CONTROL LOCK PIN WAWE
+ARM
+LEFT SIDE SHOWN RIGHT SIDE SIMLAR
+THRUST REVER SER CONTROL VATVE (LOCKED IN DUMP POSITION)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: WALSAN SUPPLEMENT DOC. ID 1216E DATE 8/90 PAGE 160M
+MAINTENANCE (MI)
+Deactivate the affected thrust reverser systern as follows:
+1. One System. In operative
+А. Verify upper and lower thrust reverser doors are faired at the
+leading edge.
+B. Check that thrust reverser doors are fully stowed by checking that the over center link is overcenter (must be aft of driver links . )
+NOTE: Position of overcenter links can be verified by looking through the opening in the reverser stang panel.
+C. Gain access to the applicable thrust reverser control valve and
+place valve in DUMP position and install lockpin.
+D. Check accumulator indicators and associated lines for hydraulic
+leaks .
+NOTE: Access to the T/R valve, accumulator indicators and
+associated piping is through access panel 3756 for engine No. 1 and 3856 for engine No. 3. The panels are located in the aft passenger stairwell.
+E. Open and collar applicable THRUST REVER SER ACCUMULATOR LOW
+PRESS WARN light circuit breaker.
+Ε'. Lockwire or tape the thrust reverser levers (piggy-back) in the
+stowed position.
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 1216E DATE 8/90 PAGE 160N
+ummmmm
+STANG PANEL
+OVERCENTER POSITION
+OWERCENTER LINK
+DRIVER LINK
+ACTUATOR
+Շ» ORIVER LINK f།།
+OVERCENTER LINK محصے
+OWERCENTER
+POSITION
+OVERCENTER INK POSTON (REVERSER STOWED)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: WALSAN SUPPLEMENT DOC. ID 1216E DATE 8/9 O PAGE l80 0
+MAINTENANCE (MA)
+Inspect as follows :
+0S LLLLLL LL LLLLLL LLLLLS LLTLLLLLLLLuL LS LLLrrGGGLJGGJ GL HLS LLGL SS LLCLL CLGLGLkLGLGS
+A. Open applicable access panel ( (3756) for No. 1 and (3856) for
+No. 3) ; left side of aft pas senger stairwell .
+B. Check affected accumulator and associated lines for hydraulic
+leakage.
+C. Check contents gage of System. A reservoir reads a Ilinitium of 4
+gallons.
+D. Check affected Accumulator pressure indicator for reading of
+approximately 3000 PSI (hydraulic systern pres surized) or 950-1050 PSI (hydraulic system unpressurized) .
+E. Check gage on third crewman's panel in the flight compartment
+to confirm reservoir quantity.
+F. Close access panels in aft passenger stairwell.
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: WALSAN SUPPLEMENT DOC. ID 1216E DATE 8/9 O PAGE 160P
+මුණු
+*-
+Sj
+器
+གྱིས་
+多Y
+多づ
+ACCUMULATOR PRESSURE INDICATOR
+THRUST イベ ά 2No ހށިn REVERSER Y
+ACCUMULATOR
+ලද
+SS
+ہے
+N
+ミラ
+THRUST REVERSER ACCUMULATOR
+PRESSURE INDICATOR
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 12/89 PAGE lol
+THIS PAGE INTENTIONALLY LEFT BLANK
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+l62
+PAGE
+2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+W\789\'10 T\; NO|10|Nf]+ N011V0|0|N| 3|N|9|N|3
+ţrd 13 NVA S833|N|9|N|3, 1H-9|1-9
+—C) 臼
+%%%%%%%%% 密密
+必
+@
+--------
+AWA
+- Y -
+H0LIMS H/L.邢

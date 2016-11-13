@@ -1,0 +1,67 @@
+﻿「三三之ケ
+MAINTENANCE TECHNICAL TRAINING
+コ * 臀 FOR TRAINING PURPOSES ONLY
+lO.
+ll.
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85 PAGE 7g
+During the refueling operation, selection of either auxiliary tank fueling switches (P-lb panel) to the ON position will cause the No. 2 tank crossfeed valve to open if selected closed.
+Although mot part of ATA - 28 fuel system, the fuel flow indicators on the P-2 center instrument panel are different in that they digitally display total fuel consumed for each engine in pounds, in addition to the normal analog display of the actual Current consumption rate in pounds.
+Two additional relays (R632 and R633) are installed at the P-l5 fueling panel. These relays are the auxiliary float switch relays, which control the automatic closing of the forward and aft auxiliary tank refueling valves during the refueling operation.
+The aft auxiliary tank, when fueled, will impose fuel ballast requirements different from the 727-200F for the purpose of towing and taxiing.
+B. 727-233 Tank Arrangement, Venting, and Drainage Sumps
+l.
+2.
+Fuel Went System
+a. The major change to the vent system is the forward and aft
+auxiliary tanks, which are connected to the No. 2 tank vent system plumbing.
+The remaining vent system for tanks l, 2, and 3 is the same as the 727-100C/200F aircraft.
+Went DuCts and Lines
+a. Went ducts formed by sealed, hat-shaped, upper wing skin Stiffeners, connect the vent surge tanks to each fuel tank. Each Wing has two main vent ducts, one extending from the vent surge tank to the inboard end of the outboard tank, and the other extending from the vent surge tank to the outboard Section of tank No. 2 in the opposite wing. These ducts went the system when the airplane is in a normal or a nose high attitude. An additional duct in each wing interconnects with the duct venting tank No. 2 and extends to the Outboard end of the Outboard tank. This branch duct vents the tanks when the airplane is in a nose low attitude.
+b. External shrouded vent lines interconnect the auxiliary
+tank(s) with a tee fitting connection to an internal wing (tank No. 2) vent duct. The shrouded vent lines are located under the Cabin floor panels where the shroud provides a Secondary barrier against leakage of fumes and vapor into the cabin area.
+________________
+MAINTENANCE TECHNICAL TRAINING
+a A *ー、手s FOR TRAIN NG PURPOSES ONLY
+なr
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85 PAGE 80
+CA vity FITTING L FITTING TYPCA)
+WENT LINE
+SPANWSE BEAM NO.
+AFT A UXT UIARY TANK
+T PETTING
+CELL, NO. 1 WENT LINE
+CAWTY FITTING
+TYPCAL)
+WING CENTER SECTION TANK
+CAVITY VENT FORWARD AUXI LIA RY TANK
+CEL NO. 1
+Fuel and Went Lines
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 024F DATE 4/85 PAGE
+(l) Outer shroud space, between vent tube and enclosing Shroud, is vented to the auxiliary tank Cavity drain/engine fuel feed line shroud drain system. An air inlet having a "sugar-scoop" configuration on the airplane body skin maintains a slight positive pressure to aid in venting fuel vapor and fumes from the shroud space. The air inlet is forward of the wing, on the left side for airplanes with both forward and aft auxiliary tanks and on the right side for aft auxiliary tank instal lations only.
+3. Went System Operation
+d.
+During flight, ram air impinging on the vent scoop develops a positive pressure in the plenum chamber and the connected vent surge tank. The vent ducts, connected to each surge tank, distribute the pressure to each fuel tank. As fuel is consumed, it is replaced by a volume of air under a small positive pressure. The ports in the inboard end of the vent ducts in tanks No. l and 3, and the ports in the outboard sections of the No. 2 tank went duct, went the system when the airplane is in a normal or a nose high attitude since the expansion space above the fuel is at the forward inboard end of the tanks. In a nose low attitude the expansion space moves outboard and aft submerging the inboard vent ports in fuel. The fuel tanks are then vented through a port in the vent duct at the outboard end of tanks No. 1 and 3.
+During climb or dive flight attitudes, fuel in the auxiliary tanks flows into the low cell and if continued would tend to overfill the cell. A vent float valve in the top of the cell closest to tank No. 2 will pick up with the
+rising fuel level and prevent fuel entering the vent system.
+C. Auxiliary Fuel Tanks
+l. General
+a .
+In addition to the integral wing tanks No. 1, 2, and 3, fuel storage is provided by two auxiliary fuel tanks. The forward auxiliary fuel tank is installed in the aft portion of the forward cargo compartment and the aft auxiliary fuel tank is installed in the forward portion of the aft cargo compartment. Each auxiliary fuel tank Consists of removable fuel cells contained within a compartmented tank cavity. The forward and aft auxiliary fuel tanks are interconnected to the integral wing tank No. 2 center section by fuel plumbing and a common vent line.
+81

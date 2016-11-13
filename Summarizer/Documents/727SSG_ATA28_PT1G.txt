@@ -1,0 +1,40 @@
+﻿歴エ
+SUBJECT
+FC-hi. 2 unso
+MANTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 69
+FOR TRAINING PURPOSES ONLY
+6. Fuel Temperature Indication
+l. General Description
+d.
+Fuel temperature information is useful in assessing hot-fuel climb performance, oil cooling capacity (engine and hydraulic), fuel icing from water contamination, and possibility of fuel freezing. The fuel temperature is measured in Main Tank No. 1 and is considered the same or warmer in other tanks. The indicator is mounted on the third crewman's panel, in the fuel heat subpanel. The hermetically sealed indicator is not line - adjustable. The Scale is centigrade.
+2. Temperature Bulb and Circuit
+de
+The FUEL TEMPERATURE BULB is a temperatue sensitive res istor with res istance increas ing with temperature increasing (a positive coefficient, thermal resistor). The bulb is installed in a housing so that it can be replaced without draining fuel. A push-turn quick release cap holds the bulb in the housing. The bulb has no plug type connection, instead, two lead wirtes are spliced into the circuit. Access is directly through the left main landing gear strut well. The bulb is located above and outboard of the left gear forward bearing.
+AC power (28 V AC, 400Hz) rectified to DC, applied to the meter ing circuits through an electro-magnetic Sweep-off mechanism, frees the low-scale-off pointer to respond to the oppos ing torques of the ration meter bridge coils. The bulb resistance as a function of the fuel temperature, determines the voltage applied to sensing coil. The quick release feature of the bulb provides for easy trouble shooting with an ice bath or by ambient temperature comparison.
+ 
+________________
+FEC-hi. 2 UN to
+MANTENANCE TECHNICAL TRAINING
+70
+DATE 6/83 PAGE
+727-200F FUEL SYSTEM ATA-28
+SUBJECT
+FOR TRAINING PURPOSES ONLY
+BOOSTPUMP PRESSURE SWITCHÉS
+MANIFOLD, Volus, ET RicDRAIN VALVE TOPOFF UNIT COMPENSATOR WASHIHŌ. LIĤE
+FUE LING CHECK VALVĖ
+FUELING Valve
+FUELING ĦEst saescio R. r* ',T X A \o吃، |- } "·鼎THERMALS鼎鼎 ----•... •NoFUELRELIEFg 「** \ a ■• TANK 1sựAŁ WEVALVET TAN!!! 3に # W建TEMPERATUŘEENGINE唱 BULB)# ORWARD§HuTØFF w AlytW>O 的•80 05 s5HROUD |-saeĦAIN MÅ5T \s\\! BOXYST PUMP | Pump©{{#svatves o BYPAS$CHECK WAŁ司 VALVFsu Raet faes, OWER WINGDRAMA. FILLER
+OVER RIDE CHẾ CK WALVEdu Mae Norrl:
+su MP DRAJN VALVĖ FUELING & ŌUM?
+CROSSFEED MANIFOLD
+/CROSSFEED VALVĖ$
+TANK 2
+■DEFUEL VALVE %%- DUMP LEVEL SENSOR
+Q ん尽
+Ŵ>TANK DUMP VALVĖ duae u EVEL CONTROL VALVĖ
+FuĖi Isae , D’UMP MANIF ÖLD
+FUE! ¡HG PANEL. P!!!
+FUE LING , DUMP MANIFƆŋ. Ɔ yƐs, T.
+FORwARD ~) 5HROut) -{(x-WAŁ W £TANK yɛ hisVENT AF † şHROUD DRAHN MÅ5f+ FUEL ŴY 5TEM

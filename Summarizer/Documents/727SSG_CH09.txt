@@ -1,0 +1,661 @@
+﻿MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 216E DATE - 12/89 — PAGE 63
+CHAPTER 9
+A. GENERAL DESCRIPTION (ATA 77-00)
+l. The engine indicating systems described in this chapter include the engine pressure ratio (EPR) indicating system, a tachometer system to measure the speed of the low pressure compressor (Nl) and high pressure compressor (N2), and an exhaust gas temperature (EGT) indicating system. Fuel flow indicating system, oil pressure System, oil temperature system and oil quantity indicating system are included in there respective systems.
+2. Each system provides a reading of engine operating conditions on
+indicators located in the control Cabin. This information enables the monitoring of engine output and maintaining a selected flight performance.
+B. ENGINE PRESSURE RATION INDICATING SYSTEM
+l. General
+a. The engine pressure ratio (EPR) indicating system shows the engine
+power output and is used for setting engine thrust and for monitoring engine performance. The EPR indicating system consists of one inlet pressure (Pt2) sensing probe, six exhaust pressure (Ptil) sensing probes, an engine pressure ratio transmitter and a pressure ratio indicator for each engine.
+b. The engine inlet and exhaust pressure, sensed by the pressure sensing
+probes, are transmitted to the pressure ratio transmitter. The transmitter converts the exhaust and inlet pressures into a ratio, provides output signals proportional to the EPR and transmits the signals to the EPR indicator located in the flight compartment. The indicator transforms the electrical input signals into the indicator pointer shaft rotation and digital three-wheel counter to show the engine pressure ratio. A test receptacle, used to attach a master indicator, is included in the circuit to provide a means of adjusting and checking the system. On airplanes incorporating EPR-activated takeoff warning system, refer to Chapter 31, Instruments, for a description.
+c. On airplanes incorporating a Performance Data Computer System (PDCS),
+an EPR indicator incorporating a second servo loop and a driven bug is instal li ed on the pilot's instrument panel -
+2. Inlet Pressure Sensing Probe
+a. The engine inlet pressure (Pt2) is sensed by a probe similar to a
+pitot tube. This probe is mounted through the center of the nose dome with the open end of the tube facing the inlet air stream. The vent hole in the probe functions as the probe ice detector by decreasing engine inlet pressure (increasing EPR) when icing occurs. The probe is anti-iced by the engine anti-ice system.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 2/89 PAGE l64
+2
+O لO 노 2 CC E
+Ll OA) O
+al
+CN:
+.ே
+ 
+ 
+________________
+SUBJECT:
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 26E DATE 12/89 PAGE lb5
+3. Exhaust Pressure Sensing Probe
+d.
+Each engine has six exhaust (di Scharge, Pt7) pressure sensing probes projected into the stream of turbine exhaust gases. The probes are connected to a common manifold for obtaining an average pressure of the exhaust gases. Exterior connection to the manifold is made at a single point through the fan di Scharge outer duct at approximately the 7 o'clock position.
+4. Engine Pressure Ratio Transmitter
+d.
+The engine pressure ratio transmitter converts the exhaust pressure (Pt.T) and the inlet pressure (Pt2) into a ratio, and generates three-phase electrical signals corresponding to pressure changes in the engine. It consists of two bellows (multicell diaphragms), a sensing mechanism, an amplifier, a motor-gear train, and a synchronous generator. The engine pressure ratio transmitters are located in the aft air stair equipment area; for engines No. 2 and No. 3 to the right of the stairs and for No. 1 to the left of the stairs.
+The engine exhaust and inlet pressures are applied to the bellows assembly of the transmitter. A change in either of these pressures cause differential bellows movement. The bellows movement affects the sensing mechanism which, with the aid of the amplifier and the motor gear train, causes the generator rotor to rotate and generate three-phase electrical signals.
+5. Engine Pressure Ratio Indicator
+a .
+The engine pressure ratio indicator provides pointer and digital read out of the engine exhaust pressure ratio (PTT/Pt2) and on some airplanes pointer and digital read out of the Command EPR input signal. The indicator consists of a synchro receiver, servomotor, gear trains, coarse indicator pointer and numerical counter, command index and numerical counter, command set knob, graduated dial face, integral lights, and case. The indicator is not hermetically sealed. The dial face is graduated from l.0 to 2.6 EPR. Each counter consists of three rotating drums with numerals, readable from 0.50 to 2.00 EPR. Downward rotation of drums indicates pressure ratio increase. The indicator incorporates a failure warning flag which drops in front of coarse counter numerals when power is not received, when voltage is too low, or when sustained mechanical malfunction of indicator occurs. The indicator displays Command EPR over the range of 1.0 to 2.6 EPR by means of moving index against a fixed scale and a three wheel numerical counter. Increasing EPR will be clockwise rotation of the index and downward rotation of the counter wheels and is set by clockwise rotation of the set knob located on the lower right front face.
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 2/89 PAGE l66
+- MOUNTING CHANNEL
+ACCESS PANE 375
+ENG NE NO. ) E PR TRANSMITTER
+MOUNTING BOLT AND WASHER
+4PLACES)
+ENGINE NO. 1 PRESSURE RATIO TRANSMITTER NBD) FWD
+SSS
+FAYING SURFACEBOND BETWEEN THESE SURFACES AT BOL LOCATIONS
+- ACCESS
+ELECTRICAL CONNECTOR
+PANE 3858
+NLET PRESSURE
+( Pt2 LINE EXHAUST PRESSURE
+(P7 LINE
+ENGINE NO. 3 EPR Չ)
+TRANSMITTER ○|丁令へ浸2
+27 } \, ENGINE NO. 2 EPR N TRANSMTTER
+حم
+།། 公控方肇
+ܛܐܼ
+| |
+g Չ)
+N میسر ا s Sష్ణా*
+*/s . ~ OLI ရှဲနိူ႕ → ಸ್ಥ್ಯ?!
+4PLACES
+ހަހަކީ :>ހިޕާހީ
+MOUNTING CHANNE
+FAYING SURFACE BOND ENGINE NO. 2 AND NO. 3 PRESSURE
+BETWEEN THESE SURFACES AT BOL ōါဂဲမိုု RATIO TRANSMFTER
+ENGINE PRESSURE RATIO TRANSMITTER INSTALLATION
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+26E DATE 2/89 PAGE l67
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+5 + 8 O 8 & 9 £ 1 d. A 3 IA MY B &
+|
+WELSÅS OILWH BHÍìSSBồd BNI9NE
+sae 1 WX OI 1\*\# * SS3 Hae [JALI 1 ‘ON ĐỊN3
+W כ {-
+●工
+11T10łHIO LH9||T||Ü|-
+寧1
+[4A1) ON! OI 1 WH "$$EU4
+! ’ON ĐỊNE
+| + 2 S2 / 0 0 1 – 1. Z l. -H01 w Os QJNI
+TENY 4 1NEWT181SNI S, 107||4
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 1216E DATE 8/90 PAGE 167A
+ENGINE PRESSURE RATIO SYSTEM
+Purpose:
+The engine pressure ratio (EPR) system provides a visual display of the ratio between engine inlet pressure and turbine exhaust discharge pressure.
+Components:
+Inlet pressure sensing probe (Pt.2)
+Eight av er ag ing exhaust pressure probes (Pt 7 )
+Engine pressure ratio transmitter
+Engine pressure ratio indicator
+Condensation trap
+Description and Operation:
+The eight turbine exhaust probes are externally mounted to the exhaust case and sense primary exhaust total pressure.
+The inlet pressure sensing probe is mounted in the inlet bullet
+The EPR transmitter is Inounted in the aft accessory compartment of the aircraft.
+The EPR indi cator is an electrical/ mechanical unit which displays the EPR (Pt7/Pt.2) and has digital and analog displays.
+Line replaceable unit – Cleanable - Pressure check for leaks
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID lll 21 6E DATE 8/90 PAGE 167B
+ENGINE INLE CASE །།
+FRONT ACCESSORY
+OR IYE . CASE
+K TACHOMETER GENERATOR 1
+CAPTI YE .N. s
+FLEXIBUE HOSE
+INLET BULLET
+PACKING (MS9386-28)
+PACKING (57E183-113) (STILLMAN RUBBER CO.)
+GROMMET Pt.2 PROBE
+ENGINE P. COUPLER Pt2 RECEPTACLE
+EPR P inlet Pressure Sensing Probe - installation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+Gj 仪 2. <s Ds. H–1 <, に 2 ~~ O LLI HLLI O Z <s 2 lil }- 2. <Ç 战
+FOR TRAINING PURPOSES ONLY
+90 PAGE 167C
+8/
+ID || 2 6 E DATE
+DOC.
+WALSAN SUPPLEMENT
+SUBJECT:
+WELSAS OLLWB HHnSSH Hd HNIÐNH
+(sāɔvid 8 TvOldAI)
+d\/HL NOI. LWSNECINO O
+aaOHd EHDISSE Hd
+HELLIWNSNWHL Bd3=日
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 1216E DATE 8/9 O PAGE 167D
+DIRECTION OF GAS FLOW )
+PRESSURE N ملحيح | "
+SAMPLING. HOLES
+MANA INNA
+(C)ח-ל .
+Pt7 TUBE/MANIFOLD CONNECTIONS -( FO
+EPR P Turbine Exhaust Pressure Probes
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUB JECT: WALSAN SUPPLEMENT DOC. ID 121 6E DATE 8/90 PAGE 167E
+Pressure Check Probes (Air Pressure Check)
+(l) Pressure check P monfold Ond presSUre probe COnnections os follows:
+(Ο) Disconnect tube to P. pressure nonifold on turbine exhoust Outer reor duct.
+(b) Connect odopter PWA 45513 to P, monifold outlet ond ottoch source of dry
+filtered compressed dir, with regulotor PWA 21875, to odopter.
+(C) Pressurize P system 35 to 45 psig (241.3 to 310.3 kPo).
+(d) Using soop ond woter solution, check eoch connection in monifold ond ot
+probes for ledkoge. No leokdge permitted.
+NOTE: if leoks exist, check nut torque. P. monifold nuts should be 65 to 70
+inch-pounds (7.35 to 7.9 Nrn ). Monifold to probe connections should be SO to 1 OO inch-pounds ( O.l7 to 11.30 Nm).
+NOTE: On engines with condensotion trop instotled, vent in plug of bottorn of
+condensortion trop should remoin open ond unobstructed
+(e) Relieve oir pressure ond remove regulotor ond odopter.
+(f) Connect tube to P. pressure monifold.
+(g) Remove tools, equipment, loose hardwore and debris from maintenance area.
+NOTE: Air will escope through probe sensing holes during pressure test. Mointoin oir
+pressure while checking for leoks.
+ 
+________________
+MAINTENANCE TECHNICAL TRANING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 1216E DATE 8/9 O PAGE lo/F
+BLANK
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 1 2/89 PAGE 768
+d
+ܥ-ܐ-
+A三三。 ూ
+dp
+器 D
+--- d
+-
+Cl CU ۔ج? W ܗ O COUĪ
+Y d 2 2 اقسے
+H
+| i C
+F4 O
+al
+༈
+== 2\ is is
+R_王 s al
+C.
+2
+U
+2
+ 
+ 
+________________
+SUBJECT:
+C.
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 26E DATE 12/89 PAGE l69
+On airplanes incorporating a Performance Data Computer System (PDCS), the EPR indicator incorporates an index marker (bug) which may be set to a command EPR position by an input signal from the PDCS.
+CAUTION: WHEN THE POCS MODE IS DISCONNECTED, OPERATE THE EPR
+INDICATORS IN MANUAL MODE ONLY. FAILURE TO DO SO WILL RESULT IN ACCELERATED CLUTCH WEAR TRAIN DAMAGE.
+6. Operation
+а .
+b.
+The system operates on ac power.
+The engine exhaust and inlet pressures are sensed by the pressure sensing probes. These pressures act on the bellows assembly of the pressure ratio transmitter, causing differential bellows movement
+whenever either of the pressure change. The relative bellows movement
+effects the sensing mechanism of the transmitter which, with the aid of the amplifier and motor-gear train, cause the generator rotor to rotate and generate three-phase electrical signals. The generated electrical signals are transmitted to the pressure ratio indicator over a three-wire system. The indicator converts the electrical signals into the pointer shaft rotation or indicator movement corresponding to the pressure change in the engine.
+ENGINE TACHOMETER SYSTEM DESCRIPTION
+l. General
+d.
+The engine tachometer system measures the rotary speed of an engine low pressure or high pressure rotor and provides visual speed indication to the pilots for monitoring engine performance. The engine tachometer system consists of two generator units (Nl and N2) on each engine and corresponding tachometer indicators on the engine instrument panel. The Nl tachometer indicator shows the speed of rotation of the low pressure compressor. The N2 tachometer indicator shows the speed of rotation of the high pressure compressor.
+The tachometer generators, driven by the compressor rotors through reduction gearing, generate alternating electrical signals. The electrical signals, received from the generators, energize corresponding indicators, which in turn show their respective compressor speeds in percent.
+________________
+DATE ] 2/89 PAGE ll0
+26E
+FOR TRAINING PURPOSES ONLY
+DOC ID
+MAINTENANCE TECHNICAL TRAINING
+B727 ENGINES ATA 7-80
+SUBJECT:
+WELSAS ĐNIIVOICINI HELBINOHOVI BNIÐNB
+35 yɔ ɔ, a 180 À 80s sɔɔɔy z N|зніонз||T! TY Å. E. HI :1 NEW T18, 15 HI8 O 1 \ ))[0] HI 0 Y 4 BA180 A 80$ $322 y l NHO 1 Y HE HE!!!)El H10 HE§§§§Ë Ll!!!?!!12 8313 WOHɔw 1
+801 Y 8 E NE O ME 1E WOH: Y 1
+ŒTE IH HOLY MENE!!!)
+|8 E 1'E. WOHDY I|||1ዛPrገ+። | (11nɔŋlɔ nyɔ14A1) ||三工母| ||-
+| 上门上|$s)}{EL_T國_는
+HE H10 O L A-n-Ao zy r**********!?20 ^ot „?“, wiųı Noıı3äŘ05 - LLLLLLLI!}}{!
+Říši oĦā L–J
+5) NIT: T101) X. TT-I
+Q "1=||-|| 8 O 10 W
+Aɔɔ 1 0 1 tot ’0 EN MD 1 0 1 & 0 ? '0 l N
+·0 11 y 8 HY39 HAI 80 80108
+JL HEWT1811$HI
+• $ 10Tld
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 12/89 PAGE 77
+4.
+d.
+а.
+... Engine Tachometer Generator
+The tachometer generator is a mechanism which transforms the rotational input energy into equivalent electrical energy. It consists of a three-phase stator winding, end Shields, and a permanent magnet rotor assembly, all contained in a Sealed case. The tachometer generator is used to sense a Compressor rotor Speed and generate corresponding alternating electrical signals for the tachometer indicator operation. The Nl tachometer generator is located on the front accessory drive, and the N2 tachometer generator is on the aft right side of the accessory drive gearbox.
+Each tachometer generator is driven by its respective compressor rotor through a reduction gearing. The generator drive shaft turns the rotor assembly inside the stator coils, thus generating alternating electrical signals. The frequency of the generator output signals is a function of the engine compressor rpm.
+... Engine Tachometer Indicator
+The tachometer indicator shows compressor rotor speeds. It consists of a three-phase synchronous motor, a rotating drag assembly, a calibrated clock spring, all hermetically sealed in a case, and a round dial with a subdial. Each engine tachometer indicator shows its respective engine rotor speed as a percentage. The round indicator dial is graduated for readings between zero and ll0 percent rpm, while the small subdial is graduated in ten divisions for each l0 percent change in Speed. There are six tachometer indicators, three for Nl and three for N2 compressor rotors, mounted in two rows on engine instrument panel (P2).
+b. The alternating electrical signals from the respective tachometer
+generator are fed into a tachometer indicator which cause the drive shaft of the indicator synchronous motor to rotate. The synchronous motor drives the magnetic drag assembly or flux coupling which, in turn, restrained by a clock type spring, moves the indicator pointers to a dial position corresponding to the compressor rotor speed.
+Operation
+a. The engine tachometer system operates on self generated electrical
+power. The airplanes electrical power is required only for the integral lighting of the tachometer indicators.
+________________
+SUBJECT:
+لal
+O C) O
+C Lu -- H
+s
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 7-80
+DOC ID
+26E
+DATE
+- 12/89
+PAGE
+72
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 12/89 PAGE ll3
+Each tachometer generator (Nl and N2) is driven by its respective compressor rotor through reduction gearing. The generator drive shaft turns the rotor assembly inside the stator coils, thus generating alternating electrical signals. These signals are transmitted to the corresponding tachometer indicator synchronous motor by a two wire system, while the third phase if completed to ground. The alternating electrical signals cause the drive shaft of the indicator synchronous motor to rotate. This rotation, through a flux coupling, tends to rotate the indicator pointer which is restrained by a spring. The speed of the synchronous motor determines the degree to which the indicator pointer is rotated, and corresponds to the related compressor rotor speed. The round indicator dial is graduated for readings between zero and ll 0 percent compressor rpm. The small subdial is graduated in ten divisions for each lO percent change in Speed.
+D. EXHAUST GAS TEMPERATURE INDICATING SYSTEM WITHOUT BOOST CIRCUIT
+l. General
+а.
+The exhaust gas temperature (EGT) indicating system measures the engine exhaust gas temperature and displays the temperature value on indicators in the control cabin. The system, for each engine, consists of eight temperature sensing probes, a harness and lead, one balancing resistor, and a temperature indicator. Copper and constantan wires are used in the low temperature zone of the engine; chromel and alumel wires are used where higher temperatures are encountered.
+Engine exhaust gas temperature is sensed by the thermocouple elements. The heat of the exhaust gases causes the thermocouple to generate dc electrical signals which actuate the meter movement of the exhaust gas temperature indicator. The balancing resistor is included in the circuit to provide a means of adjusting the system.
+2. Exhaust Gas Temperature Thermocouple Probe
+a .
+The thermocouple probe is a temperature sensing device that senses the temperature of the engine exhaust gases. It consists of two stud terminals, a head, and a thermocouple measuring junction and leads enclosed in a cylindrical shield. The thermocouple junction leads and terminals are made of chromel and alumel material. The alumel terminal (-) has a larger diameter hole than the chromel terminal (+). Each probe is provided with the five gas inlet ports and two gas exhaust ports. The correct orientation of the probe with respect to an engine is obtained with an index slot in the probe.
+Eight probes are mounted on the turbine exhaust section fan discharge inner duct of each engine and project into the engine exhaust gas path. The probes are connected in parallel to obtain the average value of the exhaust gas temperatures sensed by the eight probes.
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 D0C ID 26E DATE 12/89 PAGE 74
+-
+>
+TAKANAL STP
+ECCY O OFFICEA'S AWERLAGINGLEAD
+N PAhEL
+SEE OETAL
+HAMESS THU FAN CLASE
+GO GNO
+Paaf EPO-Ol
+qg:33, TOfat 5PCHOL
+CONSTANTAN
+o O
+A NTAN DHSCONME CT FOA INDIVIDUAL
+PCKUP TST
+FIR WAL.L. disconnect
+Thurga IP
+wwI nH INDICAT on of SCONNECTED ng instrukant SySTEAARE 51st ANCE 5 PO - PANE S OHMAS ( . 03 OH AWAS) NORAVA
+DETAL B ouTT
+COAAAAlON P0 —u. (ALUMAL)
+A-A ー
+o
+AAN NL PLCES PCT Haslo
+H AUAL
+CHOk-IL
+VIEW 1 d
+لئےیا PALATY von TICAt : GT ThEA P AIR FLCry b- EGT POBE EGI ksa Mocouvut ”oe
+NU f DETA A
+PLA TE
+Lбек мнЛ
+AAN ClJCII
+A CF - COW R
+NG
+A A MN INMNER OLA SE GT rest ACC
+3-3 AN ACAS
+TURBINE CAS.
+HaarSS NGIN!
+A WM
+EXHAUST GAS TEMPERATURE INDICATING SYSTEM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 216E DATE 12/89 PAGE 75
+3. Exhaust Gas Temperature Thermocouple Balancing (NOFE thru N105FE thru
+N36FE and N28 FE thru N223 FE
+The exhaust gas temperature thermocouple balancing resistor permits adjustments of circuit resistance. The resistor consists of a spool of No. 24 constantan wire with a resistance of 8.0 (+) lo percent, (-0 percent) ohms before adjustment. Since adjustment of the resistance is made by cutting off lengths of the wire, a spare resistance spool is included for each engine system. The thermocouple resistors are connected into the constantan lead of the circuit. The resistors are located on the second officer's panel support channel directly below the table.
+4. Exhaust Gas Temperature Thermocouple Balancing Resistor (N106FE thru Nll3FE
+a. The exhaust gas temperature thermocouple balancing resistor permits
+adjustment of circuit resistance. The resistor consists of a spool of No. 24 constantan wire, coarse adjustment terminals and vernier adjustment terminals. Since primary adjustment of the resistance is made by cutting off lengths of the wire, a spare resistance spool is included for each engine system.
+b. The thermocouple resistors are on the second officer's panel support channel directly below the table and are connected to the constantan lead of the circuit.
+5. Exhaust Gas Temperature Indicator
+a. The exhaust gas temperature indicator is a specially built, sensitive
+millivoltmeter with a dial graduated in degrees Centigrade, in a hermetically sealed case. Three indicators, one for each engine, are mounted on the engine instrument panel. Two terminals, marked plus (+) and minus (-) on the back of the indicator connect the meter unit
+to the thermocouple circuit.
+b. The instrument dial indicates a temperature range from 0 to 850°C,
+with normal and dangerous operating temperatures marked in a color code. -
+6. Exhaust Gas Temperature Thermocouple Harness and Lead
+a. The thermocouple harness is a flexible electrical conduit mounted on the circumference of the engine exhaust fan discharge inner duct. A two wire thermocouple lead from the harness is routed forward to an electrical terminal strip on the fan discharge diffuser outer duct.
+b. The harness is connected to the lead with a nine pin electrical plug, located on the engine exhaust section fan discharge outer duct at approximately 7 o'clock position.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 12/89 PAGE 76
+An A 2 TEKAANALS 42 f R FLOW TURINE CASE- FAN INNER CLASE (In LINE) SEE
+DET AL A 2 PECE DUCT
+COVER AR ING
+NUT LOCX NUT FAN PLATE AR CASE
+NET POARTS 42 EXHAUST
+GAS FLOW
+SECTION B-B
+THERMOCOUPLE ENGINE HAR NESS AREAR VIEW.”
+INDICATOR o ܲت] ? ܘ ] : ܘ o CENTER INSTRUMENT PANEL OUTLET IՒյԼET DETAL B PROBE PORT PORT
+HEAD EGT THERMOCOUPE PROBE
+DETAL A
+WIP-III aOJUT COAS AOUST CWS TE P5 AJ 36"5 TEPS
+Oܢܝ O
+OஇO O
+INOTEASE O) A - Na
+I NON AS
+ALANCNG RESISTOR BOX (VIEW WITH COVER REMOVED)
+V IE W 1
+HAANESS THRU V - AVERAGING LEAD Ο O) FAN CASE
+>
+DISCONNECT FOR
+NDHV DJAL PGK UP TEST
+صــ كتخـ
+TERMANLAL STRIP -
+EXHAUST GAS TEMPERATURE INDICATING SYSTEM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 216E DATE 12/89 PAGE lll
+7. Operation
+a. Each engine exhaust gas indicating system consists of eight
+thermocouple probes connected in parallel to an indicator and operated on self-generated power. The airplane power is used only for integral lighting of the indicators.
+b. The difference in the temperatures at the probes, the hot junction of
+the thermocouple, and the indicator, the Cold junction of the thermocouple, cause electrical signals to be generated in the thermocouple circuit. These electrical signals are proportional to the temperature difference between the two junctions and are measured by the indicator. Since the generated signals correspond only to the temperature difference, the control cabin ambient temperature must be added to this measured temperature difference to obtain the actual temperature of the exhaust gases; the indicator does this addition automatically. The control cabin temperature, where the indicator is located, is reasonably constant; however, Small temperature changes in the indicator are compensated with a bimetal (thermostatic) spring, connected to the indicator control mechanism. The indicated exhaust gas temperature is therefore an accurate indication irrespective of prevail ing ambient temperatures.
+c. The thermocouple probes are connected in parallel to obtain the
+average temperature of the exhaust gases. Another advantage of the parallel connection is that if a probe burns out or is damaged, thermocouple circuit is not disrupted.
+E. EXHAUST GAS TEMPERATURE SYSTEM WITH BOOST CIRCUIT (N20 FE thru N27FE)
+l. General
+The operating limits of the engine, monitoring of the mechanical integrity of the turbines and engine condition during operation are performed by measurement of the engine exhaust gas temperature which is displayed in the Control Cabin.
+2. Components
+The exhaust gas temperature (EGT) system consists of eight thermocouples arranged radially in the engine exhaust, thermocouple junction box located on left side of turbine case and an indicator on the P2 center instrument panel. The indicator receives ll 5v ac power from P6-3 circuit breaker panel. Chromel and alumel wires are used between the thermocouples and
+indicator.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 D0C ID - 2 lot DATE ] 2/89 PAGE 78
+TURNE CASEH
+二ー NNER CASE
+欧一 HOOD
+NLET PORTS
+- ALUMEL/CHROMEL
+HOT JUNCTIONS
+EXHAUST lễ- 0UTLET P0RT FLOW. P. s' LET PORTS (2)
+FAN AIR CASE--
+FAN ܘ l AIR FLOW to DUCT OCK NUT
+COWER
+THERMOCOUPLE RNG -■— HARNESS
+ENGINE
+REAR VEW
+EGT NDCATOR THERMOCouple
+CENTER INSTRUMENT PANEL PROBE (TYPCAL)
+CHROPEL (TYPICAL) ല
+EUS BAR داری"
+2
+OHa "ސ-(C-
+b- a 5
+Yo
+须
+1
+cR
+CR (CHROMEL) - WHITE
+Al- ALCALUMEL) - GREEN
+AWE RAGI NG LEAD
+THERMOCOUPLE UNCT ON BOX
+s
+リ
+At-UHEL
+Z (TYPICA. ) 2ዖዶዶሥዖዖዖዖዖዖዶ -/////
+s
+C
+R
+\A
+Լ
+= == == − --
+EXHAUST GAS TEMPERATURE INDICATING SYSTEM
+グ
+TERMINAU. STRIP
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 12/89 PAGE 79
+3. Thermocouple Probe
+a. The thermocouple consists of two paralleled junctions of chromel and alumel wires. One is enclosed in a tube which has an inlet hole facing the gas stream to provide a ram temperature rise. Two exit holes clear the probe. The second junction is on the probe tip, hooded, but exposed to the exhaust free Stream. The probe has two stud terminals, the alumel (-) terminal has a larger diameter than the chromel (+) terminal. The correct orientation of the probe with respect to gas stream is obtained with an index slot in the probe base.
+b. The eight thermocouples are connected in two groups, six and two,
+paralleled probes to obtain a biased average gas temperature. This network causes the indicator to read slightly false - highs to assure instrument interchangeability for the cooler running engines, especially when intermixed with same-thrust-rated engines.
+4. Thermocouple Junction Box
+The junction box is used to check the thermocouple quality and to check the temperature at each thermocouple for the engine "spread" check. Removal of the bus bars provides electrical access to each probe. From the junction box, the chromel and alumel wires are routed along the left side of the engine diffuser case to a terminal block where PW wiring joins Boeing wiring.
+5. Exhaust Gas Temperature Indicator
+The indicator is a served instrument with a dial graduated from 0 to 850°C. The normal and dangerous operating temperatures are marked in a color code. The range between 500 and 600C is expanded to give a more accurate indication. The indicator has integral lighting. Standby ac bus must be powered by placing the battery switch ON and the essential power selector switch to the detented, STAND BY position for an engine run with no normally supplied and/or selected ll5 v ac power.
+6. Operation
+The difference in temperature, between the hot junction at the thermocouple probes and the cold junction at the indicator causes a voltage difference in the thermocouple circuit. This electrical signal, with voltage proportional to temperature, is applied to the amplifier. The amplifier received regulated power supply from transformer within the indicator. Output of the amplifier is applied to a torquer which in turn drives the indicator pointer. With power interrupted, pointer goes to the O position. The indicator incorporates a cabin ambient temperature compensator for the cold junction to provide exhaust gas temperature indication irrespective of prevailing control cabin temperature.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+彦xP
+18O
+26E DATE 12/89 PAGE
+B727 ENGINES ATA 71-80 DOC ID
+SUBJECT:
+LIĤOHIO I SOO8 /WA WELSÅS "dWELL SV75) ISTVHXE
+(3SVO 3N18Hf]] 30 IS 143T) X08 N0 1 10 NTT
+så lan000 WH3H1
+3Tld[1000 WH3 H 1 BN19|N|3, .
+Tl3NVod H1SNI H 10 ZA H01 WJ10|N|3}}T\1\/s|B\d|W31 SV750 1ST WHX3
+8.Md 938
+《G)
+TBNWd 80 £-9d
+' UNI 103 o || 9 NE
+--Tv|TV )| @@\_/ +80 || .引でェ } !-
+-!(BSVO| H3ST143||0二丁 }30IS 143T) 9di HISTBWmTv TWNIW 1931| }CÔO} @9<?_0}| 103.NN00SIU } ^sĩ,ặğỹ TāW08H3 ?-3N15ONE三 � - HV8 儿们—S09 ƐO, JW A5-0 BBM0d , ! –>,”ƐuH9IT TW893LNI " |-| !-80 |! -|-+ Tw-!----N0|10|NȚIT į,}so unHJ/T \, +80|!
+『획
+oĻ9
+ST18 A81S 0\} AG!!
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 12/89 PAGE 8)
+7. Exhaust Thermocouple Instal lation
+a .
+General
+The exhaust gas thermocouples are located within the primary exhaust flow and transmit electrical Signals to a flight deck indicator.
+Instal lation
+The eight thermocouples are mounted in the inner wall of the primary exhaust duct.
+An index guide assures the proper positioning of the probe and a lock nut holds the probe in position.
+A 2 segment duct cover ring covers the terminal end of the probe and creates a passage for the interconnecting wiring.
+Accessibility
+Access to the thermocouples on a built up engine is through the tail pipe and thrust reverser. On those engines with the noise reduction kits installed, the exhaust mixer must be removed to access the thermocouples.
+Deactivation of the thrust reverser is required prior to entering the exhaust pipe.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 26E DATE 8/9 O PAGE 181A
+EGT, SYSTEM
+Purpose:
+o The exhaust gas temperature (EGT) system provides a visual display of the gaspath temperature at turbine exhaust.
+Components:
+O 8 dual junction thermocouple probes
+o Thermocouple cable junction box
+O Averaging cable assembly
+o EGT indi Cator
+Description and Operation:
+O The thermocouple probes are of
+chromel-alumel, dual-junction, stud connection type and are mounted in the average pressure probes on the turbine exhaust case and extend into the primary gaspath .
+O The averaging cable assembly consists of
+the electrical har ness Connecting each of the thermocouple circuits to a common junction box.
+O The thermocouple cable junction box
+consists of two terminal blocks and a cover. The junction box is mounted on the exhaust case at the 7:00 position.
+O The EGT indicator converts the heat
+generated temperature signal from the thermocouple probes to a visual display of the exhaust gas temperature in degrees C times lo O (EGT).
+ 
+________________
+WELSAS ĐNI LVOICINI LÐā
+90 PAGE 181B
+XO E ~NOI LONT! To CO 氏 府院(Saovid 8 TvoldÅL) C'}: BEOB|d 2-ETCHT. OOO W HE HIL 2r幻>,冷 城 知 확 와 환 T 홍 觀 홍 3 편 「. O d!1] © H− z 약 홍 = <, 从即印 淞料毁 日 山 和 |-Cl2-D <{(/) 葛3 U^) —] <T. >
+SUBJECT:
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+82
+PAGE
+2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 7-80
+SUBJECT:
+39 NV8 ĐH ‘NI 09-0 39TV5) E HOSSE H& H31SV/W
+! 3 N|9|NE, NO SN\/O NIVHO O L LNE OVTOV? NOI LOBIN NOO 1S31
+N0|||W|}|}|W|\&||SN|W|}||}|N|9}{}
+Tl3N\/d 1N3 WT81SNI SLOT1'd
+o HdB
+Wd!! %0.01-0 8313WOHɔw 1 831$\/W
+ZN
+TO 8 LNO O WN18||1 BLOW B B OL
+8 LWX }}dB
+HOLVH EN39 83 LBWOHOVIL ZN
+Ɛ-9d
+WIB. L. >)引*引證/\8?
+TBN\/d S,N\/WWW.B. 80 CJ88|| CJNIH 38 - TB HS H BONT BT10\/Ld30=|}} W 181 EN15) NBA

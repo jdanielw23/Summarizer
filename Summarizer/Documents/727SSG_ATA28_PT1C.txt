@@ -1,0 +1,468 @@
+﻿gూ MANTENANCE TECHNICAL TRAINING P* E.VarhyA: 1 bike 22 J yy N B0
+SUBJECT- 727-2OOF FUEL SYSTEM ATA-28 DATE 6/83 PAGE 29
+FOR TRAINING PURPOSES ONLY
+C. Fuel Quantity Indicating System
+l. General Description
+a. The FUEL QUANTITY "MASTER" INDICATOR is part of a
+capacitance bridge circuit which includes a network of capacitors in the tank. This capacitor network contains one GAGING COMPENSATOR in each tank, and as many as eleven TANK UNITS. Each main tank circuit includes a fueling VOLUMETRIC TOPOFF UNIT, and one or two VOLUMETRIC TOPOFF COMPENSATORS.
+b. The "master" indicator measures the tank unit capacitance
+to determine the weight of fuel in the tank. This measurement is shared with the volumetric topoff unit in the ma in tank Circuit . The in di Cator al So measures the capacitance of the gaging compensator to correct for deviations caused by the composition of the fuel from average fuel.
+l
+- J , l J TY
+ES YOLU METRic Topoff switch N o O PAooing -s g Y cAPActor ft P RA JRE
+! ኣዘ[]lርÃI ህ H AGING N out 5uAMAFFON COMPENSATŲ P4 ། နီkrrး Uk1 PLಣ್ಣs
+WLuwE TRL Fų T R" SЈНР ԱՀ 10F-UK : c.A.R ፪ አ(!፡ # '§
+FUEL SYSTE A LUX, PA ME P 1 !
+: S ouPENSA UA
+《ལྷ─────────ས་>《
+r:ST
+TAN ur ac COM NECTOR T R I MER CAPACITO HS
+աT 0 ! Լ նt * Ա ԱT l RS ET SY I TCHES
+WOU hyd. Ef R || C RE ph TOPOFF Jh T "R * PHAft n" CO kad PEMSAT O R է: : STICK DI CATORS YASH, i.
+! E LIMG Full PA PWEL CHE WALW. Ps
+FUE LING VALVE
+ܔ FU ELINC 少 AESTRCTOR ータ
+s ՀՀ Կ
+TAK
+TEMPERATur
+э (Sy:
+"a , 88 TAK r GAG: MG COPEASA TOR
+AFE O ” ሥጋ WD LL FRC HEK. VA LWES
+F ዐጹE କ୍ରୁ S
+e- ro
+TANK UNT COM PENSATOR5
+Futu u AITTY IRIDEATHE 5TETE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+త్తా
+TEVh4 - ) dG, 2G JUNI 8U)
+MANTENANCE TECHNICAL TRAINING
+SUBJECT 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 30
+FOR TRAINING PURPOSES ONLY
+The "master" indicator sends a voltage signal, proportional to the tank fuel weight, to the "REPEATER." INDICATOR on the FUELING PANEL, Pl5. The sometimes, optional total fuel quantity indication receives this same voltage signal from each "master" indicator for Summation .
+Test Switches check indicator and System operation, not accuracy. A TEST GAGES switch on the Flight Engineer's FUEL PANEL, disabled during fueling, should cause each "master" indicator pointer to move downscale, and the total quantity indication to move upscale. A TEST GAGES switch on the fueling panel also checks the indicators. This test switch causes signals that should result in the "repeater" indicator pointers moving downscale. The "master" indicators normally move upscale during this test and the total quantity indication moves downscale. The test switch on the fueling panel also tests the volumetric topoff units by causing the main tank "master" indicators to send a simulated full-tank signal through the tank unit circuit. This test should close any open main tank FUELING WALWE.
+TANK UNITS are tubular capacitors in the fuel quantity capacitor network. The tank units are mounted nearly vertically in a precise, through apparently random pattern throughout the tank. The tank unit length (i.e., height) is almost wing-skin to wing-skin. The inner tube has a pattern of cylindrical sections of changing diameter and length along its height. The outer tube is a cylinder of constant diameter. The profiling and placement of the tank units, related to tank shape, assures a correct relationship between fuel covered plate area and fuel volume.
+Each tank unit is unique and indexed in a specific position or symmetrically opposite position. The tank units, if more than one, are wired in parallel via the TANK UNIT CONNECTOR ASSEMBLY (CABLE) and the volumetric topoff unit baseplate. The tank unit arrangement assures accuracy over a wide range of airplane attitudes, maneuvers and wing deflections because several tank units are wetted. The Outboard two tank units in tanks l and 3 are paralleled in the tank to avoid the need to enlarge the hole and connector in the spar.
+The tank units measure fuel weight in terms of fuel Dielectric Constant and proportion of network capacitor plate area covered by fuel. The Dielectric Constant of the fuel varies with temperature in nearly the same proportion that specifif weight (den sity, or specific gravity) varies. The tank unit capacitor network plate area covered by fuel is in proportion to fuel thermal expansion or contraction, inversely proportional to the Dielectric Constant Variation.
+________________
+巴
+SUBJECT
+FEC-ha-1 a 29 Juneo
+MANTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 31
+FOR TRAINING PURPOSES ONLY
+The gaging Compensators are tubular capacitors mounted low in the tank, near the Sump level. The gaging compensators measure the fuel Dielectric Constant to assure a correct relationship between the fuel Dielectric Constant and the fuel specific weight. This improves "master" indicator accuracy.
+A VOLUMETRIC TOPOFF UNIT is part of each main tank fueling shutoff circuit. Using the fuel quantity indicating system for fueling control allows maximum usage of tank available volume by taking advantage of the multiple sensors in the main tank capacitor network. This reduces errors due to airplane attitude changes and wing deflection on the full-tank shutoff level.
+The volumetric topoff units are mounted on the inboard wing front spar and form part of the fuel tight tank wall connector. The volumetric topoff unit measures the capacitance of the volumetric topoff compensator to determine the specific weight of the fuel in the tank during fueling. The unit then calculates the weight of fuel that would be a full main tank. The volumetric topoff unit also measures tank unit capacitance to determine the actual weight of fuel in the tank. When the actual fuel weight equals the calculated full-volume, the volumetric topoff unit closes the fueling valve. Unfortunately, the weight signal also equals the calculated weight signal when the tank is empty or nearly empty. This is the reason the main tank fueling valves will not open if the tank is empty or nearly empty.
+When the Volumetric Topoff Unit closes a main tank fueling valve at full rated volume, it electrically locks the valve circuit closed so that Slosh and wave action will not cause the valve to cycle open/close after initial shutoff. This lock-out circuit is the reason, with a near-full tank, the fueling valve will not open by the fueling valve switch. It is also the reason for not using the fueling panel gage test switch when the tank is nearly full. This lock-out circuit is also involved with the nearly-empty valve close signals.
+The fueling valves, in lockout, can be opened by following the procedures on one of the fueling placards or by operating the manual override handle on the valves. Manual operation of a valve requires that its circuit be de-energized. The most convenient way to override the valve-Close and lock-out circuit is to use the volumetric topoff reset switches.
+________________
+FC Wr-d'A-1 O 2 JUNI 80
+MANTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28
+32
+DATE 6/83 PAGE
+SUBJECT
+FOR TRAINING PURPOSES ONLY
+V − li – k. — *I # U £ 1 0 1 Y I E51 VOLUMETRIĆ-Q TUPOFFSWIT CH~] © o` „YYYY [PADDING)is MP, RATURĘTo CAPACITŮH|N|J|CAT U Ħ# Us | SUMMA:s IDN GAGING~);|UNIT (PDCS) CUMPĖ ŃSÅ TUHNGO“ḥAşı : Roo汇 グVUŁU MET HIR:INDICA I DR.配*P | SUMP،[[]P. (JFFFUEL SYSTEMX. PL I 铝镁卧儿么COMPENSA108 #ĀŅĒĻ Ēģ\|\]\] rèsi VALVE„off:父Tank unui țTĒŪTÍ CONNECTOR 22I HIMMER CAPACITORS TÅNK UNIT CŨNNECTOR ASSEMBLYVT [] ([[JCK JUT|
+{CABLE}RISET SWITCHES W01 UMET HIC“REPŁA TE R” TŪPUFF UNITMÉ ASURING SI ICK|WIJIĆA TURS
+CUMPENSATUR{DRIPSI ICX|FUELING WASHING LINETEST GAGESPANEL FUELINGSWITCHP15
+CHECK WALW's
+FUE LING VALVE
+FUE LING RESTRICTUR■
+،・ 〜Qs= ost; -巴...~ TANK ! &}*---- TEMPERATURE严 心BULETANK !- GÅGING• (7TANK 1 COMPENSATOR
+BAFF LE*: O V0 i UÂMETRICCHECK VÅLVES
+藏TUP, OFF
+TANK UNIT COMPENSATORS
+rusų ūUANTITY INDICATING $YSTÉM
+ 
+ 
+ 
+ 
+ 
+________________
+ANTENANCE TECHNICAL TRAINING fe-hit 25 Juneo
+727-200F FUEL SYSTEM ATA-28
+SUBJECT DATE 6/83 PAGE 33
+FOR TRAINING PURPOSES ONLY
+m. The VOLUMETRIC TOPOFF COMPENSATORS are tubular capacitors
+mounted low in the tanks, usually near the Sump level. Main tanks No. 1 and No. 3 each have a second volumetric topoff compensator that is mounted outboard several rib-bays and slightly higher. The volumetric topoff Compensators measure the fue Dielectric Constant to determine the fuel weight for the volumetric topoff unit calculation of full main tank weight for the rated full volume capacity of the tank. These compensators also have a correcting function Similar to the gaging compensators.
+n. Tanks l and 3 have two compensators to help average the
+effects of fuel in-the-tank with fuel being added during fueling. The two compensators minimize the effect of fuel stratification. The inboard compensators in tanks No. 1 and No. 3 also have washing lines to improve this averaging.
+o. Tank 2 has a VOLUMETRIC TOPOFF (PADDING) CAPACITOR to
+make the wiring capacitance more like TANK 1 & 3. This capacitor is mounted in the left inboard wing leading edge, near the tank 2 volumetric topoff unit.
+p. During fueling, the COMPENSATOR WASHING LINE jet of fuel
+causes local mixing to reduce the effects of fuel stratification and fuel type differences on the full-tank Shutoff level and gaging accuracy. This washing action tends to remove water that may not have been removed by Sump drain procedures.
+q. The fuel quantity indicators and volumetric topoff units
+have adjustments. These are: empty and full on each "master" indicator, full on each "repeater" indicator, empty and each active channel of the total fuel indication, calibration (full tank shutoff) and trim on the volumetric topoff units. The indicator adjustments are shopset and sealed. It is intended that only the tank unit trimmer capacitor be adjusted when changing any precalibrated indicator. -
+r. Proper Sump drainage remains extremely important for proper volumetric topoff operation and fuel quantity indicating system accuracy.
+S. MEASURING STICKS are for manual measurement of main tank
+fuel quantity. The graduated fiberglass tubes, stowed in the lower wing surface, measure fuel by locating the height of the fuel surface.
+________________
+墨ア
+SUBJECT
+MANTENANCE TECHNICAL TRAINING
+FEC-M-193 23 JUNO
+727-2OOF FUEL SYSTEM ATA-28 DATE 6/83 PAGE 34
+FOR TRAINING PURPOSES ONLY
+2. Fuel Quantity Indicators
+a. Features of the FUEL QUANTITY INDICATORS are:
+(l) ll5V AC, Hz powered, essential bus, APU generator or
+(2)
+external power when fueling.
+Capacitance measuring bridge, self-rebalancing, close
+loop, fuel dielectric variation sensing, fuel dielectric deviation compensated.
+Split phase, reversible servo motor (phase sensitive), gear train and bridge amplifier driven rebalance potentiometer and pointer.
+Weight graduated dial and pointer, with subdial, (pound or kilogram um its - optional ) .
+Current limiting (explosion proof), low power (low voltage and low current) in tank circuits, limited fault current and voltage.
+Dampened: Full dial sweep in 80-90 seconds.
+Sensitive: Less than 1/2 picofarad capacitance change to cause motor operation, very sensitive to stray pickup (shielding integrity, insulation integrity, fuel/tank contamination, connector integrity).
+FULL ADJUSTMENT
+EMPTY ADJUSTMENT
+FUE OUANTITY INDICATOR (MASTER AND REPEATER)
+ 
+ 
+________________
+ూ
+SUBJECT
+(8)
+- WYAT . PAA av v krvi bay
+MAINTENANCE TECHNICAL TRAINING
+727-2OOF FUEL SYSTEM ATA-28 DATE 6/83 PAGE 35
+FOR TRAINING PURPOSES ONLY
+Precalibrated: Standardize (shop adjustment) voltage to the tank units and standardized (trimmer capacitor, airplane mounted) tank unit network capacitance allow Shop-set empty and full adjustments.
+Line adjustment: None intended.
+(a) Precalibrated indicators may be used as spares for non-precalibrated airplanes (early or unmodified airplanes). Broken seal on adjustment cover requires shop recalibration or line adjustment procedures as for non-precalibrated indicators.
+(b) Non-precalibrated indicators may be used as
+spares for precalibrated airplanes using appropriate adjustment procedures.
+(c) Empty and full, if line adjusted, require Special, calibrated, explosion proof test equipment for "calibration" (i.e., adjustment and troubleShooting. Test equipment (units and adapter cables) grounding critical, or return precal-type indicator to shop.
+(d) Adjustment data placard on instrument case.
+ReCorded data: blank if in di Cator remainS in precalibrated mode. Line-adjusted mode requires operator to fill in blanks.
+(e) Hermetically sealed.
+(f) Internally Lighted: Powered from the panel
+lighting circuit.
+(g) 28V AC and DC internal power supplies.
+(h) Two indicators are used for each tank quantity
+indication system. "Master" indicators are installed on the 3rd crewman's fuel panel (P4). The fueling panel (Pl5) has "repeater" indicators. Master or Repeater indicators are functional modes for the same part numbered units. The "repeaters" can serve as fly-away Spares.
+________________
+SUBJECT
+MAINTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28
+FOR TRAINING PURPOSES ONLY
+DATE 6/83 PAGE
+- Eve-ta- i te 26 Juђt EO
+36
+e P FUEL Es P6
+suATION s AN LOAD.CONTRO-CETE, E-oft PursKEL 다. 그표 -----------། །──- ──--
+PDCS | Γιεν ές - - 6 Ėss BUs 6f>- Bus | له -- | ۴: R ل--------ا PILOTS' AFT chap.34) THIRD CREWMAN'S ELECTRONIC AUX PANEL P11 TO FUELING 28voc ဗူး"TRou PANEL TOTAL FUEL WALVES Sud BUS NO2 US
+Ο JANTITY d Čmm -ل p4 THIRD crewAN's PANEL / INDICATOR um as ------ SS SSLL LSSLL LSLSLS s De duo me FUEL GUANTITY N) A. ||: || ཅ༠༥་ | RELAY R97
+A ဗြူး" R) EST vr ) TEST ད། ) .ه که | الجسم
+SE Sd SW ο μο 28νος
+d لها ـ أ
+fueling POVER ! 5v | TRANSFER RELAY AC l ms . لـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ ــــــــــــــــــــــــــا E1-5 APU EQUIP RACK محصہلے ال
+s N PULTIPLE ། ། ། ། FUELING POER SUITCH
+IRE JURE כל י
+FUELING CONTROL PANEL ဂိ႔ငrroး (γγP) NLIGHTING TRANSFORMER THIRD VOLUIETRIC CREWMAN" S TOP OFF TABLE LEG UNIT PLUG M SH FUELING USSNG PLUG CONTROL / uc ܓܠ Sド పాత్ర
+TOP OFF UNIT TEST AN ད། A دبم A DJ USTA ENT A. CONNECTORS ހޗަހަހި يرتكم
+ܓܠ 6 ༄། / SYN FO | O || CD 〉། །
+Y
+7
+TANK UNIT CONNECTOR
+COPA PENSATOR
+UNIT
+って
+Fuel
+TANK No.2
+TANK NO.S
+Quant i ty Indi ca ting System Scheaat i c
+WOLUMETRIC TOP OFF COMPENSATOR UNIT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+gూ
+SUBJECT
+is
+WTF I DAG 29 N A
+MANTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 37
+FOR TRAJN ING PURPOSES ONLY
+3. Fuel Quantity Circuit
+d.
+The bridge transformer in the FUEL QUANTITY "MASTER" INDICATOR applies a fixed voltage to the TANK UNIT circuit. The resulting current is sensed by the VOLUMETRIC TOPOFF UNIT SHUTOFF RELAY amplifier and the "master" indicator SERVO amplifier as a voltage drop across impedences of the amplifier inputs. Fuel added to the tank will increase this current in proportion to the weight of fuel. The E (Empty) potentiometer of the bridge transformer applies a fixed, but adjustable, voltage to the EMPTY REF (reference) capacitor. The Current, in a proper ly adjusted ind i Cator, is equal in magnitude to the dry tank unit current, but of opposite instantaneous polarity and is sensed at the servo amplifier input. For a nulled empty tank bridge, the SERVO motor has no choice but to run the BAL POT (balance or rebalance potentiometer) pickoff to a zero-volts position. Ideally, this is also the zero weight graduation of the dial.
+The two current paths, sensing and balance, are completed to the bridge transformer center tap (i.e.; AC zero) through the current LIMITER. Normally, the limiter offers no impedance to the AC current since the normal AC mdulates the forward DC bias below the limit of diode operation.
+When a ground occurs on any wire between a bridge transformer and the tank units or compensators, the limiter diodes are alternately reverse - biased to cutoff when the AC instantaneous polarity exceeds the DC forward bias. When each limiter diode is in Cutoff, the Circuit is still complete, but through high-impedance resistors bypassing the diodes. These resistors, in series with the bridge transformer, limit the current to 10 Ma, a safe, explosion-proof level. Current limiters are in all "master" and "repeater" indicators and in the volumetric topoff units.
+When fuel is added to the tank, the increased current in the tank unit circuit upsets null and causes an amplifier output to one phase of the servo motor. The amplifier Output leads (or lags) the reference phase by 900 such that if the tank unit current exceeds balance current, the motor drives the pointer upscale and the potentiometer pickoff upscale to what is normally a higher voltage. The motor drives until the balance potentiometer voltage, applied to the FUEL REF (reference) capacitor and the GAGING COMPENSATOR, now also wetted, results in a nulling current at the amplifier input. As the amplifier input approaches null, the motor slows the eventually stops as the amplifier input sensitivity limit is reached, ideally at null.
+________________
+TEVWA * 10 20 JUN 80
+MAINTENANCE TECHNICAL TRAINING
+CO or) LLP (...) «), s. tro CƠ ~). VO uu |- 春 ©
+r
+በዞዛ ዛ - n | ||Hr—: |그*(*^, 혁량% }|- |wa 1, 1A, |s Uss lix G w Alwi 1 1 CO+r1L: ?(†)}r + <s]|-義)HWDLu藏T雪10 如心 —*i፡;|ဗူးfr !·ı• -11니티 :i 3う。-•lroi ;u urt!| >E能%配了仁}—+–| [H–+ Lųi!-杜重1 |-段}ı Hurri H|| suae?(/)Aux.韃Ö---- L-} >-?*01who! ----* 世 * ubung= vn|| ?程w器——[ Isi awd-|+ | –)R.:aeruv 0 t*--[-|—Quawi II y II E¡堂式神.器| LLIs ul | Isoss; P(\ws oR醛nIIIIt Aw, si1 E] ©thai, si a hii åy o „os::fff;" |Isso_I # -----+-+-+---+ · ·* * * * *l L-|×| + Istw 0c L-树$ဖ်ဇ် F” f°ါး-—s_! 0 | ሀ! 1 !kዞ፡+------ - 3|없km“F野菇。每。雅H且 co)|-**<–[ì.--> u 10,v0ł usus † atL–4いに艦をA1-DM D』 m, s. Ofor us !<!---, 10 *1 + 1 × 1 × × ×ı タ』一『I us simț, hae I am B.o.501!!w!u. twas i iws. —)----CHAM W11 to,*Ash i dan tuntaui pawt u pos(t.----器1 -+ ul ural,圈san : row{!!!|၈w-- - -→ ·ዘዞ'| ‰! Łą (w ut wae i włs.----1 ዘበiዛ||} 白丁事工1霍M 红三...FT----站"[+ +汾 bus---- ++ 5妊”们i>B>若* 如, !!!!, 非!!,状ĥ i low at*||--sı, sae li ---+---+→ +|× ----→Iumıf i Pulai- ---- u!Apu t.i *ニシ*isho,|ሆ! 1}||- 1 **+ 剧王一一和 1
+-二M ɔ~on,"$ıl, hait-otiusou ! tu pi ai u awanu ∞·Vi ut at i us !ti å ta t-trupu, i a |—~);– v „ „ ,,,,, ] ****** outs’ u1 + 7 f!「マーにに“じに|若“w_- |-+ h uwa ----[ī> 0, 1 is a su v at ».
+|-~ # uł w mael, pashı I. i 1 turnu, rt.* t
+FUEl []UANTITY CIRCUIT FOR TRAINING PURPOSES ONLY
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+gూ
+SUBJECT
+sa "*rA I IR AG s vyf
+MAINTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 39
+FOR TRAINING PURPOSES ONLY
+The F (full) potentiometer of the bridge transformer applies a fixed, but adjustable, Voltage to one end of the balance potentiometer. In a properly adjusted System, the Voltage which produces the nulling current appears on the balance potentiometer at a di al graduation that represents the actual weight of fuel in the tank. Empty, full and tank unit (TU) adjustments correct for manufacturing and installation tolerances of indicators, tank units, compensators and wiring. Empty (E) and Full (F) are line adjustments, but only if this indicator is u Sed in an airplane Without a precalibrated indicator System.
+The precalibrated system indicator has standardized shop-set adjustments. The airplane's tank unit network is "trimmed" to the precalibrated indicator.
+The currents arriving at an amplifier input, nulling point, from the sensing side and balance (Qr reference) side of a bridge circuit are, ideally, 1800 out-of-phase for null ing to occur. A res istor is in each wire to a capacitor or capacitor network to reconcile power-factor differences, to reduce unequal shifting of Current and voltage phase angles due to the reactance differences and changes. These resistors also play a part in fault current limiting. An example of this phase - shift effect (called quadrature) is when, at the servo motor, the amplifier phase does not lead or lag the reference phase enough to develop the necessary driving torque. Note that contaminated fuel, fuel tank, tank units or compensators can become "resistors" and change current and power factor too. The contamination is usually water.
+Water, seldom pure, acts more like an electrolyte than a die lectric, shorting or shunting the tank mounted capacitors and connectors. Water usually causes an obvious gage response (off-scale high or low, no response, slow response) and usually before other water related problems develop (corrosion, engine flame-out, etc...). A hidden characteristic of water is that as ice, the Dielectric Constant is approximately 2, nearly the same as fuel. Ice could be building up unnoticed in the fuel tanks. Pure water has a Dielectric Constant, K=80 approximately. If water is between the plates of the tank units or compensators, it has an effect 40 times greater than fuel covering the same plate area. An additional problem caused by contamination is that a fueling valve may not open for fueling or may not close automatically when the tank is full.
+________________
+| h=urrer i a asw u u f'N BOAV
+MANTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 40
+FOR TRAINING PURPOSES ONLY
+s ー王 空*話を 赛宅零巫江 ܣ ܣ- ܚ re as Sir ERi -- コー二 - - *ご C r - a C 系< un - च नै un sa te -- 9
+- 言 2:3 a · E * 5、 r e G|| E되E בב 霍二 窦艺5
+- 空| 字率三 - 要至 드 : 크 - : E F y el - - w 2 三 ー s w . * R || || 2 : Ee
+- 三通 .شد
+兰1 > =
+- A - VI i - - |- - - 프 :
+- - f
+mue la SSS S S SLLLSSS SS SS
+s - - 2 C ; ゴー
+w ÉE S -- If
+- es 宗兰弓 는 ܫܕ
+ー。 eE : ; 5
+「至三 エ士 ミ「三|士 霍 Vr , 스
+s -
+AG
+t
+: : *a
+FE. E 露三三 - 0 JJY 3. 汗三 스 F
+S is mwyn E O 2
+تا ح - 手玉 。
+E F --
+s 玉 sത്ത് 맞
+· - · 之 こー 되 גם - = قد جع ニ三 | c tم : ; * | 垂 エ 권 si : a O 호 VM KM) Yr ::
+エ至 로 - + a : : s
+- F
+目
+H H 三±车业 ±至 :
+=「ミ*=『キ* - o 襲ま == ー
+す
+s
+E
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+feC-M.1 2 JUNO gూ MANTENANCE TECHNICAL TRAINING
+727-2OOF FUEL SYSTEM ATA-28 4.
+SUBJEGT- DATE 6/83 PAGE
+FOR TRAINING PURPOSES ONLY
+i. The servo motor is coupled to the balance potentiometer
+and dial pointer through a speed reducer geared assembly. This minimizes Cycling of the indication due to over travel, fuel slosh and wave action, but allows the indicator to respond, without lag, to the fastest fuel quantity changes, as during fueling, defueling or dumping. The gear train contains a clutch that slips if the servo drives the pointer above or below the dial scale ends. During maintenance, when certain connectors are open, while the indicator is powered, causes the pointer to be driven to the Stops. Prolonged maintenance operations require the circuit breaker(s) to be pulled to prevent clutch and indicator damage.
+j. When fuel is added to the tank, the current developed in the par allel circuit o the fuel reference and GAGING COMPENSATOR capacitors is biased by the effect of fuel in the Compensator. This causes the current on both sides of the bridge to change the same amount by fuel-composition caused Dielectric Constant deviations.
+k . Ideally, the effect of fuel deviation in the tank units
+is nulled by the effect in the gaging compensator. This is often referred to as density compensation, descriptive but not technically correct.
+l. When the bridge is nulled, the balance potentiometer
+voltage is an equivalent (analog) of tank quantity. This voltage is sent to the REPEATER INDICATOR on the fueling panel (Pl5). This voltage signal is also used for total fuel quantity indication, if instal led. TOTAL FUEL QUANTITY INDICATOR (s) are optional. Total fuel indication is a feature of the performance data computer system, another optional System.
+m. The "repeater" indicator measures the "master" indicator
+balance potentiometer voltage analog of fuel weight. The mating connector at the fueling panel changes the indicator mode from what is basically a capacitance meter in the Flight Engineer's panel (P4) to a cCapacitor-coupled bridge-type voltmeter. As a repeater, the F (full) potentiometer is set as required to make the repeater read the same as the master indicator. The E (empty) potentiometer has no function in the repeater mode. Ideally, if the repeater F potentiometer was adjusted with the master indicator on empty (zero) the repeater dial pointer would not move. For "fly-away spares" purposes the repeater indicator Could be adjusted as if it is the master, then reinstalled in the fueling panel without further adjustment. Acceptable repeater accuracy should exist since there is no empty adjust capability.
+________________
+డా MANTENANCE TECHNICAL TRAINING F EWu/ryñ " h A0 253 u Vu N bAV
+727-2OOF FUEL SYSTEM ATA-28 42
+SUBJECT DATE 6/83 PAGE
+FOR TRAINING PURPOSES ONLY
+SEE VEW 1
+O UICK - - - - - - - - - - - - - l RELEASE FÄSTENÈR --KS) || !(S) 4-PLACES 'ኳ -
+FUEL SUMMATION UNIT
+(S | ୯ଷ - - - - - - - - - - - - - -ل
+P1 PAN EL
+PROTECTIVE ELECTRICAL CONNECTOR COVER RECEPTICLE
+ADJUSTING 8B Θ 器 ) کھمبر
+YPICAU HoH FUEL
+དེ། ། SUMMATON
+PT Y TAKK i UNIT
+TAky 2 TARA 7 T AA x 7 2 CELL LL
+Fwic ںه« Y P4. WD Au. Ar 7 'බ්‍රි "S “ဦည်”
+af Taux E T AJK AF i å lyk Do A. D. Its tá l. Al
+(3)
+VIEW 1
+BRIGHTNESS J_zrf ́ငြိဝံ့N?fiဝါÜ
+S KNOB
+AS CATHODE RAY P U E - 3 9 SE SCREEN
+SEL OLIR EINT
+CONTROL LOAD X FL OSPLAY UNIT (CDU) -=ep-o
+tural '918 CONA
+OES
+CR
+(S O || CLB
+ENGAGE "O say A
+MODE SELECTOR KNOB
+PLOT"S AFT ELECTRONIC CONTROL PAN EL P3
+FSU and CDU Components
+ 
+ 
+ 
+ 
+________________
+歴エ
+r" bGWHar " i uAR0 2>O J V N bRU
+MAINTENANCE TECHNICAL TRAINING
+SUBJECT- 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 43
+FOR TRAINING PURPOSES ONLY
+Test switches check indicator operation depending on the modes of the system, nonfueling or fueling. The FUEL QTY TEST (P4) circuit in the Fight Engineer's parie is inhibited during fueling, i.e.: FUELING POWER TRANSFER RELAY (R5) energized. In a nonfueling mode, the Engineer's panel test switch causes a short circuit of the voltage applied to the tank units.
+4. Fuel Summation Unit
+ӑ.
+The Fuel Summation Unit provides a total fuel weight proportional voltage analog to the Performance Data Computer System (PDCS, ATA-34-18). The PDCS drives cursors ("bugs") and digital counters of the Engine Pressure Ratio indicators and airspeed indicators to assist the pilots in obtaining optimum performance efficiency for conditions and modes along the flight path. The PDCS Control Display Unit can indicate total fuel and other useful information as required. Total fuel weight voltage is used by the PDCS Computer to der ive airplane gross weight related data and rate-of-fuel burn related data. (The fuel flow meters do not input the PDCS.)
+The Fuel Summation Unit uses an amplifier to measure the output of a parallel-current-summing network. Each input channel of the Summation circuit is line-adjusted, so that the current in a channel is proportional to the total current from the network in the same ratio that an individual tank capaccity is in proportion to the sum of the capacities of all tanks. For example, if one tank changes fuel weight, the "master" and total fuel indication should change the same number of weight units. The empty adjustment (E) is line-adjusted to correct for any zero volts/Zero weight discrepancies in the "mla Ster" in di Cat Or S .
+The amplifier output, sent to the PDCS computer, is proportional to total fuel and, of course, bus-voltage. Therefore a second amplifier sends a compensating bus-voltage proportional reference to the PDCS computer. The summation unit has input channels for optionally installed auxiliary tanks. Unused input pins must be grounded.
+________________
+MAINTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28
+FOR TRAINING PURPOSES ONLY
+SUBJECT
+AV ir Tas
+FEC-M-1 2 Juneo
+DATE 6/83 PAGE 44
+Θ Θ
+FUEL OUANTITY ICALIBRATION
+WEN SURGE TANK
+Fuel Quantity Indicating System Equipment Location
+T A. N K FUEL CUANTITY | NDCATOR m TEST SWITCH T A. 水- N K es FUEL QUANTITY
+NOCATOR 2
+CAPACITANCE A. TRIMMERS ح +-
+5) i = ജീജ്ഞം (GE) (GE)
+THIRD CREWMAN'S LOWER INSTRUMENT PANEL P4
+FORWARD LEG OF THIR O CREWMAN'S TABLE
+FU EL SUMMATION UNIT
+THIRD CREWMAN'S WTO UNIT AUXLIARY PANEL P.11 MEASURING SCK NO. 1
+SEE OETA A
+MEASUR NG STICK NO. 2 SL SS SL L L S L S LSLS SL SLL LS S LS SL S SL SS (ACCESS PAN EL NO 7) ರ್ಟ್ಲಿ TANK SEE DETAL 8 SEE O ETTA D MEASURING STICK NO. 3 (ACCESS PAN EL NO 10) SEE DETA. E.
+TANK UNIT SEE OETA C SPENSATOR MEASUR ING STICK NO. 4 Y (ACCESS PAN EL NO. 14) ۱ همراه SEE O ETA IL B كأنني
+o- Y VO اج عددهم (სშ-2)უ ܐܟܠ COMPENSATOR リーと UNIT (WTO)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+FEC-M1, a UN so gP MAINTENANCE TECHNICAL TRAINING
+727-2OOF FUEL SYSTEM ATA-28 DATE 6/83 PAGE 45
+SUBJECT
+FOR TRAINING PURPOSES ONLY
+FUEL
+OUANTITY CALIBRATION
+"ך A N 之十 K
+།།
+A CAPACITANCE N TRIMMERS K
+2 CAPACTANCE
+TRIMMERS T (SEE VIEW 2) A N K OWER O SCONNECT Ֆ BRACKET (SEE VIEW 1)
+FORWARD LEG OF THIRD CREWMAN'S TABLE
+VIEW 2
+鱗 §လိုဇိüနွှဲလိုဇို ခြု\ို ́ဇံg
+N べ○やイ@ TANK No. 1 ܓܠ N Sク ミ多 S=ހ( CONNECTOR (UD こク
+ミク 9 UP Sస్టోస్వైత 2 TANK NO. 2 FWO TANK CONNECTOR CONNECTOR Հ
+NO. O4332P
+TANK No. 3 No. 2 C433OP CONNECTOR
+NO. 3 O432P
+VIEW 1
+Third Crewman's Component Locations
+ 
+ 
+________________
+FEC-M13 23 Juneo gP MANTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 46
+DATE 6/83 PAGE
+SUBJECT
+FOR TRAINING PURPOSES ONLY
+Co)
+ご
+测
+C-RNG - QOY
+3 EA ALCO
+PRING GIOIE
+ܓ`
+N ayon ET
+r - SEAL
+N
+O-A ING ဗူးKING HEAG A P
+HA ORP HOLE
+MARIUM 22 SIG
+DRIP STICKS (9 PLACES)
+*ణిజిజe, , , , NB
+கக்க்சிங்க்ஷ டிx.
+MEASURING STICKS
+ 
+ 
+ 
+________________
+凰 MANTENANCE TECHNICAL TRAINING "EVrh ri tër, 23 JU N eq
+SUBJECT 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 47
+FOR TRAINING PURPOSES ONLY
+5. Measur ing Sticks (Dripsticks)
+a. The measuring sticks are graduated fiberglass tubes
+Stowed in adapters in the tank bottom/wing lower skin. Tnaks No. 1 and No. 3 have four dripsticks each. Tank No. 2 has one in the right hand section. The sticks are located by a red circle around the Seal ing/lock ing head and tank No. 1 and No. 3 sticks are numbered, in board to outboard, No. 1 through No. 4. Tank No. 1 and No. 3 dripSticks No. 2, No. 3 and No. 4 are instal led in indexed tank access panel S.
+b. When the dripstick is unlocked and Slowly lowered, fuel
+will appear at the drip-hole in the Seal ing/lock ing head stem when the upper end submerges into the fuel. The dripstick scale is read at the flat surface inside the Stowage receptacle. Utilizing the appropriate tabales, the amount of fuel can be determined. A secondary use of the dripsticks is to obtain fuel samples other than at the sump drain valves. It is possible to take stratified samples. For example: specific weight averaging measurements. The dripsticks are graduated in inches with 0.2 inch subdivisions. The weight sticks have non-linear scales with subdivisions as required.
+c. . To read the dripsticks and use the tables, the airplane
+ground angle of pitch and roll must be known, the airplane must not be rocking or flexing and fueling agitation must have stopped. The tables are used to correct for ground attitude effects. Also, they correct for wing bending due to differential thermal expansion between upper and lower wing structure for tanks No. 1 and 3.
+d. The tables convert the inch-dripsticks to fuel volume
+units. Volume units are coverted to weight units by computation using the fuel specific weight. The weight-unit dripstick readings must be corrected by Computation if the fuel Specific weight is other tham 6. 7 pounds per U.S. gallon (or equivalents: 3.039 Kg/USG, 0.8029 Kg/liter, 8.046/pounds/ - imperial gallon) .
+e. The dripsticks in tank No. 1 and No. 3 have considerable overlap of reading levels. At least two sticks are read and compared to provide for correction of differential thermal expansion wing bending error. Tank No. 2 dripstick is unus able at or near full tank volumes at most usual ground angles, as it is submerged. Some of tank No. 1 and No. 3 dripsticks may be submerged at certian ground angles and fuel volumes.
+f. Use of the dripsticks requires careful consideration so
+that unjustified doubt of the Fuel Quantity Indication System does not result. Although the dripsticks are simple devices they have their own limitations in being able to locate the true fuel surface. Consider the possible effect of the baffle check valves. When a dripstick is fully extended and stopped against the adapter, a large amount of fuel is not measurable.

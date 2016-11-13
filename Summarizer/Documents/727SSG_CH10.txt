@@ -1,0 +1,272 @@
+﻿SUBJECT:
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 7-80 DOC ID 26E DATE T 2/89 PAGE 83
+CHAPTER TO
+A. ENGINE TRIM
+l. General Information
+d.
+Engine trimming will accomplish the setting of Idle RPM and the thrust level at the part-power trim stop. Engine MIL trim adjustment determines the fuel flow increment between the part power trim stop and the "full open" lever position at the fuel control.
+These two adjustments establish the proper fuel flow - power lever relationship for the pilot. Also, correct Idle RPM assures good engine acceleration in the airplane.
+A brief run to take-off power at part throttle followed by a single Slam acceleration and deceleration from and to Idle are included to ensure that the take-off rating is available and that engine response is normal.
+On a Standard Day at Sea Level, a newly "trimmed" engine could have approximately "Take-off thrust +15% overboost" capability if the thrust lever were inadvertently advanced to full throttle. Normally, take-off thrust is set at Part Throttle. Ambient temperature and the manner in which the engine is rated will affect the amount of unused thrust lever travel between Take-off and Full Throttle at the Pilot's throttle stand. Assuming a standard day condition, there will be an increasing amount of unused lever travel as ambient air temperature decreases while this cushion will shrink as the ambient air temperature at sea level increases above 59F.
+Engine "trimming" will be required as follows:
+After installation of new engine, a fuel control change or if it becomes necessary to restore thrust lever travel between take-off and full throttle position at the pilot's aisle stand.
+The APU should be shut down during engine trim to prevent APU exhaust ingestion into the engine inlets.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+84
+PAGE
+DOC ID 26E DATE 12/89
+-80
+B727 ENGINES ATA 71
+警 卓
+SUBJECT
+EIV/Tc| \s|\/C|| E|N|30|N|E.
+3NI9N3 83d AHWA TT IM WIWO 033dS ZN : 310N
+%28'38188'Dİ.
+3009 1\, W 1\70 0334S
+田守的E99乐
+"ON TWIBBS BIN|9|N|3
+AT N0 X 03 HO N0||1||0|N|00 BN19N3 NW JNIXWW !!0 + 03Sn
+SEINISJNE 08LT TTV? 99" | - Jd3 31\/Td \/ IVO
+*彭-
+シ、S39 NWT - 1 NT10|W
+· *BN19N3_1+w *怒
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 2/89 PAGE l85
+2. Data Plate Aft Right Side of Engine
+a. During the Production Test Cell Operation, prior to delivery, the
+engine is checked for proper operation and certain adjustments are made to insure the performance matches a standard for that engine model. Once the engine has been fully adjusted and performance checked, a reference speed is established for use in service. The reference speed is called "DATA PLATE SPEED". Data Plate Speed is established from a curve which relates EPR (Engine Pressure Ratio) and High Pressure Compressor rpm (N2). This curve is slightly different for each engine. Prior to extracting the Data Plate Speed, the curve is corrected to sea level conditions. The corrected curve is then entered at a given EPR of 1.65 (for all engines). The speed corresponding to an EPR of l. 65 is them stamped on the Data Plate in 2. N2 and actual rpm. Data Plate Speed can now be used to determine engine condition in service. A certain tolerance band is specified in a +%N2 and -%N2 deviation from the corrected Data Plate Speed. NOTE: Data Plate Speed must be corrected for temperature prior to making a Data Plate Speed check.
+b. The engine Data Plate is located on the front face of the forward
+turbine support flange at the 4 o'clock position.
+c. It may be necessary to deactivate the part-power trim stop on a hot
+day (since Data Plate EPR will be above the Part-Power trim setting) prior to performing the Data Plate check. Engine Data Plate Speed is based on an EPR of l. 65 for all models of JT8D engines and is used to check the internal condition of the engine.
+3. Thrust and Start Controls - Fuel Control
+a. Located on right Side of fuel control unit are two adjustments which
+are used for engine trimming. These are:
+IDLE - For engine idle RPM
+MAX (or MIL) - For engine output at part power.
+b. The two Screws can be operated manually or a remote trim kit can be
+used.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+suBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE - 12/89 - PAGE -
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 126E DATE 1 2/89 PAGE l87
+B. PART POWER TRIM SPACER
+l. A two position part-power trim stop with a "S" or standard position
+and a "C" or cold position is installed on the fuel control. In order to improve accuracy during engine trim runs in cold weather, P&WA has extended existing engine trim Curves at low temperatures and revised the procedure for the use of the "C" (cold) and "S" (standard) part power trim stop on every model of the JT8D engine.
+2. The revised procedure requires all "trimming" to be accomplished using
+the "S" stop except when the part power trim setting exceeds take-off EPR. When this happens, the "C" stop is to be activated and the engine "trimmed" using the "C" stop values given in the engine trim tabulations.
+3. On a standard day the "PLA" (Power Lever Angle) is restricted to 77.l
+of forward thrust travel.
+4. For a cold day trim, the "PLA" is restricted to 68.5 of travel.
+5. The part power spacer is to be stowed ("S" showing) and safety wired
+in the de-activated position.
+C. COMPAIR PORTABLE TRIM KIT
+l. The trim kit allows the precision adjustment of N2 RPM from the cockpit during a trim run. This will be accomplished at idle and part power.
+2. The optional battery powered trim kit consists of a control box, connector
+cables and two motor/gearbox assemblies connected together by a thrumbscrew/bracket assembly. This assembly can be mounted on the fuel control unit.
+3. Select switches on the control box are for "engine" selection - l, 2 or 3, an "idle/max" switch which Selects the motor and "incy dec" switch which will control direction of rotation of the motor, thus increasing or decreasing N2 RPM.
+4. The DC ammeter will show current draw during the motor operation.
+Excessive amp indication during operation indicates problems in the drive motor, gearbox or trim screw of the trim kit.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+88
+PAGE
+2/89
+26E DATE
+DOC ID
+-80
+B727 ENGINES ATA 71
+SUBJECT:
+HEKOVCIS INIHIL HENNOd 18+\fd
+AW Q Q TOTD
+El TC1|| WO !! !! oog, na av 81
+~ ~)
+~~ ~~
+<1 gawa
+}} E DY745
+E T10|| W 0 !! !! T E AW (11
+~).
+A y Q C18 W CJNY 1S
+~ →
+B ĊJ Islo) N |d| ≤ || 8
+ダ=
+1 ST 8 H 1 CJ AA +
+03 M01S
+1$sh & H I A B 8
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+89
+2/89 PAGE
+26E DATE
+DOC ID
+LIX WIEHL ETƐVLHOd HIV-IWOO
+Blo\/O HOLDENNOD 14 OO|
+B727 ENGINES ATA 7-80
+SUBJECT:
+[][]
+■史
+(BOYONO| 8l , NI 0! OI 1[\d][YO SIIWIT ) HD10TD đITS
+^^3}{TYS-8WOH1
+318\/D (JO 103.NNOD
+!AWB}{DS WI?!1 BTC|| S?|O1DBNNOD Ž$) NIX2)Ol?|31|N|
+}----* ,
+N
+(TIW) AABADS WI81 X\/W
+1İNȚl KOMINOO 13TH NO 1.BXD\/89 –
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+790
+PAGE
+2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT
+30W4 WIB 1 BNI9N3 BTAWys
+d0 1 S
+! T -08 1 f w od 0.1 3.Tg wɔ 1 144 w
+S 3 Sn 3N Ì ì Q 3 8 309 w I S „O 1 2 3 n - 401$ ɔ 3Sn BN | T 03 4399 w I S „O uso i u - 0 15 1 398 w 1 803d0 15 × 1 & 1 & 3 M0d 1 & w d \; 3H1 w 3 A 0 TO 2 3 §:n e t 6 * t | € 6 o t | €6 ° 1 | & & * [ [ {s + t ||gs • ! | ( ), • t68·환的$ lo ? || 9 | * ? 1 g s * ? |$ t * ? || $ 1 * ? ||w w 4 / 1 1 & & & ? o.ON 21 21-- ------ $1 *?| $1 *?| 9.1 ° 2 | q t • 2 || 1 oz ||gt • 2 |gt • ?81 · 2248 i ożO 2 * ? 10? o ? || 1 & * & | & żo z | Ž Ž • ż lød 3 0 1 t • ž • I • UN{& * Ģ Ģ } 2s いな。二ゃs。二ge。二ge。二ge。二ge・二ge・$8 * 124$ 1 * ? || 6 t * ? || & t * ? 16 t * 2 || 6 to z | 8 1 * z Iwa 3 & & & & 2 & 1 • UN6 * 8 g |50 * t ~ o 2 �●�©����2. 2.· o “09 | 1 * 0.9 || $* b g | € og $ | 1 • g g | b • 1 g | 9 • 1 ç94心1996 o € 9 || ... * * 9. || & * t q | z • ç Ģ Įo • ç Ģ! 1 d. d. d. ? * UN ! *bo | S * & & | & * & g | Z * 8 g | 0 * 6. § 19 • 9 g | 9 • g g» o 9% z • goD。いg」に。マg一g。マg一・マg一・マg! + d d d £ + \ ^ UN おも%l- € 6 * * | € 6 ° 1 | € 6 * T | & & * \ | & & * t | © 8 • 1 || 8 · 1 || ç & • 1藏引91 o Z | 9 | * ? Io 1 * ? || 9 1 * ? ||w w 4 / 1 1 & 4 & 2 * UM % $ 1 * ? || 9 1 * ? || 9 t * ? || 9 1 * z | ) l • 2 | g t * 2 | g ; • 2 |ė, t • 28 to zậpz - z0? o ? || I Z * 2. sz. Z * ? || Z. Z * z 184 3 0 1 g • 2 • t • ON ź! 8 o 9 % ) 96 * T | 96 ° 1 || 96 ° 1 || 96 * I || 96 · 1 || 98 • 1 || 96 • 1 | 98 • 1981bzz02 * ? || 0 ? * ? |O Z * 2 |0.2 ° 2 || 8 & 3 & 4 & • 2 • t • UN9 o 9 g |ę z os – sz? ��叠叠�∞叠�叠% ?* 69 || 0 * $ $ | 6 * 9 g | 9 * g g | » o 9 g | z + g g | O • 9 g | R • 19,1 · 1641 o so sɛ o co || ~ £ 9 |<- # 9 |z-c q! I d d d 2 * O N 8。os一g、ひい一に、eg|い。eg sg|1・gg一e・gg一」・gいso o 932 o go so o so se o »« so • • • İç • • 91 1 d d d £ + 1 * O N ぶ *。二*s、二*é。二さs。二さs・二さs・二さs・二さs・二さs・••• 1ąı ı ( ?I t * ? || 1 * ? || ! ! * ? þł w d / 1 1 & 4 & 2 * UN Z 2. $ 1 * ? || $ 1 * ? |ot * ? || 9 | -2 || 1 oz | & 1 · 2 |g I • z |s, I • z |s, i • Zoz. oặpz-z1 & * ? |2.2 * ? || ? 2 ° 2 || 8 4 3 0 1 & * z • I • ON 24( 1 * 9.9; } 24 16 ° 1 | 16 * l | l6 ° 1 | 16 * t | 16 * 1 || 18 o 1 || 8 * 1 | 16 · 1 || 5 - į16 - 123oz o z0? o ? |0? o ? |0.2 ° Z þ3 & 3 & & & • 2 • t • ON1 * 8 9 11 * * s - 102 �骨�:�拿�:!�2 0S0KS00S0S00 S00S00S00S00S00 0S00 S0000SSJJSL0 SLSL! I d d d ? * 0 N m。G3-1。09|e、6い一g。ひい一g。sg|さ・sg一z。ひg|o・egg・gい9992990 * ç Ģ Įg o ș q |s, o șq! 4 d d d £ + 1 * O N Zozzzzzzzz«¿4 96 ° 1 | 9.6 ° 1 || 96 * { | 56 ° 1 || 36 ° 1 |g6 * 1 |g6 * T | ç8 · 1 |g8 · 1 |ç8 - 1 |go, o 1seo iĝi io?I t * ? X w d / l 1 d d d 2 * 0 N 2. > $ 1 * ? || $1 o Z | 91 oz |ę i oz || 1 - 2 | 9 i oz ||gl • z |st • z |s, i - zO Z * 2 102 * ?iz-z4zz-z? ? * 2 M & 3 0 1 & * 2 * I • ON 2| 9 o q % ) Z 86 ° 1 || 86 o l | 9.6 ° 1 |8.6 ° 1 |g8 * 1 |g6 * t || 98 • t | 86 · 1 || 9 8 · 1 |gs • 1 |gs • i96 o 1% i z oz || z + z \; & 3 & 4 & - z • I • ONo * 8 § 16 g * s - 19 1 �����-����:��2 o * 69 || 9° 69 | * * 69 |? * 6 § 10 · 69 || 8 · 89 | 9 - 8 , |\, og $ |z • g g lo- o ç Ig - 1 ç9:49%E9I o £ ©1 1 d. d. d. ? * UN 2-03 || 2:09 |× (0° 10′ 09 |5 , 66 || ~ $ $ | soos le · 69 li * 6.6 lb · 99 || ~ £ o k; * g g% • § 9 § · §§! I d d d £ + i * ON
+( 2 ° ON ] | ? N × 1°09 | 6 * 6 > | l°6* 19 *6* |* * & * | 2 * & * |* * & * | 8 · 8 + |1 · 9 » ļ9 • g • |» • g • k • g \, |1 . g.,|6 o 1 și2 * ON! 14 | € * i * ON |* 8 800 || 3 • B 1 w TdZM 酸B 1 W T d' || 1 s 0 3、33 、93|z、oso、9い一g。6* 、sさ|s、s* sを z・sミ二o・eyg・gミ二・gy|い・gミニ・gさ£ + i * ONw 1 w O3 TO Iw 170 o “0, 13 ° 0′ |* ooo sɛ o 0, |zo oc || 1 * 0, |0 o oc |6 o 8 z le · ez || - sz ļo - sz İç • 4,2 |, -ae ?|ę o 8 zA 800 8 3× 30 S 3H ) N I o wɔ i Bw. O gwg
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE ] 2/89 PAGE l9l
+D. SAMPLE ENGINE TRIM PAGE
+l. General Instructions for Use of Engine Trim Data Sheet
+a. Determine page in 727 Maintenance Manual on which data for ambient
+temperature, barometric pressure and correct engine model is located. If ambient temperature or barometric pressure is found to fall between values given in the chart, correct data can be obtained by interpolation (finding midpoint of difference in this case).
+b. Using the appropriate page, determine the target values corresponding
+to the ambient temperature (OAT) and/or barometric pressure:
+(l) DATA - Correction factor added to, or subtracted from, engine
+PLATE data plate percent rpm to compensate for nonstandard day CORR. conditions. 2. N2
+(2) IDLE - Percent N2 rpm target to which IDLE trim screw is
+& N2 adjusted. Upper values apply to No. l and No. 3
+No. l+3 engines. Lower values, in parenthesis, apply to No. 2 (No. 2) engine.
+(3) DATA - Engine data plate power setting target corresponding to
+PLATE 1.65 EPR. This target is used during part power trim PTT operation to check engine performance deterioration.
+(4) PP Pt 7- Ptil target to which MIL trim screw is adjusted during
+part power trim operation.
+(5) PP EPR - EPR reference for personnel in control cabin. This value
+gives an indication of the accuracy of the airplanes EPR indicating system. Do not use this value for engine trim unless precision trim instrumentation is not available and airplane instruments are known to be accurate.
+(6) TO EPR - EPR target to which engine is operated, after part power
+trim operation, to check availability of TAKEOFF power and amount of throttle cushion.
+(7) PP - Ratio of engine exhaust pressure to ambient pressure. Ptl/PAM These values are not part of the normal trim run,
+however, they may be used to check No. 2 engine EPR indicating system when an excessive EPR discrepancy is apparent.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+92
+26E DATE TI 2/89 PAGE
+DOC ID
+39\’d W181 HNIJNE BIJWYS
+t 1 - 0 8 1 to w sąd 01 B 19 wɔ I 144 w
+B727 ENGINES ATA 71-80
+SUBJECT
+401 S S 3 Son BN | T 0-3 b 399 y 1 § 401 2 3 T - đ01$ 3 3 Sn 3 N I T O 3 8 399 y 1 s30 1 H 9 1 & - 0 1 S 1 3 0 & w 1 80+d0 1 S × 1 & 1 & 3 AOd 1 & w d w BiH 1 \; 3 A 0 TO 2 3 §:n ø £ 6 ° 1 ] © 6 * { | € 6 * T | & b * [ [ { b • T | & & • t | g 8 • t | g \, -湖T$ 1 * ? 1 g t * ? 1 g s * ? || $ 1 * ? 1 g s * ? || ww d / İ ı & & & 2 *ON 21 21 o t *?| g1 * ? || 9 to z | q t * 2 || 1 t oz ||gt • z | Q 1 » z81 · 448 · · ·O 2 * ? 102 * 2 || 12 * z | 22 ° 2 || 22 ° 2 || 8 4 3 0 1 £ + 2 + 1 • UN* 2.-( & * Ģ Ķ | 2.--- いé。一gs、1一gé。二いs、1一gs。二いg・二いs・96 ° 1246 1 * ? | b 1 * ? || 8 | * ? 16 1 * & | 6 t oz | 6 t * 2 |8 & 3 & & { • 2 • t • ON6 * g g [gō * t ~ o) { 叠�0●�春参• % 2.· 6 * 0$| 1 * 8 g | Ș og $ | C o 9 g | I • g g |s, * 1 g8 * ! !;9 · 1 % i • » g6 * { q | I * { } | } * { q | z • ç Ģ Įo • į q! 1 d d d ?otJN ! *bo | S * & 5 | * * 8. § 12 o 6 g | 0 * 8 g | g • g gq * g gooooaeg;390。いg一に。さg一g。さg一・さg一1・きg1 1 d d d t + 1 * UM ، ، ، ، ، ، ، ، ( 6 ° 1 | € 6 ° 1 ] [ 6 * t | € 6 * | | € 6 ° 1 ] © 6 • 1 | { {, * 1 || ç & • !• • • • ? 1 : ?o ! * ? || 9 | * ? | ? 1 o Z | 9 | * ? ||w w 4 / 1 1 & & & 2 * UM ، $ 1 * ? || & | * ? || 9 | * 2 || 9 1 • ? 1 : i - z | 8 t * z Ig I • z les I • Z• I • zspz = z0? o ? || I Z * & | & & * & | & Z - z | 8 4 3 0 1 & * & * \ • ON 沁! 8 * q 9 ) 96 ° 1 || 96 ° 1 || 96 * I || 96 · 1 || 96 · 1 || 98, o 1 | 98 • 1 || q \, - į96 · 140 z oz0? * ? |0.2 ° 2 |O Z * ? |0.2 ° 2 || 8 & 3 & & & * & * 1 * UN8 * 8 9 || ? " ( - || ? ? �،�������Ž; ?* $ $ | 0° 69 | 8 * 99 ||o o 9 g | * * 8 g | Z * 8 g |O • 9 g | R • 19 || • 1 çźı • , q |s, • Ç ç1 * { q | q * { q || ? * p q! I d d d ?* UN 0 ° 09|| 8 * 69 | 1 o 6 & | & * & & | & * & q || 1 • 6, § 16 o 8 % || 1 * g );9994299O o ç Ģ 18 o șq |g o șq | { * s; }! I d d d £ + 1 * 0 N ZłZzzzZzZ マe、1一ys。二ys。二すs、二さs。1|さs・二さs・二さs・二さs・二ye・ĝi i oz.! ! * ? || 1 * ? || 1 * ? |× w d / 1 1 d. 4 4 2 * UN 2 2 $ 1 * ? || $ 1 * ? || 9 t * 2 | 9 1 * ? || 1 oz | b 1 · 2 |g \ - z |s, 1 • 2. |\, t • Zoz. 4oz. z1 & * ? |2.2 * ? | ? 2 * ? || 8 & 3 0 1 € = 2 · 1 • ON 24( 1 * Ģ Ģ ] 21 16 ° 1 || 16 o l | l6. * i [16 ° 1 | 16 o l | 18 o 1 | 16 · 1 | 16 • 1 || 8 • t18 · 1240 zo zO Z * 2 |O Z * ? 102 * 2swa 3dd { * 2 * i * UN1 * 9. § 11 * * s - [02 �:�叠叠叠를叠��% い。ss一m、&g|一。eg|é。gs一」。gg|い。gs ga一・Fい二s・」g• • • 323ı • • •6 o € 9 it o { q |s, o ç q! I d d d ?* 0 N { * 0.9 || 1 * 0.9 || 6*6 g | g * 8 9 |ę o 8 % |* * 8 g | z • 8 9 10 • 8 9 |g • g g9 · 9932 - so0。いg g。さg い。さ3! I d d d £ + ! *UN K«««Å 96 ° 1 || $6 * T | & & * † 19.6 ° 1 | 46 ° 1 |g6 * 1 |go, o 1 146 · 1 |g8 · 1 |g8 • 1 |gs • !se, są 1,! ! " ? }ł w d / l I d d d Z “ON 2. o t * ? || $ 1 * ? |ol o ? |ol o Z || 1 * z [g 1 oz | g i oz | 8 | - z |s, l - z loz - z loz • ?iz, 4, z-zzz = z \, d } 0 1 & * z • I • ON 2.| 9 | 9ς Z 86 ° 1 || 86 * { | 96 * { |8.6 ° 1 |8.6 ° 1 || 98 • t |g6 ° 1 | 9 8 - || |ụ 8 • t ||gs • ! Igs • !86 · 141 z + z| ? o ? }} d } d d £ o Z * I • ONo * 8 9 ||bg * { - 19 1 ����ở .春������2 0 * 69 | 9 * 69 | * * 6. § 12 o 6 § 1o o 6 g | R * g g | q * g *, l*, * g ; Iz • g g lo • q ç8 * ( 99 · 16% • t •! • g 9! 1 d d d ?* ON 9°09 | * * 0.9 || ? ° Q 9 10 ° 09 16 o 6 § 11 o 6 § 19 o 6 § st o 69 li * 8 g6 7 8 9_II_° 8 9 so o 9 §280 ° § 9 10 * + Q! 1 d d d £ + 1 * 0 N
+{ Z * ON ]? N $ 1:0966% L*6%96%y。6% z。6了一*6% 15*gy·gyqgy* * 8 + 1, * g * It og » 16 • ! »2* ON! 1 d I £ + 1 ° ON |.* 8 800 || 4 • B 1 w TdZ N % 13 I w 14 | 1 yo $ * 0$ | € * 0.9 || ? * 0.9 10 * 0.9 || 8 o 6 % |1 * & * | g • 6 • 1, * 8 + |z − 8 + lo • ), ),9。9% 。9%9。9%。9季{ + 1 * O Nw 1 w O3 10 ||w 1 y 0 9° 0{|'; * 0£|* * 0£ 10 * 0% |z o oc | I - og þu * O ( 18 o 8 z sg • sg || • 4,29 * b ? 9ן * b Z» oszዪ ° 6 ረAg「1D & ]} D Dこ』 区」』出HDgwg
+________________
+SUBJECT: B727 ENGINES ATA 71-80
+DOC ID 1216E DATE
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+12/89 PAGE 93
+2. Example of Engine Trim Using a Typical Trim Table
+a . AS Sume:
+Ambient Temperature (OAT) Barometric Pressure Engine Data Plate Speed Engine Position to be Trimmed
+շ0 օF 29. 7 In. Hg 88.83፯ No. 2
+b. This temperature and barometric appear on one page of the trim
+tables.
+Trim targets have an "asterisk" and lie to the right of the
+"staggered" line, therefore, "C" (COLD PART POWER TRIM STOP MUST BE
+USED.
+Targets are as follows:
+(l) Data Plate Correction N2 is - 3.4l; therefore, the adjusted data
+plate RPM is 88.83 - 3.4 or 85.42.
+(2) Idle 2N2 is 56. (3) Part Power (Eng. 1+3) Pt7 is 58. 6 In. Hg. (4) Part Power Pt7 is (Eng. 2) 57 . 7 In. Hg. (5) Part Power EPR is 1.97 (6) Takeoff EPR is 2. 20 (7) No. 2 PP Pt/PAM is 1.94
+NOTE: Item (7) is used only when No. 2 EPR appears to be out of limits
+in such cases:
+(a) Disconnect the No. 2 Pt2 line at the firewall.
+(b) Advance the thrust lever to the part power trim stop.
+(c) Compare the cockpit EPR reading with Ptl/PAM (item 7). If
+these numbers are within limits, the system is OK.
+(d) Reconnect the Pt2 line.
+Whenever the accuracy of No. 2 EPR is in question, this final check should be used before attempting to troubleshoot the
+System.
+It will often show that there is no problem.
+c. Upon completion of engine trim the engine must have the idle check and
+adjusted as necessary from the trim chart.
+d. Complete JT8D engine run-up record (FEL-M-495).
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 12/89 PAGE 94
+a. LHO TECHNICAL OPERATIONS Rode 18-1-236
+2. PRoceDURE MANUAL Poga .
+Data 25 Now 88
+Suboce JT8D Engine Run-Up Form, FedEx M-485
+Managing Director, Pops AOD Personnel "" Maintenance Plans and Forecasts
+1. PURPOSE
+The JT8D Engine Run-Up Form, FedEx M-485, is used to record engine parameters during troubleshooting or after engine or component replacement. The form is used in conjunction with procedures contained in the Jef Run-Up Handbook and the P&WA JT8D Maintenance Manual.
+2. INSTRUCTIONS FOR COMPLETION
+The mechanic performing the engine run completes each step listed on the form. These steps are selfexplanatory and are also covered in the Jet Run-Up Handbook.
+3. ROUTING
+A. The originator retains the goldenrod copy, folds the remaining copies, and comats to Powerplant
+Engineering for review.
+B. After the review is completed, Powerplant Engineering forwards the form to Powerplant Records and Aircraft and GSE Reliability. A copy is placed in the appropriate engine file and the original is given to the JT8D Powerplant engineer.
+________________
+MAINTENANCE TECHNICAL TRAINING F FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 D0C ID 1216E DATE - 12/89 PAGE 95
+agar LHO TECHNICAL OPERATIONS Rae 18-1-238 3 PRoceDURE MANUAL Page 2
+oss 25 Nov 88
+JT8D ENGINE RUN-UP FORM
+Reason for Test:
+PWA Maintenanca Manual Required Test: AMLAWO (:
+Engina SVN: Model: Data Pate N2RPM:
+Requested By: Employeo : Datg:
+MAXIMUM OPERATING UMTS ENTER UMTS FOR THE ENGINE MODELUNDERGOING TEST
+T.O., EPR: N1: T.O. EGT: Starting EGT:
+N2: Oil Pressure: Oil Temperature:
+08SERWE0 DATA RECORD ALL.DATAREOUIRED FOR THEAPPUCABLE TEST
+A/C: Engine Position: Target T.O. EPR: OAT C:
+Baroneter wWind Spoed Direction: Max Starting EGT: Accel Tine:
+EPR: N1: ΕςT: N2:
+Fue Flow: Oil Pressure: Oi Temperature; PCP:
+Ps: PT. Breather Pressure: Bleed Walve closed:
+Bleed Valva Opan: Peak Inlet Wibration: Peak Exhaus Wibration:
+Cornments:
+RUN-UP COMPLETED AND ENGINEACCEPTED FOR SERVICEBY:
+NAME: EMP : DATE: AML- :
+FOLLOWMNG WARIOUS REPAIRS ANO/OR REPLACEMENT OF THE ENGANE ANO POR COMPONENTS, PERFORM THE CORRESPONOING TESTASOUTUNED IN THEPWA MAINTENANCE MANUAL ADJUSTMENTITEST SECTION.
+fgrge Mid-44 ADW 740 LCLCSCLCCCS LSLSLLLSLSLLLLLSeeeSLLMLMLSSLSLMqSMSLLLLL LLTLLLLLLLSLLLLLLGLSLSLSLSLSSSMMS Fisista a vearsa i seise LLSCLSLLMLSSSLLSLLGGLGLL LLLLLLLLSLLLSTLSLMSSSMLLLLL
+JT8D Engine Run-Up Form, FedEx M-485
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 216E DATE 2/89 PAGE l96
+THIS PAGE INTENTIONALLY LEFT BLANK

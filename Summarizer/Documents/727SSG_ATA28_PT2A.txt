@@ -1,0 +1,89 @@
+﻿يوني
+I.
+エコ 二。 リa*|
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85 PAGE 77
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+727-233 FUEL SYSTEM ATA-28
+A.
+Fuel System Differences - 727-200F vs. 727-233 Air Canada)
+The 727-233 (Air Canada) fuel system has major differences in tank design and minor differences in components and control. These differences are listed below and will be fully discussed later in the text.
+l.
+Two additional auxiliary fuel tanks (810 gal. FWD, 860 gal. AFT) are installed in the forward and aft lower cargo compartment tank cavities. The tanks are bladder type and totally enclosed in the tank cavities with venting and drainage provided. The auxiliary fuel boost pumps operate at a higher pressure (OWERRIDE) than the pumps in tanks l and 3, the same pressure output as the No. 2 tank boost pumps.
+The fuel quantity indicating system is a capacitance type System including the auxiliary tanks. Manual drip-sticks (nine) are provided for tanks l, 2, and 3 for mechanical gauging. However, the auxiliary tanks do mot have drip-sticks and the transfer of a known quantity method must be used when the auxiliary tank capacitance fuel quantity system is in operative.
+Tanks l, 2, and 3 have the Volumetric Top-Off (WTO) refueling system. The auxiliary tanks are equipped with float switches for fuel shut-off, and are not part of the WTO system. The WTO System does not incorporate the WTO reset Switches as found on the 727-2OOF aircraft.
+A digital display type fuel totalizer indicator is installed on the P-4 fuel control panel. The auxiliary tank quantity indicators and boost pump control switches are also on the P-4 fuel control panel.
+Three main fuel shut-off switches and the associated blue intransit lights are provided on the P-4 fuel control panel. However, the main fuel shut-off switch will be overridden to close the main fuel valves when the engine start lever is positioned to cutoff (same as 727-100C).
+The fuel delivered to the APU is by gravity feed only and is completely independent of the engine fuel feed lines (same as 727-lOOC).
+The No. 2 tank boost pumps each incorporate individual vent return check valves (same as 727-l00C in this respect only). They do not require the closing of both boost pump removal valves on the same side when changing a single No. 2 boost pump. All No. 2 boost pumps are higher pressure pumps
+(OVERRIDE) and have the same pressure output as the auxiliary
+tank pump S.
+________________
+MAINTENANCE TECHNICAL TRAINING
+*E、
+L二一
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85
+PFW C A U XI AR Y T AA x D>- cEll VENT Fit nNG
+FUE FEEC NE -ܠ
+NA SHPOJO CRANS
+N
+WHE EL. W. E. L. L. A F T SUL KHEA0
+N- cAvı TY
+O RAIN MA N P O LO
+U
+RAI N. COCK
+A FT A U KI LA AR Y f A N 3,
+F A ME A R R E STOR
+or AN MAST
+CEL WEAT FitTING
+Fuel Went Systern
+FOR TRAINING PURPOSES ONLY
+PAGE 78
+-out BOARO 5 E CT | O N T O CENTE R 5E CT | ON WE Mw TS
+UNUSALE FuEL BAFFule CHECK WAL VES
+CG A F F E CHECK WA WES
+PRESSURE FUENO STATION
+FUE LING & OUMP MANFOLO VENT
+WENT OU CT
+HAT SECTION
+OWERs A. R. WENT []U{. "
+WNT SUR GE TANK -
+0 RA N CHEC X WAL WE
+WENT Tus
+WENT duct
+HAT SE CON
+We NT SCOOP
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+「三三之ケ
+MAINTENANCE TECHNICAL TRAINING
+コ * 臀 FOR TRAINING PURPOSES ONLY
+lO.
+ll.
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85 PAGE 7g
+During the refueling operation, selection of either auxiliary tank fueling switches (P-lb panel) to the ON position will cause the No. 2 tank crossfeed valve to open if selected closed.
+Although mot part of ATA - 28 fuel system, the fuel flow indicators on the P-2 center instrument panel are different in that they digitally display total fuel consumed for each engine in pounds, in addition to the normal analog display of the actual Current consumption rate in pounds.
+Two additional relays (R632 and R633) are installed at the P-l5 fueling panel. These relays are the auxiliary float switch relays, which control the automatic closing of the forward and aft auxiliary tank refueling valves during the refueling operation.
+The aft auxiliary tank, when fueled, will impose fuel ballast requirements different from the 727-200F for the purpose of towing and taxiing.
+B. 727-233 Tank Arrangement, Venting, and Drainage Sumps
+l.
+2.
+Fuel Went System
+a. The major change to the vent system is the forward and aft
+auxiliary tanks, which are connected to the No. 2 tank vent system plumbing.
+The remaining vent system for tanks l, 2, and 3 is the same as the 727-100C/200F aircraft.
+Went DuCts and Lines
+a. Went ducts formed by sealed, hat-shaped, upper wing skin Stiffeners, connect the vent surge tanks to each fuel tank. Each Wing has two main vent ducts, one extending from the vent surge tank to the inboard end of the outboard tank, and the other extending from the vent surge tank to the outboard Section of tank No. 2 in the opposite wing. These ducts went the system when the airplane is in a normal or a nose high attitude. An additional duct in each wing interconnects with the duct venting tank No. 2 and extends to the Outboard end of the Outboard tank. This branch duct vents the tanks when the airplane is in a nose low attitude.
+b. External shrouded vent lines interconnect the auxiliary
+tank(s) with a tee fitting connection to an internal wing (tank No. 2) vent duct. The shrouded vent lines are located under the Cabin floor panels where the shroud provides a Secondary barrier against leakage of fumes and vapor into the cabin area.

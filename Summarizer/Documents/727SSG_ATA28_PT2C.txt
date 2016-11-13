@@ -1,0 +1,232 @@
+﻿MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 024F DATE 4/85 PAGE
+(l) Outer shroud space, between vent tube and enclosing Shroud, is vented to the auxiliary tank Cavity drain/engine fuel feed line shroud drain system. An air inlet having a "sugar-scoop" configuration on the airplane body skin maintains a slight positive pressure to aid in venting fuel vapor and fumes from the shroud space. The air inlet is forward of the wing, on the left side for airplanes with both forward and aft auxiliary tanks and on the right side for aft auxiliary tank instal lations only.
+3. Went System Operation
+d.
+During flight, ram air impinging on the vent scoop develops a positive pressure in the plenum chamber and the connected vent surge tank. The vent ducts, connected to each surge tank, distribute the pressure to each fuel tank. As fuel is consumed, it is replaced by a volume of air under a small positive pressure. The ports in the inboard end of the vent ducts in tanks No. l and 3, and the ports in the outboard sections of the No. 2 tank went duct, went the system when the airplane is in a normal or a nose high attitude since the expansion space above the fuel is at the forward inboard end of the tanks. In a nose low attitude the expansion space moves outboard and aft submerging the inboard vent ports in fuel. The fuel tanks are then vented through a port in the vent duct at the outboard end of tanks No. 1 and 3.
+During climb or dive flight attitudes, fuel in the auxiliary tanks flows into the low cell and if continued would tend to overfill the cell. A vent float valve in the top of the cell closest to tank No. 2 will pick up with the
+rising fuel level and prevent fuel entering the vent system.
+C. Auxiliary Fuel Tanks
+l. General
+a .
+In addition to the integral wing tanks No. 1, 2, and 3, fuel storage is provided by two auxiliary fuel tanks. The forward auxiliary fuel tank is installed in the aft portion of the forward cargo compartment and the aft auxiliary fuel tank is installed in the forward portion of the aft cargo compartment. Each auxiliary fuel tank Consists of removable fuel cells contained within a compartmented tank cavity. The forward and aft auxiliary fuel tanks are interconnected to the integral wing tank No. 2 center section by fuel plumbing and a common vent line.
+81
+________________
+MAINTENANCE TECHNICAL TRAINING
+A
+22 aff - FOR TRAINING PURPOSES ONLY | محمحمظعغفقھنبھنھنے
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85 PAGE 82
+FORWARD AUXLARY TANx
+CAVITY VENT
+FORWARD AuxARY TANK FUEL LINE SHROUD DRAN
+AFT Aux ARY TANK FUEL. LINE SHROUD DRAIN
+> ENGINE F UEL FEED LINE
+SHROU O DRAN C OVERBOARD DRAIN MAST SEE OETAL e ( <ހަށ
+జ్ఞశ్ర7 ح٦ کلا <Nక్షస
+NA h
+ORAN MAN FOLO S২২
+SEE DETAL A - ~പ
+ܓܰܗ݉
+ORA N LINE
+AFT AUX LARY TANK
+Cavity Went and Drain System
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+A E 2A * - OG 臀 FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID lo24F DATE 4/85 PAGE 83
+AFT AUXLARY TAN FUEL LINE
+SHA OU O
+FUEL LINE SHROU O ORA IN LINE
+REAR SPAR OF CENTER wiNG TANK
+VIEW 1
+FLAME AR RESTOR (ALTER NATE) L- SSSSS SSSSSSSSSSSSS SSS SSSSSS -ل
+CEL NO. 1 CELL, NO. 2 TANK AFT couver SUMP. ORAN EURÇELL BAY ORAN E EL SUMP ORAN WELL SHR OU O
+3 UU. KH E AO DRA IN LINE \ |---اسیر جی --||||||||A---------\لی
+t As
+- - - - - - H -
+- - V wr口 - רב ב ==Est܊ t Ν
+DETAL O
+UMP DRAIN SK A OUJO
+SEE OETA E
+d OVERBOARD
+FAIN MAST
+FUAM E A R R ESTOR W * 1 EW 2
+(PRE FERRED
+Cavity Went and Drain System
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+ゴ「コ "」 a A 目 کے تحتھیخ FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID lo24F DATE 4/85 PAGE 84.
+INTE ACONNECT OPEN ING
+OPAN LINE
+Aux ARY TANK CAWITY
+AUXILIAR Y TANK ORA N CONNECTION (TYPICAL)
+O ETA I U O
+S ਅ SUMP ORAN VALWE
+S
+SHAR OU O
+Aux. LARY TANK SUMP ORAN TYPCAL)
+ 
+ 
+ 
+ 
+ 
+________________
+ääsi”
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 024F DATE 4/85 PAGE 85
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+2. Auxiliary Fuel Tank Cavities
+d.
+Each tank Cavity is divided into two individual modules to accommodate two removable fuel cells. For ease of identification the modules are number l and 2 starting with the forward module and going aft. The tank cavity incorporates the necessary fittings and openings for the fuel cells. Cutouts in the module COImmon walls serve as intercell access and interconnect openings.
+A vent and drain system is provided for each tank cavity to prevent the accumulation of moisture either from condensation or from fuel leakage. Each tank Cavity has drain fittings at the equipment bay, each interconnect opening, and sump bellows. The drain fittings for each tank are connected to a common drain line by flexible hose. The common drain lines are connected to the drain manifold which runs to the overboard drain mast. In addition, the engine fuel feed line shroud drain and aft auxiliary fuel tank fuel line shroud drain are connected to the drain manifold. The drain manifold includes a flame arrester located just upstream of the drain mast inside the wing-body fairing. A drain cock is installed in the lower side of the line running along the left wheel well aft bulkhead. The drain cock can be opened to allow the drainage of any accumulated fuel or moisture that has not discharged through the drain mast. The fuel drain cock must be closed when draining is completed. The drain mast prevents fuel drainage re-entry into the wing-body fairing and the aft body area. The forward tank cavity is vented by a flexible hose which runs from a fitting on the upper Side of module No. 1 to an outlet in the Side of the fuselage.
+3. Removable Fuel Cells
+d.
+Two removable fuel cells carry the fuel in each auxiliary tank Cavity. The cavity is divided into two Separate modules and each module contains a fuel Cell . Tne fuel cells are non-self-sealing and are of very light weight construction. Extreme care must be exercised in handling. Three primary layers of material, cemented together, make up handling. These are a nylon fabric inner liner, a nylon barrier, and a nylon fabric outer ply. The purpose of the inner liner is to contain the fuel and also act as a protective cover for the nylon film barrier. The nylon film barrier prevents fuel from diffusing through the cell wall, and the outer retainer ply gives strength to the cell and also gives protection to the nylon barrier. The inner liner and outer ply are made of rubber impregnated nylon fabric. This material is very strong but naturally not impervious to sharp objects, chafing or rubbing against metal or rough objects or any material that would tend to damage thin rubber sections.
+________________
+MANTENANCE TECHNICAL TRAINING
+a i محمختلفتھانیئے FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID O24F DATE 4/85 PAGE 86
+VENT FETTING
+TA ti FUE CUANTTY TANK UNIT
+EQUPMENT
+NTER CELL ACCESS SEE DETA II U B
+FORWARD Auxiliar Y FUE L TANK
+FWO
+CELL ACCESS
+EduPA ENT BAY
+D prior TO NCORPORATION OF SB 28-50
+FUEL QUANTITY
+B> AFTER | NCOR PORATOM OF SB 28-50
+TAN UN IT
+AFT AUxLAR Y FUEL TANK:
+Removable Fuel Cells
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 024F DATE 4/85 PAGE 87
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+In the tank cavity, each fuel cell is attached to the cavity structure with nylon lacing cords. The cords run through ferrules attached to the outer periphery of the Cell and through eyebolts and anchors attached to the Cavity structure. Several chords of different lengths are required to secure each cell. The length of each cord depends on the size and shape of the individual cell, and the length between the anchor eyebolt and the tie-off eyebolt.
+The knots used to anchor the fuel cell lacing cord in the anchor and eyebolt fittings are tied in a specific manner to ensure maximum protection from slipping or pulling off the fittings. Anchor knots are used for tieing the cord to the first fitting and the tie-off knots are used at the last fitting. In some instances it is necessary to run two cords through an eyebolt or anchor the cord around the shank of the eyebolt and run another cord through. In the latter cases the cord running through the eyebolt tends to hold the anchor cord in position.
+Each cell is equipped with an internal crossover vent, intercell access opening, and interconnect fittings. In addition, cell No. 1 (forward tank) is equipped with drain, equipment bay, fuel vent, and cell access opening fittings; cell No. 2 (forward tank) is equipped with fuel tube and fuel vent fittings; cell No. 1 (aft tank) is equipped with drain, fuel tube, and fuel vent fittings; and cell NO. 2 (aft tank) is equipped with cell access opening, equipment bay, fuel vent fittings. The cell fittings are attached to adjoining cell fittings or cavity fittings with the cavity Structure sandwiched between the fittings. Nuts, nutplates, or threaded inserts in the cavity fittings are used for instal lation of the attaching bolts. The cel l and cavity fittings are fitted with O-rings which mate against the cavity structure to form a fuel tight seal.
+4. Auxiliary Fuel Tank Access Panels
+а .
+The auxiliary fuel tank access panel on the forward side of the forward tank, and aft side of the aft tank, is part of the module structure. Flight or body pressurization is prohibited without the tank access panel installed. It provides access to the fuel cell access panel. The tank access panel is fitted with an O-ring and is attached to the module with Seal washers, flat washers, and bolts.
+The fuel cell access panel provides access to the interior of the fuel cells. An O-ring in the fuel cell fitting forms a fuel tight seal when the access panel is installed.
+________________
+MAINTENANCE TECHNICAL TRAINING
+نے سے) FOR TRAINING PURPOSES ONLY آلاعفین
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID lo24F DATE 4/85 PAGE 88
+SEE OETA. A
+SE E DETA B °S>Sހަހި ൭
+AUXLIARY TANK (TYPICA)
+AUX AR Y FUE Ll TANK STRUCTURE
+FUEL CELL
+O- RNG
+FUEL CE LL ACCESS PAN EL
+TANK ACCESS
+PANE
+BOL AN) SEAL WASHER
+FUEL CELL FT TING
+FUEL E CUPMENT ACCESSPANEL
+OETAL A
+O ETA I U B
+Access Panels
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+5.
+6.
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85
+С .
+MANTENANCE TECHNICAL TRAINING
+FOR TRANING PUR POSES ONLY
+A fuel tank equipment access panel is provided at the equipment bay to allow access to the tank boost pumps, fueling shut-off valve and pressure switches. The access panel is fitted with an O-ring which mates with the equipment bay structure to provide a vaportight seal. Nutplates are installed on the equipment bay structure for instal lation of access panell attach ing bolts .
+Auxiliary Fuel Tank Lines
+d.
+The auxiliary fuel tank fuel lines transfer fuel from the auxiliary tanks to wing tank No. 2 fuel plurabing. The forward auxiliary tank fuel line runs from the aft wall cavity fitting to a fitting on the wing center section tank front spar. From the fitting on the front spar, the fuel line runs inside the wing center section to the aft side of spanwise beam No. 1 where it connects to tank No. 2 fuel plumbing. The aft auxiliary tank fuel line runs from the forward upper panel cavity fitting to a fitting on the upper panel of the wing center section at spanwise beam No. l. From the fitting on the wing center section upper panel, the fuel line runs inside the wing center section to Connect with tank No. 2 fuel plumbing.
+All auxiliary tank fuel lines which run outside the tanks are enclosed with a flexible shroud to prevent fuel vapors from entering the fuselage. The shrouds are provided with drains at the cavity fittings which allows leakage to drain into the tank cavity. In addition, the wing Center Section front spar and upper panel fittings have drain lines which allow leakage to drain directly into the cavity drain System manifold.
+Auxiliary Fuel Tank Went Lines
+d.
+The No. 1 fuel cells in both the forward and aft auxiliary tanks are equipped with a sump drain valve, bellows tube assembly, and locking cap.
+The cavity drain lines from both forward and aft auxiliary tanks are connected by flexible hose to each bellows tube.
+In order to sump the forward and aft auxiliary tanks, the cap is removed and a special Sump tool must be used to open the sump valve by turning counterclockwise.
+PAGE 39
+________________
+MAINTENANCE TECHNICAL TRAINING
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85 PAGE
+FOR TRAINING PURPOSES ONLY
+BOOST PUMP went Port
+BOOST Pu MP LOW PRESSURE SWITCH
+FWD BOOST PUMP (OVER R || OE)
+FUEL WALWE p
+N soost pump
+CHECK WALWE
+FR E P R I ME
+L | NE
+CELL. N.O. 1
+"FUE LING OUTLET
+SWING CHECK WALWE
+ܫܸܫܫ
+T CELL NO. 2
+FoаwАRO AUхILLARY TANK
+CEU NO. 1
+Ho- FUEL TUBE
+TO TANK NO. 2
+h
+om FUEL TUBE
+CEL NO. 2
+CHECK WAWE לדין
+t .
+REPRIME LiNE
+BOOST PUMP CHECK WALWE
+BOOST PUMP WENT PORT
+FWO. ... و BOOST . N-t. (Ο νE P*DE) | BoosT PuMP Low
+PRESSURE SWITCH
+Ա (OVERROE}
+AFTAUXLARY TANK
+Engine Fuel Feed
+Systern Flow Diagram
+90

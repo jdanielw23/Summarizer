@@ -1,0 +1,681 @@
+﻿ECN (CAL TRANNG
+| / A ー〔手二よー三7のダ -- aire FOR REFFRENCE ONLY
+727 SYSTEMS STUDY GUID
+ATA 71-80
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY w
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID 26E DATE I 2/89 PAGE i
+B-727 JT8D ENGINE ATA 7-80
+The material furnished here is to be used as a training aid only. Details, values and lengthy discussion of the aircraft systems and equipment have been purposely avoided. It is suggested that in order to achieve maximum training value from this material, that it he considered a supplement to classroom lecture and a general study guide for a student during formal maintenance training.
+NOTE
+NOTHING IN THIS STUDY GUIDE SHALL BE CONSTRUED AS AUTHORITY FOR DEVIATION FROM FEDERAL AVIATION REGULATIONS OR APPROVED AIRCRAFT OR COMPONENT MAINTENANCE AND OVERHAUL MANUAL INSTRUCTIONS.
+NOTE
+THE INFORMATION CONTAINED WILL APPLY TO ALL 727 AIRCRAFT UNLESS THE MODEL IS NOTED.
+________________
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE
+TABLE OF CONTENTS
+CHAPTER
+INTRODUCTION Powerplant Instal lation
+2 Basic Engine
+3 Fuel System
+Fuel Deicing System Fuel Flow Indicating System
+4. Oil System
+Oil Quantity Indicating System
+5 Engine Pneumatic Systems
+Compressor Bleed System Generator Cooling System
+6 Pneumatic Starter System
+)Ignition System (B727-100 ך Ignition System (B727-200)
+8 Thrust Reverser System
+9 Indicating Systems
+Engine Pressure Ratio System Engine Tachometer System Exhaust Gas Temperature (B727-100/200)
+O Engine Trim
+Engine Run Forms
+2/89
+PAGE
+PAGE
+26
+50 55 73
+80 92
+O3 O3 4
+16
+30 37
+42
+67 63 70 l 72
+182 94
+计
+________________
+SUBJECT:
+A.
+l.
+d.
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 216E DATE 1 2/89 PAGE
+CHAPTER 1
+POWER PLANT INSTALLATION IN THE 727 AIRCRAFT
+General Description
+The 727 airplane is powered by three JT8D turbofan engines mounted on the aft fuselage area. Two engines are strut mounted, in conventional nacelles, one on each Side of the fuselage. A Center engine is mounted aft of the fuselage Structure. Air is ducted to this engine through an inlet forward of the vertical fin just above the fuselage. Each engine is secured to the engine mount fittings at three points. Two cone bolts, attached to a double flange at the fan di Scharge intermediate case, and one Come bolt attached to a double flange at the fan discharge turbine exhaust Outer duct, secure the engines to the forward and rear mount fittings. Access to the Side engine exterior components is provided by hinged removable upper and lower cowl panels which may be opened from either side. Center engine access is made through four hinged removable side Cowl panels. Access to the center engine inlet and nose dome is gained through an access panel above the aft air stairs in the center engine inlet duct.
+The major accessories fitted to each engine include a constant speed drive unit, a pneumatic starter, and Nl and N2 tachometer generators. A generator is mounted on the constant speed drive unit. Hydraulic pumps are installed on engines No. 1 and 2. Fire detection and fire extinguishing systems are provided in each engine ared .
+The engine starting system provides a means of rotating the N2 compressor to establish a flow of air through the engine. Rotation of the N2 compressor also drives the engine fuel pump and fuel control to meter fuel, under pressure, to the combustion chamber. An ignition system provides a high voltage discharge for ignition of the fuel/air mixture. Each engine is fitted with a self-contained oil system to provide cooling and lubrication of engine gears and bearings. Transmitting devices, installed on each engine, actuate warning lights and indicators in the control cabin to provide indications of engine performance.
+Air is bled from the low pressure and high pressure compressors and the fan discharge duct to operate various airplane systems. A thrust reverser, attached to the exhaust. Section of each engine provides a means of retarding the forward speed of the airplane after touchdown.
+一ー
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+2
+2/89 PAGE
+26E DATE
+DOC ID
+B727 ENGINES ATA 7-80
+SUBJECT
+... a -- - - - - -
+N O 1 1 V D O TE1 N \/ I d! 3 AA O d
+£ 3|N|9|N|3
+%Ayイ ±(−− SS500V 131N! “.Z EN 19N3
+gy
+1000 „S,
+Z BN|9|N|3
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+3
+26E DATE 12/89 PAGE
+DOC ID
+B727 ENGINES ATA 71-80
+略
+SUBJECT
+XIN Y 1 T1||0
+}N|9}{3 }|0|$ - NOII WITWISNI INŢldHM04
+&君臨全對器上凝器dWT1 ď qnw i 'on sa N10N = <!]MOT → T3 n + Q, NYTIYŁ O METOOD "110 ~ 13 noרו כAェA
+8 E 18 Y 1$ D IL Y WIT 3 Na
+LI NT) BOL YŁJE NE5)ィ、 Q. HY ɑsɔ
+-83 $ 85 AE & 1$ñ8 H1
+TẠO () ES ON (X00 BO1||Ho)'||
+(SE DYT4 t)
+1NT O W $CITO, INY W CIELE "10
+3 NHỎ N3 QA -- 1N TOW
+3 H 10 NB 1-3 wT`J.
+TẠOD O EX|- 1 fi 8 LS 1 80 d dTIS E NI ĐNE
+\{
+03 E TOE HY ± -
+~~~~ ($3 DŶ T4 t) 5 NOII DE NNOD 035 T0 DİL Y WIT E NJ
+ 
+ 
+ 
+________________
+SUBJECT:
+Ee .
+MANTENANCE TECHNICAL TRAINING
+FOR TRANING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 26E DATE 12/89 PAGE 4
+A four component drain tank is mounted on the under side of each engine. Fluid leakage from the seals and drive pads of the engine accessories is drained, through tubing, to the tank. A drain line is also installed between the oil tank scupper and the drain tank, to collect oil spilled during servicing. In flight, air flowing past a drain mast, on the engine Cowling, Creates a negative pressure which sucks the fluids overboard through a discharge manifold. Jiffy drains are provided on the under side of each tank compartment to permit draining the tank while the airplane is on the ground.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+5
+26E DATE 2/89 PAGE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+X NW | N | V \J Q E N | O N E
+NĮv 8Q T y 3 515 w W NI W 80 $NIY HO–^-~\ \! o dd flɔ$8 E 8 WY}{T}osły og , XIX w 1 TIO O NÝ
+Q\od EA || 80 \ł B 18 Y 15 o 0 \, d EA || 80 JWnae ol En-o--o--
+d \\s\ d ...) I Tl Tm Y 8 C1 A H
+ɔ| Tl Tm Y \! Q. Å H(A + ~ ır)8 E A O <1 gaanH ||Y & C.||/1 ( A + B IT)|| -SNĮ Y 80 TỶ €, $— 1. NɔA |- O HY Q \; & BA || 80• • • • • .- - - 8 3 8 WY HID|
+/反冷(X_梁
+$ NIY H O E SYD 8 E N8 no
+0\/d BAI (JG 8 B 18 Y 15 0 N \; & 3 & & nɔ5 * XINY 1 TIO WOH-)
+<0 aaaa八戒烟NHy 80 on y 3. § 3 -유대대地部事801 y 8 BN30 || ダ / ■■ }
+E ATYA XII) E HID
+NIY 8 0 0 YJ& E A 180 d'Yishd ol Esh-||]]
+|狮—即 汾 科、*/ Qく邝시그** |-()·
+}| anna soffoss–\′()|
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 6
+2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+N O || 1 \/ 1 ] \/ 1 SN|| B N | €) NE Z " O N
+BN 15D. NE H B 1 NEJ
+J 3Tooo TIO OSO
+søu’eldu sy 00ż-L2), -1)珍 %にや
+多_. . . . x No. 1 TIO EN 10N 3
+Ł ł Ł 3 WMÕol 4 † 3n £
+OSO !} + 1H v 1.S 011 w WT13|Nd
+BO 1\, \{3N39] ©w BATVA CJ so « —
+x Nw1 NIwgo o Inn泌珍=----- - 8 £1000 ±妨沙-i to · † 3n+
+·X Oso ∞丝¿Y ·さ %%いグ〜) NO|11|N|9|----·● įsi· CJAA!!!„oグご
+-t| 》亦劝U CẢ 103f3で\三&A|--– BATY A TO & 1 NOO
+■22\, 1\, ... 沉—《公C%Ewnlow|3,31 いシI'w go) w 1S| ))H.18 –)}}'''역 |-
+H 《自言》汉--→HI\f 39v 1S ※)SEAT w ^ X 03 Hɔ |ŻH |\? 3s) o 1S HILE ! \1. Nnow ɔNa grał A Towo, BSSY, -
+[1°Cyro į Y 1S}
+omoly AA38|| 3 TW9||1||33|A .
+<Tļo Ixs i Iw1 03x13
+плvмзніч "low 1 NO2|\&OH
+<1] onių luodons dixs nivu
+vrae1Srl!! H1`N»No :( N N N
+ 
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80
+7
+PAGE
+2/89
+DATE
+26E
+DOC ID
+SUBJECT:
+LOnQ LETNI H | \, z O N BNIoN3
+\-] O O O
+L_: SS500V|
+Lɔnd diw oÒN | TlOO O Tl ||O CJ S O
+_L}} Odd|[^\S
+T \7 C)|_L\-] B /\
+SBanı „\\/ \-] d. S
+10^Q \Tlddf\’S H |\7 No: 3ɔ| - || LNV LETNI
+■■ []门心2’ON နျင့ဇုံ`ါ−r ̈t°N NOIS'Nod XIB
+T\/\/N \,j_BH_LSOTlO_3 | No’WN
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+8
+2/89 PAGE
+26E DATE
+DOC ID
+SUBJECT:
+B727 ENGINES ATA 71-80
+['CyƐI W 1S TTV, ME 81-J los 911!!3^
+? '0N 3N19N3 - 1000 13 TNI JT8||X313
+1000 13TNI BT18||XEITH
+SBSOH
+(SB0\/Td Z) dwựTO ONY/8NIVH [] b|38|W|\? HJ |\'l
+13TNI BNI9N3Å18 W3SSW
+NIV/80
+(SBJVTd CZ] 门 1108 Jo\!,
+\_|{],
+|i/39 NWT1+
+0M+ 3NI9N31+\f[]\\-]
+几〉\\_AT8W3SSự dự9
+1000 13TNI 1+\f
+ILNE WHOW_I_1\,39 NWT1+
+S8 Bd WȚIT 50 N10|N|08
+(S30\/Td £) dWW10 180dd[\S 3T0 NT18 T\/01810BT3
+0 Å-i
+H) – l’Esso | WIS TTV! MAE HI-J T\70||183||A
+3 NIT 831N 30
+|l\#0.1183A
+\乡39 NW14 13W A H|0,10BN N00 318||X31 +
+oma E)
+39 NWT-3 UM+ 3 N|9|N|3 –
+–Fsh
+|_No_— L’EWEL WIS 之TTV MB 81: TWO [183A
+W
+8 000 SS500V,
+A
+} _{ AT8W3SSW 重180በዐ LETNI 3||N|9|N|3 83 LN30
+� MOTH HIV●
+s
+·
+TT!\/M3813 TW1N0ZI 80H „L
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+9
+T26E DATE I 2/89 PAGE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+! !! !! 1s10 $$ E Hæs H
+ol u
+)、|
+EC 19 JL3|E|T! - EN 15DNE 11 * O NI
+8 E 1 BY 15 D. 11 YW[\} old 801 w wɔ wɔ ɔ q xw qyɔ
+E ATYA ds^{n0 0 HY *) HII|8f1555, 8 d.
+|-HƆ 1 IAȘ Ș5 sae Ao sae 1(!! !! T\!0 x|HŶ 1. Hlw biɑ ɑ Inol:
+XO B & w & 0 & sự
+HDVD 』エ0』
+& = 1 T1, TIO延亚减LTQ ±|
+$NO | 103|H}{0!} ĐỊNH Hồ YM ’5$. El 8 & -110 0 HW M1 WY '$$ El 8 d. TIO
+\!3! 11 Iwŷ Hy w 1 Å OT1, TE nae
+!!!!!!!002 TIO TEIT,
+1
+1 |H|Ĥ| I|J|E|1|2}}s }} Año dno w sw &= 1 & w 15
+白雪飘
+Hr 蟹"尖聂
+© Tholae to 31 |}{{-}}
+sae ont :
+HY £asuus nyssinwau ou u Z
+{5!!! I w. w Not! $ s 5 ", o į op 's 'o H} (5.H.1 so uso
+|
+($!) HIMYŌ Ō Ō Ō Ō ', / top op ‘ox)
+E “DHE A wɔɛ nso
+tsɔnıwwag ? !! !! · los “O H] A Teddss (110
+bilo ( 3 ) w 3 H (15. mae
+tsɔwiwwag 5 !! !! "O His AT ed osło "110
+( 3 o w 15 HI 9) 0 3 3 ng i N
+0?? To = ∞, √ -1; H.10
+( 35 y 15 H u tl ) 033 ng ! »
+& sae 1
+|gol ng 一群
+*%运%院|
+冷峰ty
+之 //
+| –(± 0 y 15 H10} E DI-II. HY E MI!) ME {3!} y 15 H1 I ı )
+§2 sol 1 MW. TA OD 35 ON
+- 8 5 1 1]*$ Hy w 1 § 8s13$. El 8 d. TIO
+- HD 1 las 3 uns; a wae nuo
+ 
+ 
+ 
+________________
+10
+PAGE
+3CIIS 1H5)!\! — EIN 19NE C °ON
+1.IX. B. BIY
+X00 8 BW HO + SNY 81ɔnınooɔ wo iwuɔ nɔɔ
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+26E DATE 12/89
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT
+区DLY区出ア』m』1 NE 8 8 ft))
+|-)*Ɔ E A TŶ 831 arrosłowl čN–,~108 1 NO能影 B E 1 T1-s} 0, NY(81 w Now :) 8 Iw d Wsco T1B fl-!50 HITOOID NO.1 YŁJE NE s) TO 81 MOD TB n-) 83 TOOD TIO O $2
+(~]
+E ----W čld----*:)* 1
+s-3£) noles \!01!}{5!! \||\? 80.1) ET E(55) w 15 H19) 8 E TOOD"S$3] && 0$ɔ Tl|| 0 0 5 D.藏- *$$3&d o $4或oss3 & 4 oso \s||Y 8 E 1 YB HTO 81 NOɔ TEIT,“lo slo----|3 AT YA QUE ET10
+●"$$ E MJ.) Two No 15 8!\, .30|-||LINYBATI YA QE E Tt] EN 150NE ~~)_
+!]|y& | \, :) N11 w Tl 11, Y Is Boy 15 H19BAT YA QE E "10 b||Y E DI-I 1 Hy8 OSSE 8 d. W OD EN 10 NE
+& Is 30 y 15 H 10
+& Is Eo) s 15 Hae Il
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 11
+26E DATE 2/89
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+O 81 T – EGIS 13 ET ‘3NI9NE HEIN3O
+HD 11,5 $5 YdÅo w El 1711, TIO
+3 ATÝ A dots\0 OE HY ON!? || 8f155 £. Hae T5 nae圈以即
+XIHY 1 }{ | Yb Q ollsmolo!
+*こ
+11Hf) &= 1 Nox:
+o flodd 8 = 1 || Ho)'||
+8 O 133HNOID
+Œ: "To Hwae o"I WHIWłae.1
+·.sae "100) !!!!! 1.1 Isso HY 8.1שנת 3ר טור X. HY 1 TIO E NIÐ NEÞAO "1=", "13 no– l{X + H3 H 1 s3 & 0 E HI DHE
+$ No obyo) 83.171||-|| ~110』エB』 t|3, 18 Y 15suvenir-홍}} —万杨剧±* VÒ,
+{5!}+{s}} w Eig o No EA's os “OH)| A Taeslo: “TIO
+A Teddsss M01.DETĘ t'Is E 2 I-11}{\o
+@
+1HfıOW E HI ĐHE 1, W
+loss so 1's EH (En:
+Q.E., "lo s Is Boy 13 H1D 1
+s
+Q. E. F. To Nosio = ∞ √° 15 H.)
+ɑso. Tit. Miss Flow 15 H1?
+=) = → ! Hsh OĦ 出工望王= s ? 11 sws. Hy w 1|- Ç]\}\ p\ & 0 !! =)E t'mos ( t' o ~110|(1\f El to so 11 *** Y|HIT 1$s\b|H1젊 M1:0 *4젊. Hɔ,1|| A$
+!!!!!!!$$3 | \, TIO =
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+12
+2/89 PAGE
+26E DATE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT
+E ATY A(1811 - 3CIIS 1H3O18 - EN 19 NE MEINEO TỶ N011)E 8 |0 8 BIS 8 EA38 1ST (JH1
+83 1711-J Q. NYd’Yssidc{WT|<; T|E|| [] -!D! TIT!\! \! C1), H.TA O 8 1 NO D E A TŶ A CJE 3718 TļO 8 1 NOD T5 fl-.8 E 1 Tloרואב Å T d.d. flo-NI W 80 E 5 YID TE Țl:グsouvwango1) IT ny & CJAH y
+w I y O NIT OOɔ -*801 w 83 NB!) X, NY 1 NIY8||0 『みQInol o Ա[...][−]INĘ印 仁贺下O|} | – \
+| $$=}}}d国-,-,- 0 AH-N 九兄但 N8s11 = }} (JAH –X O 8 SNY (N.150 TT de 1. NE !! !! Țl)80.1||NoD| AT! dd TsSE NIT 0 AH$ $ 384 QJ51)*—(s.
+· HIY 韃靼łJI W 831 YEH T! EIT! 泷能上ET!!! E D 1 - 11HYE ATY A XÌ DE HD EN 10NEGD− 8 ||Y 3 Đw 15 H1Cl
+__------* __)~~_)~~ –)\—= –()–1|卡片 1 NT\OWA Tod dTlS HI W 8012) 3 TE 3 N10 NE QAA-8
+NIY B 0 Y 15 H. 19
+8IV, 39W 1$ H10
+ŁJE TOOD TIO Q AH
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 3
+216E DATE ] 2/89
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT
+AABIA WO11O0 EN19 NE
+3808483.1 YE ALITY no#Yah801 y 8E NE 50 oyXOG TIO8 IW DI 1 YW TŴE NJNO 11 || N50||X NY 1dfn XD || & X NY 1NIY 8083.18 Y 1SNIY 80Zld .X!NYJEסור dfn XD14 Łll
+83 "1000 on IO 051)
+EĐNE AYD$ laes
+\!3}{1\ 3 & 0 ! #
+3008'd Łld
+QSO
+•El 808 & }}||w ÅT did no5) NITOOD103 8012)E TE8 BW 8.O-OES NYƐ18 OlyłJE NE5) J1N3 & 800
+Đs T d & OLI NIÐI o悲說ESYD
+3A180
+A 80$ SEDD YOTO-JIN YW
+T3 f, 01
+83.1 Tio To nodWsmae
+To no
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 1.4
+2/89
+DOC ID 216E DATE
+B727 ENGINES ATA 71-80
+SUBJECT:
+Q81 T-AABIA 1.NOR, EN 19 NE
+8 E D Io E Q T Boss -l
+11 NO XNY1 A 111 NY no nuo
+! 14 wę= $381, H3 x 1 \ N 83 H1v3 wę nuo 35R 5 ayɔs nið 3 & fiŝ53 § 4 olid
+“TO & 1 HOD I BŴ Ŷ
+14 w H5* 55.082 (10 M Į Ħtjɔ M E AO4
+& r\xi)\ d & 1 & BA TYA QE E "10 80$$ Eaedes WOID
+walııwsny w 1 aona maña
+羽 ///2 85 TOOD TIO * n: no% % $ Q
+TOM INOD TE no Zoo 1
+*
+3)DI’ll NY TẠOɔ B5ON
+No.1103 NNoɔ čld 843
+Bɔ|-||1. NY E NIÐ NE
+(él ) $ 3 Nwa Bosnɔ 13 INI
+1. Nnow dnxɔld N011 y 8 9 1A
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 1 2/89 PAGE 15
+THIS PAGE INTENTIONALLY
+LEFT BLANK
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 12/89 PAGE 16
+i
+i
+· ,፥v:
+\
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE ] 2/89 PAGE 17
+A ENGINE COWLING (ATA 71-10)
+1. General Description
+a. The engines are covered by cowl panels to provide a smooth airflow over the engine and to protect exterior engine components from damage. The cowl panels for the Side engines include a nose cowl, upper and lower hinged removable cowl panels, and a fixed cowl panel. The center engine is covered by four hinged removable side cowl panels. A nose dome is also fitted on each engine. Titanium and Steel fireshields are bonded to the inside of the Outer skin in areas in which a fire may occur. The cowl panels are designed to be drip-free. Drain holes and drain tubes in the lower Surfaces of the cowl panels collect any engine leakage fluids in a drain manifold to be exhausted overboard in flight.
+2. Center Engine Cowl Panels
+a. The center engine cowl panels form part of the aft fuselage contour.
+The forward left and right panels fair with aft fuselage skin. The aft panels fair with the thrust reverser shroud ring and the thrust reverser actuator fairing. Refer to Chapter 78, "Exhaust." Each panel is hinged at the top by fittings on the center engine support rib. Three hook latch fasteners join opposite panels at the underSide of the engine. Two safety latches at the top of each panel prevent an open cowl from being removed until the latches are depressed. The safety latches automatically trip into the locked position when the panels are closed. An indicator on each safety latch shows when the latch is in the locked or unlocked position. "Hold open" rods, installed in each panel, allow the panels to be propped in the open position. Safety pins are provided to lock the rods in either the open or stowed position.
+b. The left forward cowl panel is provided with an access door to
+facilitate servicing the engine oil tank. Exhaust ports are provided on the left aft cowl panel to accommodate engine gearcase breather air and on the left forward cowl panel, to exhaust fuel heater air and constant speed drive oil cooler air. An exhaust port on the right aft cowl panel is provided to exhaust generator cooling air. An overboard drain mast, installed on the right aft cowl panel, evacuates the engine fluid drain tank during flight. Three blowout doors, one on the right forward cowl panel and two on the right aft COwl panel, relieve excessive pressure which could develop within the cowling during a fire.
+3. Side Engine Removable Cowl Panels
+a . The Side engine upper and lower cowl panels fair with the engine
+nose cowl, with a fixed cowl panel attached to the inboard side of the engine, and with the thrust reverser shroud ring. Six hook
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+18
+PAGE
+2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+EN 19N3 C. “ON 9NITAA ODangvaował £ 71 ||Y 13 O
+נW.L.BCור כ ' TENY 4 "1 AO2) O 8 Y A 80
+... • ►►ェ園~/= g *TIW 1 Bq B ES ($ 3.0 wol & 9). HỖ 1 won
+院議院,T! ÃO D H 1 IAA3. LYold & B H I W B 8 9 E NI O N E ---- BOOQ E DIA ME $ TIOH1 || AA 5 E 1 w Now어E.SY어田~13田三任
+−}+T) LY T _<\A 13 JYS --
+($ 3Dwold 0) HƆ LYT A 1 E o W5
+1.IX.3 83 H1 w 388
+، "13 NY d *TAOD 1: \,
+1ɔ sɑɑ 1||X£; 8 || Y. 801 Y \! E NE!!!)
+QT10让一NY藏
+EoD BY HIDSIQ
+0 NY 1 NBA
+( 43 8) 83ZI-Tso Y 159 N11.1 || ? T \,) 1.183. A →$TENY 4 1/\OMĀOTŌ
+E ĐNIH TAOID
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT:
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 26E DATE ] 2/89 PAGE 1.9
+latch fasteners attach the upper and lower cowl panels to the fixed cowl panel. Six other hook latch fasteners join the upper and lower cowl panels together. Three forward and three aft pin latches ensure positive attachment of the cowls and Serve as hinges permitting each panel to be open from either Side. "Hold open" rods for each panel are stowed on the engine, the nose cowl aft Structure, and on each
+pamel .
+Openings are provided in the lower cowl panel for the engine gearbox breather, the constant speed drive cooling air exhaust, the generator cooling air exhaust, and overboard drain mast, and an oil tank access panel. On some airplanes, a starter override and CSD access door is also fitted to the lower cowl panel. The upper cowl panel is fitted With a blowOut door.
+4. Side Engine Nose Cowl
+äa
+The nose Cowl is bolted to the forward flange of the side enqine inlet case. It is shaped to obtain a Smooth airflow over the engine and to provide an optimum airflow to the engine compressor inlet. An anti-icing air inlet is located on the rear face of the nose cowl at approximately the 9 o'clock position. Three pin latches, two on the inboard side and one outboard, join the nose cowl to the upper and lower cowl panels. A constant speed drive cooling air scoop is located on the underside of the nose cowl. The nose cowl is antiiced by engine bleed air. Refer to Chapter 30, Ice and Rain Protection.
+5. Si de Engine Fixed Cowl Panel
+da
+A four piece fixed cowl panel, mounted on the inboard side of each side engine, fairs with the upper and lower cowl panels. The fixed cowl supports the side engine upper and lower cowl panels.
+6. Nose Dome
+d.
+A nose dome is mounted on each engine to provide a Smooth airflow over the front accessory drive housing. The nose dome covers the N1 tachometer generator. An inlet pressure sensing probe (Pt2) is mounted in the Center of the nose dome.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID 26E DATE 12/89 PAGE 20
+SE E DETAIL C
+OU TEBOARD SIDE
+DETAL C
+PIN LATCH
+blow out PANEL
+W W
+BREATHIER
+WENT
+OU VREE
+N. FUGHT OWERBOARD GENERATOR ORAN
+COOL ING CSD OIL COOL ER A R EXIT EXT
+ENGINE REMOVABLE CowLING
+7S DE ENG NE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 2
+26E DATE 1 2/89
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT
+SEN 19 NE C ONV 1 - TAAOD EISON EN 19 NE
+d'O OD S 8 || Y.
+• 83 nooɔ n10 053
+H O 11) E TE HE TOOD TIO
+83 TO OD TIO OSO
+(39 YIS H1 Cl.)
+8.I W[感一口N山 ! O.L...) E TEME B WYHD *D RIX IY | ENIT E DI-11 NY dOOɔS BIY
+유『 oア出 - ©NI, Q1 - 11 NV7 09 * 88is;1ɔfɑQ Y 15 D. YN NIY 80《 ... 00:05 81Y 1BT. NI BIYHE "1000 T 10 QS2) 5) NIXI W
+13 TNI BIY! Eɔl-11 NY
+1 IX 3 &ly
+==-- E NIT ED1-11 NY d'00ɔS BIY
+Y 15 D. YN
+E TZZON 8 O 103 TE
+QT103||NY W E DI” 11 NY
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRANING
+FOR TRAINING PURPOSES ONLY
+PAGE 22
+2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+\!01 WT105|| ?!!0!!1\?\!0|A
+€ ON\? 1 SBN10 N3 – NOTIVITV1SNI INDOW EN 19N3
+B01WT105|| NO|1\!\!01A Low
+9M11114 180 dans lHT|0W 08 YA80.-)
+1700 E NOO
+<!-- Ell World HEAO-2)
+s.
+6))801 YTOSI NOII w 8 GIA _^* -47
+~
+ 
+ 
+ 
+ 
+________________
+SUBJECT:
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 7-80 DOC ID 26E DATE 2/89 PAGE 23
+A. WIBRATION ISOLATOR ENGINE MOUNTS (ATA 71-21-0)
+1. General Description
+d.
+The vibration isolator engine mounts Support the JT8D-1 power plants and isolate the airplane fuselage from adverse engine vibrations. Each power plant is supported by two forward vibration isolator mounts and a single aft mount. The tWO forward mounts are identical and may be used on the center engine or either Side mounted engine. The aft mounts on the side mounted engines are also identical and may be used to support the aft end of either Side engine. The center engine aft mount may only be used on the center engine.
+The forward vibration isolator engine mounts carry vertical, side, and axial (thrust) loads and allow for engine growth due to thermal expansion. The aft mounts take only vertical and Side loads; however, they will also accommodate thermal expansion of the engine without applying axial loads on the engine flanges.
+Each vibration isolator engine mount consists of one vibration isolator and one cone bolt. A pair of vibration isolator fittings are used to support the vibration isolators on the center engine.
+2. Wi bration ISO1atorS
+a .
+The vibration isolators consist of a resilient material permanently enclosed in a metal case. As an engine vibrates the resilient material deforms slightly, thereby dampening the vibrations before they reach the fuselage area. If complete failure or loss of the resilient material occurs, the isolators will continue to support the engine.
+Each forward vibration isolator for the center engine is installed in a vibration isolator fitting. The side engine forward vibration isolators are located in forward mount Support fittings. A projection on each forward isolator mates with a hole in the fitting to provi de positive orientation of the isolator. Wibration isolator cover plates retain the forward isolators in position.
+The center engine aft vibration isolator is bolted to the engine rear mount bracket. On side mounted engines, the aft vibration isolator is bolted to brackets on the engine rear mount support fitting.
+3. Cone Bol tS
+d.
+Three cone bolts are used to attach each engine to the vibration isolators. The two forward cone bolts are identical and may be used in any forward position to support either engine. The aft cone bolt on each engine may also be used in any aft position on either engine
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80
+PAGE 24
+26E DATE ] 2/89
+DOC ID
+SUBJECT:
+{$3))\s*ld z) ITO E E NOT)
+1. TIY.130
+( 338) ĐH 18 • 1. Nn Ow BN 10NE
+(Satywnd z) X!NIT 1ST! BH1
+Ɛ EIN!“DNE - NO11\/TTV1SNI 1 NnOW EN 19 NE
+17108 BN() )) 9 N11 ll + lb. Od dns 1 NDOW OBYANO:
+El Yold 83 AO2)
+801 YTOS I NO 11 YƐƐ I A801 YT105||
+NOILY &{}||A low
+(~~~.1 l=0 s
+1 N ThOW E NITO N:
+! *l! Y 130 E 35'z nívlag ass
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE - 12/89 PAGE 25
+4. Center Engine Forward Vibration Isolator Fittings
+The center engine forward vibration isolator fittings support the forward vibration isolators on the center engine. These fittings are bolted to the forward engine mount fitting and to a pair of thrust link fittings.
+5. Engine Support Fittings
+The engine support fittings are described in Chapter 54, Na cel les / Pylons.
+O' 5O' IOO s5○" 2OO'
+N RESTRICTED AREAS DURING ENGINE OPERATION
+TYPCAL TEMPERATURES 8, VELOCITES AT TAKEO FF POWER
+2- سے 858 K
+○ ]>エコー
+-
+E. 59 of N .
+O' 5O' IOO' . 15O' 2OO'
+JT8D HAZARD AREAS
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FORTRAINING PURPOSES ONLY
+26
+Τ2/89 PAGE
+DOC ID 26E DATE
+B727 ENGINES ATA 71-80
+SUBJECT:
+NO I LO E S L S T \7 HX3
+SE NVA BOVOSVO HESH BAB 8 LST!!! H_L
+SS\/dÅ8 N\/-|
+SNVO SEN 188 TIL HENHỮNG
+BA|B|C|]NÕI L\/nN3LIV Å HOSSBOO\/5SION
+ŹN HOSS38dWOO EH TISSE 8 d. H9|| H
+l'N BOSSBHdWOO B. HITISSE 80 NAOT1BTINI

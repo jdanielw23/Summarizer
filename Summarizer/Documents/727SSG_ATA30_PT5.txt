@@ -1,0 +1,726 @@
+﻿MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 DOC ID 27E. Page 4
+W. WINDOWS AND WINDSHIELD 727-lOOC
+A.
+Control Cabin Window Anti-Icing System
+Windows No. 1, 2, 4 and 5 on each Side of the control cabin are provided with electrical heating for window anti-icing and defogging. Heating of the control cabin Windows also improves the impact Strength of the windows and window heat is used for birdproofing the windows when flying at altitudes where bird strikes are possible. The Windows are divided into two groups, each consisting of Windows No. 1, 4 and 5 on one side of the cabin and window No. 2 on the other Side. Each group of Windows is controlled by a separate and independent System which maintains the windows at the required temperatures by the use of automatic controls while the system is in operation. In the event of a power failure to one system, the No. 2 windows of that side will Still be operated by the other system, thus ensuring that reasonable forward Vision from each side will be maintained.
+l. Control System
+Each system is controlled by a Window heat control switch located on the pilot's overhead panel. The switches have a HIGH and LOW position which provide a choice of the rate at which the No. 1 and 2 Windows will be heated. While the system is in operation, the temperature of the window is regulated between 100 and ll4°F for the No. 1 and 2 Windows and between 80 and l 20F for the No. 4 and 5 windows. An overheat detection system turns off the power to the No. 1 and 2 windows when an overheat condition of 135+20°F is detected.
+Each system consists of the four heated Windows, a Window heat sensor, a Combined heat and overheat control unit, a control switch, an Overheat relay, a dual power control relay, a transformer, a window overheat indicating light, an overheat test switch, two thermal switches and a system testing circuit.
+When the system is in operation, the temperature of the No. 1 and 2 Windows is controlled by the window heat control unit. The window heat sensor in the No. l window provides the temperatures signal for the control unit. The dual power control relay and the window overheat relay are controlled by the control unit to accomplish power switching. The power is supplied through the overheat relay, and dual power control relay in series to the high or low voltage taps in the window heat transformer, depending on the control switch position. The window heat transformer supplies the higher voltages required for heating the windows. If an overheat condition is detected, the control unit will drop out the overheat relay cutting off power to the windows, and turning on the overheat indicating light. An overheat condition can be simulated by pressing the overheat test switch with the window heat control switch in either "HIGH" or "LOW" position. The system is returned to normal by momentarily turning the control switch to the OFF position. A thermal switch on the No. 2 window prevents overheating of that window in the open position. The temperature of the No. 4 and 5 windows is controlled by a window thermal switch on the No. 5 window.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+Page 42
+DOC ID 27E
+Date 3/87
+SUBJECT ICE AND RAIN PROTECTION ATA-30
+S^AO ONI WA NI8 wɔ TO 81 Noɔ
+3. ɓ is u fi ŋ o HE I YO DE$ ¢ £ 1 *፯ ‰ ኘ ኸTዕ – 3 A 11 Df10 HỎ D.
+00% "nania – 00$ o$ $ y los –
+30]|$ 1 si su 5) NI I woɔ$ so to$ $ y no朴劑D 3 A 11 Df^\s] HỌj)
+0 & toTANIA – 0} t *$ $ Y "No
+i Q 151 flO 0B9;"$YT1{}|x£ old 0Ꭶ ! "† J Y d5 05 so$ YT!) I x B na
+30 151 flO £& ! "$$ Y TO –– Q0 to !} HI I woɔTAHIA$ 3 A | I ofıO NO))• 05.s. " YTに—{} 3C]|$ 1ñO § 1o*T口[−] 0 HI 1 Y 01)00sTA HI a. –| BA||1.Jf|JNO))0 ≤ r 'ኳ % W ኸኅ )| 0Ų: 'TAĦ IA &የ0‛5 w Toll x ≠ ≠ ≠!=} B MD-エ」lỵ Ib B 1 w słH 0I I J 4 5$ Ob D
+TỶ TỶ 1 d. Å 1
+- Ł
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+محمختلفتھالیھتی
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D0C ID 27E. Page 43
+FOR TRAINING PURPOSES ONLY
+2. Window Conducting Coating
+The control cabin windows are of laminated glass-vinyl construction. The No. l and 2 Windows have a Conductive Coating between the outer glass pane and vinyl Core where it is most effective for Window anti-icing, whereas the NoS. 4 and 5 windows have their conductive coating between the inner glass pane and the vinyl core where it will be most effective for Window defogging. All four windows have electrical terminals connected to bus bars which are molded into the upper and lower edges of the Window in contact with the conductive coating. The windows are heated by allowing current to flow through the conductive coating between the upper and lower bus bars to maintain equivalent heat output.
+3. WindOW Heat SenSOr
+The No. 1 windows have a heat sensor consisting of a filament of non-insulated resistance Wire. The Wire is arranged in a single plane coil and imbedded in a thin plastic wafer installed near the lower edge of the window, between the Outer pane and plastic core. The resistance of the wire is sensitive to temperature and increases as the temperature increases. The heat sensor is used as a part of a bridge circuit in the window heat controller. A change in window temperature causes a change in sensor resistance, disturbing the voltage balance of the bridge circuits and providing a signal for the controller.
+WINDOW HEAT CONTROL SWTCHES
+ON OwerHEAO PANEL
+NO. 4
+\\ گ2
+4 VIAEG
+NO. 5
+NO2 ހަރع
+WINDOW THERMAL SWITCH
+S WINDOWS COPOTS ཨ་མངགས་བརྗོད། (مޝަ/
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID 27E. Page 44
+WNDOW OWER HEAT RELA Y S
+WINDOW HEAT P O WE R R EL A Y S
+- WINDOW HEAT
+CONT ROL UN IT
+WINDOW HEAT POWER TRANS FORMERS
+SYSTEM T EST
+RECEPT A CUE --
+THIRD CREWMAN'S
+STATION
+Fමෙම වේ.දී........... RG) G G G G G G)
+YLLLL LLL LLLLLLLLSS SL LLLLLLLLS LLLLS S
+J7 WINρOW, ANTI-CE SHIELD
+; سمیت چگ" محھ
+ܕܒܒܝܐ
+"S.
+**
+r===================
+·°g
+ア
+.
+/* ' -- -الى ffa مہم... ! ۔؟ مجھ چھچھ ❖ ❖ `ዟ !'†ሩ፭፥• ه ، به ー・
+ANNUNCATORPANEL
+Control Cabin Window Anti-Icing Systern Equipment Location
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID ll 27E. Page 45
+4. Window Heat Control Unit
+The window heat control unit is a solid sate controller. The units for both Systems are mounted in a common housing located in the J7 window anti-ice shield. Each unit is controlled by its respective window heat Control Switch and in turn controls the operation of the window overheat and power relays.
+While the system is in operation, the controller monitors the resistance of the Window heat sensor for temperature control, shorted Sensor and Window Overheat. When a Sensor resistance of less than 333 (+3) ohms, but more than 100 ohms, is detected the unit supplies full wave rectified power to energize the Window power relay. The unit cuts off power to the relay when a resistance of more than 339 (+3) ohms is detected. If the Sensor resistance drops to loC ohms or less (shorted sensor) the unit will not Supply power to the power relay. If the sensor resistance rises to 352 (+6) ohms or more the unit will drop out the Overheat relay preventing power from being Supplied to the windows.
+The control unit circuitry is separated into three functional Sections, Voltage regulation, temperature control, and overheat detection. The voltage regulator protects the other two sections from transient voltages which may upset their detection networks. The temperature control section consists of a pulse control circuit, a temperature control and shorted sensor bridge network of which the window heat sensor forms one leg, a detent circuit, and a power control circuit. The overheat detection section consists of a pulse control circuit, a temperature sem sing bridge of which the window heat sensor forms one leg in common with the temperature control bridge, a time del ay Circuit, a switch, and a switch latching circuit. A system of time sharing is used to prevent interference between the temperature control and overheat detection functions, since the sensor is common to both systems. The bridge network of each system is activated to sample the sensor resistance by their respective pulse control circuit at different phase angles of the ac cycle.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 DOC ID 27E. Page 46
+y 7 vN00w ANTI.CE SHIELD
+P6 LEDAO CONTROU CENT ER
+woc US NO. 2
+SHORT
+ROUT R 0 TE C T
+CON TROU SENSING
+ROGE
+C} 'ዙብ REU A Y old T
+O SE N 3 ING
+AND 3 R OG E
+GAT NG
+Test switch
+CAPTAM's WNOOf NO. * WINDOW 145W AC
+US O/H RELA Y
+RJ8 L window HEAT - 0*T ROL ARE UA Y D002
+95W AC A I
+1 1 SW AC
+sus 2
+WpDOW HEAT Sw LOW
+一事
+IIIGH!
+PL. Push TO TEST
+OT OWE AO PANEL
+F.'o's woof
+NO2
+Wpł00y MO. 5 wMoow x0. D>- PROPER TRANSFORMER COMNECTION DET ER MONED DY wyodoro u RESS TAMCE CAPTAIN'S who ours
+WNOSHIELD ANT-ICE CONTROL
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID 127E. Page 47
+With the Window anti-ice circuit breakers closed, 28 volts dc will be applied directly to pin A of the unit and indirectly through the window overheat relay to pin B. When the pilot's Window heat control switch is placed in either the "HIGH" or "LOW" position, ll 5 volts ac will be applied directly to pin E. The ll 5 volt ac supply will operate the Switch in the detector circuit to close providing a ground for the overheat relay through pin B. As the voltage approaches zero from the negative side of the ac cycle, the temperature control pulse Circuit will activate the temperature control sensing bridge to Sample the Window Sensor resistance, which, if required, will activate the controller power relays providing full wave rectified power to pin K. With power at pin K a feedback voltage will activate the detent circuit which will upset the bridge balance to effectively lower the sensor resistance by 6 ohms, locking the power on until the Sensor resistance increases sufficiently to restore the bridge balance. If the sensor resistance is below loo ohms, the shorted sensor bridge circuit will override the temperature control bridge, preventing the controller power relays from being energized. When power is being applied to the windows, ll 5 volt ac power will be directed through pin H to the overheat detection circuit and as the voltage approaches zero from the negative side of the ac cycle the overheat detection pulse circuit will activate the overheat detection bridge, to sample the window sensor resistance. If an overheat condition exists, the bridge will provide a signal through the time delay circuit to the overheat switch latching circuit. If the condition persists for 2/3 (+1/3) Se conds, the switch latching circuit will be activated, which will hold the overheat switch in the open condition. This will break the ground circuit through pin B, dropping out the overheat relay and preventing power from being applied to the window. The latching circuit will remain active until power to pin E of the controller is interrupted.
+With the system in operation, the overheat circuit may be tested by providing a momentary ground through the overheat test switch to pin G of the controller. This disturbs the bridge balance of both the control and overheat circuits, lowering the effective sensor resistance for the control bridge and increasing the effective sensor resistance for the overheat bridge. The imbalance in the control bridge corresponding to a cold Window is required to actually apply power to the windows since the overheat detection system is only operable with power applied to pin E. The imbalance in the overheat bridge corresponds to an overheated window, and the overheat detection system, after the 2/3 second delay, latched the overheat switch in the open condition and drops out the overheat relay. The system can be returned to normal operation by momentarily turning the window heat control switch to OFF, interrupting the power to pin E.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+Page 48
+mumunum
+DOC ID 27E
+Date 3/87
+SUBJECT ICE AND RAIN PROTECTION ATA-30
+5 $ÅÅ|Ů{JNIM S.1 dwoŋ沼| 5AA00 NIÑA 5.0 || H.sė%|
+Wy}}<>\/IC] TYDIN1.DB13 BDI-IIN V QT3||HSONI WA
+ሕዲዐ10፬01
+SM00 MIKÄ S.10 W0 o s os aeus(!)A.
+s os AA 00 NIÑA
+nyoo · Owo zz090 · 3
+01000 · W Ot000 - 0 sự sụp U - No UtsjoÚ · § |(1090 · W
+UIẾU SINI 04 1531 d. Als今
+HOEWW15|53||M. MOŢIMIAA AJ
+Il-94 lanwd gɔ
+ɑ나 ■w터치T형의읽읽터]] L-o!)UŁ MIWW313 U 30 01 $st]] 103,00合și su vii -Jựło |-maesTEINWA UHA0 sid히「大, & os||[耳留|AAS IÑ09 1ựEH|I us! NJEJ *議|*-fH 누리──────三丁于-._1, woowim ısı|-ġd 13 NW4|| 9,0 !!!!!!!
+노!|目|!w: H MUUNIA }ự, ! ! !! ----||피후5—9Р ѕиз ! 터미녀3491.ND5 IWEH MAJUÑIAA 又!터::off $ a, ɔw 1 | 工三-ŒŒU| ! DNQ|Liono_505MAUT지."f :| ĐỊN $110 js Asių MAJŲ HIMsae 1H0r 1531 || 8BCȚl_]; § 1Y[]INŪŌ I'W BH AMUUSIA Y§ 2, 30 ] :)** HUSNIS上三||| inwo* UWsự so v :]–-} ()E o N Smɛ ɔ0 AD, } LT1',, 「젊 8!!!110!!1!!05]入RAUT|-+-+ |1WIH MADUNIM†r|!1!!05] 173H NAUTINIAM ! 0 N | \Ɛyʊ ŋu o.|원미1425 *** MAŬ UNIAWts, 1f岷江-1WEH MAUUNINA 1H5)||![D]]]}{ 4-1 ɔ o—土11!§ Ù Ù Û |GH --mor丁名→ · § ——立建日----{| нон부하였다.#-ojo tsiɔ HUSN35韓日恒|×|『| w|s os sing sw Aslı ! H -H— ++s[|- to H -0!!0!!0! GX!!!!!!(丁여W MŚ 1. Nɔɔ lựIHEl-9d 13 NW, 80 冀门三院 提學的|L_度藏匿1ự: H MAUUNIMA 【睿建T-191|Åek! 0&"匙 *-- v , v 主0日NI王一口—士三二丁——EX-나,AWTJHA5|| 1331||[减1H,,AO IH JIBsos. Nos) -&UTJHS JJ||-||1NW MOUNIM UT !{000DựUgu† • |æểo.|w|(Wン| 念-«Ļo-|ل-ا- 「어IT의「디IT이T※
+§ us! ADUNIAA
+từ ĐẸ WADHUIBHIA
+SAA00 NINA S, 0/3,
+TIJNWd W30||3||+10 UNZ 1H, A0 MUUNIM
+L`o ]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+്
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID 127E. Page 49
+Window Heat Control Switches
+The window heat control switches are four pole three position (LOW-OFFHIGH) toggle switches. The Switches are located on the P5 pilot's overheat panel. When the switch is in either the "HIGH" or LOW position, power is directed from the ll 5 volt ac window No. 4 and 5 circuit breaker to the No. 4 and 5 windows, from the 15 volt ac window control circuit breaker to pin E of the control unit, and from the 28 volt dc warning lights Circuit breaker to the normally closed contacts of the overheat relay. Fully wave rectified power is directed from pin K of the Control unit to the high or low power coils of the power Control relay depending on the control switch position.
+Window Overheat Rel ay
+The window overheat relay is a double poled sealed relay, with a pair of normally closed and a pair of normally open contacts. The relay directs 28 volt do power frorn the control switch to the window overheat light when de-energized, and l l 5 volt ac power from the windows No. 1 and 2 circuit breaker to the power control relay when energized. The relay is energized whenever the system is in operation in the absence of the overheat detection. The relay is located in the J7 relay shield.
+Window Heat Power Control Relay
+The window heat power control relay is a single pole, double throw, dual coil, nonpolarized relay. A common armature provides a mechanical interlock which prevents closing both pair of contacts at the same time. The relay directs l15 volt ac power to either the high or low voltage taps on the window heat transformer, depending on which coil is energized. The relay is located in the J7 relay shield.
+Window Heat Transformer
+The window heat transformer is an autotransformer providing high voltage for heating the No. 1 and 2 windows. It has two il 5 input taps and 10 output taps. The voltage of the output taps range from l62 volts to 250 volts when using the low voltage input and 224 volts to 348 volts when using the high voltage input. The l0 taps provide a selection of voltages to suit the resistance of the conductive coating on the Windows. The transformer supplies the selected voltages directly to window No. 1 and to window No. 2 through the Window No. 2 thermal switch. The transformer is located on the J7 relay shield.
+________________
+محققففٹیننھa
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID l l 27E. Page 50
+O.
+.
+2.
+3.
+Window Overheat Indicating Light
+The window overheat indicating light is an amber warning light located on the warning annunciator panel on the flight engineer's lower panel. The Warning light consists of a single translucent lens illuminated by a pair of bulbs connected in a parallel circuit. The light is illuminated by 28 volts dc from the door warning lights Circuit breaker whenever the Control Switch is in the "HIGH" or "LOW" position and the overheat relay is de-energized, indicating an overheat condition has occurred. The light may be tested by pressing a test switch on the annunciator panel which provides a common ground for all the lights on the panel.
+Window Overheat Test Switch
+The Overheat test switch is located on the aft side of the J7 window
+anti-ice shield. The switch completes a circuit from pin G of the control unit to ground when pressed.
+Window No. 2 Thermal Switch
+The Window No. 2 thermal switch is a temperature sensitive, bimetallic single pole, snap action switch with normally closed contact points which open at 130° (+5°) F and close above 105°F. The switch is spring mounted near the center of the aft edge of the No. 2 window and prevents overheating of the window.
+Window No. 5 Thermal Switch
+The window No. 5 thermal switch is a temperature sensitive, bimetallic single pole, snap action switch with normally closed contact points which open at 110° (+10°)F and close at 90° (+10°) F. The switch is spring mounted near the lower edge of the No. 5 Window and controls the application of power to the No. 4 and 5 windows.
+Testing Circuit
+The system testing circuit is provided to facilitate checking of the system components located within the J7 relay shield, without gaining access to the components. Wires from a test receptacle located on the aft side of the J7 relay shield lead to the control terminals of each component of the window anti-ice System located within the shield.
+________________
+MAINTENANCE TECHNICAL TRAINING F FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 DOC ID ll 27E. Page 51
+J7 vrto our AMT I-KCE SHte LD
+P. LOAO CON TROL CEMT ER de?
+YoC esus No. 2
+COMTROL
+SENSING
+O'K Ridge RELA Y sensing AM
+or T BRidge GATIMG
+OAPT A N's
+window No. RSS
+: Mooy
+OH RELAY
+A.
+R J & Le w'r NIDOw HEAT co-TROL RELAY
+Doo
+15W AC A 4 li X. II
+5W AC sus 2
+wf WINDOW NO. 4 PROPE R T FRANSFORMER COMME C T IOH ÇOw H0. 5 do [>- DET E ARM MED BY V MNOHO V RES Y TAKHO E
+CAP TAM*3 var Hooraf S
+Low A.
+K|GH
+t Push To TEST
+Pilot Kil OVER HE AO PANEL
+f F.'o's window
+O
+Wy NDSHIELD ANTT - ICE CONTR0l IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+ஒ osa | ii | tr | or ಊ೫
+A. - A - 二圈H °哥°
+A.
+JJ WINDOWANTI-ICE SHIELD 烹T RWAC Two F.
+] | utca ta: Sir - - - - n E惧 CPANELP, A Cars هl. R 已出
+- ســــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــا KY AC IS I : 二器 SESA B 其'一 王源 : شگے : cas
+He{ - نماسال تابسته
+- س" لكاح: W934 blyny Adar a - f s NGT
+a 1--- 4. A. was NATC -d pyropy EA 丘 O 闵 CBA FROLLER twf S4C: SFS a 2 .A -حه عa e VAN HON NEAT Cao IOA
+oc 4îs c Wiwidwibgay EA : - A A.
+f g | LEFT v A S Μ
+iHa L. ALC 4-*-- شاه : به t nës wala · Eat '-' or r ך שני
+- - - - .P. ca یہی۔ llا اط لینک به
+A R WHOOW i AT -
+--그-1 : f};Err; C PAAIE. PG. -aa
+LAFT SKAy - Gll L监 "الملك - PS OWO PARE n شگما می - D< itsely A - la لarپسنتشا COPABEL Ps- D A T POTS IT CCC to
+LCL LLLLLL S L M000LL LLLLLS 0LL SLLLL S S L LLLLL S LLLLL LLLLLL G - Osaka P -09044 CAPTs tracews
+WINDSHIELD ANT-CE ELECTRICAL DIAGRAM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+C, 2 2 <, sae |- -1 <s に 2 ~ ! (_) LII |- LL O 2 < 2 LII |- 2 <s ==
+FOR TRAINING PURPOSES ONLY
+52
+D0C ID l l 27E Page
+Date 3/87
+SUBJECT ICE AND RAIN PROTECTION ATA-30
+11 Nm TO 8 LNO D 1 Y BH MAO ONI M S. LOTI d
+01 HD ] IM $ 1S31 H/O ol 8 OSNB S MOQ NIM WO 8 - Y|| 805N3S MOON IM O 1
+! )!!? CINTOך
+N0] 1051EQ lY = H\} E AO
+3 €) (118 8B 0 0 | 88 80 S NE ST O 8 LN ODÅ YTE Q 03 L (JOHSEl 8 TILLY & Ed W31BW|| 1
+"1081. NO DEHƆ 1 YT LNB.L.B. Q.TO 8 LNOJ ESTI,韶钻
+HƆ LI MS TO & LN OD 8 BẢO dH2) LI MS 1 W BIH 8 BIHA O
+TO & 1 NO DE
+3 801 s 83& WB 1
+N0 1 103 LO 8 d. 1 NB||SNÝ 8 1 90 QNY NO I LWT T10 E 8 E OY 1 TO A
+B90|| 89挂 TOÀN 1 NO2)p : 1 Y EJH 8 BAO:-D ? ğ TO & 1 NO DE 3 ST10 d.+ } 且 QU 女 } 即 wwɔx 5 1. YBH MOONIA , AYTE ?! LVEH BJBA O AT d.d. fl. 5 D CI AB? ɔY AS ! ! AY "1 E18 T O 8 LNO 2)
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+UBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID l l 27E. Page 53
+4.
+Window Anti-Icing System Operation
+The window anti-ice systems are operated by the actuation of their respective control switch to either the HIGH or LOW position. With the switch in either position, ll 5 volt ac power will be directed from the P6 load control center to window No. 4 and 5, and to the Window heat control unit for Window Nos. l and 2. The No. 4 and 5 windows will be regulated between 80°F and l 20°F by the window thermal switch on Window No. 5, and the No. l and 2 WindoWS Will be regulated between lOOF and ll4F by the window heat control unit.
+With ll 5 volts supplied to the control unit in the absence of an overheat condition, the control unit will provide a ground for the overheat relay circuit energizing the overheat relay. If the No. 1 windows are below l00F, the Window heat sensor will signal the window heat control unit to actuate either the high or low power coil of the Control relay, depending on the control Switch position. Energizing of either coil of the power control relay will supply ll 5 volt ac power from the P6 load control center to either the high or low voltage input tap of the window heat transformer, depending on which coil of the relay was energized. Thr window heat transformer in turn will apply the preselected voltage from the transformer output taps directly to the No. 1 Window, and to the No. 2 sliding window as long as the Window No. 2 thermal switch is closed. The rate at which the windows are heated is dependent on the control switch position.
+The Windows Will continue to heat until the Window heat sensor on the No. 1 Window detects a temperature of ll O'F, at which time the resistance of the Sensor Will cause the Window heat control unit to de-energize the power control relay which in turn cuts off power to the Window heat transformer. When the window cools to lOOF, the control unit will again allow power to be supplied to the windows. This cycle will be repeated as long as the system is in operation.
+In the open position, the No. 2 window is shielded by the No. 3 Window which retards heat dissipation from the No. 2 window. The window No. 2 thermal switch will percent the No. 2 window from exceeding l30°F (+5°) F, with possible window damage from overheating, while in the open position or from a fault in the heat control system. If the window heat sensor detects a No. l Window temperature above 135 (+20)F while power is being applied, the overheat detection section of the window heat control unit will de-energize the overheat relay, turning on the overheat light and removing power from the No. 1 and 2 windows. Having the overheat detection section of the controller operate only while power is actually being applied to the windows allows a lower overheat trip setting without nuisance system trip and lockout under hot summer day conditions. While the system is in operation, the overheat detection section may be tested by pressing on the overheat test switch. This will cause the controller to apply power to the windows and then simulate an overheat condition after approximately 2/3 of a second turning on the light and removing power from the windows. The system may be reset by momentarily turning the Control SWitch to OFF.
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+54
+Page
+DOC ID 27E
+Date 3/87
+3O
+SUBJECT ICE AND RAIN PROTECTION ATA
+8 o dłÅ GI TE IH SQIN LÅ
+8 E 18 E AN OD
+AT GWEISSY W 8 yi 85 d \!\
+}|tlwae d!!0 \s?(disÀ QT3||H.80|N|MA
+—~~~
+Windshield Wiper System Equipment Location
+ 
+ 
+ 
+ 
+________________
+gf فنلینa
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID l l 27E. Page 55
+B. Windshield Wiper System (FEC N101FE to N109FE and Nll6FE to N24FE)
+l.
+Description
+A Windshield wiper is provided to maintain a clear area of the pilot's and co-pilot's No. 1 Windows during takeoff, approach, and landing, in rain or SnOW. Each Wiper iS Operated by a separate system to ensure that clear vision through one of the Windows will be maintained in the event of a system fail ure.
+Both wiper systems are electrically operated and controlled by a common gang switch located on the pilot's overhead panel. The switch provides a selection of four wiper action speeds ranging from 190 to 275 strokes per minute and controls the Stowing of the wiper blades in a PARK position when the System is not in use. A stroke is one sweep of the blade in one direction.
+Each windshield wiper system consists of a drive motor, a control switch, a resistor box, a flexible drive Shaft, a torque converter, and a Winds hield Wiper assembly.
+Speed control is accomplished by changing the voltage applied to the windshield wiper motor by means of resistances arranged in the resistor box. The required resistance is connected into the motor circuit by turning the windshield wiper switch to a selected speed. The rotary motion of the Windshield wiper motor is transmitted by the flexible shaft to the converter. The converter reduces the shaft speed and changes rotary motion of an oscillating motion of the windshield wi per arm.
+CAUTION: DO NOT OPERATE WINDSHIELD WIPERS ON DRY WINDSHIELDS.
+A second method for maintaining clear windows in heavy rain is by the use of rain repellent.
+Drive Motor
+Each system is driven by a 28 volt do, variable speed electrical motor mounted on brackets forward of the main instrument panel. Each motor is equipped with two radio noise filters, an automatically resetting thermal overload switch, and a cam actuated Switch. The resetting thermal switch temporarily opens the motor field circuit when the motor temperature exceeds 300°F, or when the field current exceeds 8 to 10 amps. The cam actuated switch is a two pole two position micro switch. The operating cam is driven by reduction gearing in the motor to coincide with the wiper cycle. One pole of the switch is closed when the motor is in any part of the wiper cycle other than "PARK". The other pole of the switch is closed only when the motor is in the "PARK" position of the cycle. The switch is used in conjunction with the system control switch to stop the motor with the wipers in the
+"PARK" position when the system is not in use.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+56
+Page
+DOC ID 27E
+Date 3/87
+SUBJECT ICE AND RAIN PROTECTION ATA-30
+80 LOW 83 d IĄ O T3 I HSG NIA
+ÞļO|1||50 d.
+g3x wyd 3 H1 N1 si wa dla 3wu waka NO 11 150 g T) N $3 WT1SSY HIDILIAS SIHL
+la con <Ț]
+831 No.3 1081 Noɔ Qw OT od
+zogrogga DƆsƆ. A 8E -►- → Y平家 -cilj окאכT3 soļos do Qw E HĹBA O– – –5 8 B 171 | -!E “ON $smo B $ | O|---- olov &TD1 − B T -I-|—T*S. 83 d'IAA |•村9)신.| 3 ooo ; <!-- © |X!!! Y d. ||- H−−|| |||! », { X O 8||| ...); } 801 $1$3 8|||회하미。:工台1工 ! !=�-O ! |*六 |--X!\!\, , ! - -| HɔılÅs 83 dIM |s O TE I H5C] NI MÅ ||-|- !} |||i so / t X O 8||| ... ;o & OLS IS B 8|||회의미。 :Hol H | !r�-o |Lo
+· - -3-30se x&v a 8 O 1 OW & 3 & 1 A O T B | HS C NHA! - -
+·-£|。+ |北|1X × Y d. LID----1 Ho !!! A三8zL gzS 8 E 171 | -!|~$ 83 dŁA - - B. SI ON 10 y 8 O 10T| "ON ST19 © – W心 No. 1031o&d On 313 nvw83 H1 LDO A 8Ł
+Windshield Wipers - Electrical Schematic
+ 
+ 
+________________
+リゲ
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D0C ID 27E. Page 57
+ത്ത
+Control Switch
+The Windshield Wiper control switch is a six position double wafer-rotary gang switch. The Switch is located on the pilot's overhead panel and is used to control the action of both windshield wiper motors by changing the motor circuitry. The switch has a momentary "PARK" position and five detent positions, OFF-LOW-1/2-3/4 and HIGH.
+ReS i Stor BOX
+The resistor box for each System is mounted on a bracket close to its respective motor. The box contains three resistors which may be Selected by the control switch to be added in series with the motor circuit to control the motor speed.
+Drive Shaft
+The flexible drive shafts are closely coiled steel wire cables enclosed in a flexible galvanized steel casing. The shafts connect the Windshield wiper motors to their respective converter.
+Torque Converter
+The converter for each system is mounted on a bracket on its respective window Sill close to the inner surface of the skin. The converter has a serrated drive shaft which protrudes through the skin just forward of the windshield for attachment of the wiper assembly. The converters change the high speed low torque rotary motion of the motor transmitted by the flexible drive shaft, to a low speed high torque circular oscillating motion for the Wiper arm, by the use of a worm gear and eccentric drive mechanism. The motor and converter are synchronized with respect to the wiper cycle before the units are coupled by the flexible drive shaft.
+Wiper Assembly
+The Windshield Wi per assembly consists of a Wi per blade and Wi per arm. The wiper arm has a serrated sleeve at its hub to provide angular adjustment between the arm and the converter drive shaft, and is attached to the shaft by a bolt through the hub. The wiper tension of the arm can be adjusted by tension adjusting nut near the hub of the arm. The wiper blade is bolted to the end of the wiper arm and the angle between the blade and the arm can be adjusted by means of a serrated disc attached to each part.
+________________
+SUBJECT ICE AND RAIN PROTECTION ATA-30
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+Date 3/87 D0C ID 27E. Page 58
+Operation
+The operation of both windshield wiper systems is controlled by turning the windshield wiper control switch located on the pilot's overhead panel to the rate of Wiper action desired. When any switch position "LOW" through "HIGH" is selected, power will be directed from the respective system bus through the motor, control switch, and selected resistances to ground. The amount of resistance selected determines the motor speed and therefore the rate of wiper action.
+When the control switch is turned to the "PARK" position and the wiper is in any position other than "PARK" the switch completes a circuit from the respective system bus through the motor, "PARK" contacts of the control switch, and through the "NO" contacts of the cam operated switch in the motor to ground. This will shut the resistor box out of the control circuit and drive the motor at high speed until the motor reaches the "PARK" position of the wiper cycle and the switch cam moves the switch to close the "NC" contacts of the cam operated switch and the circuit is completed to ground through the "PARK" Contact of the control Switch and the full resistor load. With the motor field coil still energized and the motor armature shorted by the cam operated switch, dynamic braking is provided to stop the motor from coasting. This stops the motor with the wiper blades in the "PARK" position.
+Y * - The RAAAL FELD PROTECTOM
+A C SUS NO. - RADO
+NOISE - - WIPERS- TFilRs KIG C -- *基酿K エ
+•೦೯ r; .." il DSHELO PER AO TOR PARK, ';२] -1 -
+WWA t w-r-M i LO w I RESTOR r |ಃ
+34 (H- WN 05:MIELD, SSS SS αιρεή επιτcΗ
+PARK 姊" - ר
+GH ARES STOR
+1/7 BOK Wi -
+-- PARK
+حـ- سسسسسسسســـد صــد ســـس - o۴۴ز
+. W PERSLe FT
+Bus No. 2 FILTERS --
+OYERHEAOPANEL C
+A. woc UTHERMAL FIELD PROTECT 9 P LOAD KDSHIELD. W PER MOTOR CONTROL CENTER
+WINDSHIELD WwIPERş-ELECTRICAL
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D0C ID 27E. Page 59
+C. Windshield Wiper System (FEC Nll OFE to Nll3FE and N125FE to N136FE)
+l. Description
+A Windshield Wiper is provided to maintain a clear area on the pilot's No. 1 WindoWS during takeoff, approach, and landing, in rain or snow. Each wiper is operated by a Separate System to ensure that clear vision through one of the windows will be maintained in the event of a system failure. The Wiper blades Clear a path approximately 3-1/2" wide through an arc of 84.
+Both wiper systems are electrically operated and controlled by a common gang switch located on the Overhead panel. The switch provides a selection of four wiper action speeds ranging from 190 to 275 strokes per minute and controls the stowing of the wiper blades in a PARK position when the system is not in use. A stroke is one sweep of the blade in one direction.
+Each windshield wiper system consists of a drive motor and torque converter assembly, a control switch, a resistor box, and a windshield Wi per assembly.
+ഗ്ഗ്
+WITPEAR AA ASSEMLY
+CONVENTER
+NOS ELD - fiPEAOTOR
+WNOSHIELD WIPER ECUPMENT LOCATION
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+SUBJECT ICE AND RAIN PROTECTION ATA-30
+Date 3/87
+ZW UC 9. JS PO 1
+ash
+FOR TRAINING PURPOSES ONLY
+DOC ID 127E. Page 60
+THE A MAL F E Lo P R o T Ec T o A
+WAY I PE PAS RIGIT Pe. I PANEL
+P. A. Οι Ο
+NOSE
+FTERS Nc|| |nol CD> -- T
+W N CASH I EU O W PE A AMOTOR
+OFF سےبےخبر جمعح ہیں۔
+.. LOY^w HGH o
+RESISTOR 2יו : ?
+4 Β Ο Χ
+没> YW I NOSHI E LO لحقتسممهم مسا WIPER switch :
+PA PA PIK --
+M-O-ayaayaya محمد ه می HIGH : LOW
+117 RESISTOR | BOX
+PARK M-3>-
+sて ۴۴ زن B
+۔۔
+C
+RACO -لـ 28W Oc NOISE -- C)D>
+US NO. 2 T FIUTERS AWO TE: dí A. NO
+WI PERS- ܢ TK6 RMAL FIE LO PROTECTION LEFT H. H. --■ D This Yich returnes WC PG 1 PANEL YAYIN OOSHE LO W PER MOTOR
+Aposv from when wiper vis in parked post from
+E3> UAL w7080U thru w709OU
+B> UAL wagi, wa32, and w82OU thru w8Jou
+EFFEcrivry
+A AMOGOU thru Av7090U, Av/43 f.
+ለሃፖ432. መጠd Wፖ62OU tአru Wፖ63OU
+THIS SCHEMATIC IS ONLY APPLICABLE TO AIRCRAFT
+NOTE:
+N110FE AND N111FE
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+محققفٹھٹیلتھ
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D0C ID 27E. Page 6
+Speed control is accomplished by Changing the Voltage applied to the windshield wiper motor by means of resistances arranged in the resistor box. The required resistance is connected into the motor circuit by turning the Windshield wiper Switch to a selected Speed. The rotary motion of the drive motor is transmitted to the converter which reduces the shaft speed and changes rotary motion to an oscillating motion of the Windshield wiper arm.
+CAUTION: DO NOT OPERATE WINDSHIELD WIPERS ON DRY WINDSHIELDS
+Motor-Converter Assembly
+The wiper assembly for each system is driven by a motor-converter assembly. The motor-converter assembly consists of a 28 volt do variable Speed electric motor and torque converter coupled together by a connector sleeve and assembled on a Support fitting. Each assembly is mounted on a bracket On its respective window Sill close to the inner surface of the skin.
+Each motor is equipped with two radio noise filters, an automatically resetting thermal overload switch, and a can actuated switch. The thermal switch temporarily opens the motor field circuit when the motor temperature exceeds 300F, or when the field current exceeds 8 to l () amps. The cam actuated switch is a two pole two position microswitch. The operating cam is driven by reduction gearing in the motor to coincide with the wiper cycle. One pole of the switch is closed when the motor is in any part of the Wiper cycle other than PARK. The other pole of the switch is closed only when the motor is in the PARK position of the cycle. The switch is used in conjunction with the system control switch to stop the motor with the wipers in the PARK position when the system is not in use.
+The converter has a serrated drive shaft which protrudes through the skin just forward of the windshield for attachment of the wiper assembly. The converters change the high speed low torque rotary motion of the motor to a low speed high torque circular oscillating motion for the wiper arm, by the use of a worm gear and eccentric drive mechanism. The motor and converter are Synchronized With respect to the wiper cycle before the units are coupled together.
+Control Switch
+The windshield wiper control switch is a six-position double-wafer-rotary gang switch. The switch is located on the overhead panel and is used to control the action of both windshield wiper motors by changing the motor circuitry. The switch has a momentary PARK position and five detent positions, OFF-LOW-l/2-3/4 and HIGH.
+________________
+MAINTENANCE TECHNICAL TRAINING
+A محققفٹھٹھی
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 DOC ID ll 27E Page 62
+FOR TRAN NG PURPOSES ONLY
+〜 ZW OC A. sus No 1
+AOO MKOSE yi PERS I F TE AS RiGHT C Ps 1 PAMEl
+طاه
+ܥܢܐ
+RIGHT Wr. N OSHI E L O Y PER MOTOR
+a A var ur vir -
+ri PER S TCH
+(
+VA MOSHE LO o
+R I GH T FA ESaS TOR 8:O ,
+PAP ཆེ་བ་ལྔ་བ་ r WOC A.
+US NO.
+SAME AS AGHT W PE PAS • VAN NOSH EO
+EFT W PER MOTOA PG-1 PANEL C D
+LEAFT WA MOSH E o MyIPE FA KOTOA
+OFF
+Low 112 ov SAME ASRGHT HG RESJ STO A XO px
+(H Dン・ NOTE: THS Switch ASSUAESNCPOSTION
+WHEN THE WIPER SM THE PAPXEO LE F T PRESSTO)-R CxO) Position
+EFFECTIVITY
+Vá W708ou thru N7Oslou. Ai 743 f. M7432. and W762ou chru v763ou
+A/W ar corpor:
+NOTE: THIS SCHEMATIC IS ONLY APPLICABLE TO AIRCRAFT N112FE AND IN113FE
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+محمخففتھالیت
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID 27E. Page 63
+Resistor BOX
+The resistor box for each system is mounted on a bracket close to its respective motor. The box contains resistors which may be selected by the control switch to be added in series with the motor circuit to control the motor speed.
+Wiper Assembly
+The Windshield wiper assembly consists of a wiper blade and wiper arm. The wiper arm has a Serrated Sleeve at its hub to provide angular adjustment between the arm and the converter drive shaft, and is attached to the shaft by a bolt through the hub. The wiper tension of the arm can be adjusted by a tension adjusting nut near the hub of the arm. The wiper blade is bolted to the end of the Wiper arm and the angle between the blade and the arm can be adjusted by means of a Serrated disc attached to each part.
+Operation
+The Operation of both Windshield wiper systems is controlled by turning the windshield wiper control switch located on the overhead panel to the rate of wiper action desired. When any switch position LOW through HIGH is selected, power will be directed from the respective System bus through the motor, control switch, and selected resistances to ground on airplanes with the control switch on the ground side of the motor. On airplanes with the control switch on the power side of the motor, power from the system bus goes through the Control Switch, then the motor and selected resistance to ground. The amount of resistance selected determines the motor speed and therefore the rate of wiper action.
+When the control switch is turned to the PARK position and the wiper is in any position other than PARK, the switch completes a circuit through the PARK contacts of the control switch and through N O contacts of the cam operated switch in the motir to the ground. This will shunt the resistor box out of the control circuit and drive the motor at high speed until the motor reaches the PARK position of the wiper cycle and the switch cam moves the switch to close the N 0 contacts of the cam operated switch. With the cam operated switch in the N 0 position, the motor armature is shunted out by the cam operated switch and the circuit is completed to ground through the PARK Contact of the Control Switch and the full res i Stor load. With the motor field coil still energized and the motor armature shorted by the cam operated switch, dynamic braking is provided to stop the motor from coasting. This stops the motor with the wiper blades in the PARK position.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+64
+Page
+27E.
+DOC ID 27
+Date 3/87
+SUBJECT ICE AND RAIN PROTECTION ATA-30
+9 TIY 1.E Q
+- ESWETEN JWynɔ
+!|10A83|S=||}}
+|<!-- Nwɔ
+(132|}}[\$$E 8d,AY T30 3W || 1
+WE.1$AS 1 NJËJTIT,Jeff3}.\, ÎNŢIsos
+=))!=-
+ר3A3ר
+1 NEWƆƆW/Tko? No! N w O
+! !! 1 & \, 0 \, EAT YA Nwo ɔ
+SA YT! Eb.
+(Q ni w 130 BE5)
+QTE IHS MEW80-1$Nwo No.1 _^
+(3 n.lv 130 = 35) ATGW E5$w E TZZON
+Y TIY lo q E, EŞ
+Q NW” AY TEE-s de
+QIONE (10$
+盘和霍营彝!!!!
+ETZZON
+Y TIY 130
+öö |
+Åst√∂√u t‹Ìsu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID ill 27E. Page 65
+D.
+Rain Repellent System
+l.
+Description
+A rain repellent system is provided to be used in conjunction with the windshield Wiper system to improve windshield visibility through the pilot's and co-pilot's No. 1 windshield during heavy rain. The system is controlled independently for each Window by separate control switches located on the pilot's Overhead panel and when actuated, the system sprays a rain repellent Solution on the respective window as Selected. The maximum quantity of Solution sprayed per system actuation (approx 6cc) is predetermined by the setting on a time del ay relay and cannot be exceeded by extended duration of switch actuation. The solution is spread over almost all of the window by the rain and airstream, however, spreading is enhanced within the Wiped are of the Windows by the action of the Wiper blades. The length of time that an application remains effective varies inversely with the rain intensity and will last longer in the wiped area than in the unwiped area. Reapplication is repeated as required to maintain repellent effectiveness.
+The rain repellent system should not be operated on dry windows, as heavy undi luted solution will restrict Window visibility. In the event of inadvertent dry window application, do not operate the Windshield wipers as this tends to increase smearing. Also the rain repellent residues caused by applications in dry weather or very light rain may cause staining or minor corrosion of the airplane skin. To prevent this, any concentrated repellent or residue should be removed by a thorough fresh water rinse at the earliest opportunity, preferably within a few hours after exposure. Repellent residues allowed to dry or "cure" on the surface will require polishing with an approved aluminum polish to remove the stain.
+The rain repellent system consists of a pressurized container of rain repellent fluid, a container receptacle, a visual reservoir, two Solenoid valves, two nozzles, associated plumbing, and two electrical Control Circuits.
+Contaimer and Receptacle
+The rain repellent fluid is packaged in a pressurized disposable type container which is replaced when empty. Each container has a self sealing valve with a threaded boss for attaching the container to the system receptacle.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID 127E. Page 66
+There are two types of fluid presently in use, type I and type III, which are packaged in different size Containers. The two types of fluid are miscible; however, when mixed, the resultant solution tends to reflect the properties of the type I fluid. Therefore, when converting from type I fluid to type III fluid, it is recommended that the system be emptied of all type I fluid before introducing type III fluid.
+NOTE: The useful service life of type I rain repellent fluid is
+dependent upon the temperature to which it is exposed. Stored at room temperature, 65-75F, a service life of about l year may be expected. Exposure to high temperatures shortens the service life. The time rain repellent cans are installed on airplanes must be accredited to the l year useful service life storage period. Type III rain repellent fluid is not service life limited.
+The fluid is essentially nontoxic and exposure to personnel during system maintenance is minimized by the use of the disposable container. Contact with significant amounts of the fluid can be irritating to skin or eyes (similar to household detergents) and normal precautions should be taken to prevent this. If skin or eyes are accidentally exposed to the fluid, the affected area should be thoroughly flushed with water.
+The system receptacle has a valve actuating pin which opens the container valve as the container is attached to the receptacle. As the pin enters the valve assembly, it is sealed by an O-ring in the valve prior to unseating of the valve to prevent fluid leakage. The pin is hollow and has inlet ports near the tip of the pin to allow fluid to enter the system from the container. The container and receptacle are mounted on the left-hand upper forward side of the Station 302 bulkhead.
+FLUID CONTAINER FLUID CONTEN CONTAINER WEIGHT CHARGING TYPE WOLUME CHARGED DISCHARGED CHARGED DISCH. PRES at 7OUF
+I 793CC 425CC 3OCC 795 gms 237 gins 85 psia
+(26.8 fl oz) (14.4 fl oz) (1.0 fl oz) (1 lb )8.4 סz(
+12 oz)
+III 936CC 505CC 30CC 955 gms 240 grins 85 psia
+(32.00 fl oz) (17.0 fl oz) (1.0 fl oz) (2 မှီ) (8.5 oz)
+2 oz
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID 27E. Page 67
+Visual Reservoir and Plumbing
+A container receptacle is connected by an adapter to a translucent fiberglass fluid reservoir mounted below the receptacle. The container, receptacle and reservoir are all supported by a bracket on the forward side of the station 302 bulkhead. The bracket and exposed plumbing are enclosed in a plastic cover with Cutouts for viewing the reservoir. The reservoir contains a red float level indicator which is visible through the side of the reservoir. A decal on the cover indicates the fluid level at which the container should be replaced. When the level of the fluid is at the container replacement level approximately ten individual repellent applications of fluid are left in the reservoir and plumbing leading to the spray nozzles.
+The reservoir is connected by a teflon supply line routed below the control cabin floor to a stainless Steel "T" connection mounted aft of station l78. The "T" is connected by stainless steel tubing to a Solenoid control valve for each Window.
+Solenoid and Spray Nozzles
+The solenoid valves are normally closed electrically operated 28 volt dc valves. The valves control the flow of repellent fluid released to the spray nozzles and are coupled directly to the nozzles.
+Time Delay Relay
+Each solenoid valve is controlled by an independent electrical control circuit. The electrical control components of each circuit consists of a system control switch and a time del ay relay. The control switches are push button type monetary switches and are located on the P5 pilot's overhead panel. The time delay relay consists of a relay and an adjustable time delay circuit. When power is supplied to the unit, a circuit is completed through the normally closed contacts of the relay to the solenoid valve. At the same time current is allowed to flow through the resistors Rl, R2 and R3, charging condensers Cl and C2. When the voltage across the condensers builds up sufficiently to trigger the unijunction transistor Ql, it will conduct and apply voltage across condenser C3, opening the gate on the Silicon control rectifier Q2, and energizing the relay Kl. Q2 will continue to conduct and the relay Kll will remain energized as long as power is supplied. With the relay energized, the normally closed contacts will break the circuit to the solenoid valve and the normally open contacts will short out the condensers Cl and C2, and drop out Ql preparing the unit for the next operation. Resistor R2 is variable and may be adjusted to change the time required to charge condenser C2 and thus the time delay action. The del ay is adjusted to open the rel ay contacts after the required amount of repellent has been sprayed on the Window. The relay is located behind the pilot's overhead panel in the rel ay and transformer shield.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+68
+Page
+DOC ID 27E
+Date 3/87
+SUBJECT ICE AND RAIN PROTECTION ATA-30
+Į (Tt) w otoč na ’04 i w us)
+No ATY A 1 MEI 1713., o w
+►!}\, ( 1 }ło 1,
+『과概说
+ƆQI
+0", + 1}{5 w swbO +5}+w No 1 0 Now Aw Tou
+nɔ ŋwɛ ɑw ɑMŮ, JAO
+·„$10 TJ, 64
+*Novae (0)1,03
+QwQ"! (Ivụ (),
+|1. Nossols) (5) , www uwolu ) Į, Now Now|| { } & \ & § y No ww$)|| AV T3 & 1 NETT ( 43 w Mł sw & 1 }{5} | & 5 & 1 \,|
+$nt, 区树能够多感官知 A (53.1.1 ± 0 ?Hɔ i l'A5| 1. Mae "solo d ≤ b,1. Mae Tol (, , , = = = ;NIW , 1 !! !! !!s!!! !! !! !! !! Tl (±, -«; » AY T3 & 1 N3 n (13 JE , NHw , 1 !! !! !! % !! !! Otv OzyOıy G)xταΘ|
+solo olae It...)
+U
+கடக்கிடக்ட
+Rain Repellent Schematic Typical
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 DOC ID 127E. Page 69
+6.
+Operation
+With the pressurized fluid container installed in the system receptacle, and 28 volt dc power available on the battery transfer bus, the system is ready for use. The operation of the rain repellent system for each window is individually controlled by pushing the respective Control SWitch. Pushing the control switch completes a Circuit from the RAIN REPELLENT Circuit breaker om the P6 load Contro center, through the switch and time delay relay, to energize the respective control valve Solenoid. Actuation of the Solenoid valve allows the pressurized reservoir to supply rain repellent through the tubing to the spray nozzles and onto the Window. When the required amount of repellent has been sprayed on the Window, the time delay will operate to break the circuit, de-energizing the solenoid valve and preventing further flow of repellent solution. Releasing the control switch breaks the circuit to the relay coil, de-energizing the relay and closing the relay points for the next operation. The pressurized fluid container will replenish the fluid in the reservoir as the fluid drops and the pressure is decreased.
+When actuating the control switch, hold switch depressed until fluid stops flowing from the nozzle. Rapid actuations of the control switch (less than 0.2 seconds) may de-energize the Solenoid valve before the time delay relay operates, releasing less than the normal amount of fluid.

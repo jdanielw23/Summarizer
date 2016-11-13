@@ -1,0 +1,704 @@
+﻿feC-M-120 2 Juneo gూ MANTENANCE TECHNICAL TRAINING
+SUBJECT 727-2OOF FUEL SYSTEM ATA-28 DATE 6/83 PAGE- 04
+FOR TRAINING PURPOSES ONLY a
+N
+N
+D 1627 U.S. GAL BY OVERWING FILLING ’<ހށިހ
+TANK NO, 2 FILLED BY مصر - ཁ །《། TRANSFER FROM TANK NUMBERS 1 AND 3 |ށަހ །། །།
+7763 U.S. GAL TOTAL
+> ــ حي- حداح " "
+8105 U.S. GALLONS TOTAL /7-----~سے ہہ
+PRESSURE FUE LING 亘ンUSABLE FUEL
+OUANTITY " می / &\ イン。 \ سمصر
+TANK No. 3D y (1798 U.S. GAL) --
+\
+- --سی 1 ހަރހި
+محسی ച്ച് TANK NO. 2 TANK NO. 1 E> WENT
+(4509 U.S. GAL) (1798 U.S. GAL) SURGE TANK
+VEfT SURGE TANK
+FUEl TANK ARRANGENIENT
+B. General Description
+l. Fuel Tank Arrangement
+a. Three main fuel tanks and two vent surge tanks are built
+as an integral part of the wing structure. The No. 1 and No. 3 tanks are located in the left and right wings, from approximately the landing gear pivot area outboard, nearly to the wing tip. The No. 2 tank is located in the inboard sections of both wings and the wing center section between the main landing gears. Vent surge tanks are located in the outboard end of each wing tank at the wing tips.
+b. Tanks No. 1 and 3 are each capable of holding l798 U.S.
+gallons. Each vent surge tank will hold approximately 35 U.S. gallons. Tank No. 2 is capable of holding 4509 U.S. gallons. The above gallon capacities are considered to be the maximum fuel load allowable.
+c. The maximum fuel load allowable in any tank is based on
+7.1 pounds per U.S. GAL fuel specific weight (or "density") and the rated volume of the tank. An outboard main tank minimum fuel load requirement exists for wing bending relief in flight and it may apply if the fuel Specific weight is below 6.5 pounds per U.S. GAL.
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+FEC-hi-1 as unco gూ MANTENANCE TECHNICAL TRAINING
+SUBJECT- 727-2OOF FUEL SYSTEM ATA-28
+DATE 6/83 PAGE_05 FOR TRAINING PURPOSES ONLY
+TANK ACCESS (CENTER SECTION)
+BOOST PUMP ACCESS
+DEFUEL WALWE ACCESS
+BAFFLE PLATE
+TANK ACCESS
+LEADING EDGE FLAP
+FUELING STATION ACCESS
+TANK ENDS الـ 166.95 ws =۔كه*
+BAFFLE N |- CHECK VALVE TANK END TANK RBS WENT
+DUMP NOZZILE
+2. Main Tanks AMAN TANKS
+a. Three main TANKS and two vent surge tanks are formed by
+the structure of the inspar wing. Almost the entire full-span volume within this structure is for fuel Storage. The structural joints are made fuel tight by Sealant and fluid tight fasteners. Sealed ribs divide the inspar wing into individual tanks. The location of these tank-end-ribs depends on the functional requirements of the tank, the effect on airplane center of gravity of the weight of the fuel, and structural considerations of wing bending, bend-relief and maneuver loads.
+b. Some of the upper wing skin structure forms the vent
+ducts for the tanks. Components passing through a tank boundary are sealed with O-ring packings. Access panels are sealed with reusable molded-in Seals. The center Section access has sealant applied externally after panel closure.
+c. A fuel tank assures maximum fuel availability to the feed
+System during all allowable flight and ground maneuvers. It aSSures a drainable Sump volume, below the feed Sytem inlets, when the airplane is parked in a nominal ramp position. Drain holes in the lower wing skin support Structure, assure gravity flow inboard to the feed system inlets and to the sump drain valves. Fuel surge loads within the tanks are baffled by the wing ribs and, in the wing center section, by the spanwise beams. Manholes in the Spanwise beams are covered by removable baffle plates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+ూడా MAINTENANCE TECHNICAL TRAINING feC-4-1 23 Juneo
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE- 06
+SUBJECT
+FOR TRAINING PURPOSES ONLY
+w SURGE TANK Vプ
+SURGE TANK .* *ー
+\ Ա }} A ہے
+BAFFE RID - TANK No. 3
+SUJAAP ORAIM, WAALWE
+fuel ng o ukiP kAFIFOLL VEFT
+Forward فالمهسهـ
+SH RQUj CD
+r S 亨 WENT
+O S A SE
+T.A. BAFFLE ద్వి CHECK
+SURGE WAAL WES Ank
+ORAN
+FORWARD ENGKE FEED IN E pP FEE SHALL & SH ROUND o c Went ANR w£kዘT
+AFT SHRO ORANE MAAG
+WENT SYSTE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+gూ
+SUBJECT
+FEC-M-1s 20 JUNao
+MAINTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE- 07
+FOR TRAINING PURPOSES ONLY
+3. Baffle Rib-Tank No. 3
+d.
+In main tanks No. 1 and No. 3, three ribs have baffle plates between the stiffeners, extending to the upper and lower wing skins. Baffle check valves, opening inboard, are installed in some of these plates. This extra baffling of the inboard rib, forms a flight Sump to hold fuel around the feed system inlets. The outboard two baffle ribs assure airplane trim stability especially during nose-up flight or maneuvering.
+4. Went System
+d.
+The main tank vent system consists of structural ducts and tubes formed by or built into the upper wing skin panel structure.
+An integral SURGE TANK near each wing tip is a holding tank for fuel from the tanks. Later recovery is by gravity drainage into tanks l and 3. Fuel in excess of 35 U.S. gallons (approx.) would flow overboard through the TANK VENT in the wing tip.
+Screens are installed in each wing tip vent and in each surge tank drain.
+Each tank has two vent port areas, at opposite ends of the tank. Each port is located so that at least one port will be in the air bubble. The other port may be submerged, but fuel would have to flow up-hill to leave the tank. In tanks 1 and 3, two BAFFLE CHECKVALVES are at the top of the second baffle rib to allow air bubble movement to the inboard port area.
+The SUMP DRAIN WALVES are a reminder; that, as tanks breathe through the vent system, moisture can enter.
+The engine feed line shrouds drain forward of aft from the B Stall 83 bulkhead. The three aft shrouds are vented and drained through two masts. The three forward shrouds drain to one mast and three vents provide in flight ventilation airflow.
+Each mast has a flame arrestor in the line above it. The drainline through the left wheel well is so nearly horizontal that a drain valve is used to check for fluid accumulation in the line. After usage assure that this valve does not remain locked open.
+________________
+ks varrer " I EL 29 W YN A
+MANTENANCE TECHNICAL TRAINING
+SUBJECT- 727-2OOF FUEL SYSTEM ATA-28 DATE 6/83 PAGE O8
+FOR TRAINING PURPOSES ONLY
+i ut LML so STATU -
+ዛ I ズ AM, WE LM 3 Hy CE IN THPH 0 h : WOUJ METRIK TOP - OFF ACCESS, at PAF UNITS INSTALLED ,~~ރހަޖ
+- H ()5 E Mi 0 : 2 L : CAUTION
+GROuno ng RECEPT A LE
+azEE GLEELLEL LEL L00 LLLLLS LL 00 F JE LI MIG POWER SWITCH AKU OD MOT TURF OM گی
+TEST GAGES SY TCH W T H F J : L. ING POWER OM GHTS ÅT FJEL LF WELS A BOWE
+፲፱ Aዘኗk fነዘH፫፱
+3 O. LBS Tak OH TANk فرق u iP 2.0 LS TAkk & O RAiN w A WES if PLACES! ERAyy is valve closure occurs Al AN À80WE THESE FUELLE WÉLS yth T
+RST REACA hoc Powra o ARPAN
+2 PLACE FUE LIN WAL WE SWTH TO "CLOS"
+... PACE FEA POWER Switch ON
+LSS S LS ESL0 SLSE LLLLLLG LL 0LLLLLLL LLLLLLLE LLLaSES
+AND ALEASE
+FU EL IN 0S S SLLELLLL ELLLLLLLLS LL0SSLLLLLL LLaaLLSaaL0LL
+PAKEL P1 5
+FUELING INSTRUCTIONS
+1 REMOVE CAPS, MSTALL GOUNDING. JACKS ANO THEN
+COMPLE FELKG MKOA LES ... rest GAES AND WAY Position to his KOTE : LLLLSLLLLLLLL LLLL LLLLLLLL LLLLLL GLLLLLLL LLLLLLLLLa
+LLS LLLL LLLL LLLLLL LLL 0LLL LLLLaLL LL0 LLLLLLLGLLLLG LLLLLL LLYL LLLL LLLLLLLLSLLLLLLLL LLLLLLLL GLLLLLLLLzS aLLLL LLLLLS
+TOK READING OPEM CONTROL SWITCHES FÖR THE TANKS TO BE SEEWICED, LLLLLL LLLL LLLL LL LLLLLLLLLL LLLLLL LLL LLLLLL
+PL A CAR OS
+CATION
+00 KOT EXCEED 50 PS | FL EL PRESURE SE A W CE THIS A I A PAN E WTH JET FUEL USEAGLE FUE CAPACIT"Y
+LLLLLL LLLLLGGLLLLL SLLLLLGLLLGGL0 LLL LLL LLaaLLLL00 LLLLL LaLLGLLGL FUELING MANFOLD LLLLLLL LLLLLLLL0S LLLLLCL LLLLLL LLL0 LLLLLL LLLLLL LLLLLLLLS
+, ALL CONTROL SWITCHES ANO WAWES MUST DE IN THE CLOSED WENT WALWE LLLLLLLL LLLLLL LLLLLGGS LLLLLLLLYY LLLL LLLLLSLGLLLLL ROHRALLT OPEX LLLLLL SLLLLLLL0SLLLLL LSLLLLLLGL LLLLLSSLLLLLL LLLLLLLLLLS COSE TO SUCTO MOTE E ::::ಜ್ಡAKAQat೫ BET WWEEr
+D. FAJL TAS
+SEPEC PYW A 3272
+TA FN K ANO 1 17 U.S. GA TAN P. NO 2 asos U.S. G All TANK No. 3 1738 U.5 G.A.
+s
+EULE F UELE TAT
+FUE LINCS CUANTTY ܣ FUE LING CUANTTY IN DICATOR A INDICATOR TEST SWITCH
+UElPNG W TANx
+C MC L
+Ε)
+zas ; S) : No
+t C == -ل
+& No
+FUE LING POWER WTO RESET أيسخص
+CONTROL SWITCH SWITCH (GUARO EO )
+FUE LING SHUTOFF FUE LING SHUTOFF WALWE TRANSIT LIGHTS WALWE SWITCHES
+(ROTATED 180°)
+Pressure Fueling System Equipment Location
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+జ్రా
+5.
+SUBJECT
+FE-hal - 1 , 23 JUN eo
+MAINTENANCE TECHNICAL TRAINING
+727-2OOF FUEL SYSTEM ATA-28 DATE 6/83 PAGE- 09
+FOR TRAINING PURPOSES ONLY
+حہ۔"
+Pressure Fueling Station
+d.
+The Fueling Station consists of:
+Fueling Door Valve Position Lights (Blue) Fuel ing Placards Fuel Quantity Indicatiors Hose Receptacles and Caps Gage Test Switch Nozzle Grounding Jacks Fueling Manifold Went Valve Fueling Panels, Pl5 Fueling Station Lights Fueling Power Switch Lights Transformer Fueling Valve Switches Service Interphone Jack Volumetric Topoff Reset
+Switches
+These components are mounted in or around the fueling bay in the right wing leading edge. The FUELING STATION provides most of the equipment for pressure fueling, hookup, test and operation. The equipment at the fueling station is also used for the filling portion of the fuel transfer operation. It provides the hose connection point for defueling.
+Additionally, ll 5V AC and 24/28V DC electric power must be available from the APU or the external electrical power systems and the battery.
+The fueling power and fueling valve switches are guarded and locked in the OFF or CLOSE positions when either fueling door is closed and latched. This switch/door interlock assures fueling valve closure before flight and inflight by providing 28V DC Bus 2 power to the valve-close circuits.
+With the fueling power switch ON, the main tank fuel valve switches can open the fueling valves if the tank is not full. But, if the tank is nearly full, empty or nearly empty, the fueling valves will not open. This odd situation is caused by the fuel quantity indicating system/volumetric topoff unit and is normal. A circuit to prevent valve cycling causes this.
+Volumetric top off reset switches allows overriding the lockout of the anti-cycling circuit. Misuse of these momentary-only switches could cause a fuel Spill.
+NOTE: Holding the WTO reset switches while refueling
+with the fuel level near top off can cause a fuel spill. The tank fueling valve will be held open by the WTO reset switch circuitry as long as the switch is being held in the reset position.
+________________
+FEC-4-19s 20 June MANTENANCE TECHNICAL TRAINING
+subject 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE_10
+FOR TRAINING PURPOSES ONLY " يحد
+MA NI FOD WENT LINE
+FUENG RECEPTACLE
+MAN, i FOUD -- FUEL NG BAY VENT Shuto FF VALVE
+DOOR
+è FWD
+SWITCH TOGGLE BUMPER
+VIEW 2 HOSES NOT CONNECTED
+Si NG LE PO NT HOSE WALWE CONTROL HANDLE
+DEFUE LING HCSE FUE LING HOSE
+W| EW 3
+HOSES CONNECTED mmmmmmmmmmmmmmmmmmm
+Fueling/Defueli ng Equipment Instal lation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT
+FEC-M13 as JUNO
+MAINTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28
+FOR TRAINING PURPOSES ONLY
+DATE 6/83 PAGE
+Each fueling valve may be closed at the desired indicated weight or allowed to close automatically when the tank is at full volume. The full-volume-Shutoff indicated weight var i es considerably due to the fuel specified weight (or: density, specific gravity), therefore, there is no full mark on the quantity indicators. The fueling valves will close automatically if APU or external power is lost while fueling. This fail-safe feature is provided by fueling power switch and the battery. Do not place the fueling power switch OFF while any tank is fueling, this can cause a fuel spill.
+The test gage switch checks System operation, not specifically accuracy. For the main tanks, the gage test switch also tests the folumetric topoff units ability to close the main tank fueling valves. Do not test when the main tanks are nearing full, since the fueling valves will not reopen after test. The main tank fueling valves can be reopened by following the procedures on one of the fueling placards for use of the volumetric topoff reset switches.
+When the fueling power switch is ON, the gage test switch on the Flight Engineer's panel is disabled to eliminate fueling interference. Fuel quantity indicators at the fueling station are repeaters, operating on Signals from the "master" indicators on the Flight Engineer's panel. They are also useful as flyaway-spares for the indicators in the Engineer's panel.
+A Valve Position Light is ON whenever a fueling valve is operating; that is, intransit. It does not indicate specifically that a valve is open or closed. It indicates that the valve motor is responding to a fueling valve switch, or the full-tank shutoff device, or the gage test switch, or the loss of APU/external power. It does not necessarily indicate "disagreement" as the placard states. The fueling pressure, as regulated by the ground facility, should not exceed 50 PSI. This is the normal pressure for most effective fueling.
+Ar aus
+蠶
+uhur
+ට
+5་
+FUELAG CONTROL PAN EL P1 5
+ 
+________________
+f wry a eu urg
+MAINTENANCE TECHNICAL TRAINING
+gూ SUBJECT 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE la
+FOR TRAINING PURPOSES ONLY
+6. Fuel Distribution and Ballast Requirements
+d
+Care is required in fueling, defueling, and transfer Operations to assure that the airplane does not tip aft. Conditions related to ground operations can, Singly and in combination, contribute to an effective aft center of gravity that may result in an aft tipping situation. Consult the Weight and Balance Control and Loading Manual to determine the effects of wind, ramp slope, cargo load, maintenance crew loads, snow load and fuel load on the tipping situation. Utilization of the tail jack is required whenever the aircraft is parked.
+When transferring fuel from either wing tank or 3 for maintenance purposes without ballast in the lower cargo Compartment, or No. l cargo positions, the No. 2 tank should be your first choice of the tank to transfer fuel into (see charts below).
+Federal Express has established a minimum ramp load for tank No. 2 of l3,000 lbs. More fuel should be loaded in
+tank No. 2 whenever operationally feasible.
+BSTA 949.91
+MAIN GEAR | AXLE
+se. Il
+FUELNG STATION
+MAN TANKS
+O SHADED AREA
+NDICATES FUEL STORAGE AFT OF LANDING GEAR AXLES
+49.56. MAC FUEL DISTRIBUTION
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+ســــــــــــــــــــــــــــــــــــــــــــــــــصسا
+FEC-M-19s 7 FEB 78
+MANTENANCE TECHNICAL TRAINING
+subject 727-200F FUEL SYSTEM ATA-28 DATE - 3/85 PAGE — l3
+FOR TRAINING PURPOSES ONLY
+6.1 EMERGENCY/STANDBY REQUIRMENTS
+d.
+When the aircraft is static om the ramp for any length of time (e.g. layover) a minimum ballast is required. This minimum ballast will permit the aircraft to be moved in an emergency. For routine or preplanned towing operations, a NORMAL ballast load should be used (Table 20l). Any of the following minimum ballast loads is considered satisfactory for an emergency movement of the
+aircraft.
+(l) 2,300 pounds placed in position l.
+(2) 4,200 pounds placed in forward belly.
+(3) 5,000 pound pallet placed in position 4 or forward.
+(4) ll, 300 pounds in tank number 2.
+6.2 OPERATING CONDITIONS FOR BALLAST
+а .
+The three operating conditions used with Table 20l and Table 202 are as follows:
+(l) COND I. Headwinds greater than 30 knots - OR - snow
+accumulations greater than 3 inches.
+(2) COND II. Headwinds greater than 30 knots - AND - snow
+accumulations greater than 3 inches.
+(3) NORMAL. Conditions other than those defined as COND I or
+COND II.
+________________
+FEC-M-19s 7 Feb 78
+A. MANTENANCE TECHNICAL TRAN ING
+SUBJECT 727-2OOF FEL SYSTEM ATA-28 DATE 3/85 PAGE la
+FOR TRAINING PURPOSES ONLY
+727-282F
+UL, DISTRIBUTION CHART
+ABL 20
+BALLAST FUEL (Pounds) AOUNT EACH AMOUNT REQUIRED IN TANK NO. 2
+IN TANKS No. 1 AND FUEL BALLAST ONLY 5000 LB PALLE POS 2
+No. 3
+NORMAL COND ΟΟΝΙΟ ΙΙ NORMAL COND I COND III
+2OOO 15 OOO 2OOOO 24500 BALLAST FUEL 4000
+3OOO 4500 19000 24000 NOT REQUIRED 3500
+AOOO 3500 18500 23500 5000 3OOO BOOO 23OOO 5 OOO 25 OO 7500 22500 7000 l2OOO 7 OOO 22 OOO 8OOO 15 OO 6500 22 OOO 9 OOO 500 6500 22 OOO lOOOO 1500 6500 22 OOO OOO 2OOO 7OOO 22500 2OOO 3OOO 18500 24000
+Higher total fuel distribute normally.
+Assumptions: l) 3040 pounds is minimum nose wheel load.
+2) One person is in cockpit.
+3) Fuel allowance for taxi and/or APU burnout may be included in or added to the fuel distribution. If added, it is suggested that it be loaded as additional tank No. 2 fuel.
+4) 2000 pounds minimum fuel in tanks No. l and No. 3 are
+hydraulic heat exchanger requirements.
+5) Fuel mis distribution . will require ground transfer back
+to a normal distribution before flight.
+Example: Under normal conditions and using fuel ballast only with 4000 pounds each in tanks No. 1 and No. 3, l3500 pounds are required in tank No. 2.
+Example: Under COND I and with 5000 pound ballast in position 2,
+additional fuel ballast is not required.
+________________
+MAINTENANCE TECHNICAL TRAINING
+subject 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE-lo —
+FORTRANING PURPOSES ONLY
+BSTA 349.91
+MAIN GEAR AXLE
+FUELING STATION
+لC
+- is
+OD MAN TANKS
+O SHADED AREA
+NDICATES FUEL STORAGE AFT OF LANDING GEAR AXLES
+49.58 MAC FUEL DISTRIBUTION
+200 MAX TAX GROSS weight
+1so
+曾 - 1во
+淫出 سمي 170 鲨 g
+A LANONG WEIGHT SO
+芸 《། 垒
+go
+注 군 140 誉 hie 舌|宝 d.
+10 프 물 ag ad
+120
+O 35 45
+CETER OF GRAVITY - MAC
+ALLOWABLE CENTER OF GRAVITY LIMITS
+ 
+ 
+ 
+________________
+SUBJECT
+MAINTENANCE TECHNICAL TRAINING
+727-2OOF FUEL SYSTEM ATA-28
+FOR TRAINING PURPOSES ONLY
+727-2S2F
+WARIABL2 BALLAST REQUIREMENTS FOR TOWING TABLE 202 (SHEET l OF 2)
+FEC-M-19s 7 FEs 78
+DATE — 3/85 PAGE | l6
+TYPE DISTRIBUTION BALLAST IN FORWARD BELLY ONLY - UBS
+O 1ΟΟΟ 2000 3000 4000 sooo &oo
+NORMAL OPERATIONS BALLAST FUEL LOAO - UBS
+TANK 2 ONLY 17000 14900 12500 9900 7100 4000 500
+TANKS 1, 2, 3, ECUAL 37300 | 27 100 21900 16700 11300 6100 380 TANKS : 1 AND 3 EQUALI NA N/A N/A N/A N/A 96.00 1100
+CONDITION
+TANK 12 ONLY 21400 19200 16800 14200 11300 8100 47OO
+TANKS 1, 2, 3, ECUAL 42600 40400 38OOO 2S700 20000 13600 7300 TANKS 71 AND 3 =ouحفلام N/A N/A N/A N/A N/A N/A 13400
+CONDITION
+TANK 2 ONLY l 26300 || 24000 21 600 18800 15800 12600 9000
+TANKS 1, 2, 3, EOUAL 48,300 46100 43600 40300 37900 23900 16000 TANKS : 1 ANO 3 Eoua N/A N/A N/A N/A N/A N/A N/A
+________________
+VARIABLE BALLAST REQUIRENTS OR TOWIONG
+ABLE 2.02
+MAINTENANCE TECHNICAL TRANING suct 727-200F FUEL SYSTEM ATA-28
+FOR TRAINING PURPOSES ONLY
+727-2S2F
+SHT 2
+FEC-M-19s 7 FEs 78
+DATE — 3 / 85 PAGE — l7
+TYPE DISTRIBUTION
+BALLAST IN POSITION 1 (UPPER DECK) ONLY - LBS
+O 1000 2000 3000 4000 5000 5500
+NORMAL OPERATIONS BALLAST FUEL LOAD - LBS
+TANK 2 ONLY ተ7000 | 12400 7900 3400 O O O
+TANKS F1, 2, 3, ECUAL 37300 21700 12800 5100 O O O TANKS 1 AND 3 Eoua N/A N/A N/A 7500 O O O
+CONDITION |
+TANK 12 ONLY 21400 16700 12OOO 7400 27OO O O
+TANKS 1, 2, 3, EOUAL 42600 | 37800 21 700 2200 4100 O O TANKS : 1 ANO 3 EoUAسلا N/A N/A N/A N/A SOOO O O
+CONDITION III
+TANK 2 ONLY 26300 21300 16500 11700 6900 2000 O
+TANKS 1, 2, 3, ECUAL 48,300 43400 38500 21900 11600 3100 O TANKS at 1 AND 3 Eoual N/A N/A N/A N/A N/A 4500 . O
+NOTES
+D N/A - NOTAUTHORIZED
+2d 6000 LBS maximum in forward boily (structural limit)
+________________
+MAINTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28
+FOR TRAINING PURPOSES ONLY
+SUBJECT
+ν
+FUE LING RECEPTACLE
+PRESSURE FUE LING STATION
+DATE 6/83 PAGE
+feChase 2 Juneo
+8
+TO FUEL DUMP SYSTEMA
+TO FUEL TANK: WENT SYSTEM
+MAN FOLD WENT SHUTCFF VALVE
+FUEL RECEPTACLE MAN FOLO
+MAN I FOU O VENT CHECK WALWE
+-
+sy A 2%へ FUE LINCS AND FUEL TANK NO. 3 O UMP MAN, i FOUND
+لرA
+fo FUE Ll NG A SHUTOFF an A, WALWE FUE Ll NG LINE
+A ዶ 後
+4%(/ | Sigg gg ggg トーー1ー EE 6
+TANK NO. 2
+-----
+MAN FOLC) ORAN CHECK VAL-VE
+COMPENSATOR WASH LINE
+FUE LINCS MANFOLD CHECK WAWE
+Note: SCHEMATC shows SYSTEM
+OURING PRESSURE FUE LING OPERATION
+Pressure Fueling Systern Flow
+Diagram
+TANK NO.
+\ RESTRICT ING
+OR I FI CE PA TE
+TO FUEL OU MP SYSTEM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+gడా
+SUBJECT
+FECM-108 28 JUN so
+MANTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE
+FOR TRAINING PURPOSES ONLY
+7. Fuel System - Fuel ing
+The FUELING AND DUMP MANIFOLD is a large, varying diameter tube assembly routed through the main and vent surge tanks. This manifold approximately parallels nearly the entire length of the front spar. The ports of this manifold are connected to two fueling hose receptacles and three main tank fueling valves. The manifold is also connected to four tank dump level control valves, two dump nozzle valves, the defuel valve and two went and drain lines. The manifold went line is routed through the fueling station and contains check and
+manual vent valves. The manifold drain is located in the
+left section of Tank No. 2, near the wing-to-body rib. The drain is a short, small diameter tube connected to a drain valve. The MANIFOLD DRAIN WALWE is a variable restrictor and check valve.
+The fueling and dump manifold is a multi-way flowpath for fueling, dumping, defueling and transferring. A vent at a high section and a drain in a low section cause the large volume of fuel in the manifold to become usable. The manifold went valve, (manual, normally open) should be closed for suction defueling and reopened before flight. The drain valve restricts flow into tank No. 2 during fueling and allows free drainage after fueling is shutoff. The drain valve also prevents thermal expansion pressure buildup .
+The manifold will not normally drain unless tank No. 2 has a very low fuel level and the vent valve is open. The manifold should be scavenged to a ground facility before removal of dump nozzle, defueling or the fueling valves. The total manifold volume is approximately 25 U.S. gallons.
+hso 2 CAwtry ay
+A PTTACOMECT
+PUIUrge AArto 须 OLAP bardi POL) /ރަ INN
+VAN OM Օa L g Y Neda TVING W 11ኮ\\wነ
+Also paaral CCK, WALWA OTA I U A OUATTRIMO CAAP
+AA WALWY
+TAL A Cry, yaR Aaro aut
+کیمبر
+Marfod. On Check Wave re r
+9
+________________
+few- that the
+MAINTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28
+2O
+DATE 6/83 PAGE
+SUBJECT
+FOR TRAINING PURPOSES ONLY
+cĦoŠSFEED MÅNIFOLD
+/CROSSFEED VALVĖS
+誌鱷wnche5% TANK 2DE FUEL VAL VE SUMP DRAJN VALVE3怒
+FUE LI ĦG & D'UMPDUMP LEVEL SENSOR
+MANIFOLD容%
+VOLUME TRICDĦAĦĦ WALVE%s.TANK: tỷ UMP VALVE TOPOFF UNIT
+入冬~)
+DUMP LEVEL CONTROL VALVE COMPENSATORZ检 WASHING LINE
+FUE Ļ ļ ŅG CHĘCK VÅL VE
+汾冷没FUEL ING & DUMP. MANIF ÖLÜ ፵ %万円 ?FUEŁ ł ŃG 碗%泌FUE LING & DUMP PANEL, P 15 FUE LING VÅLWE
+FUELING RESTRICTOR
+THE RÅÅÅ L.
+RELIEF V ALVE “ TANK. 3 † EMPERATURE: sols||E.
+BU LBFORWARDSHUT OF F WALVE\∞
+!BOOST5HROUso
+* BonsT PUMPÞUM ÞĎRAINwAsfB AF FLF●
+BY PÅ55CHĘCK WALVĖS|× VAL VF5ụRGE TANK
+OVERWINGDHAIN
+FILLER
+OVE RRIDE CHẾ Ở KVALVEFORWARD ~)DUMP NOZZLĖ 5HROUD –s,-V ÅL VETA乙真 y E NTWE NT t년어넓터페*****
+!_) AF T SHROUD DRAIN MAS I
+FUEL SY'$1 {M
+ 
+ 
+ 
+ 
+________________
+ూ
+SUBJECT
+FECM. 1982s JUNO
+MANTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE_2
+FOR TRAINING PURPOSES ONLY
+The FUELING WALVES are 24/28V DC motor operated, sliding gate, semi-submerged, 3 to 5-Second valves, with a manual override handle. These Valve Cons ist of gate, actuator and port adapter assemblies. The port adapter assembly is mounted inside the tank and Supports the fuel lines. The gate assembly Slides into the port adapter assembly from the dry side. The actuator assembly couples to the gate shaft with an index-tooth spline. The DEFUEL VALVE is similar, except that the actuator is a "manual" lever and it is smaller than the fueling valves.
+Tanks No. 1 and No. 3 fueling valves are located approximately mid-span on the front spar of each tank. Tank No. 2 fueling valve is located on the right inboard wing front spar.
+The FUELING WALWES electrically open or close to control the fueling vow of a tank. The valve is manually and automatically switched. The valve manual override handle also shows valve position. A blue light on the fueling panel, Pl 5, indicates valve motor operation.
+The DEFUEL VALVE, opened manually, connects the fueling and dump manifold to the crossfeed manifold. The defuel valve is a two-way flowpath for defueling and transferring fuel. The valve lever is interlocked with its access door to assure closure before flight and inflight.
+On the FUELING PANEL, Pl 5, the guards on the fueling power switch and the fueling valve switches are interlocked with the fueling access door to assure closed/off status before flight.
+The fueling line into each tank contains a FUELING RESTRICTOR. These restrictors are orifice plates, indexed where necessary, and mounted between flanges in the fueling lines. In the main tanks, they are mounted between the fueling valve port adapter assembly and the fueling and dump manifold flange.
+Two capped, self-sealing, quick-disconnect, fueling hose receptacles connect the ground service equipment to the fueling and dump manifold. The self-sealing poppet is opened by the hose nozzle poppet to provide a two-way flowpath for fueling and defueling.
+The fueling station is located at mid-span in the right wing leading edge and contains the fueling receptacles and the FUELING PANEL, Pl 5, as the major components.
+________________
+FEC-M-1s 28 JUNO gూ MAINTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 22
+SUBJECT
+FOR TRAINING PURPOSES ONLY
+l. The FUELING RESTRICTORS are Calibrated to assure that the
+fueling flow rate into each tank cannot exceed its vent overflow capacity. This is to assure that the tank press sure cannot exceed the structural limit if a fueling valve fails to close. This is also why the fueling delivery, as regulated by the ground facility, must not exceed 50 PSI. The main tank fueling restrictors have an additional purpose of producing balanced fueling flow rates to tanks No. 1 and No. 3. This compensates for pressure drops along the manifold to maintain a laterally balanced airplane. The balanced flow rates into tanks No. 1 and No. 3 occur only when the applied fueling pressure is near or at 50 PSI. The normal and maximum fueling pressure should be 50 PSI.
+m. A FUELING CHECK WALWE is at the end of each tank fueling
+line. The main tank fueling check valves were, before the volumetric topoff unit instal lation, the fuel ing full -tank Shutoff Valves. These Valves consist of a spring-loaded diaphragm that seats a pin-guided poppet against the inlet fitting. The chamber behind the diagragm is open to the tank and, through a slot in the guide pin, the di a ghragm chamber is also open to the valve inlet. In main tanks No. 1 and No. 3, the diaphragm chamber of the fueling check valve is connected to the tank through a compensator washing line. In main tanks No. l and No. 3, the fueling check valve is mounted on the fueling valve port adapter assembly. In main tank No. 2, the check valve is on the end of a tube, near the righ sump and is installed under a splash shield and has no washing line.
+n . The FUELING CHECK WALWES minimize back flow from a tank
+into the fueling lines. These check valves primarily provided maintenance convenience, so that fueling valve gate assemblies can be changed without requiring defueling. Unfortunately, the main tank fueling check valves are open to the tank through the diaphragm chamber. This means there is a small back flow through the check valve poppet guide-pin slot. This makes a fueling valve change less convenient by requiring partial defueling of the main tank or changing to a new valve very quickly.
+O. These check valves also reduce the rate of fuel spillage
+if the fueling hose or fueling receptacle fails. They also reduce inter-tank transfer in the remote possibility that fueling valves are open when the tanks are not being fuel ed.. The fue ling check valve in tank No. 2 is usually submerged, but has a splash shield to supress the fuel atomizing and electrostatic generating effects of high velocity fluid flow. In tanks No. 1 and No. 3, the nearness of the structure provides this shielding.
+________________
+Fitu-hari te ze. Ju N QO
+MANTENANCE TECHNICAL TRAINING
+727-2OOF FUEL SYSTEM ATA-28
+FOR TRAINING PURPOSES ONLY
+DATE 6/83 PAGE 23
+SUBJECT
+W 318 AS 13 fi:
+15 sựW NI? HÚ Ởfts)b HS 1 +\?
+! N3A X# No 11 N 3 ላ 3 ATYA→ → [] saets Hos 3 iz ZON & WTO~ J HYKAŁO 4JATY AXJ3H3 3,118||H|3|AŬH3בורר
+『의례시에『』 NI? HQ x. No 1 39 bris5) NIĤAb EAO| jላገኘ'ላ %ペ53 A TŶ A XO3Hɔ$$('d',\!•> 1比也感dows 鲁#1」4W田15% W Wİsự b) 0能đYŁslo 1. SUKOB心 O<Tqn() HHS事制 \HAŢw A + HO-1 nH50 &\; s^b 038 lslg 每EN 19 No脚 事 3:8 si lys 3d W31· **
+** *
+X
+* ...}
+* ...
+w Oslo fb 15:: ĐỊNI 13 no
+3 Aiwo A ĐNH 13 sh;3
+-1N3A (JTOJINY W & s & T3 Nwd gwnɑ sɛ ɔnɲɔnɔ, £) NI T B si :
+BATYJA X33 Hɔ ĐỊNI 13.no
+() TO HINY W & Wnɑ sɛ ŋNI 13.no
+3.HT ĐỊNH H5YAA bɑɑ 1\,5Naessae Batwa "108.1 NƠɔ TEA: T & Wñʊ
+11Hf + √Û√∞01 BATWA 4 WT10 × No.1��BATY A HIỸ 80Ɔih 1 Brown TỌA
+Ž%$>ɑTO, IĤow
+HƠSN35 -13A ET «HWnae/%}%&WmQ , ĐNH 15 no %-包 22ŁATWA NIY\}0 & Wñ5 HAT! ^ "North £50}353 HɔIIMS 38ħSS3 Hae
+z X!No.1!rows\)${}{}{} 5: ATY A OE3+SSƠłło/
+OTOHI NYW (1334SSOHO
+ 
+ 
+ 
+________________
+FEC-ha-1 sun so
+MANTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 24
+FOR TRAINING PURPOSES ONLY
+ቆ FUE LING RECEPTACLE
+PRESSURE FUELING STATION
+ዖ
+SUBJECT
+- TO FUEL. DuMp
+SYSTEM
+TO FUE L TANK WENT SYSTEM
+MAN I FOLD VENT SHUTOFF WALWE
+FUEL RECEPTACLE MAN FORLD
+MAN I FOLD VENT CHECK WAWE
+FUELNG AND FUEL TANK NO. 3
+OUMP MANFOUD
+FUE LING SHUTOFF
+WAWE FUE LING LINE
+ANK NO. 2
+Ele se !==---- a
+N MAN FOLO
+ORAN CHECK WAWE
+1 .TANK NO "ܣܛܝܶ܆ ”ܐܢ
+COMPENSATOR WASH LINE
+FUE LING MANFOLD CHECK WALWE
+RESTRCTING ORFCE PLATE
+NOTE: SCHEMATC SHOWS SYSTEM
+DURING PRESSURE FUE LING
+OPE PAATION TO FUEL DUMP
+SYSTEM
+Pressure Fueling System Flow Diagram
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+歴エ
+SUBJECT
+ft-ha-1 at 23 Juneo
+MAINTENANCE TECHNICAL TRAINING
+727-2OOF FUEL SYSTEM ATA-28 DATE 6/83 PAGE 25
+FOR TRAINING PURPOSES ONLY
+The COMPENSATOR WASHING LINES are Small diameter tubes routed from the fueling check valves, inboard, near the Sump, to the quantity gaging compensator and the volumetric topoff compensator. The open end of this washing line is aimed at these compensators. These compensators are part of the fuel quantity indicating system and fueling shutoff circuit.
+During fueling a jet of fuel causes local mixing to reduce the effects of fuel stratification and fuel type differences on the full-tank shutoff level and gaging accuracy. This washing action tends to remove water that may not have been removed by Sump drain procedures. Fueling pressure at or near 50 PSI is recommended to provided maximum washing action. Tank No. 2 does not need compensator washing since the tank shape, vent configuration, and temperature range are more regular.
+Proper sump drainage remains extremely important for proper volumetric topoff operation and fuel quantity indicating system accuracy.
+The VOLUMETRIC TOPOFF UNIT is part of each main tank fueling shutoff circuit and a part of the fuel quantity indicating system.
+A volumetric topoff unit controls a main tank fueling valve if the fueling valve switch is positioned OPEN and the fueling power switch is ON. The unit closes the fueling valve when the main tank is at full rated volume. Partial filling of a tank is manually controlled, while observing tank quantity indicators on the FUELING PANEL, Pl5.
+________________
+፵።ዎ”
+8.
+SUBJEGT
+hEV-A- e 2e juN 80
+MANTENANCE TECHNICAL TRAINING
+727-2OOF FUEL SYSTEM ATA-28
+DATE 6/83 PAGE 26 FOR TRAINING PURPOSES ONLY
+Fueling Valve Circuit
+d.
+The fueling power switch enables (R5) the fueling function if electrical power is available from the APU generator (R97) or from External Power. The fueling valves operate from an isolated, battery powered circuit. This battery powered circuit is interlocked (R5) with the availability of APU generator and external power to start fueling, but will remain energized (R603, power switch ON) in the event of APU and External Power loss, to power the closing of all fueling valves.
+Each fueling valve is opened and closed by a switch and a relay. The main tank fueling valve relays are inside each volumetric topoff unit. These relays are powered by (or from) 115V AC APU generator or External Power with the fueling power switch ON, and they are energized if the tank is not full. A fueling valve can be closed by either the switch or the relay. A fueling valve can be opened only by both the switch and the relay in the proper position.
+“APEL "O
+- - PPANEL N GUANTI TY i ti, OBW AC SW AC TEST ==== - 『ーー POW C TAN ط r TAM
+* A.
+Θ At soT W OG P5 vir
+ATT P. U0:LINoll WALWE A. reset switch ם ל־4
+d FVEL TANix UNT -LTTF L گبمام
+L 2 FUEL T T s I MNOCATOA
+PUELINO ANK STATION OAAP م+ت 簡「リ | * ਲH |
+Y- WCTOP OFF vQ Hil CoMP unt Top.opp 乐 ل- - להק - לעמדה
+L ፰፻፫kge سعا T FUENG Асија Y STATION
+R به INDICATOR rug LNG lድ8፻.. PWA PA EL As
+士 V قے مے سے ہے حے طــــــــــــا
+16 W. A.C. 「一
+FUE LMG W STAT I OP LIGHT ܣܝܬ 6 ” S S SMSS S SS SSL SS L S SSLLLL S us nummumus aume لے || | |
+CLOSE oPEMCLOSE OPEN CLOSE OPEN
+o O
+IH
+APU R T PyypA
+Ag೬೦v೯n Of NOCATOR ES VA Y Ag27 l or P. Li GHTS
+APU E OP AACK E 16
+「一ーーー
+* '''15w ac ך cه avه هند كــــــــلا
+xter NAL Power
+FUE LINO PWR 3W
+FUE LINO -H CuAMTTY
+INDICA ToA Рұғуға
+lill-l-
+FUE LING STATION LI OG HY T PAANSA O FA ME FA
+FUE LING PAN EL P 15
+’’T" لـــــــــــــــــــا
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT
+Tevraky · 1 MARS 20 JUNI 200
+MAINTENANCE TECHNICAL TRAINING
+727-2OOF FUEL SYSTEM ATA-28 DATE 6/83 PAGE. 27
+FOR TRAINING PURPOSES ONLY
+9. Fuel Shutoff Devices
+d.
+The VOLUMETRIC TOPOFF UNITS are main tank fueling valve closure units. They are l l 5V AC powered, line adjustaable, fuel tight and operate on signals from the fuel quantity capacitance network. The volumetric topoff units are mounted in board on the front spar on each main tank. The No. 2 volumetric topoff unit is on the left side of tank No. 2. The units are accessible directly if the leading edge flaps are extended. The volumetric topoff units provide access into the main tank fuel quantity Circuits for testing, adjustment and troubleshooting.
+FUEL QUANTITY
+INDICATING SYSTEM PLUG
+PLAN 8. SEAL-WASHERS ಗ್ಧT
+~న్గా ଲିଙ୍ଗ୍ VOLUMETRIC S. 2) VOLUMETRIC TOP-OFF TO P-OFF 総久S ༼རྒྱ་ VOLUMETRIC CAL BRATION DATA UNIT PLUG 2. TO P-OFF UNIT
+TRIM TANK NO. AOJ USTMENT VTO COAAP SCREW
+ORY CAP
+DATE TANK UNTS DRY CAP DATE
+OETAL
+ー
+FUEL TANK
+SHUTOFF
+CALIBRATION TANK UNIT AOJ USTMENT (CONNECTOR ASSEMBLY SCREW (CAL) CABLE)
+FUELING SHUT OFF DEVICES
+SEE OETAL
+SEE OETAl L.
+SEE. OTAL
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+htw-ha-ke as UNO gP MANTENANCE TECHNICAL TRAINING
+SUBJECT 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 28
+FOR TRAINING PURPOSES ONLY
+10. Overwing Fillers
+a. OVERWING FILLERS are in Stalled in Tank No. l and No. 3.
+No screens are installed. Grounding jacks are close by.
+b. The service volume through the OVERWING FILLERS is
+considerably less than by pressure fueling due to port location. Do not open an overwing filler after pressure fueling since possibly 200 U.S. gallons can spill. Fuel in tanks No. 1 and No. 3 can be transferred to tank No. 2 if electrical power is available. But, if tank No. 2 is empty, the APU cannot be the source of the electrical power. Pressure fueling can be totally manual, limited only by access convenience to the fueling and No. 2 crossfeed valves manual override handles. Tank No. 1 and No. 3 overwing filler may have some value for suction defueling if those tanks are not too full. Care is required in the use of the overwing filler due to the nearness of the APU inlet and exhaust, brakes and engine inlets (all reasons why tank No. 2 has no overwing filler).
+APUJ
+NETS
+APU EXHAUST
+A
+OWERWING FILLER

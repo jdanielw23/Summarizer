@@ -1,0 +1,304 @@
+﻿歴エ
+SUBJECT
+FC-M13 a junio
+MANTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 5l
+FOR TRAINING PURPOSES ONLY
+E. Fuel System Components
+l. Fuel Boost Pumps
+d.
+The eight BOOST PUMPS are 115 V AC, three phase induction motor driven, centrifugal pumps. The pumps are fuel cooled and lubricated. Each pump contains a reprime pumping element between the impeller and the motor. A drain valve is installed in the bottom of the impeller housing. All boost pumps are Similar, except for the impeller shape which changes the pressure rating and the indexing of the electrical connector which assures proper pump location. The higher pressure boost pumps are installed in tank No. 2 and are referred to as "override" pumps. The boost pumps in tank S No. l and No. 3 are referred to as "standard" pumps. The boost pump discharge at zero flow is approximately 50 psi for the "overrides" and 40 pis for the "standards". This lo psi difference is maintained at any equal flow rate; for example: 30 psi and 20 psi respectively at 20,000 pounds per hour. -
+The boost pumps are mounted in equipment dry bays built into the tanks. Three ports on the pump are bosses that plug into ports in the support fitting. The ports in the support fitting contain equipment to isolate the boost pump from the tank and system so that the pump can be replaced without defueling a tank. The inlet port contains a BOOST REMOVAL VALVE that is manually operated by a handle in the equipment dry bay. This handle is interlocked with the access panel. The discharge port contains a BOOST PUMP CHECK VALVE which isolates the pump and is pressure switch from the system. The vent ports of the main tank boost pump support fittings contain a VENT CHECK WALWE. Each boost pump is controlled by a switch on the fuel system panel.
+________________
+gP MAINTENANCE TECHNICAL TRAINING i ë-v-r i tro AG J VN E AU
+SUBJECT 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE. 52
+FOR TRAINING PURPOSES ONLY
+2. Boost Pump Pressure Switches
+d.
+Each boost pump has a BOOST PUMP PRESSURE SWITCH. The main tank pressure switches operate nominally in the 5 to 7 PSI range (approximately). The eight main tank pressure switches are mounted (four to a side) on the front spar. They are directly accessible if the leading edge flaps are extended. The auxiliary tank pressure switches are mounted in the equipment dry bay of the tank. Access requires removal of cargo compartment partition panels and the equipment bay access panel. The two pressure rated swich types have different electrical connectors to assure proper installation. The boost pump pressure switches are connected to an orificed port on the boost pump check valve. Pressure switch replacement is facilitated by closing the boost pump removal valve (auxiliary tanks close both pump removal valves). The main tank pressure switch vent ports are connected by small diameter tubes to holes through the leading edge lower skin.
+ 
+________________
+37 MAINTENANCE TECHNICAL TRAINING T 2 k=1YFrfi 4 A geA / Y 50A
+727-200F FUEL SYSTEM ATA-28
+SUBJECT DATE 6/83 PAGE 53
+FOR TRAINING PURPOSES ONLY
+NO. 2 TANK
+ਸੰos Pu |
+f OFF + VAC؟!! BUS 2
+s 0 میلN
+i WARNING LIGHTS MAN TANK
+BOOST PUMP
+28YA ESS BUS %) – ( em um u р ,
+Low PRESS BOOST PUMP He
+LOW PRESS
+I W
+NO. 2 TANK (MAN TANK) AFT-LEFT BOOST PUMP
+NOTE, 3RO CREWMAN'S PANEL P4 AMAN TANK OTHER BOOST PUMP BOOST PUMP POWER SOURSES . LOW PRESS SW
+AC BUS 1, 2, 30 R LESS
+MAN LOAD CONTROL PANEL. P.
+3. Boost Pump Circuit
+a. The BOOST PUMP circuits are as simple as possible for
+reliability even though a rather heavy current must flow through the switch contacts. The pump motors are rated at l-3/4 horsepower.
+b. The ll 5V AC power sources for the boost pumps are
+arranged so that a single bus or generator failure will not cause a loss of all pumps in one tank. The sources are as follows:
+TANK BOOST PUMP SOURCE
+No. 1 Aft AC Bus l Fwd AC. Bu S 3 No. 2 Aft (left) AC Bus 2
+Fwd (left) AC ESS . BuS Fwd (right) AC Bus l Aft (right) AC ESS. BuS No. 3 Fwd AC. Bu S 2 Aft AC Bu S 3
+c. The boost pump case has two very important grounds to the
+airframe. One is the contact surface between the pumps and its support fitting. The other is a wire connected to the front or rear spar structure. These grounds assure tripping of the circuit breaker in the event of an electrical fault in the boost pump.
+d. The BOOST PUMP PRESSURE SWITCH turns on an amber
+(caution) light with the discharge pressure is low.
+ 
+ 
+ 
+________________
+FEC has a Juneo
+MANTENANCE TECHNICAL TRAINING 墨 SUBJECT- 727-2OOF FUEL SYSTEM ATA-28 DATE 6/83 PAGE 54
+FOR TRAINING PURPOSES ONLY
+NLET:
+FROM BOOST PUMPS
+AND/OR CROSSFEED
+MAN FOLD Y)
+NAS
+.2 lے
+SCHEMATIC SOLATON
+DAGRAM CHECK WALWE
+SYMBOL SUCTION FEED
+BYPASS CHECK WALWE OUTLET: TO ENGINE FUEL SHUTOFF WALWE 8. THE RIMA RE LEF WALWE
+BYPASS CHECK WALWE LOCK
+LOCK RETURN
+ܓܰ .
+BYPASS WALWE LOCK PLUNGER
+NLET: FROM TANK
+PL BY ENGINE PUMP
+SUCTION 8. *<! TANK HEAD PRESSURE TOOL CAPABLE OF PULING PLUNGER DOWN -
+ՍԼ Լ 10-32 NF-2B
+(15-20 POUNDS MAXIMUM) THREAD
+B00ST PUMP BYPASS WALVE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT
+FEV-Molho VN 80
+MAINTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 55
+FOR TRAINING PURPOSES ONLY
+4. Boost Pump Bypass Valve
+d.
+The main tank BOOST PUMP BYPASS WALWES Consist Of two flapper check valves in a tee-like housing. The valve has three ports (two inlets and one outlet).
+One inlet is connected to the boost pumps in the tank and the Crossfeed manifold. The Other is Connected to the tank through a screened bell-mouth. The outlet is connected to the engine feed line, upstream of the engine shutoff valve. The check valves are spring loaded closed, but to considerable different pressures. The "boost pump" inlet check valve is held closed to a pressure of l. 5 PSI, while the "bypass" inlet check valve is held closed to only l inch (approximate) of water pressure. The "bypass" check valve will open so easily; that, to be able to change the engine fuel shutoff valve (the next component downstream) without requiring tank defueling, a manually operated lock is installed. The tool used to operate and hold the lock should have a safety streamer (flag) and should limit the force that can be applied to the lock plunger. The lock should be operated only when no fuel is flowing through the "bypass" port, otherwise the bypass check valve would be locked "open".
+The valves in tanks No. 1 and No. 3 are located in the lower rear area of the inboard rib bay. In tank No. 2 the valve is located in the center wing section, lower right side of the aft bay. The lock plungers for tanks No. 1 and No. 3 are directly accessible in the lower wing skin, near the landing gear fairing. Tank No. 2 access to the lock plunger is through a door in the aft end of the right air conditioning pack bay and wing-to-body fairing.
+________________
+歴エ MAINTENANCE TECHNICAL TRAINING fewhat the
+SUBJECT 727-200F FUEL SYSTEM ATA-28 56
+DATE 6/83 PAGE FOR TRAINING PURPOSES ONLY
+To ENGINE
+MANUAL OVER REDE HAN OLE
+(్స
+LINE THERMAL RELIEF
+Ha-REAR SPAR
+ACTUATOR ASSEME Y
+FROM BOOST PUMP BYPASSWAWE
+a TO THERMA
+REEF WALWE
+GATE ASSEMBLY ༽ས་ཡོད།། EGE SHUFF WALWE
+SCHEMATC DAGRAM
+SYMBOL
+TO ENGINE START
+EN OG MNE TAAT LEWE AS
+ENNE STAAT CONTA O
+DRUM سے
+མ་ ཨ་མ་ ་དུ།།
+UrTNG /r
+WW. J
+ତୁ)
+罗
+ܚ He- SSF .
+PLOTS Control. Stand Pl
+FWD ଽନ୍ଧ O حمي
+WEW
+Engine Fuel Feed Systern Equiprent Location
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+gూ
+SUBJECT
+EW-A-1 to 28 June
+ANTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 57
+FOR TRAINING PURPOSES ONLY
+5. Engine Shutoff Valve
+d.
+FUEL BOOST PUMP swTC
+FUEL LOW PRESSURE lNDICAT NG LIGHT---
+CROSSFEED MAN FOLO WALWE TRANSIT LIGHT
+CROSS FEED MA N FOD VALVE SWITCH
+ENGINE FUEL WALWE CLOSED LIGHT
+The three ENGINE SHUTOFF WALVES are 24/28V DC motor Operated, Sliding gate, line-mounted, one-second valves, with a manual override handle. These valves consist of gate and actuator assemblies joined so that the valve can only be replaced as a complete unit.
+The shutoff valves are located on the upper inboard rear spar, outboard of the Splice to the Center wing section (outboard of the body frame/main wheel well forward bulkhead). The No. valve is on the left, No. 2 and No. 3 on the right. The valves (and hoses) are covered with fiberglass shrouds. Access to engine shutoff valves is by unlatching and removing portions of the shroud.
+Each valve is controlled by two switches: one is start lever operated another is the fire switch. A blue light is "ON" bright when the valve is opening or closing (intransit), "OUT" when "OPEN" and "ON-DIM" when "CLOSED".
+The thermal releif valves (spring loaded, poppet check valves) are in the valve body. The body thermal relief protects the gate housing. The line thermal relief valves limit the pressure trapped on either side of a closed gate. But, specifically as installed, they limit the pressure trapped between the engine shutoff valve and the engine fuel control unit outlet when the engine is shutdown. These thermal relief valves operate in the 45-85 psi range. Upstream other thermal relief val ves open into the tanks at 55 to 75 psi. This means that in the engine feed or engine fuel (ATA 73) systems, residual pressure in the system could be as high as l60 psi and must be carefully released when maintenance is performed.
+N
+THAO CREwAAANFS LOWER NSTRUMENT PAN EL
+ 
+ 
+________________
+墨
+6.
+THERMAL RELEF CHECKVALVES
+EW-A-les 25 Juneo
+MANTENANCE TECHNICAL TRAINING
+SUBJECT 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE. 58
+FOR TRAINING PURPOSES ONLY
+Cros S feed Wa Il ve
+d.
+FROM TO BOOST SPAR BOOST PUMP
+PUMPS BYPASS J
+The three CROSSFEED WALWES are 24/48V DC motor operation, Sliding gate, Semi-Submerged, one-second valves, with a manual override handle. These Valve COnS ist Of gate, actuator and port adapter assemblies. The port adapter assembly is mounted inside the tank and supports the fuel lines and crossfeed mainfold. The gate assembly Slides into the adapter from the dry side. The actuator couples to the gate shaft with an index-tooth Spline.
+The crossfeed valves are located high on the inboard front spar of the right wing. They are directly accessible if the leading edge flaps are extended.
+Each crossfeed valve is controlled by a rotary switch on the fuel system panel. A blue light, adjacent to the switch, is "ON" when the valve is opening or closing (intransit). Additionally, No. 2 crossfeed valve is opened by an auxiliary tank fueling valve circuit.
+FRONT
+WALWE
+عميدع THERMAL
+RELEF -H ACTUATOR WALWE ASSEMBLY
+far=la C - MANUAL
+OVERRIDE HAN OLE
+s
+-
+—
+GATE \ ASSEMBLY
+PORT ADAPTER N ASSEMBLY STUD
+CROSS FEED R &/OR DEFUELS--CROSSFEED SCHEMATIC DIAGRAM
+s MAN I FOLD SYMBOL
+CROSSFEED WALWE
+ 
+ 
+________________
+ూ
+d.
+Eurhwd li bieb 2ob, JUN GO
+MAINTENANCE TECHNICAL TRAINING
+suBJECT 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE- 59
+FOR TRAINING PURPOSES ONLY
+The crossfeed valves are similar to the tank dump valves and the tank fueling valves, except these are for smaller tubing, operate faster and have a lower thermal relief valve setting. No assemblies are interchangeable between the two types.
+A thermal relief valve is in the port adapter and two thermal relief check valves are in the gate assembly. This limits the pressure trapped in the crossfeed manifold and lines to a range of 45-60 PSI with the system shutdown.
+The CROSSFEED MANIFOLD is a short, tube assembly with four flanged ports. The manifold is supported in tank No. 2 by the port adapter of the three crossfeed valves and the defuel valve.
+FUEL CROSSFEED
+" -MAN FOLD vAlvEs
+১৯২২ 溶 |2షా
+WING FRONT
+r
+MyNG FRONT A FET ou TBD
+SPAR s
+FUEL CROSSFEED
+MAN FOLO VALVES OEF U ELING
+WALWE
+FUEL CROSS FEED MALAN FOLLO
+|NEO AFT
+ 
+ 
+ 
+ 
+ 
+________________
+FECh4.196 2 JUN 80 gూ MAINTENANCE TECHNICAL TRAINING
+727-2OOF FUEL SYSTEM ATA-28 DATE 6/83 PAGE. 60
+SUBJECT
+FOR TRAINING PURPOSES ONLY
+FUE SYSTEAA
+○ーノ
+ 
+________________
+24.28V DC BATTERY BUS
+ENGINE WA LWES
+2428V DC H0ፕ BATTERY TRANSFER BUS
+FEC-M1 c 28 JUNO
+MAINTENANCE TECHNICAL TRAINING
+727-2OOF FUEL SYSTEM ATA-28
+FOR TRAINING PURPOSES ONLY
+DATE 6/83 PAGE_6l
+WALWE IN TRANST
+H
+IN TRANSI IND MODULE (2-WAY)
+’’ ہلچلتی
+I - ܐܢܫ OPEN OPEN اسلکی
+CROSSFEEO close 士 M MAN FOO WA LWES N FERICAL r CLOSE
+T POWER H-- PA
+BATTERY OFF NEL CROSSFEED
+MAN I FOLD FUEL VAL VE WALWE 9. CLOSED H - I-4 ך: BATTERY CONTROL 微器 * Z R768 POSITION IND BUS o fue shuro klubb Module (3-WAY) SHUTOFF WALWE LIGHT EN GINE FUEL
+c០NTHDL المائة ha fl- SHUTOFF 9 RELAY SHIELD ". "గా WALWE 2 (W†ck H v OPEN /** ADVANCED
+Νθηκλι εν" . 6*Z H M
+* FCUTOFF} نہ
+CLOSE لی
+LSLSSS SS P6 MAN LOAO CONTROL PANE
+FIRE SW PANEL (P5)
+CONTROL STAND
+EANGANE FEELIO WA LWE CIRCUITS
+7. Engine Feed Valve Circuits
+d.
+Each ENGINE SHUTOFF WALWE requires two switches to be properly positioned to open the valve. It can be closed by any one of these switches. The valve circuits are always energized as long as there is a charged battery in the airplane. The blue "valve" light will be ON whenever the motor is energized to open or close the valve, out when "OPEN" and "ON DIM" when Closed.
+The POSITION IND. MODULE for each engine fuel shutoff v al ve and the INTRANS IT IND MODUU E for e a Ch CrOS S feed valve operate through the circuits to both motor fields and limit switches and the armature.
+A relay energizes the engine shutoff valve light circuit when the battery switch is ON. This prevents a continuous battery drain when the airplane is parked and without electrical power from external power or the APU generator.
+The CROSSFEED WALVES are each controlled by a single switch. The circuits are energized if the battery switch is ON and/or the 28V DC busses are energized. The crossfeed valve intransit light will be "ON" while each valve is opening or closing.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+TEW-Y-ba * i kao Go J N A
+MANTENANCE TECHNICAL TRAINING
+62
+BOOSTPUMP PRESSURE SWITCHES
+DATE 6/83 PAGE
+VOLUME T Ric TOPOFF UNIT
+COMPENSATOR WASHING LINE
+FUELING CHECK VÅı ve
+SUBJECT
+TANK 2
+SUMP DRAJH WALVEぶ
+FUEL ING & DUMP MANI Fold DRAIN WALVF
+CĦ055FEED MAHIẾ 010
+/CROSSFEED VAŁ W E5
+�DE FUEŁ VAL VE 怒/ %DUMP LĖVĖL SENSOR
+TANK DUMP VALVE
+duḥP LEWEL COĦT ĦOEL VALVE
+# UÊL ING & DUMP MANIFƆlƆ
+FUE LING
+FUELING & DUMP MANIFOLD VENT
+PANEL. P.15
+汾%没 @彭%
+CO· ?FUELING VALVE 预>FUE LINƠ 八业RESTRICTOR
+· >EO 七段 H–(s) suae?« 泌概|×
+tae· 工|剧\, Lu |}행 E| 0 L-| 2
+sự Li-홍■TEMPERATURE 3sis[]嘴 BULBFORWARD R기g|『•BƠƠ5 TSHRŌJŌ ! | No\ (3攀ĐƠfiŝT PUMPPUMAPDRAIN MAST sto).OBY PÅ55 及lae-WAŁ W F ÖVERWING FILLER
+OVE RRIDE CHECK V ÅLWE
+ァ穆泌必/浴丝 #汾泌%
+[...] Įs铬 ∞?['/ /*/%ン %%〜シ THËRMÅL父+ RELIEF乌 VALvs ( TANK 3 (~), s \, ENGINE\ SHUT OFF y AlyɛD> BAĦ ĦLE
+CHECK VALVES
+*>必 5 URGE † ÅĦĦ.A
+DR. Alsae
+TANK
+Ve Ni
+D'UMP NƠaels VALVE
+ÅP I SHIRŌUD DER AÏN MAS I
+FUEL SYSTÉM

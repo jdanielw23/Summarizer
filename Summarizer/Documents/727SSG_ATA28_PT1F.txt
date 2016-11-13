@@ -1,0 +1,222 @@
+﻿تنتجه
+SUBJECT
+bu-ha - Q3 20 Juneo
+MANTENANCE TECHNICAL TRAINING
+727-2OOF FUEL SYSTEM ATA-28 DATE 6/83 PAGE 63
+FOR TRANNG PURPOSES ONLY
+F. Fuel System - Dump
+l. General Description
+d.
+The DUMP LEWEL CONTROL VAL WES and DUMP LEWEL SENSORS assure priority of the engine feed system over the dumping function. They allow dump flow only if the boost pump pressure is higher than 8-9 PSI and if the fuel level is above the undumpable reserve. With engine feed priority assured, they allow dumping enough fuel to get the airplane near to the maximum design landing weight while retaining enough for a safe landing. The high rate of airplane weight reduction can help maintain climb
+performance after takeoff.
+Fuel flowing into the dump level sensor cannot jump the gap when the tank quantity is above the sensor level. The "jet" energy is dissipated when fuel is in the gap. The jet of fuel crossing the gap pressurizes the dump level control valve diaphragm chamber to close the valve. The Shroud and orifice in the level sensor reduce the effect of wave action to provide a stable shutoff pressure signal to the level control valve.
+Use the dump system whenever possible for most rapid defueling and transferring as this is a valid test of otherwise sel dom used components.
+WAW IN TANT
+TANK TANK 2 TANIX 3
+ 
+________________
+gూడా
+2.
+Fel-hst-190, 2. JuN 80
+MAINTENANCE TECHNICAL TRAINING
+SUBJECT 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE_ oo
+EOR TRAINING PURPOSES ONLY
+FROM Boost PUMPS
+S. FRONT - -
+SPAR
+ACTUATOR ASSEMBLY THERMAL RELIEF WALWE
+O------- MAN FOD OWERRDE HANDLE
+二一 - GATE
+ASSEMBLY
+STUD
+wy (一 n TO ÂခိAfrER WEL می -- SENSOR ASSEMBLY
+- - DUMP LEWEL -
+CONTROL SCHE'ပ္လ္လုံးဗူ(AGRAM
+WALWE
+TANK OUMP WAALWE TO FUELING & DUMP MANI FOLD
+Tank Dump Valves
+d.
+The four TANK DUMP VALVES are 28V DC motor operated, Sliding gate semi-submerged, 3 to 5-second valves, with a manual override handle. These valve consist of gate actuator and port adapter assemblies. The port adapter assembly is mounted inside the tank and supports fuel lines and dump level control valve. The gate assembly slides into the port adapter assembly from the dry side. The actuator assembly couples to the gate shaft with an index-tooth spline. These valve are the same part number as fueling valves.
+The tank dump valves are located on the inboard front spar of each tank. They are directly accessable if the leading edge flaps are extended. Tank No. 2, because of its size, has two valves (left and righ). Each tank dump valve is controlled from a switch on the dump panel.
+These valves are similar to the crossfeed manifold valves except these are for a larger tubing size, operate slower and have a higher thermal relief valve setting. The thermal relief valve operates in the range of 20-léO PSI. This relief primarily protects the valve, since no thermal buildup is probable on the fueling and dump manifold. And, the engine feed system side of the valve has thermal relief at much lower pressure (45 to 60 PSI) through the crossfeed valves thermal relief.
+ 
+________________
+FEUrh - 1 uh 23 JVN 80
+MAINTENANCE TECHNICAL TRAINING
+SUBJECT- 727-2OOF FUEL SYSTEM ATA-28 DATE 6/83 PAGE 65
+FOR TRAINING PURPOSES ONLY
+TANK DuMP WAWE
+DUMP LEWEL PORT ADAPTER ASSEMBLY
+CONTROL VALWE
+SCHEMAC DAGRAM SYMBOL
+''JET" PORT (8 CHECK WALWE
+皂
+FUELNG DUMP
+MAN FOLLO SCHEMATIC AGRAM
+SYMBO
+FUEL DUP LEVEL VALVES
+Fuel Dump, Level Control Valves
+a. The DUMP LEVEL CONTROL VALVES are hydraulically operated
+bay boost-pump pressure. A spring loaded diaphragm holds a hinged check valve against a seat. The chamber behind the diaphragm is connected to the dump level sensor. Four damp level control valves are mounted inside the tank S, Supported by the tank dump valve port adapter assemblies and connected to the fueling and dump manifold.
+b. The four DUMP LEVEL SENSORS are operated by boost pump
+pressure and the fuel level in a tank. They are kinetic (or fluidic) devices and contain no moving parts. Two aligned ports face each other across a gap. This gap, although shrouded, is exposed to the fuel level in the tank. The port connected to the diaphragm chamber of the level control valve has an orifice. The level sensors are located on the rear in board side of the inboard baffle check valve rib (W. Sta. 304) in tanks No. l and No. 3. In tank No. 2 the left and right level sensors are near the middle inboard Side of the first rib outboard of the center wing section (WBL 92.8).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+FC. Morro | M 479 : V s'\ 0M
+gజా MAINTENANCE TECHNICAL TRAINING
+SUBJECT 727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE- oo
+FOR TRAINING PURPOSES ONLY
+FUELNG OUMP
+MAN, i FOLD BODY
+THERMAL
+DUMP
+SURGE TANK NOZZLE EN D R || 8
+MANUAL OWERRIDE
+HANOLE SCHEMATC DAGRAM SYMBOL
+OUP ROZLE WALWE
+4. Fuel Dump Nozzle Valves
+d.
+The left and right DUMP NOZZLE WALVES are 28V DC motor operated, sliding gate, line mounted, 3 to 5 second valves with a manual override handle. These valves consist of gate and actuator assemblies joined so that the valve can only be replaced as a complete unit. The gage housing contains a thermal relief valve.
+The dump nozzle valves are located near each wing tip in the inspar area outboard of the surge tank and inboard of the tank vent Scoop. Access is by removal of a lower skin panel. An inspection panel is within the access panel.
+The dump nozzle valves are similar to the engine fuel shutoff valves, except these are for a large tubing size, operate slower, and contain only the body thermal relief valve. This thermal relief valve operates in the range of 25 to 50 PS II.
+ 
+________________
+歴エア
+MANTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28
+tcu-an luad a yun au
+DATE 6/83 PAGE_ 67
+FOR TRAINING PURPOSES ONLY
+BOOST PUMP
+ہ0FFن آسoلم
+ON
+} BOOST PUMP
+LOW PRESS
+FUEL PANELP4.
+TANKNO. 3
+SUBJECT
+L. NOZZLE 28 W OC TANK 2 (LEFT) ESS BUS O UMP
+WA LWES
+TANK 1 28V DC TANK 2 (RIGHT) BUS 2 O UMP
+WA LWES
+AR NOZZLE 28V DC TANK 3 BUS 1 DUMP
+WA LWES
+5.
+PS MAN LoAo conTROLPANEL
+Fuel Dump Valve Circuit
+DUMP WALWE NTRANST IN MంDULE (2MAY
+II
+OPEN
+R NOZZLE I close
+o cosE
+DUMP PANEL P1 R[GHT MNOZZL
+WALWE
+DUMP WALWE CIRCUIT
+a. The TANK DUMP WALVES open or close to control the fuel
+flow into the fueling and dump manifold. These
+are controlled by switches on the dump panel.
+valves
+Automatic
+shutoff is the function of the dump level control valves. The tank dump valves can be used for partial ground fuel transfer and partial defueling.
+b. The DUMP NOZZLE WALVES open or close to control fuel flow
+from the fueling and dump manifold overboard through the
+dump nozzles. the dump panel.
+These valves are controlled by switches on
+c. Each tank dump and dump nozzle valve has a blue intransit
+The light will be ON 3 to 5 seconds while a valve motor is energized to position a
+light on the dump panel.
+valve.
+d. The circuits for these valves are not interlocked with
+any air/ground safety circuits. operating this system.
+dump valves, requires boost pump operation.
+Care is required when Dumping, or operation using the
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT
+MAINTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28
+FOR TRAINING PURPOSES ONLY
+28W TRANSFORMERS
+FUEL SYSTEM
+NSTRUMENT IND TEMP الطبيعي ".
+28W AC
+MAIN NO, 1
+MAIN LOAD CONTROL PANEL, P6
+SWEEP OFF
+*ー|{ I
+NO-POWER -0-5W AC
+PANEL LIGHTS CONTROL
+DAL, LIGHTS
+DATE 6/83 PAGE
+hukuh
+FEC-hi.e. 2s UNeo
+68
+TANK No. 1
+TEMP COMP
+FUE L TEMPERATURE INDICATOR
+FLIGHT ENGINEER'S PANEL, P4, LOWER
+マエヌ TEMP BULB & HOUSING
+FUEL TEMPERATURE INDICATING CIRCUIT
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+歴エ
+SUBJECT
+FC-hi. 2 unso
+MANTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 69
+FOR TRAINING PURPOSES ONLY
+6. Fuel Temperature Indication
+l. General Description
+d.
+Fuel temperature information is useful in assessing hot-fuel climb performance, oil cooling capacity (engine and hydraulic), fuel icing from water contamination, and possibility of fuel freezing. The fuel temperature is measured in Main Tank No. 1 and is considered the same or warmer in other tanks. The indicator is mounted on the third crewman's panel, in the fuel heat subpanel. The hermetically sealed indicator is not line - adjustable. The Scale is centigrade.
+2. Temperature Bulb and Circuit
+de
+The FUEL TEMPERATURE BULB is a temperatue sensitive res istor with res istance increas ing with temperature increasing (a positive coefficient, thermal resistor). The bulb is installed in a housing so that it can be replaced without draining fuel. A push-turn quick release cap holds the bulb in the housing. The bulb has no plug type connection, instead, two lead wirtes are spliced into the circuit. Access is directly through the left main landing gear strut well. The bulb is located above and outboard of the left gear forward bearing.
+AC power (28 V AC, 400Hz) rectified to DC, applied to the meter ing circuits through an electro-magnetic Sweep-off mechanism, frees the low-scale-off pointer to respond to the oppos ing torques of the ration meter bridge coils. The bulb resistance as a function of the fuel temperature, determines the voltage applied to sensing coil. The quick release feature of the bulb provides for easy trouble shooting with an ice bath or by ambient temperature comparison.
+ 
+________________
+FEC-hi. 2 UN to
+MANTENANCE TECHNICAL TRAINING
+70
+DATE 6/83 PAGE
+727-200F FUEL SYSTEM ATA-28
+SUBJECT
+FOR TRAINING PURPOSES ONLY
+BOOSTPUMP PRESSURE SWITCHÉS
+MANIFOLD, Volus, ET RicDRAIN VALVE TOPOFF UNIT COMPENSATOR WASHIHŌ. LIĤE
+FUE LING CHECK VALVĖ
+FUELING Valve
+FUELING ĦEst saescio R. r* ',T X A \o吃، |- } "·鼎THERMALS鼎鼎 ----•... •NoFUELRELIEFg 「** \ a ■• TANK 1sựAŁ WEVALVET TAN!!! 3に # W建TEMPERATUŘEENGINE唱 BULB)# ORWARD§HuTØFF w AlytW>O 的•80 05 s5HROUD |-saeĦAIN MÅ5T \s\\! BOXYST PUMP | Pump©{{#svatves o BYPAS$CHECK WAŁ司 VALVFsu Raet faes, OWER WINGDRAMA. FILLER
+OVER RIDE CHẾ CK WALVEdu Mae Norrl:
+su MP DRAJN VALVĖ FUELING & ŌUM?
+CROSSFEED MANIFOLD
+/CROSSFEED VALVĖ$
+TANK 2
+■DEFUEL VALVE %%- DUMP LEVEL SENSOR
+Q ん尽
+Ŵ>TANK DUMP VALVĖ duae u EVEL CONTROL VALVĖ
+FuĖi Isae , D’UMP MANIF ÖLD
+FUE! ¡HG PANEL. P!!!
+FUE LING , DUMP MANIFƆŋ. Ɔ yƐs, T.
+FORwARD ~) 5HROut) -{(x-WAŁ W £TANK yɛ hisVENT AF † şHROUD DRAHN MÅ5f+ FUEL ŴY 5TEM

@@ -1,0 +1,706 @@
+﻿SUBJECT:
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 26E DATE 12/89 PAGE 51
+CHAPTER 3
+A. Fuel Systems
+l. General Description
+a .
+The engine fuel distribution and control system of the JT8D engine consists of an engine driven fuel pump and fuel control, fuel deicing system, a fuel pressurizing and dump valve, and a split fuel manifold, delivering fuel to nine individual fuel nozzles. The system delivers fuel to the engine at pressures and flow rates as required to obtain the desired engine thrust output.
+Fuel supplied from the aircraft fuel boost pumps passes through an engine fuel shutoff valve located on the wing rear spar and along the fuselage to each engine. Lines that carry the fuel from the wing area to the engines are contained within a vented shroud tube.
+The airplane fuel system enters the first stage of fuel pump, then passes through a fuel heater or heater bypass and filter to the second stage of the fuel pump. The second stage of the fuel pump discharges fuel to the fuel control unit.
+The fuel control unit (FCU) is a hydromechanical fuel-metering device designed to schedule fuel flow to control engine speed thus governing thrust output. The FCU consists of a metering and computing system. The metering system selects the rate of fuel flow to be suppled to the engine combustion chambers in accordance with the amount of thrust demanded by the pilot, but Subject to engine operating limitations as scheduled by the computing system as a result of monitoring various engine operational parameters. The computing system senses and combines the various parameters to control the output of the metering system.
+________________
+. MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+52
+PAGE
+2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 7-80
+SUBJECT:
+ɔsɔeuleųos uləąsks təng
+©>{| HD 1\,|H TĘs,
+dsatsid T.Eslo HİYW
+鼻-m사門性 1:T1 s 10 15fly HX+ do No-sis訓m註 真實→-----1="유47 | -9ENwoldsviss WOW!!! (~w-30 NwHɔxɔ ŋw3HLJ TEĤ-Z / WIY5) NI DI공F「 47 Bog-ţ’ 'w|IS, OG6-006 W01Ws) 10 NI|| $mona nama|{No 等Pd HO103|T100NY:•حکمحکمل۔ NIYHŌ TETs-3NIYŁU100 TIO-→→→
+ɔ TEm \,El Esĥ0"|+ TEĤo08||1± Nİ Tİ0)
+|} BATYA dŴnd ỨNY €) MIZIWm55584Z\ |NTEMAET £30 inHS s Trano -~o:T] ET 1108H1 = =|z 11
+©御匾赠廿脚*Tm)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 2/89 PAGE 53
+e. Throttle lever position, diffuser case pressure (PS4), compressor
+inlet temperature (TT2), engine start lever position and N2 rpm are the input signals to the FCU. It will interpret these signals and position the main throttle valve (metering valve) to meter the correct amount of fuel to the engine. Fuel leaving the throttle valve passes through the minimum pressure and Shutoff valve at the outlet of the FCU. Metered fuel from the FCU will be suppled to the pressurizing and dump valve through the flowmeter transmitter and fuel oil cooler. The pressurizing and dump valve provides the division of flow between the primary and secondary nozzle orifices. Secondary manifold fuel supplements the primary manifold fuel for high thrust requirements. The pressurizing and dump valve no longer dumps the fuel manifolds at engine shutdown. The dump port has been blanked off at the P&D valve and metered fuel remains in the manifolds during engine shutdown and is drained from the combustion chamber by the fuel drain manifold.
+f. The FCU will meter fuel to the engine, to control rpm, prevent
+surging during acceleration and deceleration and prevent either rich blowout or lean flameout. Fuel delivery is automatically compensated for variations in altitude, and change in fuel temperature.
+g. Two control levers control the operation of each engine. A throttle
+lever is provided to select engine thrust output. An engine start lever controls a windmill bypass and shutoff valve which is used to open or close the minimum pressure and shutoff valve in the FCU. Each start lever has three positions: "OFF" - "START" - and "IDLE". Placing the start lever in "START" allows correct fuel metering and ignition output for starting. Placing the start lever in "IDLE" allows correct fuel metering for normal engine operation.
+2. Engine Driven Fuel Pump (ATA 73-ll-l)
+a. The fuel pump is mounted on the front (right hand side) of the
+accessory drive gearbox. The pump consists of a centrifugal boost stage and a gear type stage. Normal flow capacity is l4,500 pph at a pump discharge pressure of 1000 psi. A pressure regulating valve maintains a maximum pressure increase across the main stage of 950 psi. Provisions are made at pump interstage for installation of the fuel deicing heater. The interstage porting is located in the pump to ensure that the fuel is routed through the fuel deicing heater. A full flow by-passing type micronic fuel filter is integral with the fuel pump. A bypass valve has been included in the pump to minimize the pressure loss that might occur across the boost stage should it become inoperative. After fuel has been metered by the fuel control, any excess fuel is returned to the main stage inlet of the fuel pump.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80
+54
+2/89 PAGE
+26E DATE
+DOC ID
+SUBJECT:
+UN EILSAS EN 1801-EG TETE
+s
+O
+*<<
+成為熔 濾BATVA N—agnl
+-|-|O-LITHS HIV/B5)\/1S H18||
+NI EÐV/1S;X
+LITO E5OV/LSHEILNI
+S`.
+NI 350V71SHELLNI
+100 EH5)\/1S H1€1
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT:
+B727 ENGINES ATA 71-80 DOC ID 26E DATE I 2/89 PAGE 55
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+3. Engine Fuel Deicing System (ATA 73-14-0)
+d.
+General
+(l)
+(2)
+Engine fuel deicing system detects the presence of ice in the fuel and provides controlled heating of fuel to melt the ice. Fuel generally contains suspended water droplets when the temperature of the fuel falls below the freezing point of water. These suspended water droplets freeze and form ice. Ice eventually clogs the engine main fuel filter and restricts normal
+fuel flow to the engine.
+The engine fuel deicing system for each engine consists of a fuel deicing heater, fuel deicing air valve, fuel filter pressure switch, fuel icing warning light, and the necessary tubing. The fuel deicing air valve position light ill uniinates when the valve is fully open. The fuel heater, fuel filter pressure switch, and fuel deicing air valve are mounted on the engine. The fuel deice control switch, valve open light, and fuel icing warning light are on the third crewman's lower panel.
+(3) When ice clogs the engine main fuel filter, pressure differential
+across the filter builds up, the fuel filter pressure switch closes and the fuel icing warning light illuminates. Turning ON the fuel deice control switch permits high pressure compressor air to pass through the fuel deicing heater air tubes and heat the fuel. The warm fuel passes through the fuel filter and melts the ice. When the ice is melted, the fuel filter pressure switch opens and de-energizes the fuel icing warning light, the fuel heat control switch is then turned OFF. The fuel should be heated intermittently.
+Fuel Deicing Heater
+(l)
+(2)
+The heater is an air-fuel heat exchanger and consists of a housing containing a core composed of air tubes, a series of baffles, and a fuel bypass valve. The heater is mounted on the fuel pump unit between the boost and main Stages of the engine-driven fuel pump.
+The fuel flowing to the main engine fuel filter passes through the heater at all times. It is heated, only when the fuel deicing air valve is open and permits high pressure compressor (13th stage) bleed air to pass through the heater air tubes. To obtain uniform heating of the fuel, it is baffled around the air tubes. In the event the heater becomes clogged, a bypass Valve permits the fuel to bypass the heater and flow directly through the fuel filter to
+the engine.
+Fuel Deicing Air Valve
+(l)
+The air valve is used to control the high pressure compressor ( 13th stage) bleed air flow through the fuel deicing heater. It consists of a butterfly valve and an electrical actuator (motor).
+________________
+26E DATE 2/89 PAGE 56
+FOR TRAINING PURPOSES ONLY
+DOC ID
+MAINTENANCE TECHNICAL TRAINING
+B727 ENGINES ATA 71-80
+SUBJECT
+W31SÅS 9 N10||-30 0 N\} d\W[ld T1B fl-1 BN10|N|3
+门_名 Hဝု ဝင့PBA|}} []- !}|\?
+03 X100718||xuosos03318 BN|9N3
+300\} 1[ld L/10 HILIMDosuuuur1H0lı 9 N101 831113 0130v 15, H1, „„A * Z斑皿%。}, galvasos [XWW ISd 0011)|- - - - - ---- dW ISd 056-0||S& 0’s; 0 1 0'2 N 3d.0
+0||Sd 8′G 01 soț, 3S010 H01||MS.
+雪量9 N10|| 8311||-||{藍譯 ĐÃ Ľ }8311||-|| 辩N0H 0I W Oțy *그“NI US #Z9 Lsae |-- trae dWfld T1B fl-i → %食1BTNI TEIl-} LINT) T081N00 TB fl--[]ISd 01 01 8 0||Sd 5’l 0.1 5'0BATWA SSW'dÅ8 LİNȚl 108.1N00 (1304 39W 1S A8 VW||8.4*BATWA SSW'dÅ8
+}}|B|1\/E||H.
+ 
+ 
+ 
+ 
+________________
+SUBJECT:
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 216E DATE 2/89 PAGE 57
+The air valve is operated by a fuel deice control Switch, located on the third crewman's lower panel. There is one air valve for each engine located at the 2 o'clock position Slightly forward of the engine mount ring.
+d. Fuel F i l ter Pre SS ure Switch
+(1) The pressure Switch Senses the pressure differential across the
+engine main fuel filter. It is mounted directly on the filter on the engine fuel pump unit. If the engine fuel filter becomes clogged, pressure differential reaches 4.4 to 5.8 psi, the pressure Switch closes and illuminates the fuel icing warning light on third crewman's lower panel. When the pressure differential again decreases, the pressure switch opens and the fue icing warning light goes OFF.
+e. Operation
+(l)
+(2)
+(3)
+The engine fuel deicing system receives its power from ll 5 volt as busses through Circuit breakers on circuit breaker panel (P6-3).
+When ice is present in the fuel it will eventually clog the engine main fuel filter and cause the pressure differential across the filter to increase. When pressure differential reaches 4.4 to 5.8 psi, the fuel filter pressure switch will close and illuminate the fuel icing warning light on third crewman's lower panel. Placing the fuel deice control switch to ON position opens the fuel dei cing air valve. High pressure compressor bleed air (13th stage) passes through the valve into the heater air tubes and heats the fuel. To obtain a uniform heating of the fuel, baffles in the heater Core direct the fuel around the air tubes in a controlled flow pattern. The heater fuel flows to the fuel filter and gradually melts the ice clogging the filter. When all ice is melted, pressure differential across the filter decreases and the fuel filter pressure switch opens, de-energizing the fuel icing warning light. The hot airflow through the heater is stopped by placing the fuel deice control switch to OFF position. When the fuel deicing air valve is fully open, the valve open light illuminates. The fuel deicing heater should be used intermittently.
+If the fuel filter becomes clogged, the fuel i cing warning light will remain on, and the filter pressure differential will continue to increase until the filter bypass valve opens. The entire fuel filter system must be cleaned and checked after operating under these conditions. If the fuel deicing heater itself becomes clogged, a bypass valve permits the fuel to bypass the heater and flow directly to the fuel filter to the engine.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID
+26E
+DATE 12/89 PAGE 58
+PS4
+BYPASS TO PUMP
+METERED FU EL
+INTERSTAGE
+ŚŞ
+g((((((((((C(ը S.
+لڑنے
+PUMP DSCHARGE
+ごつ
+ଅ୬
+PRESSURE
+Tt2 SENSOR
+أسسnDالسلسل للتلسككي
+○ śŞ &IDDS
+FUE CONTROL
+ 
+________________
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE I 2/89 PAGE 59
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+4. Fuel Control Unit (IATA 73-2 -0)
+a. General Description
+(l)
+(2)
+(4)
+The JFC60 fuel Control is designed to schedule the fuel flow required by the engine to deliver the designed amount of thrust as dictated by the power lever position and the particular operating conditions of the engine. Two control levers are provided, one, the throttle lever to control the engine during forward or reverse thrust operation and the other, the engine start lever, to effect engine shutdown and Starting by Closing and opening a fuel shut-off valve.
+The fuel control accurately governs the engine steady selected speed, regulates acceleration and deceleration fuel flows. The speed governing System is of the proportional or droop type.
+The fuel Control consists of a metering and a computing section. The metering system selects the rate of fuel flow to be supplied to the engine combustion chambers in accordance with the amount of thrust demanded by the pilot, but Subject to engine operating limitations as scheduled by the Computing System as a result of its monitoring various engine parameters. The computing System senses and combines the various parameters to Control the Output of the metering section of the fuel control during all engine operation.
+The fuel control is attached directly to the fuel pump by means of three Studs Secured in the case of the fuel pump. Fuel pas se S between the fuel pumps and fuel control through two internal cored passages (one for high pressure fuel and one for fuel control return bypass fuel).
+b. Metering System
+(l)
+High pressure fuel is supplied to the control inlet from the engine driven fuel pump. This fuel initially encounters the coarse filter which protects the metering system against large particles of fuel contaminants. The fuel then encounters the fine servo supply filter which further protects the computing system against solid contaminants. This filter is self-cleaning due to fuel velocity through the axis of the cylinder toward the metering section is significantly greater than that of the flow through the mesh supplying the servo control valves. Both filters are protected by valves that open to allow the fuel to bypass in the event the screens become clogged to a point where the fuel flow is reStr i Cted .
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+60
+2/89 PAGE
+DOC ID 26E DATE
+B727 ENGINES ATA 71-80
+SUBJECT:
+T O H ILIN O 30 - || E. IT E
+TOUINOJ TEMA Z-00 03s
+10!!1!!00 TB|||||-09 03s QUIVOINVIS NOITĦWŶH
+GE I HITCH IN IS
+EATIVAEÐ\/1.SH.B.LNI 5DNI_1\/TTEDE|}}dWold dWT\d. WOH-] LETNI TETs-1EHTISSE!!!d.O 1 SSVdÅ8
+LINT) ĐNISN=sz31 EINIT dS = A[84C]. 雕舞蹟网 };i: |;:|? &叠 35±§ i) sẽHALIWIT od 射山 必)章 Ħ= -Ĵ-| -읽니2 /.||}网 BATVA** C178d OLlj ゆ *!
+�± BATVA/HELAETL-wwɔ ɖoogaTVNĐIsod -||-|O LTHS5ONIAT di JLT TI'N }} E \HTISSE Hd"TOWY WIEH1 HE ABT O 10 HS WñWINIW Zşgg-i-nog±AHVLIT IW H:HO 1 EATIVA B.T.L LOHH.L.C.81T'Towy WIJL HTC1I s- H3ABT HBMOd
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID T26E DATE I 2/89 PAGE 61
+(2) The fuel then flows through the metering valve (throttle valve)
+across which a constant pressure differential is maintained by the pressure regulating valve system. The throttle valve is a window type valve and is positioned by a half-area servo. The movable sleeve (piston) position is controlled by a rotating pilot valve which is displaced from its hydraulic null (steady-state) position by compressor discharge pressure, engine Speed, compressor inlet temperature, power lever, or any Combination of these parameters. These actuating signals work in conjunction with each other to produce a net torque on the multiplying lever. A balancing torque is created by the throttle valve extension spring load varied with the valve position. As long as the resulting torque is zero, the throttle valve maintains a Constant position. However, any change in the signal torque will displace the pilot valve and cause motion of the throttle valve piston until the unbalanced signal torque is balanced by the new throttle valve position and corresponding spring force. By virtue of the Constant pressure drop maintained across the throttle valve, fuel flow is proportional to the position of the piston.
+(3) The pressure drop across the throttle valve is maintained
+nominally at 40 psi by the bypass type pressure regulating valve system. All high pressure fuel in excess of that required to maintain the pressure differential is bypassed to pump interstage. The pressure regulating valve system, consisting of a sensor and a pressure regulating valve, is servo controlled. The pressure differential across the throttle valve is compared to a preset valve of the pressure differential. Any deviation from the preset value will displace a rotating pilot valve from its hydraulic null position and cause motion of the pressure regulating valve. The pressure regulating valve will then bypass more or less of the fuel flow, which ever is necessary to maintain the preset pressure differential, and return the sensor to its equilibrium position. The lower end of the pressure regulating valve is subjected to servo supply pressure and the upper end is balanced by a modulated pressure and a spring force. In the event of a failure in the direction of low control di Scharge pressure, the control will meter at the spring force equivalent pressure and prevent bypassing the total flow back to pump interstage.
+(4) Fuel leaving the throttle valve passes through the minimum
+pressure and shutoff valve on its way to the engine. This valve is designed to shut off the flow of metered fuel to the engine when the pilot moves the shutoff lever to the "OFF" position. When actuated for the shutoff function, high pressure is directed to the spring side of the valve by the action of the windmill bypass and shutoff valve. This pressure closes the valve and allows the spring to keep it in the shutoff position. When the Shutoff lle ver is moved to the "START" positi on, the high pressure on the spring side of the valve is replaced by pump interstage
+________________
+圈 MAINTENANCE TECHNICAL TRAINING
+27 FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE T 2/89 PAGE 62
+pressure and when metered fuel pressure has increased sufficiently to overcome the spring and low pressure fuel force, the valve opens and fuel flow to the engine is initiated. Thereafter, the valve will provide a minimum operating pressure within the fuel control, insuring that adequate pressure is always available for operation of the servos at low flow conditions.
+(5) The windmill bypass and shutoff valve, in addition to supplying
+the high pressure signal for the shutoff function, also provides a windmill bypass feature. This valve is plumbed to a line leading to the spring side of the pressure regulating valve and is positioned by a shutoff lever operated cam so that signals are generated at the desired shutoff lever positions. Movement of the shutoff lever toward the shutoff position displaces the valve, thereby porting the pressure on the Spring side of the pressure regulating valve to pump interstage. The pressure regulating valve now operates as a relief valve to handle the full windmilling fuel flow.
+c. The Computing System
+(l) The computing system positions the throttle valve to control fuel flow during steady state operation, acceleration and deceleration by using the ratio of metered fuel flow to engine compressor discharge pressure (Wf/PS4) as a control parameter. The positioning of the throttle valve by means of the Wf/PS4 parameter is accomplished through a multiplying system whereby the Wf/PS4 signal for acceleration, deceleration or steady State speed control is multiplied by a signal proportional to compressor discharge pressure to provide the required fuel flow.
+(2) Compressor discharge pressure is sensed by a motor bellows which is externally exposed to the pressure. The resultant force, caused by the expansion or contraction of this bellows, is opposed by an evacuated bellows of equal size. The net force, which is proportional to absolute compressor di Scharge pressure, is transmitted through a sensor ever to a set of rollers whose position is proportional to the required Wf/PS4 ratio. These rollers ride between the sensor lever and a multiplying lever. The force, proportional to compressor discharge pressure, is transmitted through the rollers to the multiplying lever. Any change in the roller position or the compressor discharge pressure signal results in a unbalanced torque which will displace the rotating pilot valve from its hydraulic null position, thereby repositioning the throttle valve. The movement of the throttle valve extends or relaxes a spring which will return the multiplying lever to its equilibrium position when the throttle valve reaches the required fuel flow position. Both the motor and evacuated bellows are located in a chamber vented to ambient
+________________
+SUBJECT:
+(6)
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 26E DATE 12/89 PAGE 63
+pressure so that in event of an evacuated bellows failure, the fuel flow error is only the difference between the flow required for the absolute pressure reading and that required for a gage pressure reading. The vent line to the bellows chamber contains an orifice which will allow compressor discharge pressure sending should a minor motor bellows failure occur.
+The compressor discharge pressure limiting valve is held seated by the action of a spring at PS4 values below the limiting pressure. Signal pressure to the PS4 bellows is tapped off between the two valve seats and, below the limiting point, the bellows signal pressure and compressor di Scharge pressure are equal . When compressor discharge pressure exceeds the limiting valve, the spring force is overcome and the limiter valve opens to bleed off compressor discharge pressure and thereby reduce the bellows signal pressure.
+Deceleration control is provided by the constant radius portion of the droop cam and by adjustment of the roller positioning linkage to linit the travel of the rollers toward decreasing fuel flow, thereby effecting a minimur Wf/PS4 ratio Stop. This provides a linear relationship between fuel flow and compressor discharge pressure which results in flame free deceleration.
+Acceleration control is provided hy adjustment of the roller positioning linkage to effect maximum Wf/PS4 ratio stop for a particular value of speed and compressor inlet temperature. The maximum Wf/PS4 ratio at the stop is controlled by a three dimensional (3-D) cam which is translated by a signal proportional to engine speed and rotated by a signal proportional to compressor inlet temperature. The 3-D cam is So Contoured as to define a schedule of Wf/PS4 versus compressor inlet temperature which is used as a limiting value for each Speed throughout the transient acceleration range. This combination will permit engine accelerations within the over-temperature and Surge limits of the engine. When the acceleration limiting lever is in operation to Control the maximum value of the Wf/PS4 ratio, it overrides the speed setting linkage.
+The engine speed signal is transmitted from the engine driven shaft through a gear train to the centrifugal type flyweight governor. This governor controls movement of the speed servo (3-D cam) by displacing a rotating pilot valve from its hydraulic null position. When the speed changes, the flyweight force varies and the pilot valve is displaced causing motion of the speed servo. This motion of the speed servo repositions the pilot valve, through the action of a feedback lever working on a spring, until the speed sensing governor returns to equilibrium at the new speed servo position. The position of the Speed servo is, therefore, indicative of actual engine Speed.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+64
+2/89 PAGE
+DOC ID 26E DATE
+B727 ENGINES ATA 71-80
+SUBJECT:
+E ELILILIWN SIN\78. IL MAOTH TETH
+Ho103.NNOɔ ɔwɔ1810=T= HELLI WSN\781 MOTH TETs-3
+C|N|\7 HET OO30 TIO
+„NI, T30-3 OB HELBW
+ん>
+邸宅 VQし御魔贊 âW
+NoT\/NOIS BSNES
+缪舞蹟E HITYSSB Hid
+〜「ノし
+减P
+s
+W
+/
+„LTIO,,
+《睡?OTIO E HTISSE Hd E^_运 寻心 TIO E HITYSS38d
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID 26E DATE 12/89 PAGE 65
+(7) Compressor in let temperature is sens ed by a liquid filler bulb
+mounted in the compressor inlet and connected to a liquid filled bellows in the control. Changes in inlet air temperature cause corresponding changes in the bellows length. The position output of the motor bellows is biased by a position output of a second, or compensating bellows. The compensating bellows is also liquid filled and is connected to a capillary tube placed adjacent to the line leading from the air inlet bulb to the motor bellows. Pressure Changes due to the temperature gradient between the air inlet and the control act on this compensating line as well as the motor bell OWS Supply line. This permits the Second bellows to modify the motor bellows output to ensure a correct indication of inlet air temperature. This corrected position output displaces a pilot valve from its hydraulic null (steady-state) position and results in movement of the temperature servo piston. The servo piston is connected through a linkage to a rack which meshes with the spline on the 3-D cam and motion of the piston rotates the cam. As the rack moves to rotate the Cam, it also repositions the pilot valve in order to return the valve to the steady-state position. The rotation of the 3-D cam, acting through a linkage, resets the governor droop one.
+(8) Engine speed control is accomplished by comparing the actual
+speed, as indicated by the position of the Speed servo, to the desired speed value required for the power Selected by the pilot through a power lever positioning Speed set cam. The power lever actuates the speed set cam to select a governor droop line. The position of the droop line is biased by compressor inlet temperature. The deviation of desired Speed from the actual speed (speed error) causes movement of the Speed servo. This movement of the speed servo is transmitted through a lever and results in the repositioning of the droop cam. The rollers in the multiplication system are positioned through the action of the droop cam to be a function of the speed error. The repositioning of the rollers then provides the required steady-state Wf/PS4
+ratio Setting.
+5. Fue 1/Oil Cooler (ATA 79-20-l)
+a. The fuel flow transmitter is attached to the fuel/oil Cooler: Fuel
+leaving the fuel flow transmitter passes through the fuel/oil Cool er and then to the pressurizing and dump valve. For additional information concerning the fuel/oil cooler, see Chapter 4.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+66
+26E DATE T 2/89 PAGE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+E AT \7/\\ G W T G G N \; 5) INIZI H T S S E H di
+1łJOd LSBL A}{\/W|\} d –TETì-, C1E HELELW
+NIV/HCl
+- MAY Affff
+daygg Ä Frryf PAY
+77
+or saw Ft -—
+P
+及回
+从 候R
+TETs-3 Å H\/W|}]d
+1HOd 1SE11 Å HV/ClNO3)3S
+TETI-, AHVOJNO OES
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 67
+2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+(SadowEÐNILVHBdO) HATVA dINIncı GNV 5)NIZIHnSSH Hd
+ETCII E AO EV7ETCII CINV7 LHV LSNAAOCILT! HS
+TOHLNO O
+HELTI-HTEITH WOH-)
+SCITO-HINW/W Å\!\/WIHd OL
+EATVA 5ONIZIHTISSE|Ho]
+SOTO-INV/W ÅHV7C] NOOBS O 1
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+68
+PAGE
+2/89
+DATE
+216E
+B727 ENGINES ATA 71-80 D0C ID
+SUBJECT:
+SETZZON GNV GTO-INVIN TETE
+| 83NIwgLS I TIW130
+MELA LNOB:AHŶD N00BS
+JNIH 9 NĮ83.13 W
+AHWUN.003SHENIW HIS
+A8 WW|8d
+卜
+(SHOWTd Z dÅL) 9][līld HELIN50||
+9.NIH.313 W
+H HNITAHWW|8d
+H3N8/18
+*门—日) 啊 羽以「>
+| 梁劑 介
+| 藏
+sīlīīīīīīī.
+<æ_817
+(1 Tio 130 33S) AT8WBSSW BTZZON TH^+
+In N ĐỈNINIW138 3TZZON Tāslå
+X100T LIIN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID 26E DATE 2/89 PAGE 69
+6. Pressurizing and Dump Valve (ATA 73-l2-1)
+d.
+General Description
+(l) The fuel pressurizing and dump valve is located downstream of the
+fuel control and is connected to the primary and secondary fuel manifolds to which it discharges its fuel. The essential parts of the fuel pressurizing and dump valve include a 200 mesh fuel inlet screen, a dump (manifold drain) valve, which is now plugged and a pressurizing (flow divider) valve.
+(2) The fuel pressurizing and dump valve is located on the lower left
+side of the fan discharge diffuser Section outer duct. Locknuts secure the valve to three Studs in the duct.
+Operation
+(l) Fuel entering the fuel pressurizing and dump valve is filtered by
+the 200 mesh fuel inlet Screen. The Screen unseats at approximately ll. 7 psi in the event of clogging, and permits by-pass fuel flow. As the fuel pressure in the strainer chamber increases, spring pressure behind the dump valve is overcome and the valve is forced into the closed position. This movement of the dump valve exposes the port through which fuel then flows to the primary chamber of the pressurizing valve. The entire flow then discharges to the primary manifold. When primary chamber fuel pressure surrounding the pintle of the pressurizing valve becomes sufficient to overcome the force of the valve spring, the valve unseats, and fuel flows into the Secondary chamber. Flow from the secondary chamber then discharges to the secondary manifold. The contour of the pintle is designed to divide the primary and Secondary flows to give Satisfactory nozzle spray characteristics at all fuel flow conditions.
+NOTE: The drain port of the P&D Valve has been blanked off for
+ecology reasons; therefore, the fuel manifolds are not drained on engine Shutdown.
+7. Fuel Manifold and Nozzles (ATA 73-l3-1)
+a .
+The di vided fuel flow from the fuel pressurizing valve is de livered through an annular duct to the dual tube manifolds mounted on the diffuser case then enters the nine dual-orifice fuel nozzles. The nozzle support flange of each nozzle is bolted to the diffuser case, with the support extending into the compressor discharge airflow to position the nozzle in each combustion chamber. The nozzles have two concentric orifices. Primary fuel is discharged through the small orifices in the center of the nozzle and provides a wide, well atomized spray that assures prompt ignition of the fuel for starting. Secondary fuel is discharged through the larger orifice that surrounds the inner orifice and provides a narrow but denser spray at higher fuel flows.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+70
+26E DATE 12/89 PAGE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+INVESVIG TVNollo Nn! WELSAS IEn-ı ENI9NE
+dWȚld諾 TE}[]|-}· BAT!\//\ H3T000 HLWX35}\/]LSHB| \75 H 35]\/1S [] }} da0/4+ +[103 Å8\/0N003S HELTIJ TEm+ AHW WIHd † /%/»^ 『』『』「道議會議『후 →—SH|HOSSB00\/ =피그NBAI HU 鲁业太置 / 巴SN\/3 H3NH T18BATWA 4-1010 HS
+(6) SETZZON TBslo
+T3T1-3 BN19|NE
+Z '0N 9N3 01
+| '0N |9N3 01
+SX NW1 TB10-4 1-{\/808||W
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 2/89 PAGE
+8. Engine Fuel System Operation
+а .
+The engine fuel flow system delivers fuel to the engine at pressures and flow rates as required to obtain the desired engine thrust output.
+The fuel system may be best described by tracing the passage of the fuel from the inlet to its ultimate discharge through the fuel nozzles in the combustion chambers, as shown in an illustration in this Section.
+The airplane fuel system supplies fuel at a predetermined pressure to the first stage of the fuel pump, then through a fuel heater or heater bypass and filter to the second stage of the fuel pump. The second stage of the fuel pump discharges fuel to the fuel control unit.
+The fuel control unit (FCU) is a hydromechanical fuel metering device designed to schedule fuel flow to control engine speed thus governing thrust output. The FCU consists of a metering and computing system. The metering system selects the rate of fuel flow to be supplied to the engine combustion chambers in accordance with the amount of thrust demanded by the pilot, but subject to engine operating limitations as sheduled by the computing system as a result of monitoring various engine operational parameters. The computing System senses and combines the various parameters to control the output of the metering System.
+Thrust lever position, diffuser case pressure, compressor inlet temperature and N2 rpm are the input signals to the FCU. It will interpret these signals and position the main throttle valve (metering valve) to meter the correct amount of fuel to the engine. Fuel leaving the throttle valve passes through the minimum pressure and Shutoff Valve at the Outlet of the FCU.. Mete red fue from the FCU will be supplied to the pressurizing and dump valve through flowmeter transmitter and fuel cooled oil cooler. The pressurizing and dump valve provides the division of flow between the primary and secondary nozzle orifices. Secondary manifold fuel supplements the primary manifold fuel for high thrust requirements.
+The FCU will meter fuel to the engine, to control rpm, prevent surging during acceleration and deceleration and prevent either rich blowout or lean died ut. Fuel delivery is automatically compensated for variations in altitude, and change in fuel temperature.
+71
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 2/89 PAGE 72
+廷
+D Tu
+d D
+CU 2
+C 9. a 2
+O
+UU
+O H C 으 Ճ 2
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 216E DATE I 2/89 PAGE 73
+Two types of control levers are provided: these are the engine thrust levers and engine start levers. The engine start lever controls a windmill bypass and shutoff valve which is used to open or close the minimum pressure and shutoff valve in the FCU. With the engine start lever in the IDLE position, fuel will be delivered to the burners when sufficient pressure is available from the engine fuel pump to hold this valve open. This pressure is available as the engine start lever is moved into the IDLE position during the starting sequence. When the engine has attained idle rpm, forward movement of the engine thrust lever will release fuel flow thus increasing thrust output.
+9. FUEL FLOW INDICATING SYSTEM (ATA 73-3-0)
+a. General
+(1) The function of the fuel flow indicating system is to provide a visual
+indication at the captain's station of the fuel consumption rate in pounds per hour for each individual engine.
+(2) This system has three fue flow transmitters, three fue flow indicators, and one fuel flow power supply unit. A fuel flow transmitter is located on the forward left side of each engine. All three fuel flow indicators are located on the lower portion of the engine instrument panel. The fuel flow power supply unit is located on the E5-l equipment rack or behind the S0 panel.
+(3) When the system is energized, the fuel flow power Supply unit Supplies
+constant frequency 3-phase power for driving the three fuel flow transmitters. Each transmitter sense the mass rate of fuel flowing to its respective engine and generates an electrical signal proportional to this flow. The electrical signals are transmitted to the fuel flow indicators which show the fuel being consumed, in pounds per hour, by their respective engines.
+(4) Each fuel flow transmitter measures the amount of fuel flowing to its
+respective engine and provides a corresponding signal to its respective indicator. The indicator uses this signal to provide a visual indication of the rate of fuel flow to the engine. '
+(5) N218FE thru N223FE has fuel used added to the fuel flow indicator.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE I 2/89 PAGE 74
+FUEL FLOW POWER SUPPLY
+7 2 7 1 Ο Ο ES E CUPMENT AACK
+Fuel Flow Power Supply installation
+SEE VIEW 1
+.727ー200
+FUEL FLOW POWER SUPPLY UNT
+third crewMANSPANEl
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT:
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 26E DATE 2/89 PAGE 75
+b. Fuel Flow Power Supply Unit
+The fuel flow power supply unit furnishes a constant frequency power source for the fuel flow transmitters. The unit consists of a synchronous motor connected to a 3-har Commutator through a reduction gear. When the motor is energized the commutator is driven at a constant speed. As the Commutator rotates it chops the do current to produce a simulated 3-phase, 4-cycle ac current. Filters are installed in the unit to ensure that the output is free of radio noise.
+c. Fuel Flow Transmitter
+(l)
+The fuel flow transmitter consists of a housing containing two identical cylinders placed end to end So that the axes of the cylinders coincide. The upstream cylinder is the impeller and the downstream cylinder is the turbine. The housing fits closely to the outer diameter of both the impeller and the turbine. Around the periphery of the circular cross section of the cylinders, at a fixed radius from the center, are a number of equally spaced holes which are accurately parallel to the axes of the cylinders. Upstream of the ispeller is the impeller motor. Downstream of the turbine, a second harmonic transmitter is attached to the turbine with two sets of springs of different torque gradients used to restrain it. This permits a two-slope scale on the indicator allowing greater sensitivity at low flow rate.
+NOTE: To prevent dry operation damage and to prolong the life of the
+transmitter, it is recommended that the "FUEL FLOW" Circuit breakers be pulled (open) whenever the engine fuel feed line is drained or the airplane is out of service for maintenance.
+The impeller motor drives the impeller at a constant angular velocity, thus as the fuel passes through the inpeller it is given a velocity at right ang les to the direction of flow. This angular velocity constitutes a change in the momentum of the fuel directly proportional to the mass of fuel flow. As the fuel passes through the turbine, the angular component of the momentum is removed, this imparts to the turhine a torque directly proportional to the Inass rate of fuel flow. This torque rotates the impeller against Calih rated springs and positions the magnet in the second harmonic transmitter to a position corresponding to the fuel flow.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 76
+2/89
+DOC ID 26E DATE
+B727 ENGINES ATA 71-80
+SUBJECT:
+(13,13|WAAOT, T3n:',
+XJY \! 1'N BW4|003 TYD 18 125 nɔ logg
+!ood*主主義) 83 H10 z ' ON $ ng '01 $ ¢ £ 1.11 W----ー』と2) Y AS 1 ! 默默—||—ą o „șoon83 1 NB1) TO & 1 NOD $s\ g 8 - 1YW O 1DQ AosqyOT NIYW 94 8011) B NNOD{Í inny A3 813 )7וא )C( ב וחבר בר (FT어T리83 11 || WS NY 8 1 „”
+—^ ^ 日〉〈
+—\ !——
+801 OW g 』Y-
+0 0 1 - Z z 4
+コBNY』」NBM「を」SNニ出N10N出 Zd
+11 NTT Å "1 d d f(\$ 83 AAC de
+8 O 1 y D I O NI
+$ 1 Ho ! T Ty 8 0 3 1 N 1
+!|5 J L. L.58 O 1 YID I O NI 비 -----!3) H 10 ƆQ ɔw01
+U$? ! |--L4. Wさ」“ɔwכ
+h
+引引==叫引=
+\
+"니시헌의和터원 3T이지리지터공55的
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT:
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 7-80 DOC ID 26E DATE ] 2/89 PAGE 77
+d. Fuel Flow Indicator
+(1)
+The indicator provides high accuracy fuel flow indications in the 500 pph to 6000 pph range, and coarser indications from 6000 to 2,000 pph. The dial face is graduated with l ()0 pph marks up to 6000 pph and from 6000 pph to l2,000 pph the graduation marks are 500 pph apart. The indicator is hermetically sealed.
+N218FE thru N223FE has a fuel used indicator added to the indicator, a reset button is on the second officer's panel. The unit consists of a coil and core similar to the transmitter pickoff operating on a permanent magnet rotor. This is a type of synchro-transmitter using a permanent magnet rotor operating on a Saturation principle. It requires no leads to the rotor. A pointer is attached to the rotor. As the second harmonic principle of remote indication is used the permanent magnet rotor assumes a position parallel to the rotor in the transmitter to provide fuel flow indication.
+e. Operation
+(1)
+The fuel flow indicating system electrically transmits the signal from each transmitter to its respective indicator. This signal is a measurement of mechanical torque in terms of angular deflection directly proportional to the fuel mass rate of flow through the transmitter.
+Closing the FUEL FLOW, 28V DC circuit braker on circuit breaker panel
+P6-2 makes the system operative and Supplies power to the fuel flow power supply unit. The solid state power supply unit provides a simulated 3-phase 4 cycle electric output that drives the transmitter impeller motor at 240 rpm. The frequency is maintained constant within o.3%. Fuel from the fuel control unit passes through the holes in the impeller then through the holes in the turbine, leaves the transmitter and enters the fuel oil cooler. The fuel on passing through the impeller, is given a velocity at right angles to the direction of flow because the impeller is rotated at a constant angular velocity of approximately 60 rpm by the transiliitter inpeller motor through a reduction drive. This angular velocity constitutes a change in momentum of the fuel which is directly proportional to the mass of fuel flowing. The angular momentum of the fuel is removed while passing through the turbine resulting in a torque directly proportional to the mass rate of flow. Restraining springs on the downstream turbine oppose this torque causing a deflection of the turbine proportional to the flow rate. Since the magnet, in the second harmonic transmitter, is directly coupled to the turbine it is also deflected an amount proportional to the flow rate.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+78
+PAGE
+l2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 7-80
+SUBJECT:
+WELSAS SNLIVOICINI MOTH TEmH 002-22).
+T 3 Novo S. No WNAB H3 OH IH 1
+LINT, AT d.d.TlS HI BAWOd
+B.LV/LS GITOS
+Skł 311||W 83 H10
+O1
+*SNwo Ɛ1山
+b) OlƆENNOO TTYME HI-J
+"13 Nod 1N3 Wn H 1SNI 3 NI9N3 &&
+HO 1 \,)||OJNI
+S1H ĐỊT Two H9 EJ1N1
+U3}
+<!] + w
+ɔw ^9-0 – SAJOIVOICINI BEH10 01
+1T12.5
+MOTH TEm
+z “ON Sng Ɔw A9 | 1
+Z “ON ST18 B-1 ƆO ABE
+80
+\}=0.1.N.E.O.
+SB 3.11 IWSNwo Ɛ1
+b) BH10 O 1
+TOE 1 NOD
+OwOT NIYW 94
+W 31SAS 9 N11 H9 IT "13 Nwd 1N BWT, H 1SNI BNIÐ NE WOH + 'H3MOJ |i}{9||T. Two H93.1 NI
+<]
+ノー 》回》 /-
+C , !H.3.1.1 IswSNyb|1( 1 )» |-고이111 —,—* 班止正 年)--下状� N >~_af W瓮 b4O1OWB3TT B4YNI司右司취==z:=체내에z\– sūnībās (5 Ninīvensī£
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID 216E DATE 2/89 PAGE 79
+(3) A voltage can be induced in a conductor by a magnetic field only if
+there is a relative motion between the conductor and the flux lines of the magnetic field. Since the permanent magnet rotor in the transmitter is stationary for constant fuel flow, an artificial means of causing relative motion between the rotor flux and stator windings must be employed. Relative motion is produced by forcing a ll 5V, 400 cycle ac excitation current through the stator windings, the magnitude of this ac current is sufficient at its peaks to completely saturate the stator core. The core is therefore unsaturated when current flow is zero. As the excitation current builds up to its peak it expels the permanent magnet rotor flux from the core, conversely the permanent magnet flux enters the core as the excitation current decreases to zero. This alternate expelling and accepting of the permanent magnet flux creates a relative motion between the stator windings and flux field, thus inducing a second harmonic voltage of 800 cycles in each segment of the windings. The magnitude of the voltage in each segment is dependant upon the position of the permanent magnet rotor with respect to the stator windings. Since the stator windings of the transmitter and the indicator are connected in parallel, identical current flows must appear in corresponding portions of the twp stators. The current flow in the indicator windings must therefore, cause a resultant magnetic flux field, exactly parallel to that in the transmitter, to appear in the indicator.
+(4) The magnetic flux field induced in the indicator is alternating and
+will therefore provide 2 positions, l80 apart, for the permanent magnet rotor. To provide the correct position for the rotor the flux field is made unidirectional by applying a 400 cycle ac current to the stator windings in the indicator. The applied current causes an increase in the flux density in the core during both the positive and negative halves of the excitation cycle. Phase relation between the excitation current and the second harmonic current is such that the indicator flux density is low during the positive halves of the second harmonic current, and high during the negative halves. This cancels out the negative portion of the second harmonic current leaving a flux of a positive value to create an effective dic field across the indicator core. The permanent magnet rotor of the indicator will align itself with this field. In this manner the rotor of the indicator will assume the same angular position as the rotor, in the transmitter, thus providing the remote position of fuel flow.
+________________
+Œj 2 2. <s DĽ H-1 <, 92 2 T O 11] HLu (_) |× <s z LLI |- 心 <s 从
+FOR TRAINING PURPOSES ONLY
+' NAHIA LNOHH – TO HLNO O TH[\-|
+各自ダ (2
+梁S 彻� LI JĠQ 始a Cl–S5DNIHa 3ĐỊNINIV/ LBHa 5Mauos,%한吧 八
+雍须 (~)Ri>
+gm旨 \ l_J ======): v C) # 3 G 肌
+CDd'OLS WIłłL HEINWOd l'HVd 灯 Li-M– ===| }} }}
+· F L-] –! 即 --> Ự)d\słłL} 洲NO||L\; SNECINO OW 凡HHAHT >-}HO LÍTHS 卫 THf]-} 比 W|HL HTC]] 啤INIHIL HBMWOd LB\/d ᏓᏱ)
+GJIONETOSZíLOETES ETC]](LHV) GJIONETOS LST HHL
+HAHHSBH OILVINO LOV
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: VALSAN SUPPLEMENT DOC. ID 1216E DATE 8/90 PAGE 798
+Fuel ntrol
+Approoch dle (Ref. Figure l)
+(o) The fuel control incorporotes Otwo position idle Selection solenoid whose
+function is to select high engine idle rpm during opprooch.
+(b) The opprooch idle control system which is fitted to No. 1 ond No. 3 engines consists of o nosegear position Switch, O nose geor indicotion reloy, ground ondoir sensing sofehy reloy, two 5 second time deloy reloys, d 3 second time
+deloy reloy, olotched reloy, on illuminoted reset reloy, ond on engine fuel COnfrol iddle SOlenOid.
+(c) The idle Solenoid Selects ground/descent (low) idle when electricol power is
+opplied ond opprooch (high) idle when power is removed.
+(d) During normol flight, the contacts of both sofety reloys ore open ond the
+contocts of both the nosegeor position Switch ond the nosegeor indicotion reloy ore closed. As o result, both the 5 Second time deloy reloys Ond Consequently the engine idle Solenoids ore in the energized (low idle) condition. When the londing geor is lowered, the confocts of the nosegeor position switch ond the nosegeor indicotion reloy open, the two 5 second deloy reloys become de-energized ond the engine idle Solenoids chonge to the de-energized (high idle) condition. At touchdown, the contocts of the oir ond ground sensing reloys close ond energize the 5 Second deloy reloys. After 5 seconds the time deloy reloy contacts close ond the idle Solenoids revert to the low idle condition. This 5 second high idle focility provides rapid engine Occelerotion copobility in the event of on Oborted londing.
+(e) The opprooch idle inop light is locoted on the P2 engine instrument ponel. The light operotion is bosed on the difference of electricol inputs to the two engine idle Solenoids os sensed by diode network CR100 thru CROO4. If o fourt condition exists where one system is grounded ond the other is energized, the 3 Second deloy reloy is energized. After 3 Seconds the reloy confocts close, energizing the Opprooch idle inop reloy whose closed conto.cts illuminote the opprooch idle inop light. The light remoins illuminoted until the fouit is rectified ond the reset Switch is closed, lotching the reloy in the foult-free position.
+(8) Decelerotion Bleed Override
+(o) The fuel control incorporotes o bleed override circuit which is designed to open
+the bleed volves when the engine is on Oropid decelerotion schedule. A reduced fuel flow Ossocioted with oropid deceleroting thrust lever movement results in o lower bleed override fuel signol. This fuel signol is corried through external plumbing too bleed volve control which interrupts the flow of octuoting oir to the bleed volves from the pressure rotio bleed control. When the override fuel signol is low becoUse of ropid decelerotion Scheduling, the bleed volve control cuts the bleed volves off from their octuoting oir pressure ond ollows thern to Open. When the ropid decelerotion phose is terminoted. on increosed fuel signol pressure to the bleed volve control opens the oir wolve
+in the control ond ollows pressure from the pressure rotid bleed Control to close the bleed Wolves.
+ 
+________________
+() 2 2 <s Dr. |- –1 <s に 2. T O LU |- LLI O 2 «{ 2 llu H以 <, 从
+FOR TRAINING PURPOSES ONLY
+DOC. ID lll 21 6E DATE 8/90 PAGE 79C
+WALSAN SUPPLEMENT
+SUBJECT
+}}
+b31W3H T3/14
+3ATWA ±±01 fl||S
+HIY
+ỲTIHIS Į ’OH HMOHS IN 19H3 I - ONd'Hold
+Tł[],
+0 HŶ08B3A03}|I9N3
+doļfld TYÐIls 181H30
+39Y1$ $ $ !HỘIJssj3.
+SSY dÅ8
+SSY JA8
+JIS& ! o O ; 1 ° 5 < d v
+H01 IHS 3 HT1SS38d
+ısına dalyasıEJb311] + ıāna 010) së!!! wly 03.31° 10′ W
+4Hną było 30yıs Puz
+TBHŶd (HJÆ0Tl SHYKAJ&J plus » d
+1HEJIT
+N.B. d0T081}{01 3 ATYAT304 83700]3 NIÐH3 T10-:- T3/13
+H01 IAS TOBINOJ 3]] 30 T3Tl)
+H0
+I Now I MOJ J15] JA TYM JMK! 1 * 111,135 jiwa
+ABY0H003S
+S3TIMON 3ח3ו
+1 * 0w şmae Two Aș11
+A HYHI Hd \siw 03:3718
+35)(19 qỊCIWiyos-Hauhoɔ 1081H00 Oyun 94
+BATYA 4401 f\}{5 3813
+A1d4/15 TInae
+3AI×] ZH
+3TKI I HJY08d&W
+* *
+}TŲ
+·
+!- wT081}{0!} *1\!\!15
+W *
+XTOHI!!00 1ST WHI
+Engine Fue cond Control - Schematic
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+GJ 仪 2. <Ç Dr. |- –1 <, に 2× ~~ O LLI HLLI O 2 <s 2 LLI H2 <, ±
+FOR TRAINING PURPOSES ONLY
+ID || 21 6E DATE 8/90 PAGE 79D
+DOC.
+WALSAN SUPPLEMENT
+y A old/
+AY 1]}} AW 130 BH|| 1AWT 18 HIJ I JYJ || 0 }{ | 0|10}{3T05 3 101zx || ±HY39 3 SDH ----Ț - || 0.3xɔOTAÐ | [_T—]| } 审!• יןW T081}{0!0----了(J3, JUT TJIls| y|_! To8 || (JHW HAOÛ 3}{10}{3s IX 1° ON
+AYTJH
+Z00一匹已AY 138 À 133YS AWT130 BH|| || .*只知[]}{[108]] F-,***) *2I080| 15 빼 1xw ||Y21 七tj !!|-268 AY 138 d0HI100 i 80Ā t001 wɔ ITU I HJYOH ddw'武科 %s_l_化유1001\,
+HɔI IKS 1531 !315\n! 01 ----i IX È !!!, į【00一座] [圣z=1:1 邨十—汰斗→H—功必D so jo | gobiło10 | vāOF 盘劈配器 -1 江——-《H(Y35] 250H [[][]189Q} T 13.538' 01 HSŤldNh00 | v |
+· ɖDH I 3 TG1 HJY08 ddy}፪ፆነ00 «** TāT10H sg *00} S :3TQ1 (HDIH) JIJYOŁddy 803 03.1 1083N3-30AY TJH '310 I (H01) 1H30530/08/1089 803ÀY 130 3}{11
+SUBJECT:
+2x
+AY 118 Å I HAYS J}{15}{}S \!1 y
+т
+{+ w Now! v | zɔ
+1 [[]]'' [ ] JA IHH I U M3, 15 YH UI
+UJI I DWINI SO IOH3IUS 3 KJI 3}{19}{3 + 310}} 0.10H3T05世子)』 |_T~ 爭 T081 HO1 $}n4J. Wč. 1 Jנו . }}{10},80t15,1||9|| T. [ 'OH801 YJ10}{1
+200 || 8
+[[]|MU
+„-o- [1] U IX
+108 INOJ t|0,1y10}{[^\{}{y
+HY11 HJYQ84 AY
+C
+Approach dle Control - Schem
+Figure l
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 D0C ID 26E DATE TI 2/89 PAGE 80
+Cጋ 즉 - LLU 溺垩类
+C. g. 密 空臨 > z七 装品 5 ܒܬܪ ܐ-ܨܒܬܐܬܐܘܐ D@ 주
+를

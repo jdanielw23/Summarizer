@@ -1,0 +1,96 @@
+﻿E.
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 024F DATE 4/85 PAGE 95
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+727 - 233 P-4 Panel Control S and Indi Cator S .
+l.
+d •
+d •
+General
+The fuel quantity indicators, crossfeed, main fuel shut-off, fuel boost pump controls, and indicator lights are located on the lower P-4 panels.
+There are twelve (l2) boost pump control switches and twelve (l2) low pressure indicator lights.
+The three (3) crossfeed control knobs and the three (3) main fuel shut-off switches and their intransit blue lights are the same as found on the 727-100C.
+Five individual fuel quantity (analog type) indicators and one digital display totalizer (analog type) indicator are installed at the P-4 panel. Identical tank indicators (5 total) are also installed at the P-l5 fuel panel on the right wing. The P-4 indicators are considered the masters and the P-l5 indicators are repeaters.
+Depressing the single fuel quantity test button on the P-4 panel will cause all 4 tank indicators and the totalizer to move downscale. After release of the test button, the indicator reading should return to within 50 pounds of the tank indication and total display that appeared prior to test button depression.
+Fuel Low Pressure Switches
+Fuel feed low pressure switches control the fuel low pressure indicating lights on the Third Crewman's lower panel. Each switch assembly consists of a cylindrical housing containing a diaphragm and a switch. The housing has two ports, one for inlet pressure and one for venting. The pressure inlet port is connected to a sensing line coming from a fuel boost pump check valve. The vent port is connected to a line leading overboard. Four main tank pressure switches are mounted on a bracket on each wing front spar and are arranged in the same sequence, going outboard, as the boost pumps to which they are connected. Two auxiliary tank pressure Switches are mounted on separate brackets in each auxiliary tank equipment bay.
+________________
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85
+MAINTENANCE TECHNICAL TRAINING
+FWD
+FOR TRAINING PURPOSES ONLY
+AUX TANK
+AFT AUX TANK
+Auel N SHUTUFF
+вооѕт
+A pro
+P UE LING PORTS
+PAGE 96
+f LOCA TE O ON 없 ಙ್ಗTED RiGHT win C, TANK 1. / -i. TANK 3.
+- FUE LING TANK 2 N AN) du MP N MAN, if OC) N
+OU Mr
+EWEL SH V TO F F OU MRP SE NSORS SWITCHES
+m
+FW d PE WO s Aft gОOST \ / AFT ‰ዶቖኅN PUMPS معاشغر
+- ea - * fue L : - ÓW: O YA s (šot R:? Low PRESS KR: R"_"oجa DuMP Press వs pass MRES آیا
+NOLE 4. SW TC-4E S
+BOOST V A 4 VE Pu Mr
+娶* 监 s
+res 1 KOP vAL-VE DE FUE LING TRANST
+)( نتا WALW. WAWES WA LWE تتح
+Loto-V N fRANS N TRANSiT 1 " w i im TRANSI
+\ A OSS
+.A ت ENG ENG 2 ::
+CONDITION: NORMAL START
+Cyc TANK TO ENGINE FUEL. F SED is yaw. CROSSFEED
+NASASNASAN- JET WISON
+FUEL SYSTEM
+ 
+ 
+ 
+________________
+exer*
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 D0C IU 1 024F DATE 4/85 PAGE
+Ma im Tank LO w Pres Sure Swit Ches
+(l) The main tank low pressure swiches will actuate when
+the related boost punp output pressure drops to 5.5 psi, completing the circuit to illuminate the related low pressure indicating light. When pump pressure increases to 6.5 psi, the Switch Opens and the indicating light is extinguished.
+Aux Tank Low Pressure Switches
+(l) The auxiliary tank low pressure switches will actuate
+when the related boost pump output pressure drops to 19.5 psi, completing the circuit to illuminate the related low pressure indicating light. When pump pressure increases the 20.5 psi, the Switch opens and the indicating light is extinguished. Differences in electrical connectors prevent interchanging main tank switches with auxiliary tank Switches.
+3. Engine Fuel Shut-off Switches
+d.
+Three fuel shut-off switches and three round valve intransit (blue) lights are provided on the P-4 panel. In addition, three microswitches located on the start lever drum assembly will override the P-4 shut-off switch when selected in OPEN position to cause the respective fuel shut-off to CLOSE when the respective start lever is selected to the cutoff position. This is identical to the 727-100C aircraft (after super-mod).
+4. Engine Crossfeed Switches
+d.
+Three crossfeed rotary switches and three valve intransit (blue) lights are provided on the P-4 panel. These switches and lights are identical to the 727-100C with one exception :
+(l) The No. 2 crossfeed valve, if closed, will be
+overridden to open when either auxiliary tank fueling Switch at the P-5 is selected to open.
+97
+________________
+ہے.ہےے | تقعفقهيهاتيك
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAIN NG PUR POSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85 PAGE
+F CAQ ww A. A. A. u x ı l ı A R v T. AM ) کس سے
+CAOSSFEED WA. W.
+OE f u E u v A . VE
+FuEL Nu AES"RICTOR
+| s us Li NG WAL wE
+MA NI , Of A 1 x vA. v.
+WTC COMPENSATO A WAYAS; } ME
+OOOST PuAAP SwMG CHECK WAWE ARE PARI ME ANE - -- fu L NG Uul , E T lut
+autiLAAY TAN k
+kuEu, 1 N O PANE - F vE , Mo i NOCA York TES" Sw TC
+* vir L. IN PO wyt R S W T3 -
+f v{ | | NC. R. 6. CE P" A CL :
+* - A P T A Vu i , A R v. 1 AY K
+PULJING SHUTOF WALWE
+D REFERENCE ENGINE ruEl PEED BYSTEM as-a-o.
+Pressure Fueling System Flow Diagram
+Ñendet
+一*ー
+MA NI. Ar 30 CC W E N " W. A. W. E. L C. HT | NC, t na ns o abae a
+p is
+MAN i OC we MT on E WALWE

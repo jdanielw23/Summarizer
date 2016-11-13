@@ -1,0 +1,314 @@
+﻿MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE T 2/89 PAGE 117
+CHAPTER 6
+A. STARTING SYSTEM
+l. General Description
+a. The starting system consists of a pneumatic starter, an air duct
+network (pneumatic manifold) supplying air to the starter with valves and their controls, fuel and ignition Supply ant their controls, and controls of the other systems used in Conjunction with the starting System.
+b. An air turbine driven starter geared to the N2 compressor is utilized
+for all engine ground starts. The pneumatic starter is mounted on the LF aft face of the N2 gearbox. The starter converts energy of the compressed air into rotative force for accelerating the engine to an rpm at which starting may be accomplished when flow of air through the engine is established.
+c. Low pressure air and electrical power are required for starter
+operation. The inlet air flow to the starter is regulated by a solenoid operated shutoff valve controlled by the engine start switch. It is equipped with a pressure switch that illuminates a light on the P2 panel when the valve is open. This valve is fully open when inlet air pressure, at the starter, reaches l 2 psi. A manual override button allows the Solenoid to be overridden manually if it fails. The starter valve may also be controlled manually by inserting an Allen wrench in the valve position indicator shaft and turning the engine start valve to open. Engine start controlled from the ground must be coordinated with the control cabin through the interphone.
+d. Rotation of the N2 compressor also drives the engine fuel pump and the
+fuel control unit to meter fuel under pressure to the combustion chamber. An ignition system provides a high energy discharge for ignition of the fuel/air mixture.
+When the engine has accelerated to the starting speed and with the engine start lever advanced to the start position, fuel ignites resulting in an engine start.
+Release of the starter switch to the OFF position will deenergize the starter valve, shutting off bleed air to the starter.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+11.8
+26E DATE 1 2/89 PAGE
+DOC ID
+B727 ENGINES ATA 71-80
+拳
+SUBJECT
+tre roaț¢t notae moseks as rurss osoɛŋmɔɑɑ
+002-/12/
+łatwa \owiłło, rasowąunae, wae unae ở**w erwuww.maeco =
+Н - .6 叠= haeos,et sự cael wriae5 (cific ? : *때불행wiw daeae Nowo:†nuo: xanwr a xɔɓoɔsaeus, saeįAswa daewr swaesae? Nosso■■■■■ ■ ■ ■ ■ ■ ■ taenor: ****** ?, ?)
+Haswa usiło maswa oswa Anosaenae;}, saeuissae saei :uiscÃ©inț¢ eas quae | vaiva sɔwɔ
+•Łatwa Nowċ lin
+|シ属 シ| haswa ±∞. In HỷAeaeae sae
+właelaessae aess
+„318 yıs ol1wrwn3 old
+Walı SÅS pMINOÀI HƠNOJ BI's Q1
+፵ለገWለ
+now 1 HO5 MOTł dow. ĐNILYTTKJO?!
+d'H.
+Baeološ
+urasowo owoł+ useisos*ưns onsumɔuɖ
+00 || — /. ZA
+d’s
+Hoł
+d!!! How 15 u r-- gamwaxɔ3 Hɔ!į●T 5 :JATYA Nołu w TỪSI |× 1 z 'oH ĐNH,HELLIWSHŶ81 WÖH:ł38TISSEH4 1ɔsɑɑ sựi w=115ÄS pHINDııHƠHƠo wiwo Ởs. £ "OĦ ĐHE WOH+ !mae惩土计冈瓦s-sors BATY A XO3H3 dNY NƠHIOBHNƠɔ! “oh! :)NH dNo TŶN831XBsaecae→ · 1ɔmɑ sol.es-4 }|
+Eae sol5 =Ts= -U **r-- |dT 5-1 AtựA Aoss±(√∞· sae NƠHuwTỚSł 1 lo Hoko- --F−)', saeisJATWA WB15As ựaonyhoxa ooooo 1wɔH HIY (J33|To wgIsAs 9 MINOTIKIÑO: Hroðiy(31sAsosiowołLKOHOO HIYO 1
+3ATYA Młołu wrìOSł skło
+maewoo ɓae
+*「내:
+5aTwĄ No11 YTOSI mdo
+ 
+ 
+ 
+ 
+________________
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 12/89 PAGE 120
+OHL FILL PLUNG ELECTRICAPLG
+ARINTFLANGE
+ouTPUT SHAFT
+SCREENED
+EHAUST SCRO MOUNTING
+OIL FILL PLUG FLANGE
+2PLACES)
+SCROLL ADJUSTMENT
+NUTS AND BOLITS
+KEYHOLE SHAPE g8 BOLITS}
+SOTS 5 PLACES)
+SCRO ASSEMBLY
+olorLAN PLUG
+SCROLL ASSEMBLY -
+TURBINE
+EX DLHCER
+giIiilli
+PAW AND RATCHET ENGAGEMENT
+MECHANISM
+SCREENEO REDUCTION GEAR ExhAUST ASSEMBLY
+OL SEA- or AIN
+PLG
+PNEUMATC STARTER
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID l 216E DATE 12/89 PAGE 121
+e. Low pressure air from the following sources is used for starter
+operation:
+External air source
+Cross bleed air from an operating engine Compressed air from the auxiliary power unit The access door for the pneumatic ground service connection is on the bottom at the fuselage immediately forward of the airstairs.
+f. Engine No. 2 Duct Access Door Light
+This amber light marked ENG ACCESS DOOR is on the overhead panel. When this light is illuminated the engine No. 2 duct access door is not locked, consequently engine No. 2 should not be started. With the duct access door locked the light is extinguished.
+2. PNEUMATIC STARTER (ATA 80-11-0)
+a. The pneumatic starter is a lightweight turbine type air motor which
+converts the kinetic energy of compressed air into starting torque sufficient to accelerate the engine to Starting Speed. Low pressure air and electrical power are required for starter operation. The starter will continue to assist the engine until starter cutout speed is attained.
+b. The starter consists of a scroll assembly, turbine wheel, reduction gear assembly, engaging mechanism and an output shaft. The Starter is fitted with a starter valve to control the inlet air flow. When the valve is open, it admits air to the starter valve open light pressure switch and continues to the inlet connection on the starter scroll assembly; the air then passes through the starter vanes of the scroll assembly and power is directed radially inward through the turbine wheel imparting high speed rotation. The reduction gear train translates the high speed, low torque of the turbine wheel into low speed, high torque. This output is transmitted through a pawl and ratchet engagement mechanism to the output shaft. From the starter output shaft, the cranking torque is transmitted to the N2 compressor by way of the accessory drive gears. A clutch mechanism provides engagement of the reduction gear train with the output shaft for engine starting; when the speed of the output shaft exceeds the speed of the internal gear hub, the clutch mechanism overruns, thus providing automatic disengagement. Turbine overspeed is prevented by the operator releasing the START switch at prescribed starter cutout speed.
+WARNING: FAILURE TO RELEASE THE STARTER SWITCH AT THE PRESCRIBED SPEED
+(40% N2) WILL RESULT IN STARTER DISINTEGRATION AND SERIOUS DAMAGE OR PERSONAL INJURY.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+216E DATE 1 2/89 PAGE 122
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+JATWA 18'W IS DIIWW[]]Nd
+NBdO 5) NI HdS*9~* 8 838 WVHO , NOIS HOLNOI LISOd sel\\–4fael }} B_L}] \/ LS/ OL/ 介 Ç-ı Mo 14 div % /)归舞系 !==T\/[^N\/W 叫,,0,, BOI-BIBO/U-I盛剧 C„C],2 心was,BƆ|-||8||O2 Hɔ 1 IKASŁ2 BH nSS3ł,† –|***************3 \, 11 \!\, 1S% –|LNBA LNBA —•—
+寻 WoOVHH-d\/IC]雪盲 d'OLS;: \/ HB8||W\/HOIl N F. Won H 1SNI此线NO]. LISOd -CJE SOTOBATVA O IONETOS |1.HTM) IT|----Å\/NA-E a)^ $ |§ 31 H \? 15|o.a.LLY) -- ɔɑ ɑ ɑs 二LHEITI NGIẢO GIAIVA SELVAILOVGICI CINV HOLIMS L|&THQ SSGTHđI J, HVILS SGHAOWGIH 8 T € 77 - L - 0 TO 8 – L-OGH
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 124
+26E DATE I 2/89
+DOC ID
+T1B N\/d C]\^B HHBAO S. 1OT1d
+daeaedaerae
+粤)u að
+uoņeɔOTI ĮuəuudỊnb= |Ouņuoɔ ɲəļueųS ɔŋeuunəues
+HƆ1||MS
+AaoinÃ§§§ [
+Tl3N\/d HB|dd||T. S. HEOI-J-JO CJNO OBS
+w Now ɑnɑɑɑ ɑ ɔsɑɑ ɔwɔ
+taenis
+Q33 19之名—动
+uæı • •mae ***
+)
+■■ 雪量1芷T
+B727 ENGINES ATA 71-80
+SUBJECT:
+HD 11.AAS TO HINOD 1ụY 1S 3N15ON3
+は Q 』1鳴 』言-B意 u i w ɑ 11. ^q + 1 sur, potra: «» , ***•••••*) aeー(Aーこる一ー 桓温4så so忙 ^)sw∞■*T) *ų.„* daeシ-\。!, *1卿牌.*g3'.„”藏匿4 |------Non --
+/
+8O1w9T)țONI 3\s\SS38d TŶfıO
+TEN\/& LNB WNT, BLSN || BN15) NB
+FT,5 %,~~~~ ~~~~s.~~~ !, 鶴き 』』『ニ鶴•■ ■ ■ ■ ■Aョま A』pasouvis، ، ، ، ، ،
+Ĥ∞
+~ ... sae:sae|-■毒 覧 g』(心
+mɔ, yw Laes. T \!:-望以引人
+•••• ? 3sגרם את !tae砂Q~~~っド = &V
++
+1@众。art,
+!影款粒@》 O|j3ר 1863ת f
+wiewo" sa on w und nos anos uvoo do o wɔ
+过 *题基1叠看 wɔ dɛ wɔ ŋɔɔmɔ sɛ ɔ,
+J.H5IT NGHđO GATVA SELVAILOVGG GNW HOLIMS STHOSSSTHđ L'HVIS SGIAOWETH 8I£ s) – L-OTO 8-L-ORI
+~HD 11.AAS 34O1THS Xɔwɑ ɔ/w
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 216E DATE 1 2/89 PAGE 125
+(5) There are four engine bleed air switches: one each for engines No. 1 and No. 3, and two for engine No. 2. ENGINE No. 1 BLEED AIR and ENGINE No. 3 BLEED AIR switches control only their respective engine bleed valves. ENGINE No. 2 BLEED AIR Switches have multiple functions as follows:
+(l) Either switch will open engine No. 2 bleed valve. (2) Either switch will open the APU load control valve if the APU is
+operating. (3) The left switch will open the left manifold isolation valve. (4) The right switch will open the right manifold isolation valve.
+(6) To promote understanding of system control, three examples are shown,
+eaching using one of the three possible pneumatic sources:
+(a) Pneumatic starter operation using auxiliary power unit,
+The engines can be started using bleed air from the APU. Air output from the APU is directed into the airplane pneumatic manifold. When the left and right air conditioning pack shutoff valves are closed and the engine bleed air shutoff valves are opened, low pressure air is available at the starter valves. When the applicable engine start switch is held in the "GROUND START" position, 28 volt DC power is supplied to open the starter valve.
+CAUTION: IF THE STARTER SWITCH IS INADVERTENTLY RELEASED,
+PLACE THE START LEWER TO CUTOFF, AND ALLOW THE ENGINE TO STOP ROTATION AN ATTEMPT TO ENGAGE THE STARTER WHILE THE ENGINE IS ROTATING WILL DAMAGE THE STARTER SYSTEM,
+NOTE: To ensure an adequate Supply of compressed air,
+electrical loading on the APU should be held to a minimum.
+The starter valve open light will illuminate on the P-2 panel and starter should now accelerate the engine and, when the N2 tachometer indicates 20% rpm and N! tachometer indicates 3%, fuel and ignition are supplied by advancing the starter lever to the start detent. Engine light-up should occur within. 25 seconds after advancing the start lever. Refer to Chapter 5, for start lever operation. The starter continues to assist the engine until the starter switch is released at 40% N2 rpm (18% Nl). Electrical power to the starter valve will be interrupted and the valve will close, ending starter operation. The indication of starter valve closure is a sudden recovery of duct pressure, which can be observed by monitoring the dual pressure indicator on the third crewman's upper panel and the light extinguishing starter valve open light extinguishing.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+126
+PAGE
+2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 7-80
+SUBJECT
+LITTOHIO TVOIHILOETE HELHVÆLS SIIVINTENG
+S 3 Hɔ1 soas w B A BT 1\, v 15
+• Novo r-ı
+工亚门 <!--
+o ovo!)
+| 1 || Nr. !!3!!1!!Ox --
+又(
+AT NO :ovoj53. Mae 1o*비1 |!
+SEH91||KAS 1\! o 15
+To Now”, CNow, EH!!! BAO
+lae 01 INDI
+1ɔnɑ O 11 w Win3Nd
+加諡
+|
+「L_もlaevis !7|
+に出雲
+Ț
+10 01
+0+ ,
+NO ILIN ĐI 1.taewo 10 to: ‘ON Đo,
+1. Hoo!!! !!
+! !! 0 Cunnotae
+_ _01 osno uvo ɔsɑ AC,
+NO ILIN ĐI
+- -0 3C] !! !! 3 AO Two nwww.
+!
+! %、にほは∞ ĐNH, a i−
+|
+月计
+ss: Now 3 NIÐIN,
+* ) ; ニgーwławs ɔɑ\,000waevslo
+SnOnN/1,00 © "ON ONE
+• $U
+t ”on ond owo As, 1 !
+Hɔ LIKAS Włł w 3 ATYA Lụv ls
+-o EsOTS)Nɔɑɑ ++, 1 la as nae wala|-
+w OOO SS3,00wo 7
+1. ET NI !! 0 N ×
+u OOO 555, Now : “ON ĐỊN:)
+GEJAT", A Illaev 10 ĐẾ, $
+$ng 11 w U ɔŋ A02
+|
+\!30.1\}\, 1); O 1
+*(15. No, = At v A + + O_1n HS1 N= yw'n lae 15 NI 3 N|9|N|3 \!31ko w 18
+1H0|T|
+NɔɖO
+EATWA
+\s|E|1}}\, 1S
+H01 AAS41
+Bae TISSE,w鲁
+\!31!!WILSL] ọƐ
+》
+na Nwa owa Hwa ao s.lonio
+편
+! 鲁鲁鲁耶鲁青霉 n!!=
+----
+『了*『ーr 量A1毫事与雪与
+a-agar
+1H0IT N3d0 BATWN SBIVAILOVĀTĪNĀTĀJĪTĀSTĪJISSTJJ TJWIĘSBN0WHH 8I£ţ-/-OIO3- (-03
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+* FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE I 2/89 PAGE 127
+CAUTION: DO NOT EXCEED THE RECOMMENDED STARTER DUTY
+CYCLE FOR STARTER DUTY CYCLE SHOULD THE ENGINE FAIL TO START AND ACCELERATE. NORMALLY DO NOT ATTEMPT ANOTHER STARTING OPERATION UNTIL THE ENGINE HAS COMPLETELY STOPPED ALL ROTATION (ALLOW APPROXIMATELY l5 SECONDS AFTER THE TACHOMETER READS ZERO).
+A manual override button on starter valve permits opening the valve if it fails to open electrically. When the override button is actuated, the Valve Solenoid is overridden, and the valve opens pneumatically. The valve manual override button must be released when the N2 tachometer indicator reads 40% rpm. The valve then closes, and the starting cycle is terminated.
+WARNING: IF THE MANUAL OVERRIDE BUTTON IS NOT RELEASED WHEN THE N2 TACHOMETER INDICATES 40% RPM. THE STARTER WILL OVERSPEED AND CAN BE SEVERELY DAMAGED THE INTERPHONE SHALL BE USED FOR COMMUNICATIONS WITH THE CONTROL CABIN. FAILURE TO HEED THIS "WARNING". COULD RESULT IN PERSONAL
+INJURY.
+(b) Starter. Operation Using External Air Source
+This type of starter operation is dependent upon having internal low pressure air source connected to the pneumatic ground service connection. The procedure for starting is the same as using the
+APU
+(c) Pneumatic Starter Operation Using Engine Cross Bleed Air
+When necessary, Cross bleed starting of an engine can be accomplished by using bleed air from an operating engine. The engine bleed air shutoff valves are opened. Adequate pressure for cross bleed starting is provided by operating engines No. 1 or No. 3 at approximately 75% N2 RPM. When using engine No. 2, the engine must be operated at 85% N2 RPM or above to maintain adequate bleed air pressure for cross bleed starting. When the dual pressure indicator on third crewman's upper panel indicates 35-45 psig, the start switch for the engine to be started is placed in the "GROUND START" position.
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID 26E DATE TI 2/89 PAGE 128
+(7) Starter Control Circuit
+Starter control is quite simple, consisting of one switch for each engine and one master start valve arming switch for all three engines. By positioning the start valve arming switch to the armed position, power is supplied to all three start switches. By positioning an ENGINE START switch to the GROUND position, 28V DC is supplied to its starter valve. Power comes from the battery bus, through the upper section of the switch, to the valve. The FLIGHT position of the switch does not operate the starter. In flight, the engine is windmilling and a starter is not needed.
+(8) Ignition Control
+(a) Starting not only involves starter operation, but also pneumatics,
+ignition and fuel control.
+(b) Positioning an ENGINE START switch to GROUND supplies 28V DC to a start lever ignition (start) switch. When the start lever is placed to the START position, this voltage is supplied to the ignition exciter. This ignition circuit is also used for flight by positioning the switch to FLIGHT which gives ignition only.
+(c) The remaining circuitry in this illustration is not too closely
+related to starting. There is a circuit supplying ll 5V AC for continuous ignition. It is used in flight for automatic relight of engines that may flame out because of turbulence or other unusual conditions. It relights the fire before the engine slows down to the point where it would have to be restarted. Continuous ignition can only be used while the start lever is in the IDLE position. It also functions when the start lever is inadvertently place in the idle position during normal ground start.
+(9) Motoring
+Motoring procedures are used when checking engine components for operation or leakage. Dry motoring is starter operation without fuel or ignition. Wet motoring requires starter operation for certain fuel system checks. It involves opening the fuel valve while cranking just as if the engine were to be started. It is done without ignition, however, to prevent the engine from starting. The ignition breakers START and CONT to disable ignition.
+(10) Pneumatic Starter Duty Cycle
+(a) Normal Start - 30 seconds ON, 60 seconds OFF (b) Slow Starting - 60 seconds ON, 60 seconds OFF
+(c) Extended or Motoring - 2 minutes ON, 5 minutes OFF
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1 26E DATE 12/89 PAGE 129
+THIS PAGE INTENTIONALLY LEFT BLANK
+________________
+巴 MAINTENANCE TECHNICAL TRAINING
+27 FOR TRAN NG PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 1 2/89 PAGE 130
+FLANGE J
+/4
+INPUT
+COUPUNG LEAD പ NUT~ ޚަހީ& FWD ///02
+క్ట్న|/EN/
+/幻”
+HGH TENSION
+BRACKET
+NUT WASHER ANö. BOLT 4 PLACES)
+Z EXCITER A. SUPPORT
+(2 PLACES)
+output COUPLNG NUT
+ΕXCITER SUPPORT BOLT ANO PLAN WASHER (4 PLACES)
+Ε ΧOITER \ UNIT (20-4 JOULE)
+Ignition Exciter Unit Installation

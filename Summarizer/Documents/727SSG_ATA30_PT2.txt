@@ -1,0 +1,476 @@
+﻿MAINTENANCE TECHNICAL TRAINING
+ääsir
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID ll 27E. Page 4
+The water and toilet drain anti-icing system deices the forward water drain mast, and the toilet drain connectors. The drain masts are heated by electrical resistance elements wound around the tube within the mast. The toilet drain connectors are heated by electrical resistance elements instal led as an integral part of the connector gasket. The heaters are controlled directly by their respective Circuit breakers and are heated whenever the airplane has electrical pOWer.
+Rain Removal Systems
+The windshield Wiper System maintains clear areas on the No. control cabin windows during takeoff, approach, and landing in rain or snow. The wipers are driven independently by electric motors which are controlled by a common Switch.
+The rain repellent system sprays a rain repellent solution on the No. l control cabin windows and is used in conjunction with the windshield wiper system to improve visibility during heavy rain. The repellent solution for both windows is supplied from a common pressurized container, but is controlled independently by separate control switches for each Window.
+II. WING THERMAL ANTI-ICING SYSTEM
+A.
+General Description
+A thermal anti-icing (TAI) system using engine bleed air is provided to prevent the formation of ice on the Nos. 2, 3, 4 and 5 Krueger flaps, the fixed in board leading edge above these flaps and the Wing leading edge slats. The system uses a combination of hot 6th and 13th stage engine bleed air from engines No. 1 and No. 3. The bulk of the air is supplied from the 6th stage engine bleed manifold which is connected to the TAI supply duct. This air is boosted in temperature by 13th stage engine bleed air fed into the TAI supply duct by use of an ejector. The system consists of Supply and distribution ducting, control valves, electrical control components and indicating components.
+On all aircraft, a section of the wing TAI air distribution system is used in common with the auxiliary power unit (APU) air supply System during ground operations. The common manifold is connected to the APU at the forward end at the right hand wheel well and to the pneumatic system by a crossover duct located at the aft end. A check valve in the connection to the APU prevents air from flowing from the wing TAI system to the APU, and a check valve in the crossover duct prevents air from flowing from the pneumatic system into the wing TAI system. When the APU is in use for ground air supply, the common manifold is isolated from the wing TAI system by a left and right APU isolation valve in the ducting leading to each wing TAI distribution manifold and the engine No. 1 and No. 3 wing TAI shutoff valves. The left and right APU isolation valves are controlled by operation of the APU. Electrical interlocks in the control circuitry of both systems prevent the use of APU air and the wing TAI system at the Sarthe time .
+________________
+ff MAINTENANCE TECHNICAL TRAINING 恒芷 FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID 27E. Page 5
+<’’ ހަހި
+A\ تصميم ぐ <పNు
+ジ ل KAW ޗަރަރި Yr NG TAI A R T ΚΥ 3 U PPU Y SYSTEMA () SE: O All A
+鸥 NG A f SYSTE
+DISTRIBUT 域 محصے 髪貧 つ - SEE DETAIt a
+“: & hf PGS P-4 THIRD CREWMAN’S PAN EL ; )இ مسباً زي هتيم
+ኔታ * f باید ارهٔ @°C总·°C@ 测 s" rr@ حا
+A" 4 hirik di ti
+-- mea asi: ---
+P-5 OVERHEAD PAN EL
+WING THERMAL ANTI-ICING CONTROLS
+ 
+________________
+F
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87
+ANT-CE
+TEMPERATURE - ’ёўінtлт
+NdCATED FOR LOCATION " EMG 7 SELECTED BY “ኝ ̊ reduct TEMP" SELECTOR
+UCI TEM
+WING ANT-CE AUTO TRIP OFF
+OJ) T
+RAPD INCREASE
+D0C ID l l 27E, Page 6
+S. APU ISO LATION
+CABIN WA LWES PRESSURE 匙 A AYAAA
+ே | (GRD ONLY) : ||
+༽ ་་བརྩ༤ ཙམ་ཕ─ཁབ|
+с и И
+mm man - CLOSES ALL
+WING WALWES WNG
+SHUTOFF -------- K
+- C :
+: то : РNEu. WING : MATC : SYSTER: HIGH : : STAGE
+tols-> To wing ANTI-ICE
+A PU
+LIGHTS LLUMINATE WHEN
+WING IS SELECTED AND BOTH WING WAVES AGREE WITH SWITCH POSITION
+Zealazcaac Low STAGE BLEED
+wer: HIGH STAGE BLEED SSSSSS MIXED AR
+WiNG ANT-CE
+CONDITION: . ENGINES OPERATING WING ANTI-CE ON
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+7.
+Page
+DOC ID 27E
+Date 3/87
+SUBJECT ICE AND RAIN PROTECTION ATA-3O
+W31$A$ ÅT did nS 8IY sy u soN/A:
+、、、「イ3 AT WA X DE Hɔ £<\ ; ``s)E AT YA + ~! Oln Ho !! !! no SE & & Hool H シー、ミイイHAT YA 3 301 nHS | Y 1 ĐẠI) \ \考- NJを、Xo^ >$)&OSNES E \|f\|1\/\/=:] ©WE.1 7%• ~ ~ .
+CITO A IN YW Ĥ O || 1 Tlo | 815 ] Q | Y 1 TM) RIAAol J
+\J OS NE $ E & Til Y & E & W. El 1 3 AT YA 3 -JOlm HS | Y 1 ĐỊNHA
+BATWA X DE Hɔ-E ATY A $5Ý & Å 0 Q 33719 38 (1553 8 4
+Ho)|H
+A T d d no 8 ||Y O B Bong-e(2)CM
+3 N10 N 3 3 0 Y 15 H 19&\ /SJ
+3 AT YA X DE Hɔ —”,;?! 80 12) E TE_^从广)
+*{}{};± − 0 1 f, HS下H2D 1 || AS I 3 & si S55 8 d. H5OH →A oldd Tso & | \ Q BE T Q
+B od 10}{3 3 0 Y 15 HILT ITyw 83 H1 – SW31$A$ Iwl
+TIY I O Nv olA OD
+8 OS NE $3 N 10 NE ME 1 NE12) O 1 38 n.l. Y 8 B & WB 1
+`J
+Wing Anti-Icing System Equipment Location
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING F FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID 27E. Page 8
+マ
+H ー ゴ。 U rez
+d
+기 느 U on 소 ܩܶܗ -ܙ - -
+Hr Ulf ܕܒܚܝ He U. L Z O s( C.
+|ಿ Yrying
+h
+d
+لنا
+Wing Anti-Icing system Equipment Location
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID lill 27E Page 9
+l.
+Wing Anti-Ice Ducting
+The supply ducts from each of the pod mounted engines are connected to the common manifold on the left hand Side of the airplane. The common manifold extends from the aft end forward to the wing where it then is divided by a Y duct and routed to a wing manifold along each wing leading edge. From the Wing leading edge manifold, feeder ducts are connected to each of the deiced Krueger flaps, the fixed in board leading edge above these flaps, and the Wing leading edge slats.
+Each of the deiced Krueger flaps is Connected to the Wing leading edge Supply manifold by two feeder ducts, one at each end. The flap feeder ducts are connected to the Supply manifold by a flexible convoluted duct for ease of alignment and to the flap leading edge manifold by a swivel duct connection. The swivel duct is free to rotate around the feeder duct support arm as the flaps are extended. The swivel duct is Sealed by two O-rings to prevent air leakage. The flap distribution duct runs the full length of the flap and has perforations to allow the air to flow towards the flap leading and trailing edge between the outer flap skin and a dimpled inner skin. The air is then vented out of the flap along the flap leading and trailing edges into the wing leading edge cavity and exhausted overboard through vents on the lower fixed Wing leading edge.
+One feeder duct is connected to the fixed leading edge inboard of the Krueger flaps and two feeder ducts are connected to the fixed leading edge above each Krueger flap. The feeder ducts are each connected at one end to the supply manifold by a flexible convoluted duct for each of alignment and rigidly fixed to a wing leading edge distribution duct at the other end. The leading edge distribution duct has perforations along the forward edge to allow air to flow between the fixed leading edge skin and a dimpled inner skin. The air is then vented from the aft end of the inner skin into the leading edge cavity and exhausted overboard through the vents on the lower fixed wing leading edge.
+Each of the wing leading edge slats is connected to the Wing leading edge manifold by a telescoping feeder duct. The telescoping ducts consist of two tubes, one of which slides within the other as the slats are extended. They are sealed by an O-ring between them. The inner feeder duct is connected to the wing manifold by a swivel T-connection to allow rotational movement of the feeder duct around the wing distribution duct. The T-connection is sealed by an O-ring between each end of the T and the distribution duct - The Outer feeder du Ct i S connected to the slat distribution duct by a SWivel T-connection to allow rotational movement of the feeder duct about the Slat di Stribution duct.
+A seal ing diaphragm is installed between the feeder duct and Slat structure to prevent air leakage where the feeder duct enters the slat. The slat distribution duct runs the full length of the slat and
+has perforations to allow the air to flow towards the slat leading edge
+and between the outer slat skin and a dimpled inner skin. The air is then vented to the inner slat cavity and exhausted overboard through the slat track openings and drain holes.
+________________
+Page lC)
+DOC ID 27E
+Date 3/87
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30
+Taelow o £. Mae Waelo 0!!!!! Hae sae
+-r- - - - - - - - - - - • • • • • • • • • • • • • • • • • 四!유엔해탭 Awolae aeu●*T口减低
+■ 区·!{y 毛邝儿 Aw 'nw !1! !!***#:;介 !疊1$. El 1 sae && !!『 五T) | w:
+*... 00ł <!--→Dア B
+od Hla
+sao, i las u vorwaao +−)------! cs-3聂配白芷| * 今Jもー،~ !T当量减心 -& '0' + obh |-TO & 1 × 0ɔ - ±*Gw'0's sae 司—训T瓜.)德) 3a Twa3$כרס—ıf\ d \, Q !· ァ倉D-』w 1Dい一· ·"108.1!!0!!) 「』ずɔso a os|1 !ほに」‘I’w’ 1 50 MW va o H子|WĀŋɔwo ɔ ɖss |-Mɔ ɖO*も - -! "O sł știae 318רA W p-- - -A 15, wo quoɔ0 at: 3 AT wa33052 ) ----!s, orło wɔ ± ≠ 0 i nos-L∞)U ! \, s^5$3 (dae! Н ОН “1 “ v - Д.-や ‘菅塞 “的w"5%wa ao s os t)コ思MW』 エ D d(w→
+• • • • • * *亨Isi- →|-, ,r-r- |—书母ROEI: "TŶTI § 50 m.)口「적1.^s 'QN 9 No.$EATY A blw BAT wa==-H O 12 nqIQ.E. Bolta ± ≠ 0 anos-L~♥~I \ F(2) w owns 一、V,』 』| 1Soš[ "Os 5 no
+[ 'OM :O ► ►— !*们对引...-QU9 M3 d'O「월工邙1鲁 厅Lo-os I o Lae as 3 814 - -了上; t on onaMae 40 |a sono E 四Tuo15 No.1 dae !u ni
+1e-4$0 ~ ?ATWA
+--A
+Wing. Therical Anti-Icing System Circuit
+o so ?t 'o!!!5-A Twa diw —针斗山·QMシi v 33%}}}} w asoɔɔ |· o a TwaToĻo » wae? ¿ \! 4-| iT一‘0Mhà ェD-エ Y』– sön još |T—•—•—II|扩DW A 庐心汇厂“山—]] || |-『획 ----월:~TT눠지었!| ! -- -*-|I—I-Haedo r-→→<!--| + '?'; au,| ašổī5><s> ! a Tiwa350 hɔ ɑ:-| |--+-T” * 1„o ! ' ow owo_1 is al gwo ;lon # #ဝန္ုပ္ပ; I夏丹*woo_]ורv 1 (i a-50 & ! į “OH :)}{5}I-a -§ 18DMA |wa „o s_o-j !-ĦoHו 1 כA$ 0 3$רHɔɔlɩmas "I" w "1 1. ^ 504 o ... o严“Y”|- CE- -U+! Anwa●●| '0', 0),! "osae o,
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID lill 27E Page lil
+The wing TAI ducting is fabricated from "Hastalloy" high temperature steel between the engine bleed ports and the Wing TAI shutoff valves, and the remainder of the ducting is fabricated from titanium. The Wing leading edge manifold has five slip type expansion joints plus the Swivel joints at each telescoping slat connection to compensate for wing flexing, duct misalignment and thermal expansion. Duct movement throughout the rest of the system is accomplished by expansion bends in the duct routing.
+Control Walves
+The flow of air in the wing TAI system is controlled by a high pressure shutoff valve and a wing TAI shutoff valve for each pod mounted engine. The shutoff valves are electric motor driven butterfly valves which operate on ll 5-volt, 400-Hz current. The valves are equipped with limit switches to prevent overrunning of the motor, and valve position indicator Switches which are used in valve position indicator Circuits. Each valve is also equipped with an external valve position indicator to verify valve position. The high pressure wing TAI shutoff valves are controlled by a common switch for each engine. The switches are located on the P5 pilot's overhead panel. -
+The high pressure shutoff valve is a 2-l/8" diameter valve located on a Supply line connecting the l3th stage engine bleed air to the wing TAI supply manifold. The supply manifold is connected to the 6th stage engine bleed manifold and provides 6th stage air to be mixed with 13th stage air by the use of an ejector. A check valve in the supply manifold prevents any reverse air flow to the 6th stage engine bleed manifold.
+The Wing TAI valves are 4-l/2" diameter valves located on the wing TAI supply manifolds leading to the common distribution manifold. The valves control the flow of TAI air supply to the distribution manifolds.
+Wing Anti-Ice Electrical Control Components
+The wing anti-ice control valves are governed by the following electrical control components; a left and right anti-ice valve control switch, two valve control relays, a rate-of-climb switch, a wing anti-ice trip relay, a wing anti-ice trip test switch, one or two safety relays, a ground overheat thermal switch, a duct overheat relay, two engine fire switches, and a left isolation valve position.
+The left and right anti-ice valve control switches are located on the P-5 overheat panel. The switches are three position four pole toggle switches. Two poles are used in the valve control circuits and the other two poles are used in the valve position indicating circuits. They have an "OPEN" position, a "CLOSED" position and a momentary "GRD-TEST" position. Operation of either valve control switch to the "OPEN" or "GRD-TEST" position will supply power from the 28-void do bus No. 1 thru the ground safety relay contacts to energize its respective valve control relay.
+________________
+MAINTENANCE TECHNICAL TRAINING F FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID 127E. Page 2
+t CLOSE FIRE O ಟ್ವಿ!  ̄ം AA- WALWE 115 AC WALWE
+POSITION NORM
+#3
+28 DC
+H 3 HP y S/O
+WALVE GND TEST Odd - CLOSE
+y oPEN
+t3 TA l-R75 ! 1 sVITCH sw 1 # - خلمما OPEN تا - it sw ές ειτε LT 9 WING A/1 TRIP O APU SOU
+W FLITE ဝါ့ဒြာဗြဲ A LWE || closĖ طعاr
+Rဒဒဠိ LT WING DUCT OHEAT
+GNO TEST 2000F 1 |-ة - KOO No Rm محو
+GND RESET ܘܶ ܐ
+{I}}ہ ہسo۔
+if 2 ENGINE IN LET TA DUCT
+490°F
+! ||Hه ဒါ့ကြုံးမြဲ DUCT CHEAT su PPLY DUCT a-HI
+THE RIMA A L AN TI -- I C N G CIRCUIT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D00 ID lill 27E Page 3
+The anti-ice valve control relays are located behind the P-5 overhead panel. The engine No. 1 valve control relay controls the power from 115 volt ac bus No. 1 to open the engine No. 1 high pressure and Wing TAI shutoff valves when energized to close the valves when the relay is de-energized. Similarly, the engine No. 3 valve Control relay controls the power from ll 5 volt ac bus No. 3 to the engine No. 3 high pressure and Wing TAI shutoff valves.
+The rate of climb switch is located behind the third crewman's panel. It is a pressure sensitive aneroid type switch. The switch will actuate when a rate of increase of pressure in excess of 10,000 ft/min is detected over a maximum period of two seconds. The greater the rate of increase, the less time is required to actuate the Switch. Actuation of the switch completes an electrical circuit to energize the trip relay.
+The wing anti-ice trip relay is located behind the third crewman's panel. When energized, the trip relay breaks the circuit for the valve control relays, de-energizing the relays and closing all TAI shutoff valves. Once energized, the trip relay has a holding circuit through a pair of its normally opem contracts and a pair of normally closed safety contacts to keep the relay energized as long as the airplane is in the air.
+The wing anti-ice trip test switch is located on the P-4 flight engineer's panel. The switch is a three position toggle switch. It has a momentary "GRD-TEST" position, a "NORMAL" relaxed position and a momentary "GRD-RESET" position. Operation of the switch to the "GRD-TEST" position provides a ground for the anti-ice trip relay thru a pair of normally open safety relay contacts, to energize the trip relay for test purposes. Once energized, the trip relay maintains a holding circuit thru a pair of its normally open contacts and the ground reset contacts of the trip test switch. Operation of the switch to the ground reset position breaks the holding circuit and de-energizes the trip relay. The safety relay prevents control of the wing anti-ice trip relay by the trip test switch while the airplane is in the air.
+The valve position indicator switch, installed on all except 727-200 series, in the left APU isolation valve controls the supply of current from the 28 volt dc bus No. 1 to the ground safety contacts in the engine No. l and No. 3 TAI valve control circuit. When the APU isolation valve is closed, the switch is open, breaking the circuit to the valve control relays. This ensures that the wing TAI control valves are closed while the common manifold is being utilized by the APU air Supply System.
+a. On all aircraft, the two safety relays are located behind the P5
+pilot's overhead panel and are energized by a safety switch on the main gear torsion links. One pair of contacts on one of the relays is used to control power to the engine No. 1 and engine No. 3 valve control switches. On the other relay, two pairs of contacts are utilized. One pair of contacts is used to control power to the overhead relay, and the other pair is used in the trip circuit.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRANING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D0C ID ll 27E. Page 4
+When the relays are energized (airplane On the ground) power is supplied to the GRD-TEST side of the valve control switches and to the overheat relay. The pair of contacts in the trip circuit completes the circuit to ground through the GRD-TEST side of the trip test switch. When the relays are de-energized, power is supplied only to the OPEN Side of the valve control switches, and the pair of contacts in the trip circuit completes a holding circuit to ground a pair of holding Contacts on the trip relay when the rel ay is energized.
+The ground overheat thermal switch is located on the root end of the wing leading edge TAI distribution manifold. The switch is a temperature sensitive bimetallic type switch with normally open contact points which close at 200 (+ 10).F. Actuation of the switch while the airplane is on the ground completes a circuit from the 28 volt dc bus No. 1 through the duct overheat control relay to ground, energizing the overheat relay.
+The duct overheat relay is located behind the P-5 pilot's overhead panel. One pair of normally closed contacts on the overheat relay is used to control the TAI valve control relays, and one pair of normally open contacts is used in the duct overheat indicating circuit, When energized, the relay breaks the circuit for the valve control relays, de-energizing the relays and closing all wing TAI shutoff Valves.
+The engine fire switches are located on the P7 pilot's fire switch panel. The switches are two position toggle switches. They have a NORMAL position and a FIRE position. There is one switch to control the TAI mixed air shutoff valve circuits for each engine. When the engine No. 1 and engine No. 3 switches are in the NORMAL position, power is direct to the valve control relay pair of contacts which control the wing TAI shutoff valve for its respective engine. When the switches are in the FIRE position, power is routed to bypass the valve control relay contact points directly to the valve close circuit and shutting the Wing TAI Shut Off Val VeS.
+ST TEST Ärd A. Er FIME kräfts
+WHEEL
+WE
+et cu"
+,C3) ሠ” “ቄ تسبیح رہ سے سمبر OTTE: O TE DISCH of TLE TRANSFER DISCH
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRANING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D0C ID 27E. Page 5
+4. Wing Anti-ICe Indicating Components
+The wing anti-ice system is provided with the following indicating components: a valve position Switch, two valve position indicator lights, a duct temperature selector switch, a temperature indicator, three temperature sensors, a duct overheat light, two thermal Switches and a wing anti-ice trip light.
+The valve position switch is located on the P-5 pilot's overhead panel. It is a Six pole-five position switch, "OFF-LEFT-COWL-RIGHTWING," and is used in common with the cowl and engine anti-icing systems. When the switch is moved to the "WING" position, it completes a circuit from the 28 volt do bus No. 1 thru the valve position indicator lights for both engine No. 1 and No. 3 valve position switch, to the indicating pole of the valve control switch for the respective engine. If both valve positions agree with the valve control switch position for the respective engine, the circuit to ground for the respective indicating light will be completed thru the valve position indicator switches. There is no indication during valve travel as both valve position indicator switches are open in each valve during valve travel.
+AAN T-CE DUCT TEMPERATURE
+INDICATOR
+- Temperature indication as
+determined by duct tem perature selector.
+wnG ANT-CE switch GRO TEST - Spring loaded
+to close. Opens wing antiice valves on ground for
+est.
+NOTE
+Ground test of valves cannot be conducted when the APU is operating.
+OPEN - Opens wing anti-ice
+valves in flight.
+g
+hulle I ހރހި WNG ANT CE WALWE
+POSITION LIGHT (Green
+ILLUM NATED
+- Both wing anti-ice valves
+in Engine agree with the Eng 1 wing anti-ice switch position.
+TEMPERATURE SYMO Location of Eng 1 and Eng 3 wing anti-ice supply duct terTiperature and overheat
+f505.
+TEMPERATURE SYMBC
+Location of Eng 2 cow anti-ice duct temperature and overheat sensors.
+ENGINE NET ANT-C
+Switches
+OPEN - Opens all engine
+anti;ice waves for respec. tive ệngine.
+OWER HEAO PANEL
+ANT-C duct owe RHEAT LiGHT Amber
+|L LUMINA TED - - Excessive temperature in
+left or right wing anti, ce supply, or duct. - Engine 2 cowl duct. - independent of duct ten
+perature selection.
+ANTICE DUCT TEMPERA. TURE SELECTDR
+Determines source of tem. perature displayed by cuct temp indicator. ENG 1 - Wing anti-ice lett supply duct terTiperature. ENG 2 - Engine 2 cowl
+duct temperature. ENG 3 - Wing anti-ice right
+supply duct tertiperature.
+ANT-CE WALWE POSITION LIGHT SELECTOR
+Selects valves to be checked by the valve position lights. L. - Left inlet vaves. En
+gines , 2, and 3. COWL - Cow Wave. Engines 1 and 3 Cowl shutoff valve and high pressure valve: Engine 2
+R - Right inlet valves; En
+gines 1, 2, and 3. WING - Both wing shut
+off waives and both wing high stage valves.
+ENGINE NET ANTICE WALWE POSITION LIGHTS (Green
+LUMINATEO - Walve position agrees with
+switch position.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D0C ID ill 27E. Page 16
+* - ha
+S 57 WING T AI OVERHEAT 5 WT CH S43 WING T A GRD OVER HEAT SWITCH T 4 22 T AI DUCT TEM PER A T U R E SENSOR
+EN GENE İN (0. 3 T4 25 TA I DUC T T EMPERATUR E SENSOR
+E - G H E - O. T 426 T A DUC T T EMPERATUR E SENS OR
+ENGINE NO. 2 W34 WING TA SHUT OFF WAL WE LH
+V36 WK G T AI SHUTOFF VA L VE RH
+W 6 0 W N G TA I HIGH PRESSUR E BLE ED
+SH UTTO F F WA LW E RH
+W6 l W IN G | A | H | G H PR ES SUR E B L E ED
+SHUT OF F VA - VE - H
+v 63 A PU I SOLATION v A v E LH (REF) v65 APU SOLATION WALWE RH (REF)
+(S) cH Eck va Lv E
+Ps. 1
+{= wi{{#if: {{{C} } did do
+ExGrd r0,
+Thermal Anti-Ice Control Schematic
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID ll 27E. Page 7
+The valve position indicating lights are located close to the valve control switches on the P-5 pilot's overhead panel. They are 28 volt, green, press-to-test type lights.
+The duct temperature selector switch is located on the P-5 pilot's overhead panel, and is used in common with the cowl anti-icing system. It is a single pole, Seven position rotary Switch; however, only three positions are used. The positions are ENG No. 1, ENG. No. 2 and ENG. No. 3. In either of the three positions, the Switch completes a circuit to supply 28 volt do current from the P6 load control center, thru the temperature indicator, selector switch, to the respective duct temperature sensor, to ground.
+The duct temperature indicator is located on the P-5 pilot's overhead panel adjacent to the duct temperature Selector switch. It is an integrally lighted resistance type indicator calibrated to read in degrees Centigrade.
+The duct temperature sensors are heat sensing, resistance type sensors. THere are three temperature Sensors installed, one located in each TAI supply duct from the pod mounted engines just downstream from the mixed air shutoff valve and one in the TAI duct leading to the center engine inlet cowl.
+The duct overheat light is located on the P5 pilot's overhead panel. The light is a 28 volt amber press-to-test type and when illuminated indicates a duct overheat condition in either the wing or center engine inlet cowl TAI systems. The light is controlled by a wing TAI overheat switch, an engine No. 2 TAI overheat Switch, and a pair of normally open contacts on the overheat relay. Actuation of either thermal switch or energizing of the overheat relay will complete a circuit from the 28 volt do bus No. 1 thru the light, thru the respective switch or relay contacts to ground.
+________________
+MAINTENANCE TECHNICAL TRANING F FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID 127E. Page 8
+The overheat thermal switches are temperature Sensitive bimetallic type switches with normally open contact points. The switches close when the duct air temperature reaches 490 (+ 10)F on increasing temperature and Open at 460°F minimum om deCreas ing temperature. One thermal switch is located in the wing TAI common manifold leading to the wind and the other is located in the TAI duct leading to the center engine inlet cowl.
+:: * { ২১ - ་་:
+; : -----
+· ‘. - Գ:
+酉丁乙亡。@丁,]漆
+'I - 1 - ܥ؟ ܕܕܝܕ
+& t
+jD — 9%- Qi
+ty
+- "...sx":
+K C-S-*-S X
+DE TAIL A
+7ے i. At FCrf
+DE FAI O
+「ーー
+P. OWho Cao T ר
+CON TA OL CENTER
+--
+EE DE TALC
+auai Maus Mo.)
+--- .EMG NO -ܝܬ4 OWHD, PR 1. ... DUCT, TE la au La TEM2 BULa
+DETAL O - -
+No. 1 .ר Y d له که
+duct TEMPKD ل- ــ ـ قصصخ
+EMG, Pd0- 2 P& MAIM LOAD CONTROL CENTER DUCT TE a P. U
+duct TEP (COWL AN T-CE)
+Fitch (SEE DETAILA) -
+- - - OO pactor 1 N O 8.
+- Η فصی
+ل- - - EMG Mo. DUCT TEMP. aus [ كا TEMP. prd. لکس
+SE E DET AL A
+ 
+ 
+________________
+SUBJECT ICE AND RAIN PROTECTION ATA-30
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+Date 3/87 DOC ID ll 27E. Page l9.
+The wing anti-ice trip light is located on the P4 flight engineer's panel. The light is a 28 volt amber press-to-test type which S controlled by a pair of normally open contacts on the Wing anti-ice trip relay. When the relay is energized, it completes a C ir Cuit for Om the 28 volt dc bus No.l., thru the light, thru the pair of contacts to
+ground
+Wt NG ANTi-ICE AUTO TR || P. OFF SWTCH GROUN O TEST - Simula
+trip condition, NORMAL - System armed. GROUND RESET - Resets
+trip light and wing anti-ice valves after trip or test. Reset can only be accomplished on the ground.
+WING ANTI-ICE .
+tes
+WING ANT-CE AUTO TR P.
+OFF LIGHT (Amber)
+LLUMINATED -- Wing anti-ice duct rupture.
+All wing anti-ice valves close.
+AUTO TRIP OFF
+GROUNO
+N
+a
+àB) NORMAL
+GROUNO RESET
+TRP
+FLIGHT ENGINEER'S UPPER PANEL
+WING ANTI-ICE AUTO TRIP OFF
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 DOC ID 27E. Page 20
+ANT-CE
+TEMPERATURE OWEKKEAT
+NDCATED FOR LOCATION * ENG 2 SELECTED BY “R Fyಣ್ಯ DUCT TEMP" | A SELECTOR
+bucT TEM - , RAPD INCREASE Λ s WING ANT-CE N CABIN ၇;ဖူးင့!LATION
+F Auto TRP off press :
+ဗေ့ငုမ္ပ:D 匙 SKSYSS-O-SSSSS) TO WING ANTI-CE
+93ԳC : NORMA Bo- (GRD ONLY) :
+---به-صفح--- 255 : পিত১ مع :- خة  ີ (ର୍ବ୍ବ) TRP ý gm APU أكا
+CLOSES ALL -- - - -ــــــــــــــــــ۔ ۔ ۔ -ــــــــــــــــــــصص۔ ----...اً
+WING VALVES Wt NG - SHUTOFF
+SLLLLS S SLLLSL LS LSS S S ר ) ר A
+- 3} : S : fNsu. : : MATIC : WING :
+SYSTEM :
+WNG' S SELECTED AND BOTH WING VALVES AGREE WITH SWITCH POSITION
+WALWE POS
+LOW STAGE BLEED
+HGH STAGE BLEED
+MIXED AR
+CONDITION: ENG NES OPERATING WING ANT-CE ON
+WING ANT-CE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID 27E. Page 21
+5 Wing Thermal Anti-Icing System Operation
+The wing anti-ice system is controlled manually by the two wing antiice control switches on the overhead panel. Actuation of these switches to the ON or OPEN position while the airplane is in the air Opens the Wing TAI Control valves for their respective engine and allows mixed 6th and l3th stage bleed air from the pod mounted engines to flow to the wing leading edge. The landing gear safety switch prevents Wing anti-ice operation with the Switch in the ON or OPEN position while the airplane is on the ground. The wing TAI control valves may be operated for testing on the ground by holding the switch in the GRD-TEST position. Overheating of the ducts by excessive ground testing is prevented by the wing TAI overheat switch which will automatically cycle the control valves to prevent the supply of air from exceeding 200°F.
+The valve position switch and the valve position indicator lights located under each control switch provide an indication of valve position. When the valve position switch is turned to the WING position, the lights will illuminate if the control valve positions agree with their respective control switch positions. The lights will go off when the valve position switch is returned to the OFF or Close position.
+The duct temperature indicator and selector switch are provided to monitor TAI air supply temperature from each engine as selected. The duct overheat light illuminates when the TAI air supply duct temperature has exceeded 490°F when the airplane is in the air or when the overheat switch has overridden the "GRD-TEST" switch to prevent structural overheat when the airplane is on the ground. Continuous illumination on the ground or in flight may indicate a shutoff valve failure, and engine power should be reduced to prevent structural damage.
+The wing anti-ice trip test switch is provided to check the operation of the wing anti-ice trip relay while the airplane is on the ground. When the switch is actuated to the "GRD-TEST" position, it energizes the wing anti-ice trip relay. When the switch is actuated to the "GRD-RESET" position, it de-energizes the Wing anti-ice trip relay. The safety relay prevents control of the wing anti-ice trip relay by the trip test switch while the airplane is in the air. The Wing anti-ice trip light illuminates when the wing anti-ice trip relay is energized to indicate that the Wing TAI system has been tripped, and the control valves have been closed.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D0C ID 127E. Page 22
+ATC A-fold
+EJECTOR KOLE
+AIR COOP At-ce the
+AHT1-1CE . AR HLE عص *
+AMG C5D OHL, COOLER AR IHL-ET AR soor
+RAN NACSA 0-j CT .5 AN T-ION OG *ܕ EMG 1 k ጳYአmፍY.
+w AR scoor A.E LINE
+#ER Ա EE TO ENG. . . . R
+O til TH STAGE) CD OL COOL ER ހޮހިده
+CoolEAR C50 0L 000 ER
+AR scoop
+ENGINE NosE cow- ANo 3 ENGINEs
+llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+TH STAGE AR LO V PRESSU 42 جيجيسيك No E cowru
+ANTE
+oth stage Air
+H. ASE Af GHPREssus
+ENGINE *: 1555URIE umma ፬ዲrto Prነ ATC
+PRES mah A A. RATO
+"W Pra ܠܵ CHEg Fuel HEATERAR l YALYE VZ/|| \\ NV -ജ So oil coole -
+/ EcTortAR
+TA' KGH PRESS,3SRE W.LEED WALWE །། N EC WALWY
+M for Aulic tax THUST REYER SER SUPPLY PRESSurab E
+TAVAR GROVJM0 AIR CONNECT Cold to Phua PRECool -THRusT REwERSER CONTROL
+Alfolo HEATECHANGER
+THER LAL- ANTI-CE LMNE ENGE LEED
+HUTOFF WALWE ---- PAR ESSE REGULAT FRE ET GLISHER TUSE Ako SkuTorr WALWE
+A CON OTONG HOA
+coarsso GLEEDWALWE ACANG PARE SLJE Cool COE O |- EJECTor
+动 f's
+写严 DE EO YAL YE SIGNAL PRESSURE-1 so
+OHLED YAW ms Ps GA -cso Paeskualizatos. To
+TH STAGE ဗုဒ္ဓ::ဓ☎
+Ala DisTaiamon-NaNas 1 ANo a

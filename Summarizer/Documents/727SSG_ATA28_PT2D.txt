@@ -1,0 +1,127 @@
+﻿MAINTENANCE TECHNICAL TRAINING 歴リ FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85 PAGE 9)
+D. Auxiliary Tank Boost Pump
+l. General
+a. Each auxiliary tank has two boost pumps installed. The
+forward auxiliary tank boost pumps are installed in a dry bay on the forward end of cell No. 1 and are accessed from the forward lower cargo Compartment through the auxiliary tank equipment access panel.
+b. The two aft auxiliary tank boost pumps are installed in a
+dry bay located on the aft end of cell NO. 2 and are accessed through the aft lower cargo compartment.
+C. All four auxiliary boost pumps are the same pressure output
+as the No. 2 tank boost pumps (OVERRIDE) which are O psi higher pressure at all flow rates then the pumps (STANDARD) in tanks and 3.
+d. Both forward and aft auxiliary tank boost pumps deliver the auxiliary tank fuel through shrouded lines to the NO. 2 tank fuel feed lines.
+2. Aux Boost Pump Removal
+a. The auxiliary boost pumps are removed the same as the rest of the boost pumps, after gaining access to the forward or aft auxiliary boost pump dry bays. Each pump has a boost pump removal valve that must be closed prior to pump replacement. The pumps are held in place, as are all pumps, with shoulder Clamps.
+3. Aux Boost Pump Electrical Circuit
+a. The auxiliary boost pumps are Connected to the ll 5 vac
+buses as follows:
+Pump Position Il 5 V aC BuS
+Forward Aux Aft Pump No. Il aC Bus Forward Aux Forward Pump No. 3 aC Bus
+Aft Aux Aft Pump NO. 3 aC Bus Aft Aux Forward Pump No. 2 aC buS
+4. Aux Boost Pump Pressure Switches
+a. Two auxiliary tank pressure switches are mounted on
+separate brackets in each auxiliary tank equipment dry bay.
+________________
+MANTENANCE TECHNICAL TRAINING
+اس 胃a 221st
+ééére." FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85 PAGE 92
+بى S حي ് ഭ് క్రాడో
+-- . . . Fwd. Boost PUMP కg* :- R E MOVAL V ALVE * * ২ষ্প ܗܸܖ
+, . ރަޗ FWD BOOST PUM سسر; 2ప్రవై -، ܬܓ
+పైగyశ్చS NU ET TUBE SEUS ട്ട് ഗ് Ya
+NLET TUBE , نت/ریت CONNECTIOf 1 بیشت
+W ܪ ܢ .
+| 7 ༤ ༄། W 1 SE E DETAIL. - / స్త్రా S>6/ހ"
+”፨ اكسسي " ، و " んぜ今-2 ހަށި উ> W 3EE WEW 1 る マシー AFT BOOST PUMP ܔ` ̄ ޑީޙޠާން
+R E MOVAL V ALVE
+AF BOOS کسیجیۓ PUMP NET TUBE ،مسعصحسیب
+- کھیخ AUX LARY TANK INSTALLATION 区>
+Fuel Boost Purp Reacval Wave
+EO UIPMENT BA Y
+ELECTRICAL PLUG
+FWD FUEL SOOST PUMP
+AFT FUEL Boost puMp
+MOUNT ING CAMP
+ACCESS سےبــــــــــــــــــــــــــــ تOPEN IN C
+BOOST PUMP REMO VAL WAVE SHUTOFF LEWE R
+ORA IN PUUG
+VEW 3
+Engine Fuel Feed System Equipment Location.
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+* 千晶 ନିଶ୍ଚିis ፲ርሆ FOR TRAINING PURPOSES ONLY
+é式
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID | 024F DATE 4/85 PAGE 93
+F - ,
+لاهای ";#:
+On H - AÄ V , i . H. A a Y "TA hg fik
+Vy V DO CET Vyhur WTC
+AVAILafay TaMc
+øa hv - og 4 " - Gm T
+Yrwp
+OCT Puymanpe to w p |
+COM Tao Y On a C sw's T W A No aw. . . . aw
+F V .
+lتی "
+CHm
+一。
+علم اللحى "
+os
+Vv É - pa a S V 15 C. umur pwll T H
+o: A COC T I O A 臀w MA I AN TAME
+A.
+hy
+- "יש
+-r toos T Pump iTYP1
+an is vs T. W. T - c. . . . Y 5 *“ m - - AWE ل- --س--
+a ri. A " 3 a 0 CT CERT
+BC OS r PUMP POWER 50 UA CE
+AuEL VC 8 US PC T A N x
+ESS, 1 2
+a T. F. W. O PUMP PUMP RH at A H. P. ... “ FW) ^ం ནང་ PUMPS UM
+F w- A Pe T P U MP Pu MP
+FWAy D AFT FWC A Pu MP Pv MP
+A Ft Aux Ewd AFT
+PUMP PUMP
+Fuel Boost Pump Circuit
+FUEL LINE
+PRESSURE SWITCH
+PUMP BOOST PU MOUNT NG BRACKET
+FUEL LOW pRESURE SWETCH
+Electri CAL PUG
+u ト、・ "- EQUIPMENT BAY STRUCTURE NOTE: OOST PUMPS AND །།།། 1 ܐ-ܔ
+R E LA TEO E CUPMENT NOT SHOWN FOR CLARITY n. NOTE: TYPCAL FOR ALL །།| ހޯރހި
+AUX LARY TAN KS AUx LA R Y TANK PRESSURE SWITCHES
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+エ三:Z。 臀
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85
+FOR TRAINING PURPOSES ONLY
+ーでコ
+FUEL SYSTEAA
+TOTAL VIL
+PAGE
+94.
+o U
+ON AFT FWO. ON ARTY o AFT FWd O BOOST (A) - ooooo BOOST Off P. AAP 0. POVOS op PUMP OFF
+ar O (8) : 5) PRESS
+AFT AUX TANK
+@)
+ON OM
+OVA OFP
+YA WE
+M - ای
+LO ሓዋኡ (39. Pass (5) WՒ امسیح
+WALWE WALWE IN TANs IN TANET
+др Ј. (3) WALWE OPEN WALWF WAWE dPEN (6)
+مكخ يع | N TRANs na YV 1u ka API N TANSI محے
+盏"(|旨 Vl ul() (\|| () ()
+CLCs محیے۔ح صحيحا .CLOs می۔۔۔ح
+(Y ENG. ? ༩༽ ENG. 3
+FUEL CONTROLS & INDICATORS
+727-233 FLIGHT ENGINEER P-4 PANEL

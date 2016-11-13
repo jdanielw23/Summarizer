@@ -1,0 +1,360 @@
+﻿墨 MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY حققتلقت
+SUBJECT: B727 ENGINES ATA 71-80 D0C ID - 26E DATE 1 2/89 PAGE 131
+CHAPTER 7
+WARNING: IGNITION VOLTAGE IS DEADLY. DO NOT TOUCH IGNITER PLUGS IF
+IGNITION IS ON. DO NOT TEST IGNITION SYSTEM WHEN PERSONNEL ARE IN CONTACT WITH THE IGNITER PLUGS OR WHEN INFLAMMABLES ARE NEARBY. DO NOT PERFORMANY MAINTENANCE ON THE SYSTEM WITHIN FIVE MINUTES AFTER SYSTEM OPERATION.
+A. IGNITION SYSTEM (ATA 74-00)
+l. General Description
+(a) The engine ignition system is a capacitor discharge circuit which
+provides a means of initiating or Sustaining Combustion of the fuel air mixture in each engine. The System includes two independent circuits: a high output circuit which is used for intermittent duty; and a lower output circuit which provides continuous ignition. The intermittent duty ignition is intended for use in engine starting, while the continuous duty ignition may be used when required to Sustain engine combustion.
+(b) The ignition system converts either 28 volt DC or ll 5 volt AC
+power into high voltage pulsating current which produces a spark at the igniter plugs. The heat generated between the igniter plug electrodes vaporizes fuel droplets and brings the fuel air mixture to the critical temperature required for ignition under all conditions.
+(c) The system for each engine consists of control switches (an engine control switch on the pilot's overhead panel and a start lever controlled switch in the lower nose compartment or lower pedestal), a Spark exciter unit, two high tension leads and two spark igniters.
+8. Engine Ignition Control (ATA 74-3-0) - 727-100
+.
+General Description
+The engine ignition control is integral with engine start control in order to provide electrical power for the ignition system, the engine start switch must be actuated to complete the circuit from the main load control circuit breaker panel to the start lever controlled ignition switches. By the proper positioning of the engine start switch and the start lever, electrical power is made available to the ignition exciter to be converted into high voltage, pulsating current which will produce a Spark at the igniter plugs to ignite the air fuel mixture in the engine.
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 2/89 PAGE 132
+Igniter Plug Lead Assembly Figure 4
+-- AC GROU NO
+Igniter Plug Figure 5
+ENGINE A R FRAME IGNTER EXCITER EXCITER NTER FACE-TYPCAL PLUG CABLE
+A ኮ- A-DC GROUND H - - - B - 24 VOC
+C H - - C H 115V 400 Hz 궁 O
+|GNITER EXCITER PLUG CABLE
+20-4 Joule DC Starting And Continuous ignition System
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E
+ENGIN E CASE
+IGNITER Boss -1
+IGNITER PLUG
+I GNITER GASKET
+FAN DUCT
+/
+COMBUSTION SECTION COWER BOSS
+OUTER DUCT
+SSSL LSL SSSS
+பி, SPACER N- A 霍了
+COWER 'O' RI NG - - PACKING ܅ܬ
+CONNECTOR 'O' RI NG PACKING
+3
+Z
+LEAD AND CONNECTOR ASSY
+| GNITER & LEAD || NSTALLATION JT8D
+DATE 12/89 PAGE 133
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 2/89 PAGE 134
+OWER HEAD PANEL
+START LEVER CONTROL CAOLE
+START LEVER ~പ്പ 全二つ
+(IGNITION) SWITCHES SWTOM SUPPORT CHANHNEL
+SEE DETA. A
+START LEWER 2W DC (IGNITION) SwiTCH START EVER (ALL ENGINES) (IGNITION) SWITCH SWITCH CLOSED (ALL ENGINES) w: N DPRESSED SWITCH CLOSED
+Wind DE PRESSED
+PILOTS' CONTROL STAND DA. A
+Ignition System Equipment Location
+72 7 - I O Ο
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 216E DATE 12/89 PAGE 135
+2. Start Lever Switches
+a. There are three start lever switch assemblies, one for each engine.
+Each start lever switch assembly contains an intermittent duty switch and a continuous duty Switch. These Start lever Switches are can operated switches that control application of the intermittent and continuous duty ignition systems in the exciter unit. The switches are located in the lower nose Section between floor beams.
+b. A cam attached to the start lever Switch Cable passes through each
+start lever switch assembly. As the Cable is actuated by the start lever, the cam engages a follower on the Switch actuating arm causing the switches to open or close. Both the intermittent and continuous duty ignition start lever switches are rigged to close when the start lever is ahead of the CUT OFF position. The Switching is arranged so that when the intermittent duty ignition system is activated, the continuous duty ignition system is deactivated.
+3. Operation
+a. To initiate ignition for a ground start of an engine close the ENG
+START, CONTINUOUS IGNITION AND START IGNITION circuit breakers on the P6-3 circuit breaker panel. Move the applicable engine start switch located on the pilot's overhead panel to the GROUND position and advance the applicable start lever on the pilot's control stand to the START detent. This procedure closes the circuit for 28 volt DC power to the intermittent duty system of the exciter unit where the voltage is stepped up and directed to both #4 and #7 spar igniters. Release the engine start switch at 40% RPM, N2. Place the start lever in the "IDLE" detent after the engine has reached normal idle speed. When the start lever is in the "I DLE" detent, the continuous duty switch is closed and continuous ignition will be activated if the engine start switch is placed in the "FLIGHT" position. By this procedure, 115 volt AC power from the continuous ignition circuit breaker is fed into the continuous duty system of the exciter unit where this voltage is stepped up and directed to only the #7 igniter. The purpose of this AC ignition system is to provide continuous ignition during critical flight conditions.
+b. To initiate ignition for an in-flight start of an engine which has
+been shut down, check that the "CONTINUOUS IGNITION" and "START IGNITIONI circuit breakers on the P6-3 circuit breaker panel a re closed. Place the engine start switch in the "FLIGHT" position and advance the start lever to the "START" detent. After engine startup, the engine start lever is placed in the "IDLE" position and if continuous ignition is desired, the engine start switch should remain in the "FLIGHT" position.
+c. Although the 727-233 have cams installed and switches in the E & E
+compartment ceiling, they are not connected and have switches as the
+other 727-200 aircraft.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+136
+2/89 PAGE
+26E DATE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+001-ZzZa pəIJIlduls ļļnɔulo uoslluôi
+Novo H3NHng vụ
+**©
+Noo H3N8ng | „
+-
+LZ「一ばQL-QX B
+{
+1[\,}_1(\O 3oDŶ I TIOÅ
+工
+į A do 3 8 3 A 0 T} [ ç 3 N 10 NB I TY ) Hɔ 11A5 [ Nt011 I No.1) 83 A 3 T 18 y 15 DQ A8{
+1^e}_1^O 3%)\, ITIOA IH
+阳日 円
+L
+{$ng ɔw) ɔw A$ 1 !
+| 53 N10 N3 n Tw . エD」ニ* ニz0-L-zB二 83 A 3 T 18 Y 15
+2) Y A $ | |
+pu1" ""ニ
+Tak ny a
+18 Y 15 DァB
+mam*
+| + 』 & * L3 || 내기-오「터「다.| Qァ「10MB
+厂
+*력
+**---o--o": ||
+アQ- 1ア00 18 y 15 1 71 ±|
+D.C. Aos
+-13 N y & qv 3 H & 3 a 0 $ 1 0 71 || d
+"13 Now & 9 &
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 2/89 PAGE 137
+C. ENGINE IGNITION CONTROL - (ATA-00-00) 727-200
+l. General
+a. The engine ignition control is integral with engine start control. To provide electrical power for the ignition system, the engine start switch must be actuated to complete the circuit from the main load control center circuit breaker panel to the start lever controlled ignition switches. By properly positioning the engine start switch and the start lever, electrical power is made available to the ignition exciter to be converted into high voltage, pulsating current which in turn, will produce a spark at the igniter plugs #4 and #7 to ignite the air fuel mixture in the engine.
+2. Start Lever Switches
+a. There are six start lever switches, two for each engine. The start lever switches are located in the pilot's Control stand and are actuated by cams on the start control drums. The start lever switches provide for intermittent ignition through the 28 volt DC switches and continuous ignition through the ll 5 volt AC switches.
+b. One start lever actuated engine fuel shutoff valve switch is provided for each engine. A cam attached to the start drum engages the switch follower causing the switch to open or close.
+3. Operation
+a. To initiate ignition for an engine ground start, the START ignition
+circuit breaker on the main load control circuit breaker panel P6 must be closed. Placing the start valve arm switch in the ARM position, holding the applicable engine start switch in the GROUND position and advancing the applicable start lever to the START detent, provides 28 volt DC power to the intermittent duty system of the exciter unit where the voltage is stepped up and directed to both spark igniters. During critical flight conditions, continuous ignition is obtained with the start lever in the IOLE detent and the engine start switch in FLIGHT position. The CONT ignition circuit breaker must be closed. This supplies ll 5 volt AC power to the continuous duty system of the exciter unit where the voltage is stepped up and directed to only one spark igniter (#7).
+b. To initiate ignition for an in-flight start of an engine which has been shut down, check that the START and CONT IGNITION circuit breakers on the P6 circuit breaker panel are closed, place the start lever in the START detent and the start switch in the FLIGHT position. After engine startup, continuous ignition (one spark igniter only) may be maintained by placing the start lever in the IDLE position.
+________________
+27 MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 2/89 PAGE 138
+CONTINUOUS DUTY IGNTIONSWTCHES CLOSE OF POSITION
+(IGNITION ON) IN THIS RANGE WHEN ADVANCING LEVERS
+INTERMITTENT DJTY IGNITION SWITCHES OPEN
+/ー START POSITOn GNITION OFF) in THIS RANGE WHEN ADVANCING L VERS SEE DETAL A
+NOLOAD TRAVEL
+A (GED) rO (CDA) (RT-OFT POSITIOr.
+○ エ OMAWE
+-20 lirt
+INTER MITTEN I DUTY OGNITION Yw TC-4EY CLOSE (Gnt TION ON IN THIS R Anc. WEN ADVAncini', if v R,
+START LEVER (TYPICAL ALL TA E LEVER%)
+GNITION SWITCH ACTUATING
+པལ།།
+GN TON SWITCH
+ಟ್ಲಿ [[
+༄།
+GNTION s SWITCH N
+START CONTROL
+DRUM
+START
+ENGINE START
+EWEA ACTUA EO Swis CHES ACCESS FUEL CUTOFF SWITCH PANEL
+ACTUATING CAM
+START LEVER PIt. Ο Τς FUEL CUTOFF CONTROL DETAL A SRAVITCH STAND
+FWD Q-ב
+Engine Start Lever Switch
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE I 2/89 PAGE
+OVER HEAD PANEL
+ENGINE START LE WERS
+SEE VIEW 9) 62. క్ష
+ŠK Y2
+ÑS)
+PILOTS' CONTROL STAND
+ENGINE START
+\\ LEWERS
+START CONTROL
+DRUMS \)
+GNTION CAMS (5 PLACES)
+START LEVER SWITCHES
+FWD VIEW (് 727-2 Oo
+IGNITION SYSTEM EQUIPMENT LOCATION
+139
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 140
+2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 71-80
+d
+SUBJECT
+(00 Z-L Z L.)
+sa Hɔ 1 INAS w ɔA ET 1\ł w 15
+CIGHIJITI đWIS LIQ OHIO NOILINĘ) I
+SBH31||AAS 1w w 1s Mae -:-, 10 d.).
+"No Nwae Owo E. HOE BAO
+so
+∞∞
+No 11 INDI 1\!\, 10 C ' ON ĐỊN,
+±± 0 O Nino uso
+1 \!\, 15 c ∈ N:
+|
+|- 1H0 IT :|
+|
+_01|- osno uvo
+ɔsɑ at:
+NO 11 || Nool SnOnN11NO3 t. 'ON DNE
+a ”}
+0 三工www. ɔɑvojo 00W swo3||0
+SS3,00w 3. NID NE
+Hɔ LIAA's W \!\, E ATY A LH v ls
+* "3"정서법」AT NO , Nwɔ*王*리「 l-l ニ·usae??4, D + +ounɔ s-ı1ła w 1S » Nwo : ( (・・)|0 Mae OlssNĐs| 1ɔɲC] ɔu lwown, Nae
+||----O 3.SOTƆ ea & NE, O - ---0Ɔ11Aås NaewawaY ++)- 30 ! \!\, E AO
+w 000 SS:Now T4Tw'n Nww.13 TN1 z ono T »|
+*(13 Novae EA") w A + + O.1 TAHSLN=wnųısNr 3 NIÐN3 !!3!!1!!!! Lo.
+1H5OIT| NEdO BATVA UE1b)\/LS HO 1 IANASw! BETYSSE!!! |ĤEJL\!\!^JLSL] 舟厂] Ł ọ! →
+\!31 !! !! 13 01
+on anv , ow 3}+w, BAO $. 107114
+~ 5 oc -onsກໍ່ອ
+Dy AQ
+Mae OOO, ssɔɔɔw z "ON son:
+0: ATV, A 1, w 15 ĐAN:) $
+snae Llw's ɔɑ AQZ
+1HồIT N3d0 BATWA SHIVNILOWETONTRŪTĪTĀSTĪJĀS SĒRTĪJWIĘTSTĀJĒ8I£ţ- (-0I09-A-03
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+26E DATE 12/89 PAGE 141
+DOC ID
+( C-94 ) SışNwo wɔxwɔ wu linowiɔ wa uNao noul Noɔ ɑwon
+zot vus gwahxīng —N
+NOI! YɔOT 13. No di
+B727 ENGINES ATA 7-80
+SUBJECT:
+$ ss i loŋ 1 x + £ i Haesit *ɔsia r- uhorsה- זו נו
+QO)O)
+i E -Ᏼ1ᎯᎳ 職
+sa skåŋŋ tiŋ tɔwo ŋu nɔ wo đłyae suyu
+C)
+- HƠILDT I 30 i HA!! !! !! !!
+taeae ×i sjw sumur;*藏唱忒减 u đỡ,1ᏂᎳ lᎬ ,y : AA-1! % !!! t|3, AA 0, i $31
+Q』
+Ōōō
+Tđuð linɔwɔ wɔlɔŋuigT
+(C)(C)C)
+t ©++! ±
+óá
+- NOII DIJI O 8,1 38!} -
+0I}{S | LNW ;1}{t}|\su Hors },0ł,母圆圈Mae suɔ do 11tae taetክዛኘ! {{#¡¡ ¿
+is si sło swsqiws: włAsi1唱圆1墨唱
+C) C) C)
+L– → **** →]suae!
+u li sae soț± √∞ www. 舞蹟藏卿 q}}{5 - 111},\, Ōtsusaetitus,###### T试唱翻唱
+『』
+- Hojo) {}NTOIHNYT -
+○○
+*睡眠感
+■■■■ ■ ■ ■ ■ 1 lið 1ክffነዘ§ 11 saes, 'wax
+osuwu
+șţw w us !$$ i qe saetaesaes,
+C) C)
+シ1Ᏼ Ꮝ ዝ0ዝዘኽ
+Ħo II Iswael
+lae,Istwo 13
+£ "ON
+○○
+##ț¢ £
+■iostj , 1 tìs, sinaesu u drwi ta, daewae Ꭽ#Ꮃ Ꮄ- ᎥᏓ.磷) #sitae!}{10}+1 b雪王量减事: sto,ț¢ NƠIII Nobi
+lae看哪4
+Ł 'ON
+○○
+碱耀■ 碱 sɔs-jų,!ws, i mło 1፬በ፥saei gael
+C) (O)
+softwa *感应·萨鲁sssu, sissaeシ ±√(√≠√∞Also ከዘC}ዝû Ĥorals,
+I HỌ:su mae !
+C) (D) (O)O)O)O)
+| ‘ON
+- 3 NIÐ N3 ---- BN|9N3 ---- BN19 N 3 –
+właeli *** !
+C)
+1Ợut No)
+C)
+C)
+*** At, q !
+C)
+× A Not
+|8IA
+so uusae,
+C)
+sustaer! *置感量 ! ¡Asøg
+C)
+ሰቆሇ) un Hỷ ugi txɔ ɔ,
+C) Q)
+c 'ON
+9N3 l. Nɔɔ.-
+iņaesae
+C)
+saeui sae)
+C)
+sustaen シkm w Alus
+ᏧᏨᎠ usiłłs saeae
+Ł "ON
+1011}+t});
+C)
+łowiowo,
+C)
+siłłows Đ MIAŁąws® s Asqq.
+(C)(C)
+ᏗᎬᏅᎠ im#; כנסיסונים
+C) Q)
+! ’ON
+- Njo) --- Ngo) -
+N
+5-3.4 *
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+26E DATE T 2/89 PAGE 142
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+go).||0||0||0|}}}}}}}}
+A栖%=
+|-
+|-
+1$[]}}
+A

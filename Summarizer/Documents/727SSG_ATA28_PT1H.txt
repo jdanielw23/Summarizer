@@ -1,0 +1,168 @@
+﻿ஐ
+SUBJECT
+* CVW-hal • LAO 20 JUN SO
+MAINTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE. 71
+FOR TRAINING PURPOSES ONLY
+H. Fuel System - Defuel ing
+l. Pressure Defuel ing
+d.
+Obtain electrical power - connect external power and place external power switch ON - or - run APU and place APU generator switch to CLOSE. NOTE: This powers the entire aircraft.
+(l) Hookup grounds an hoses - Suction may be used to
+increase defueling rate and to Scavenge the fueling and dump manifold.
+(2) Open manual defuel valve, turn on boost pump (s).
+(3) Open tank dump valve(s) - CAUTION: not dump nozzle
+valves.
+NOTE: This produces the maximum defueling rate until
+automatic dump cutoff occurs and gives and opportunity to verify dump cutoff.
+(4) Verify dump automatic shutoff - if desired.
+NOTE: Tank(s) quantity must be avove dump cutoff level
+and aircraft attitude must be close to wing level, nose down 3/4 degrees. (See ATA Chapter 28-31-0).
+(5) Verify that tank dump flow has stopped. Check
+quantity against chart in Maintenance Manual 28-3-0.
+(6) Open crossfeed valves.
+(7) Defuel to desired quantity, then close crossfeed
+valve(s) - OR - DEFUEL UNTIL BOOST PUMP (s) low pressure light(s) is (are) on Steady, then Switch off boost pumpS.
+(8) Drain sumps - NOTE: if tank No. 2 is defueled in
+this manner, and no suction is used, the fueling and dump manifold will drain approximately 25 U.S. gallons into tank No. 2 over a period of 30-40 minutes.
+CAUTION: SEQUENCE TANKS AS NECESSARY TO PREVENT AIRCRAFT
+TIPPING
+________________
+ANTENANCE ECN CAL FANNUà
+727-200F FUEL SYSTEM ATA-28
+DATE 6/83 PAGE-72
+SUBJECT
+FOR TRAINING PURPOSES ONLY
+CROSSFEED MANIFOLD
+CAOSSFEED VALVĖ$
+soos sous AP∞ TANK 2DEFUEL VALVĖ PRESSURE SWITCHÉ$sųMP DRAJN VALVĖN%/ FUEL. ING & DUMP容- pux, LEVEL SENSOR 俗/ 父/
+MANIP disQ wɑu. U MÉTRICDRAIN VALVF&TANK DUŁP WALVĖ TOPOFF UNIT
+: ·pump LeveL CONTROL VALVÉ COMPENSATÖR-∞N;| ||· (ASHING LIWE-%绍见”、静FuĖlır,G , DUMP. MANIFOLD |-叠sae 多ァ厅泌No us ! ING
+FUE 1 Isosti哆FUE LIĤG Ō ŌUMP PANĚL, Pls. CHECK VÅLVÉso\ \\----MAĤIFOLD WENT
+FUELING VALVĖ
+Fusillae RESTAICTOR
+†HẾ RẦM Ảl-· 目# us !sa Elst; F伯_、 TANK !WALVĖVALVE “ TANI ( 3: : \o鲁 TE})}{PE›AsusaeExt:INEw
+sulaeFORWARD±uTOff Y ALVEWD>O
+§00s f. sHsł{JUs} tŷRAIN MASTDAFs LẼ毒 gossT PUMPou MP d’Y PAS$CHECK VALV ÉS서: ī.*WAŁ W Fs'usagt TAĦĦ. |dwae RwsiaeDAA!!!
+FILLER OVER RIDEĐUMP HỎ, LÊ
+CHECK VALVĖ韃~).w Alwaeኽ ዶኒ!ኦ! ፪ y Es, T.VENT Af y $HROUD DRAJN MAS !* FUEL șY5ȚEM
+ 
+ 
+ 
+ 
+________________
+gP MANTENANCE TECHNICAL TRAINING "Arba - 1 VR6 26 JUNI 80
+727-200F FUEL SYSTEM ATA-28
+SUBJECT- DATE 6/83 PAGE. 73
+FOR TRAINING PURPOSES ONLY
+2. Suction Defuel ing
+a. Suction defueling does not require electrical power on
+the air Craft.
+(l) Close fueling (and dump) manifold vent valve.
+(2) Hook up grounds and hoses - turn on suction.
+(3) Open manual defuel valve.
+(4) Open crossfeed valve (S).
+NOTE: Tank(s) No. 1 and/or No. 3 will not suction defuel
+unless approximately 8 PSI suction (-8 PSIG) can be obtained and maintained. No. 2 crossfeed must be closed.
+Tank No. 2 will suction defuel at approximately l/2 PSI suction (-ll/2 PSIG). A tank (tank No. 2) that is empty or not to be defueled must have all boost pump removal valves closed. As tank No. 2 nears empty, boost pump removal valves may have to be closed dequentially to suction defuel to the lowest possible level .
+(5) Drain Sumps
+NOTE: Suction defueling is not practical due to very
+slow defueling rates. Another way to suction defuel is to disconnect the engine flex hose in the nacelle and connect this hose to the defueling facility. Advance start lever to open engine shutoff valve. This method will require electrical power (battery connected only) to open the engine shutoff valve by use of the start lever, or manually selecting the engine shutoff valve to open after removal of the shrouds in the wheel well without the battery connected.
+CAUTION: SEQUENCE TANKS AS NECESSARY TO PREVENT AIRCRAFT
+TIPPING
+________________
+MANTENANCE TECHNICAL TRAINING
+74
+DATE 6/83 PAGE
+727-200F FUEL SYSTEM ATA-28
+FOR TRAINING PURPOSES ONLY
+SUBJECT
+།ཡན་ལག་
+BOOSÌ PUMP PRESSURE SWITCH£5
+FUELING CẢ ĐƯ MP MAHHF 010 VO. UMET HICDRAIH V ALW'±
+TOPOFF UNIT
+COMPENSATOR WASHING LINĖ
+FUEL ING CHECK VALVE
+fuɛLING valve
+FUE LING
+Rae's Al CT0R ro ", Y ‘,露 \, }唱
+量
+攀 鼎suae 章! saeBOOST <!-- poosT PUMP!usp ©Y PA55 VAL V F dự, ɛɲWIĤae FILL, R.
+OVER AIDĖ CHĘCKVALVE
+te saepe o ATURĘ
+TANK 2
+5.UMP DHAIN WALVĖ&
+CROSSFEED MAHIFOLD
+CROSSFEED VALVES
+FUEL w ALW's
+#ð HWARD §HRŰŲs) DRAIN MAST
+FÖR WAĦD ~) §HRŒUD.=實實 VEP:t
+THERMALG
+sae u IEĦ体
+walvÉ“ TANA 3 (~). ENGINĖ
+SHUTOFF VALVĖ
+AF I SHRÕUD DRAJN MASW
+DEFUEL VALVĖ 溶/ 今义bump LEVÉL SENSOR 必
+oài必
+· 松怒影!
+* •ẹ * ∞鲁
+록
+TANK DỤ MP WALVĖ pump lɛwɛL CONTROŁ VALVĖ
+FUE LING , DUMP MANIFOLD
+fuĘŁ ING FUEL ING , DUMP PAHEL. ? 15 MAHIFOLD WENT
+sae
+V>O
+das FLF |藏- tHECK VÅLVĖS☆ 5 URGË TANK - Ds. Alsae
+DAU★ Ħ0, L , VALVĖ
+TANK Ve o T
+#UE 1 5YSTÉM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+లైజా
+SUBJECT
+swirls as jury
+MAINTENANCE TECHNICAL TRAINING
+727-200F FUEL SYSTEM ATA-28 DATE 6/83 PAGE 75
+FOR TRAINING PURPOSES ONLY
+3. Ground Transfer
+a .
+For maintenance purposes fuel may transfer from tank to tank by use of the crossfeed system, manual defuel valve, refuel manifold and boost pumps.
+Obtain electrical power either external or APU and power the aircraft.
+Open manual defuel valve.
+At Pl5 fueling panel, open fueling valve for tank that fuel is to be transferred into.
+At P4 Engineer's panel, open crossfeed selector for tank that fue is to be transferred from.
+Turn on boost pumps in tank that fuel is to be tranS ferred from .
+Observe tank quantity indicators to determine transfer of fuel.
+Transfer until desired quantity is reached, or when boost pump low pressure lights are illuminated steady then turn pump (s) off.
+Close crossfeed valve, close manual defuel valve and close applicable fueling valve at Pl5 panel. Remove electrical power if not required.
+CAUTION: SEQUENCE TANKS AS NECESSARY TO PREVENT AIRCRAFT
+FROM TIPPING,
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+sale | سمجمعفغینیتونگ
+SUBJECT 727-233 FUEL SYS ATA-28 D0C ID 1024F DATE 4/85 PAGE 76
+...۶
+s -------------خه "م A ۔۔۔۔۔ ۔ ۔ ۔ ۔ --~~~۔ ۔ ۔ ۔ بر VENT SURGE TANK A.
+W ཟླ, ཟ م"
+"A'Y \ TANK NO. 2 ۰۰۱شم... "۔۔۔۔۔ FUEL NG .." (3 SECTIONS) - مممم ”۔۔۔۔۔۔۔ STATION ۔۔۔۔۔۔ بحصے۔
+"-- تحسن ذي اسم \\ ح خ\ * * سے ܪ TANK NO. 3 محمد منبر OVER WING \ كميم ثم FILER PORT ÄN.-- DEFUELING VALVE -lo\) بیس"N jسمعہ ح^|:::ص
+A. ၀ိ" . ... | ' a AFT AUX TANK FWD AUX م۔۔۔۔”” Z... - N
+ANK WENT SURGE TANK
+. . . ... OVER WING H-TANK NO. 1 ་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་ FLER PORT
+USABLE FUEL OUATITIES IN U.S. GALLONS (POUNDS)
+NO. 1 NO. 2" NO. 3 FWD AUX | AFT AUX TOTA U
+PRESSURE LB 1775, 1892) 4509(30,210) 1775(11892) 810 (5,427) 860 (5,762) 9729 (65,184)
+FUE LING
+OvERwMG | LB | 1560(10.452) | 4509(30,210) | 1560(10.452 | 810(5,427) | 860(5.762) | 9299(62.303)
+°7TA WAK AVO... 2 AWD A UVX 7TA WAK O VERMy /WG FUL/EL/WG 7TH/RU/ 7AWAK WO... 7
+A WID/OR WO. 3 69 Y "TAIWAK-7TO-7A WAK” AFLUEIL TRAWSFER OWL Y.
+TEMPERATURE OF FUEL = 6Oo F/15.6o C SPEC FC GRAVTY OF FUEL AT U.S. GALLON X 6.70 E POUNDS
+60° F = 803 DENSITY OF FUE. AT 60' s 6.70 LB/GAL
+FUEL TANK LOCATION AND OUANTITES

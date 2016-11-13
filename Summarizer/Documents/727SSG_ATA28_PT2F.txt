@@ -1,0 +1,373 @@
+﻿MAINTENANCE TECHNICAL TRAINING
+a 臀 FOR TRAINING PURPOSES ONLY لک کا
+ܔܖ- ”
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85 PAGE 99
+F. Pressure Fueling System
+l. General
+a. The main tanks l, 2, and 3 utilize the Volumetric Top Off system (WTO) to provide automatic shut-off when full tanks are required. A difference between the 727-233 and 727-200F WTO shut-off system is that the 727-233 does not incorporate the WTO reset switches at the P-l5 panel.
+b. The auxiliary tanks, both forward and aft, use a float
+switch located internally in each tank to provide automatic fuel shut-off when the respective tank is full.
+c. The fueling rate is 700 gpm at a maximum delivery pressure
+of 50 psi.
+2. Aux Tank AutOmatic Shut-Off
+a. Each auxiliary tank has a fueling shut-off valve installed
+in the auxiliary tank access cavity dry bay. The fueling shut-off valves are controlled by two Switches located at the P-5 panel. Each valve is an electric (28 Vdc) motor-driven Slide shut-off valve with a manual Override handle. The manual override handle provides a visual check of the valve position, and a manual method of positioning the valve when the electric motor is not energized. the inlet and outlet ports of the valve are contained in a fitting mounted inside the fuel tank, while the motor and gate assemblies are mounted outside the tank. Each valve contains a thermal relief valve to relieve valve housing pressure due to thermal expansion of the fuel in the fueling lines and manifold.
+b. The valves are operated by 28 volt do power from the
+airplane power supply or external power supply, and are controlled by individual switches on the fueling control panel. Indicator lights mounted on the fueling control panel adjacent to the switches, are illuminated any time the valve motor is energized.
+C. The fueling shut-off valves are similar to the fuel
+Crossfeed manifold valves, except they do not have the thermal relief Check valve.
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+ܔ¬ ”
+『エリア
+SUBJECT
+FUEL CELL
+727-233 FUEL SYS ATA-28 DOC ID O24F DATE 4/85 PAGE lOO
+N PF U EL محی
+MAN FOLO
+※エ / S-- FUE LANG SH U TO F F R WALWE 〉། ། N
+BOOST PUMP RE PRI ME I NE
+~േ ༄། །
+ད། ། FUELINC
+N OUTET Tube FLOAT
+SWITCH
+TYPCAL AUXLARY TANK) SS
+FOAT SWITCH WI RE CON OUT
+INTER CONNECT OPEN ING
+(TYPCAL Auxiliar Y TANK) SS
+3.
+Aux Tank Float Switches
+d.
+Aux
+Two float Switches, one for each auxiliary tank, are provided to automatically Close the individual fueling Shut-off valves when the fuel level in the tank reaches full. When actuated, the float Switch activates a relay which switches to energize the fueling shut-off valve motor and operate valve to the closed position.
+The two relays controlled by their respective float switches are R632 (forward auxiliary) and R633 (aft auxiliary). Both relays are mounted on the P-lb fueling control panel adjacent to the test switch for auxiliary fuel quantity indicators.
+Tank Fueling Outlet Tube
+A fueling outlet tube in each auxiliary tank is mounted on the outlet side of the fueling shut-off valve. A Spring-loaded swing-type check val ve is instal led on the outlet end of the tube to prevent reverse flow from the auxiliary tank through the fueling shut-off valve. The fueling outlet tube is connected to the boost pump vapor discharge port. When the auxiliary tanks are fueled, a fuel prime is provided to the boost pump.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+コ m 、 三 に”』 なr -
+FOR TRAINING P ONLY és Ris/ Ο URPOSES
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 024F DATE 4/85 PAGE 1 Ol
+FUELINCS CUANTITY
+ANFOLD VENT LINE سمصے
+N/ LING RECEPTACLE ۔۔۔۔۔۔
+NO CATO RS ԱE
+వS FUE LING <></- N FUE LING SHUTOFF RECEPTACL ހރޕްخ \ VA.-VE SWITCHES
+.FUE LING SHUTOFF ޝަހރީ | \ WALWE TRANST N11 I GHTS MAN 1 F O O | VENT SHUTOFF-NN
+vAL vE . N
+(y
+FUELNG POWER CONTROL SWITCH
+FvD Fue LING quANTITY
+NO CATO PA TEST SWITCHES
+FUE LING
+AY OOOR
+VEW 1
+Pressure Fueling System. Equipment Location
+4. Fueling Control Panel (P-l5)
+a. The fueling control panel is located in the fueling bay and contains all the controls required for operation of the pressure fueling system. Components mounted on the panel are fueling quantity indicators, an indicator test switch, fueling shut-off valve switches, fueling shut-off valve position indicator lights, and a fueling power control switch. An illumination light mounted above the control panel provides illumination for the fueling bay.
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+試験グ
+محمختلقینییتھa
+FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85 PAGE 102
+FUE LING SHUTOFF SW ITCH
+OPEN — Fueling shutoff valve open for fueling tank.
+FUELNG CUANTITY INDl. ༽།། CATORS indicates usable fuel quantity in tank if:
+External power or APU is connected. Fueling power switch is ON.
+FUELNG POWER SW ITCH /
+Controls power for fuel
+ing operation with exter
+nal or APU power con
+nected.
+O N - Provides AC
+power for fueling quartity indicators and test circuitry. Connects battery power to the fueling valves.
+塞 لار “ހ/
+aant" ,
+TT
+Lihat
+MAN TANK FUE LING OUANTITY INDICATORS TEST SWITCH
+ON - Test main tank
+fuel quantity indicators. Drives fueling station indicators towards zero. Drives Flight Engineer's lower panel indicators towards full. Closes any main tank fueling shutoff valve that is
+open.
+OFF - Main tank fue
+quantity indicators return to original reading. Fueling shutoff valves re-open.
+FUENG STATION CONTROL PAN EL
+(RIGHT WING)
+- FUE LING SHUTOFF VALVE
+POSITION LIGHT (sue)
+LLUM NATED - Fue.
+ing shutoff valve in transit.
+EXT NGUSHEO - Fue.
+ing shutoff valve fully open or closed.
+N AUX FUELING SHUTOFF
+SAYITCH
+OPEN - Fueling shutoff
+valve and No. 2 crossfeed valve open for fueling aux tank.
+AUX LARY TANK FUEL. ING OUANTITY INDICA. TORS EST SWITCH
+ON - Test auxiliary tank
+fuel quantity indicators. Drives fueling station indicators towards zero. Drives Flight Engineer's lower panel indicators towards full.
+OFF - Auxiliary tank fuel quantity indicators re. turn to original readirig.
+NOTE
+When the original reading is zero, the fueling station pointers may or may not move. If pointer movement is evidenced, it may be either up or down scale.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID (24F DATE 4/85 PAGE O3
+b. The fueling quantity indicators provide an indication of
+the fuel quantity in the individual tanks. The indicators are connected to their corresponding indicators on the Third Crewman's instrument panel and obtain their signals from the fuel quantity indicating system tank units (Fuel Quantity Indicating System). The indicators test switches provides a means of checking if the indicators are operating; operation of the switches will cause the pointer of operating indicators to move toward Zero. One test Switch is used for all main tank indicators and another test switch is used for all auxiliary tank indicators.
+c. The fueling power control switch allows external, APU, or
+battery power to the fueling system. When fueling the auxiliary tank, the No. 2 engine fuel control unit by excess pressure Surges. Switches at the aisle stand ensure that the fuel shut-off valves are closed when the Start
+eV er i S in CUTOFF.
+d. The fueling shut-off valve switches control the operation
+of the shut-off valves. In addition, the auxiliary tank fueling shut-off valve switch circuit contains a relay (R603) which will open (if closed) the tank No. 2 crossfeed manifold valve when either of the auxiliary tank fueling shut-off valve switches is placed in the OPEN position to allow fueling of an auxiliary tank through trne No. 2 engine Crossfeed valve on airplanes not equipped with the pressure actuated check valves. When both auxiliary tank switches are placed in the CLOSE position, the tank No. 2 crossfeed manifold valve will remain open or Close depending upon the position of the tank No. 2 crossfeed valve switch. The switches are toggle-type switches with a guard mounted over the toggle lever. If the switches are unintentionally left in the OPEN position after fueling is completed, closing the fueling bay door automatically moves the Switches to the CLOSED position and closes the fueing shut-off valves.
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID O24F DATE 4/85 PAGE 104
+3 ー・リ TO NO هکا
+15W AC ہـه FUEL TAN K * UN ITS
+28 V OC NOICATORS --- کہہلم N C - 2 F u E u ExTER na - POWER a TAN jx D
+1·晶 SHELF E
+ar - To Aux Fue "3 -a . 1 -+-ܥܧTܘ_N c : "TANKS units U^ EN مہک
+AN u WI 28V OC ßicATors AFT ہمہابخ I NO I CA 3C, R E خصط برلم حــســــــــــــــــــا
+1 15W AC TEST K2 K
+R E A YS TEST
+..., RELA Y దీన్స్ ܗܝ y R 97 F u E J OTY . ج : حملها
+TEST |NOCA "CR A PU E x T i Pw R ܣ= CHA NG E O WE AR 115 V AC RELAY
+APu Edu i P R ACK E 1.5
+so a m
+ANE P4 R 5 8
+FuEult NG WALVE & I" A hukul 1 1 5W AC * 3 ESS - も
+COMP UN I T
+BATT A NK s
+NO 2 -
+28 W OC
+V TO FUE LINC FUE Ll NG PO Yw E R متابخانه R E UA Y R E A Y
+b Not Full dک
+RSO3 W TO UN I T 1 5W AC D
+T PANE | ခိÁဝိညိင်္ဂီငုံ
+V- STATION
+PACTOR P6 区こ 区> LIGHT ಸ್ಲೀT೦
+T N O 2 O N U Y ) LSLSL SLL LSSSSSSSS SSASSL SSSSSSSSLSLSL S LSLSL SSSS
+它 όξ z bí UGHT NG TRANSFORMER C C O - ご Ծ | Շ C ご 岔
+t ” لسں چں t R
+- UE LI NG 3 4 -- خففV QuANTITY Fue Ll NG POW E R þ= 25W I NO CA T O R || OU A N T I T Y
+OFF d LS S S SSSL S SS SS SS SS POWER NOCTOR
+а FUE - INC كت= v AvE NoCATOr محصہN
+TRANST GHTS TEST LIGHTS G A G ES O- r HI.
+ON Fuel. NG PANE - p 15 + ل
+TANK NO 1 A NO NO o PRESSURE
+Pressure Fueling System Circuit
+28V G R O 25V
+TO A U x T AN KS F U E L ) NG
+SHEET 2.
+FUE LING ANO V TO CIRCUITS ARE THE SAME AS TANK NO 2 EXClu) N3 THE V TO UN IT PA DO ING CAP AC I T O R
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 024F DATE 4/85 PAGE
+25W (SEE SHEET 1)
+美
+O
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+GRO (SEE SHEET 1.
+78V OC (SEE SHEET )
+al
+*W0 AUX TAN K Fu El NG, WA we T R ANSE E N T L T
+E Q u i PM E M T B A Y
+OPE N KO 島工
+T OPE
+N
+f - Vir Բ ՍԱ - HO
+γειοsε AFT ܫܕ CLOSE E Wי דק י" J
+P A A UX TANK :PAX لے R6J F wD FUE LI NG A Vu X AF LOA, T WAWE SHUTCFF FWC Aux SYW i TCH R E LA Y TRANSI EN T ਨੇ H | || ANK T - - - -- لـ FOA
+FWO) AUX TANK SWITCH RE FUE LINC. VALVE 翼1 βε F WO) A u xi T A NK - - x2 EQUIPMENT 8A Y
+OPEN SSSS S SSSLSS
+OPE N ܒ ۔۔۔۔ (س
+- با را ۴
+CLOSE
+AFT AUX E. M. P.T v FUE LING SHUTOFF CLOSE R633 AFT VAL-VE SWTCH A T Aux FLOAT AU x T. ANK SWITCH RELAY F է O A T
+SW I T CH لے ســــــــــــــــــــــــــــــــــــــــــے ســـــــــــــــــــــــــــــــــــــــــــــــــے طا
+VTO
+FUE Ll NG
+R ELAY
+(SEE SHEET 1 )
+-r
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــھے
+RGO3
+TO ENG NO 2 FUEL CROSSFEED MAN I FOLD VALVE (REF 2822-0)
+A F T AUX TANK RE FUEL NO VALVE
+Pressure Fueling Systern Circuit
+105
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85 PAGE 10
+----
+28w DC
+لئے ــــــــــــــے ــــــــــــــــــــــــــــے ــــــــــــــــــــــــــ C AR " D R E AKER PANE (P18 - )
+Eë
+THRC CREM Ah's
+l 28 w b: Fنباید همان | rーーー 二リ三ー
+ר
+| | | | | || ” °> fu64: }+- |ိန္ဓိုဒုံး ; :- :3 His | حكمه } | 0 F r  ̈ം No. 2 o'E' T |エー冊|寛下 | ~10+
+-طے | స్ట్రీ' | '+ |-
+Su oPE A anyrer
+C. 寸出 ం / | N COSE o to* ||||||||||||||||||||||||||||| ۔ چووہ |
+R శతా u. | 「エ|臨] ဇွိုမီး || | ... “ ငြီးဌ|
+AF AU TRANS T LIGH S EN3 No. || :': || : .Hal: c. v| || || * : || || || || - د ۰۰۰۰۰ || |
+| -
+f e. ) *MC . : o OPE عدم
+cost ScLost ... AF A : ۔ ماں | Sitif. || ||-|||| リ二Tー|* τις τους - ፵ö . ፩ _
+3 کا | o -rr clos E
+- CUTOFF | | | سمه > !! HC LSS SSS S LMS تتحمل للمملكة، بين اi "إi { لا حتي ار 2, D トー ||・ o: ~ |
+"ٹم کے tLes++UTجھHخجھہ کسم ! اللحملے ||
+الـــــأ الـ ـ أ v رییسجمه| FVE - M 3 PILOT'S AISLE I Sitëse s'isë ----522)
+- RE STAND L- '' t?" - i.i. :SWITCH START – ರ್y - ה-5 ותיה
+3. CENTE PANEL LEWER WAWE
+(P7)
+Fue Shut off Valve Schematic
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAIN ING
+FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 024 F DATE 4/85 PAGE 107
+FOR WARD AUX LARY TANK CONNECTOR
+AFT AUXARY TANK CONNECTOR
+TANK CONNECTOR
+NO. 1 D433P
+N.C. 2 O433OP
+NO. 3 D432P
+FW 0 AUX CSC92P
+AFT AUX P
+VIEW 1 മ Fw
+UPPER OSCONNECT BRACKET (SEE VIEW 1)
+LOWER DISCONNECT sr. ACKET (SEE View 2)
+9ܢܣܛܓ
+《
+TANx. NO. CONNECTOR
+ANK NO. 2 CONNECTOR
+TANK NC 3 CONNECTOR
+WEW 2
+Third Crewman's Panel Integration Area
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 024F DATE 4/85 PAGE 108
+2. W OC | || |
+PWYR - BUS zav ocمح"گ 1 15W AC TO FUE LINC . Ext A WA WES SW, TC hill PWR 1 15W AC US 1 15W AC r ESS SUS
+PS - 2 APU EXT E 1.4 Exit PWR POWER هصچ SHELF RELA Y R 97
+E 1 .5 A PU EO UI PM ENT RAC pK " كلمة
+s A
+OFF o ON
+T -- FLOODGH FuELNG | ii ||
+POWER TransFER RELAY l SWITCH 5
+士 Ps MAN LOAD CONTROL CENTER
+AAAN TANCS a TEST SWTCH ؟cلم FUEL
+CUANTT Y ܩܔ
+TEST SWITCH البته -ס הג
+l گصي -TEST ~ം ح5
+RELAY ܒܸܕ 属2 AUX TANKS TEST SWITCH لمحة
+PUELI NG CONTROL Fuel PANE Totalizer لمحبة L I G{ TING s =هس TRANSFOR MER -டு
+{-ס הג.
+TEST t R E A Y * الة إلO
+TO FwD AUX TANK s
+TO A FT
+FUEL AUX TANK CUANTITY \ | N O CATORS
+\
+TO TANK
+TO TANK Ο NO حصعي UE LING OuANTTY NRCATORIATE 岛 ಗ್ವANK - P15 FUELNG CONTROL PANEL P4 THRO CREWMAN "S PAN EL
+Fuel Quantity Indicating System Schematic
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+壬リ。経yrs TE گلخان
+FOR TRAINING PURPOSES ONLY
+SUBJECT 727-233 FUEL SYS ATA-28 DOC ID 1024F DATE 4/85 PAGE 109
+TO FUEL CUANTITY INO CATOR.
+s
+FORWARD AUARY He TANK
+TO FUEL OUAMTITY ဖွ၀ငATOR TO FUE
+USS ING L. :ဝံပိ်ုéléိuc ಸಿಜಿ( حصخصصي
+به ۳۴ ۲ اNلا ۲O۶ O۴۴
+ADJUSTMENT CONNECTORS
+WOU ME T R + C TOP OFF UNIT PUG
+TANK UN IT
+WOL J ME T R I C
+T
+TOP OF F. t COMPE NSA TOR TANK UNT UN * T CONNECTOR
+@ レ○ t (C GD
+() Ό T گای- Y T ANK M TANK NO. 2 COMPENSATION ԲաC) 1 UNIT TANK NO. 3
+AFT AUXILIARY TO FUEL
+ANKNO. a-st OUANTITY
+i NCICATO A SEE 5
+Fuel Quantity Indicating System Schematic
+ 
+ 
+ 
+ 
+ 
+________________
+مسععشقترع =
+SUBJECT
+MANTENANCE TECHNICAL TRAINING
+FOR TRAIN NG PUR POSES ONLY
+727-233 FUEL SYS ATA-28 DOC ID 024F
+A has
+TA
+\
+kl.
+ChGššFLAS TAäVA
+DATE 4/85
+COLE AG
+FUE SCHEMATC - AU). TANK. NSTALLED
+PAGE
+ 
+ 
+ 
+ 
+ 
+________________
+________________

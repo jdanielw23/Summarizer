@@ -1,0 +1,530 @@
+﻿MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID 216E DATE ] 2/89 PAGE 81
+CHAPTER 4
+A. Engine Oil System
+l.
+General (ATA 79-00)
+a. The engine Oil System Comprises an Oil Storage and an oil distribution
+system together with the necessary indicating systems which provide measurements of oil quantity, oil pressure, and oil temperature. A low oil pressure and filter bypass indicating system is also provided.
+h. Each engine is provided with an independent oil system which provides cooling and lubrication of engine gears and hearings. An oil storage tank, mounted on the lower left side of the engine, furnishes a continuous supply of oil to the engine driven oil pressure pump in the accessory drive gearbox housing. An external line carries oil from the pump to a full flow type fuel/oil cooler. Cooled oil is then delivered to the engine hearings through a distribution manifold and galleries formed in the engine structure.
+c. An oil filter is provided downstream of the oil pump. The filter
+housing is made integral with the accessory drive gearbox casing. A removable cover is located on the OutSide of the gearbox to allow replacement of the filter core. A bypass valve is arranged between the inlet and outlet of the filter. If the filter becomes clogged, this valve will open and allow a flow of unfiltered oil to circulate
+in the engine.
+d. Oil is scavenged from the engine bearing cavities by three pumps and
+returned to the accessory drive gearbox. From there it is pumped back into the engine oil tank.
+. Engine Oil Tank (ATA 79-ll-0)
+a. General Description
+(l) Each engine is provided with a cylindrical shaped oil tank which mounts on the left front face of the accessory drive gearbox and is secured at the front hy a strap. With the engines installed on the airplane, the tank holds approximately five U.S. gallons. The remaining tank volume accommodates oil foaming and expansion.
+NOTE: Since the No. 1 and No. 3 engines are installed in a
+slightly nose high attitude, the oil tanks on these engines will hold less oil than the tank on No. 2 engine.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+PAGE 82
+26E DATE 1 2/89
+DOC ID
+B727 ENGINES ATA 7-80
+SUBJECT:
+Ɔ || Y. W E H D S X, N Y 1 T | O B N | 0 N 3
+9ñT ĐNÍ INŢmow
+ds^{f\d ] }s\! Z-QZ」 CD I ÅT ddismo
+[→– 30 Owd Å. I 11 NÝTŮ,
+__ [− No.e=(.
+ĤO I Y& 3y 3C]
+1T--
+$dWsid 39 N 3 A Y D$ WO3 + N \s\1}ð
+|-|- TOA 重TŶ IO I 重 9 N11 || 3ç' 9 3YD --N |\'\'(] & 3ddf! DS 55 3 DIDY O 1`-- AA } IA NYTTJIN JAr------- = = = = = = =시──────)》 YW 315 Å5- - - - = = = = = - - - - - - -の口イ L0SL000 S SS S S S S S ~$_ S S SSS S S S S S S S S的에的)|
+X DI I Śd 10 H II • d y D & 3 TT|| 3
+I &Od łAI Qdo D & 3 TT|| 3
+18 Oddss (JAA), MZY」 dzy
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 2/89 PAGE 83
+(2) The tank is constructed of stainless steel and is capable of
+withstanding, without permanent deformation, the stresses imposed by pressure, vibration, and shock loads Such as may occur during landing, rough flight conditions, etc. A baffle serves to minimize Sloshing of the oil in the tank. A deaerator in the tank separates most of the air from the returning oil, thus minimizing foaming.
+(3) Servicing of the oil tank is accomplished through a filler port, located in the oil tank Sump cavity. When servicing through the filler port, any oil that is spilled in the sump cavity is drained to a fluid drain tank on the underside of the engine.
+(4) For ground check of oil quantity, a dipstick is attached to the
+self-locking filler cap. A capacitance Sensing probe in the tank transmits an electrical signal for remote indication of oil quantity during flight.
+(5) The tank is equipped with an inlet strainer at the filler port.
+An outlet Strainer is located at the drain valve on the underside Of the tank.
+3. Fuel/0il Cooler (ATA 79-20-1)
+a. Description
+(l) The fuel oil cooler is of the full flow type with a pressure
+bypass feature. The cooler is mounted on the lower left side of the front compressor case. It consists of a housing containing a removable core composed of more than 200 soda Straw-like tubes through which fuel passes; a series of baffles within the core which direct the flow of oil around the tubes; and a bypass valve which permits oil flow to the main bearing compartments in the event of core clogging.
+b. Operation
+(l) The oil leaves the oil pressure pump in the gearbox and flows to
+the fuel-oil cooler. The Oil flows through the cooler directed by baffles to flow around the tubes through which fuel flows. Heat from the oil is transferred through the tube walls to the fuel. If the cooler becomes clogged, the oil bypass valve opens to permit the continuous flow of oil. Oil leaves the cooler and flows through the oil pressure tubing to the main bearing Compartments.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+DATE 1 2/89 PAGE 84
+26E
+B727 ENGINES ATA 7-80 DOC ID
+SUBJECT:
+! ETO O 30 TIO/TEITE
+TETì-, CIEPŁEJLE||W.
+C
+舞蹈篇 22必露
+网》鄂BSNES TIO 邱网》の多km
+引-心.*
+的7 ~ĤstilishsQ BATv^ Go dollano–@每八○(soľ,unosau.TIO I "ON []邝
+}0 dWold. WOH-, SSB Hed TIO
+H8n1\/s|BdWEL TIO CITO-HIN\/\N TIO NIV/W
+C|8,1 s
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE I 2/89 PAGE 85
+H ב O
+ل
+r
+ーDメま즈 ·
+C. C.
+4 -子 ー>储
+女
+لط/
+<-
+壬至
+; ||ーら |疆|豹 <- <- 女 月入談 貓 8 | S (~ 储 引
+s储
+O О) Ο
+9
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID 26E DATE 12/89 PAGE 86
+RUBBER 'O' RINGs.
+PRESSURE OIL
+SCAVENGE OL
+O PUM
+DRIVE GEAR
+SCAWENGE GEAR
+PUMPINLET
+SCAVENGE PUMP
+ 
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 7-80 DOC ID 1216E DATE 2/89 PAGE 87
+4. Engine Oil Distribution System (ATA 79-20-0)
+a .
+General
+(l) The JT8D has what is referred to as a "Hot Tank" system. This term refers to the technique of returning hot scavenge oil directly from the bearing compartments to the deaerator located in the oil tank. In a "Cold Tank" system, the scavenge oil is passed through the oil cooler prior to being returned to the oil tank. The advantage of the "Hot Tank" system is more efficient removal of entrapped air.
+Pressure System
+(l) The oil is gravity-fed from the tank to the main oil pump via a
+transfer tube, and a cored passage in the accessory gearbox. Pump discharge pressure is then directed to the main oil filter through another cored passage. A bypass valve located in the main oil filter provides oil for the system if the main filter becomes obstructed. External pressure taps are provided to sense oil pressure before, and after the filter. This permits in-flight monitoring of the main oil filter via a differential pressure Switch, and flight deck annunciator light.
+(2) Oil, from the main oil filter, regulated to provide operating
+pressure is directed to the fuel oil cooler through a passage and external line. Oil at the desired system pressure and temperature exits from the fuel oil cooler, and is delivered to the engine bearing compartments and accessory gearbox. A system pressure Sense line located on the di Scharge side of the fuel oil cool er provides an input of system working pressure to the regulating valve. The oil pressure regulating valve is located in a cored passage which interconnects the main oil pump discharge pressure to the pump inlet. If system working pressure should decay, as the result of an obstructed oil cooler core, or partial obstruction of the main oil filter, the regulating valve will be biased by a decrease in sense pressure. Any decrease in sense pressure causes the regulating valve to close proportionally, thus increasing pump output pressure sufficiently to return system working pressure to normal.
+________________
+PAGE 88
+26E DATE ] 2/89
+FOR TRAINING PURPOSES ONLY
+DOC ID
+MAINTENANCE TECHNICAL TRAINING
+B727 ENGINES ATA 71-80
+SUBJECT:
+SINE LSAS HE HIVEHE 8 ES|NEA\70S/EH/nSSEHE
+83,171||-|| 831-{\f 'SSE, BỎ
+83 LT||-|| E. HO-JE. 8 "SSE. Hod
+!JO LŶ HEY:30 × 39N3AwɔS CINÝ HEHL w 38 g &bł. EH 1N10d 3A||103T TOO T 5H1's E. HE CIH \; 05 H3H1v388 TwN831N1 %駐} HBHLW385 TvN831x3 &&BATVA SSựdÅ 8 & 3 (1000 J tio a ɔN3Awɔs L.SdWTid 59NEAwɔ5 E TIO 3&nSSH8d ZZZBATVA SSỸ JA E HELT 1-0 d. HELT I H T IO NI YW Ō Tio 1āTNI dono () aanwa oni lyingių gūnišąjį š HNIT BSNES ZZZdWond TIO NIWW sự→∞는主 -2 ** sss% }XNY1 TIO----+ + + · · -는: |-... " ' : • A^+ * * * *·o.o.o.)."% 2–1–1|---^------*ת - Jwho iyawu » Nyı”}4 _^2 ** % -(INE), soi sysłÖMissöy}* G)→UEYOOD TIO - †Eslo** G)YAAY,% ** * }F(F)(F) ((((((((((( ** G)** ** 缪→|G)+ ** - -| - --->| ? "ON$ o-工}t 'ON-- n | **- **| 華山| |} 』/『예T후TT신에서TT-5Tz년적년적년적년적년적시제니-니에*.ae Laeae (;서적년적이적시적시구적어적이적년적이적시적시아어에서적시 서주서구적니에서구적시적니아어에서적어주시에서적이적시적 !}=
++:-=--~~
+~)|------• -____--~~~_---,.-+ ~---|r-—\ —------|• ––J –Tv`--~,_,_j|
+d W B 1 ° S S 3 8 d 'SSE, H&
+10ר NIV/W
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT:
+(3)
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 126E DATE 2/89 PAGE 89
+The surface area of the fuel oil cooler element is adequate to provide sufficient cooling when fuel flow is in the mid-to-high thrust range. Thus, the requirement for thermostatic control of oil temperature is eliminated. At prolonged idle settings, however, an increase in oil temperature is sometimes noted. This is the result of reduced fuel flow, and reduced capacity to dissipate heat from the engine oil. The higher oil temperatures associated with prolonged idling can be controlled by periodically advancing the power lever to increase fuel flow so that excessive heat can be adequately rejected by the oil system through the
+Cooler.
+A bypass valve is incorporated in the fuel oil cooler to assure sufficient oil flow if the cooler core should become obstructed. Oil discharge from the cooler is delivered to the engine bearing compartments through a network of external and internal stainless Steel tubing.
+C. Scavenge System
+(l)
+(2)
+(3)
+(4)
+(5)
+After the oil has lubricated and cooled the main engine and accessory gearbox bearings, it is returned to the oil tank by the Scavenge System.
+The main collection points for scavenge oil are located in the No. l, 4 & 5, and 6 bearing compartments and the accessory gearbox. Located in each of these compartments is a gear-type pump which returns scavenge oil to the oil tank. Scavenge oil from the No. 1 bearing compartment is returned directly to the gearbox. No. 2 and 3 bearings scavenge to the gearbox via gravity and breather flow through the towershaft housing. Gearbox lube oil and scavenge oil from the No. 1, 2, and 3 bearings is then returned to the oil tank via the gearbox Scavenge pump.
+Scavenge oil from the No. 6 bearing area is pumped to the No. 4-1/2 bearing area through transfer tubes located inside the low pressure compressor drive turbine shaft.
+Centrifugal force causes the oil to be ejected from the No. 4-l/2 bearing nut through the High Pressure Turbine shaft scavenge holes to the No. 4 and 5 bearing Compartment.
+The combined scavenge oil from the No. 4, 4-l/2, 5, and 6 bearings is then returned directly to the oil tank from the scavenge pumps located in the No. 4 and 5 bearing collection point.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 216E DATE T 2/89 PAGE 90
+15 M| CRON
+- MAN O FLER
+OL COOLER 16
+PUMP O SCHARGE
+PUMP
+NLET
+DOWNSTREAM (] §§§§င့် 恕 PRESSURE
+EBREATHER PRESSURE
+ADJUSTING SCREW
+OL PRESSURE REGULATING WAVE
+ 
+ 
+ 
+________________
+F MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 26E DATE 2/89 PAGE
+ENGINE - TROUBLESHOOTING
+10
+PACKING 'A' LEAK HERE WILL CAUSE OL LOSS AT OUTS DE OF GEAR BOX HOUSING
+BREATHER PRESSURE-O--
+PACKING'B': LEAK HERE WILL BLEED SENSE PRESSURE INTO GEAR BOX AND CAUSE HIGH OILPRESSURE || NDCATION
+SENSE
+PACKING 'C': LEAK HERE WILL BLEEO 8YPASS Ot L PRESSURE INTO SENSE PRESSURE CAVITY AND CAUSE LOW OL PRESSURENDICATION
+BYPASS PRESSURE TO PUMP NLET
+PRESSURE -
+PACKING 'D': LEAK HERE WILL BLEED PUMP DSCHARGE PRESSURE INTO BYPASS PRESSURE CAVTY AND CAUSE LOW PRESSURE INDICATION AT PUMP DSCHARGE | DLE (EFFECTS WILL. NOT BE . PRESSURE NOTCEDATHIGH POWER). PRESSURE
+AT I OLE W LL BE EVEN LOWER | F CROSS-SECTION MA N O L PUMP S WOR N O R PUMP
+THROUGH PRESSURE RELEF WALWE CAVITY S SCORED.
+1. Plug 6.- valve Body L-56480 2. Housing 7. Spring Seat 3. Locking Nut 8- Packing 4. Adjusting Screw 9. Packing
+5. Spring 10 - Plug
+Main Oil Pressure Relief Valve Inspection
+ 
+ 
+ 
+ 
+ 
+________________
+PAGE 92
+2/89
+DATE
+26E
+DOC ID
+FOR TRAINING PURPOSES ONLY
+WELSAS SNLIVOICINIA.LILNV mð TIO ENI9NE
+X NW1 TIO
+1113 ss.384–
+M0TH !!3!/\[] -
+TENWd S,N\!WM380 U8||H1
+MANTENANCE TECHNICAL TRAINING
+T0H1N00 0\/0T NIWW Å LU 110. }} }{dE} | 5] NBA
+烂P。
+801\/SNEdW00
+0IN\; LINQ XNWL
+B727 ENGINES ATA 71-80
+SUBJECT:
+to trki —
+یf
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT:
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 1216E DATE 12/89 PAGE 93
+5. Oil Quantity Indicating System (ATA 79-31-0)
+а .
+General Description
+(l)
+(2)
+Engine oil quantity may be measured by use of a dipstick, attached to the engine oil tank manual filler cap, or by an electrically operated remote quantity indicating system.
+The remote oil quantity indicating System, for each engine, consists of a variable capacitance tank unit probe electrically connected to an indicator, on the third crewman's lower instrument panel, to form a self-balancing capacitance bridge circuit. A change in oil level alters the tank unit capacitance, creating an unbalanced condition in the bridge Circuit. The resulting flow of current is amplified and used to actuate a servo motor which positions a potentiometer wiper in the indicator to rebalance the
+circuit. The indicator dial pointer is connected to the
+potentiometer wiper and moves with the wiper to provide the oil
+quantity indication.
+(3)
+011
+(l)
+(2)
+(3)
+(4)
+A single "PUSH-TO-TEST" switch is used to check the operation of all three remote quantity indicating Systems simultaneously.
+Quantity Tank Unit
+The oil quantity tank unit is comprised of two separate capacitors. One is a quantity (depth) mea Suring capacitor, the other is a compensator unit which minimizes the effect of change in o il di electric due to temperature or variations in composition.
+The upper section of the tank unit consists of two concentric electrodes insulated from each other by plastic centering spacers. The inner electrode is a plastic tube with two separate metallic areas printed on its surface. One area is active and is connected to the amplifier input of the quantity indicator. The other are borders against the active pattern and is grounded to prevent an electrostatic fringe forming around the active area. The outer electrode is an aluminum tube with an insulating finish on its outer surface.
+The lower, or compensator, section of the tank unit consists of two short tubular members separated by an air gap. and insulated from each other. Since the compensator is at the lower end of the tank unit it will remain submerged to the lowest usable level of Oil .
+The lower end of the tank unit is open and permits oil to flow between the electrodes to the same level as that in the tank. The oil between the electrodes provides the variable di electric which is the controlling factor of the system.
+________________
+SUBJECT:
+(5)
+C - 0il
+(l)
+(2)
+MANTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 1216E DATE 2/89 PAGE 94
+The oil quantity tank units are mounted in fittings on the bottom of each engine oil tank.
+Quantity Indicator
+The oil quantity indicator is housed in a hermetically sealed cylindrical case and contains a motor driven self-balancing capacitance bridge circuit. The essential parts of the circuit are a reversible motor which drives the rebalance potentiometer, a dial pointer assembly, a capacitance bridge network and a four-stage transistorized amplifier. A rectifier provides d-c power for the transistors. "Full" and "Empty" adjustment controls . are accessible through holes in the rear cover.
+The oil quantity indicators, one for each engine, are located in a horizontal row on the third crewman's lower instrument panel. The indicators are Secured to the panel by a Standard clamp mounting and have an electrical plug in back.
+d. Operation
+(l)
+(2)
+(3)
+(4)
+Electrical power for the oil quantity indicating system is ll 5 volt, 400 cycle ac, supplied through circuit breaker panel P6-3. The system is operative whenever electrical power is supplied to the airplane and the applicable circuit breakers are closed.
+The oil level in the engine oil tank determines the capacitance of the tank unit sensing probe, thus the capacitance of the probe varies proportionally to the oil level in the tank. Whenever the oil level in the tank changes, the resulting change in capacitance of the probe un balances the bridge network. The error Signal (unbalance) is detected by the amplifier in the indicator, and causes the reversible motor in the indicator to drive a balancing potentiometer until the bridge network is again in balance. The indicator then displays the usable quantity of oil in the tank in U. S. gallons.
+Operating the "PUSH-TO-TEST" switch simultaneously connects the active areas of the tank sensing probes to ground, thus simulating a "tank empty" signal. As a result, all of the indicators, if working properly, will drive toward a tank empty indication. The indicators will return to the correct quantity indication when the test switch is released. -
+To prevent the indicator from becoming unstable in case of a total loss of oil and a resulting uncovering of the system's compensator, an automatic switch is provided which shunts a Substitute capacitor into the compensator input when the indicator reading drops to 0.5 gall ons .
+________________
+SUBJECT:
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 1216E DATE 12/89 PAGE 95
+6, OIL PRESSURE INDICATING SYSTEM ATA 79-32-0)
+d.
+b.
+d.
+General Description
+(1)
+(2)
+0il
+(1)
+The oil pressure indicating systems Show the engine oil pressure on indicators in the control cabin. The components of the system for each engine are an oil pressure transmitter and an indicator.
+The oil pressure transmitter senses oil pressure in the external pressure oil manifold and in some cases also senses accessory drive gearbox vent pressure. On some engines the oil transmitter is vented to air in cowling area. The difference between these two pressures is measured and converted into an electrical Signal which actuates the oil pressure indicator.
+Pre SS ure TranSitter
+The oil pressure transmitter consist of two pressure sensing elements, a gear train and a transmitting synchro. The sensing elements, which are either bourdon tubes or a diaphragm, Sense oil pressure in the bearing oil line and vent pressure in the engine Cowling area. The difference in pressure is transmitted through the gear train to the rotor of the transmitting synchro. The angular position of the transmitter rotor induces a characteristic electrical signal in the transmitter Stator, which is connected in parallel to the indicator.
+An oil pressure transmitter is mounted on an antivibration bracket at approximately the lo o'clock position on the left side of each engine.
+Pressure Indicator
+The oil pressure indicator contains a synchro repeater, a gear train, and a pointer which moves across a scale to indicate oil pressure. The electrical signals received from the oil pressure transmitter are impressed on the stator of the synchro repeater. This causes the repeater rotor to assume a position corresponding to the position of the transmitter rotor. The repeater rotor drives the indicator pointer through the gear train.
+Operation
+(1)
+Engine oil manifold pressure and engine compartment pressure are separately imposed on the oil pressure transmitter. The difference in pressure, which represents oil pressure rise is transmitted through a gear train to the rotor of a synchro transmitter. Rotation of the rotor establishes a characteristic electrical pattern in the windings of the transmitter synchro stator. Because the synchro transmitter stator and synchro repeater stator, in the pressure indicator, are connected in parallel, the electrical pattern of the transmitter stator is duplicated in the repeater stator. The electrical pattern
+________________
+PAGE 96
+2/89
+DOC ID 26E DATE
+FOR TRAINING PURPOSES ONLY
+MAINTENANCE TECHNICAL TRAINING
+B727 ENGINES ATA 71-80
+SUBJECT:
+BSOH X371-3 EHITYSSB Hid TIO
+HWOS NO CJETTIV, 1SN||
+NOINT 3 O BOVTJ NI\
+C13TTV1SNI OTTA
+LNBA O No SBN|9|NE\,
+%
+LON SESOH 1NBA„* ク
+Magos dwylo o. LNnow » 3OHS
+盈字\agn§§ăğă oo
+·NŒ
+HELLIWSN\/\}l BonSS38 d T IO NO INTI
+SON || LI B LNB /\ 18 Od LNBA
+偲、BSOH XBT-2 BHTTSSB}} d LNBA 《儿
+HOLINAS B H TASSB Hid רO MOן ר
+HOLVO|C|N|
+H E LLIWSN\/H1.(SSB Hej ol 10 į 'ON 9N3
+‘SSE Hd TIO Į VON 9N3
+八目
+LNBA
+•
+N |
+O龄ור _| \_
+WELSAS SNLIVOICINIE EnSSEH, TIO ENISNE
+– LNŢŢOW XOOHS°′} 1BOd
+‘SSE Hđ ŮNW BW31 † 10
+---
+'Ss384 QN w dwal 110
+'SSE, 8 d Q N\, d\NE 1 T1||O
+8.10 1NO3) QVOT £-94
+Sli đN! c’ONT ONE £ 'ON Sñ8
+—«¿y sn}})}} Ɔự ABZ
+引致多rz“欧引g系歌心治之初记和
+Ɔws A32
+ŠĪi àsì, soċjsť poš i 'oN sna!
+ത്ത്
+«Ļ9 snąNīWW ! O\? A8 Z
+HEIMO'I Ŵ7 - đI
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+SUBJECT:
+(2)
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 26E DATE I 2/89 PAGE 97
+establishes a magnetic field which causes the repeater rotor to assume a position corresponding to the transmitter rotor. The repeater rotor drives the oil pressure indicator pointer, through a gear train, to indicate oil pressure.
+If power is interrupted, the indicator will remain at the pressure recorded at the movement of interruption. Electrical power for the system is 28 volts, 400-cycle ac through circuit breaker panel P6-3.
+7, LOW OIL PRESSURE AND FILTER BY PASS INDICATING SYSTEM
+a. General
+b. Low
+C.
+(1)
+LOW
+The low oil pressure and filter bypass indicating system provides indications, in the control cabin, of low engine oil pressure and also indicates when the engine oil filter (strainer) bypass valve is about to bypass oil around a clogged filter. The system consists of three amber lights on the engine instrument panel and a low oil pressure switch and oil filter bypass switch mounted on each engine.
+The low oil pressure switch senses pressure in the oil pressure supply line and ambient cowl pressure. When the switch closes it completes a 28-volt do circuit to illuminate the light of the engine instrument panel. The oil filter bypass Switch Senses the oil pressure on each side of the engine main oil filter. Actuation of this switch will also illuminate the light.
+Pre SS ure Switch and Oi ] Filter Bypass Switch
+The low oil pressure switch and the oil filter bypass switch are differential pressure-type switches. The switches are designed to operate between differential pressures of 34 to 38 psi and are oppositely wired into the system.
+The low oil pressure switch is mounted on the left side of the engine at approximately the lo:30 o'clock position slightly above the oil pressure transmitter. The oil filter bypass switch is mounted on a bracket attached to the constant speed drive oil filter on the left side of the engine.
+Oil Pressure and Filter Bypass Indicating Light
+The low oil pressure and filter bypass indicating light is a press-to-test type light. The light for each of the engines is
+located along the lower edge of the engine instrument panel.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+98
+PAGE
+2/89
+26E DATE
+DOC ID
+B727 ENGINES ATA 71-80
+SUBJECT:
+SÅS SNINHVM S.SVG|AG HEITIE bn= |
+8 ossHold Ilo Mori
+H01IRAS SựdÅ8 831TIJ 831113
+SS\/dA8
+38f1SSE HA TIO
+}
+「형劑 W10 831SW 三十七| 를 어:HB1N30 HƆLIMS 38 nSS384hae[]\/[]] 8.1-4 110 M01<!--* e... 0! | sıH911 |{ ; TōŅi ||×ニ0} ||00 A8Z t)J1H50|T| 厂切 ノイー 仁| 83LTI-, 80 LNBA LN3|8|WV3Hf|SS|38d TIO MOT
+----■■1 *
+■■--- 着皇鲁--§§w, taeae × 0 「韓『二 』wゴ』
+-hú-夏口鼻咽置d-11
+■』シ
+•••• • •ður •••
+泄量---- s swr i urwr T w wɔ ɔ sɔŋɔ.
+ܫܫ O
+L l C
+a - O - Z2 o 29 LL ( 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 1216E DATE 2/89 PAGE 99
+d. Operation
+(1) With power applied and the engines inoperative, the low oil pressure
+(2)
+switch will be closed energizing the indicating light. The light will remain energized until the engine is started and the oil pressure is built up to approximately 38 psi. If a system malfunction causes an oil pressure drop, the switch, will close before or at 34 psi, turning on the light.
+During engine operation the main oil filter may be clogged. If the filter becomes sufficiently contaminated to impede the supply of oil to the bearings, a bypass valve in the filter will open diverting the oil past the filter to prevent interruption of oil flow to the engine bearings. Continued flow of unfiltered oil to the bearings will result in the bearing screens becoming clogged with subsequent Stoppage of bearing lubrication and eventual bearing seizure. The oil filter bypass switch senses pressures on each side of the oil filter. At an oil pressure differential of approximately 34 to 38 psi the switch will close illuminating the warning light.
+Since both the low oil pressure switch and the oil filter bypass switch actuate the indicating light, it is necessary to monitor the applicable oil pressure indicator, on the third crewman's lower instrument panel, when the light is illuminated. A normal reading will indicate that the bypass valve is about to bypass oil around a clogged filter.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: B727 ENGINES ATA 71-80 DOC ID 216E DATE 2/89 PAGE 100
+GEAR BOX VENTED ENGINE
+OL PRESSURE TRANSMITTER
+AMBENT VENTED ENGINE OL PRESSURE TRANSMITTER
+ 
+ 
+________________
+SUBJECT:
+I
+O
+H
+三。
+Ll
+כ
+(I)
+(s) LLI
+l
+כ
+CUVO CUVO l
+لـ
+O 三。 O ل
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+W AUS AN SUPPLEMENT DOC. ID 26E OATE 8/9 O PAGE lOOA
+次傘参
+இ כ 锣久/ 领溪 磅E
+as ترخير E కష్టా % Cl. تھے 李 ཕྱི་༧།《ཕྱི་༦། = 훈 *SXS O H.
+O H
+ic O
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT: WALSAN SUPPLEMENT DOC. ID 121 6E DATE 8/90 PAGE LUUbi
+OIL PRESSURE SYSTEM
+Purpose:
+• The o i l pressure indicating system provides a visual display of the oil system pressure.
+Components:
+o The oil pressure transmitter is located at
+the lo: 30 position on the fan duct.
+o The o i l pressure indi cator is located on
+the flight deck.
+o The transmitter restricter is in the
+pressure sense li ne .
+Description and Operation:
+O The pressure transmitter is a variable
+resistance type.
+o The pressure indicator on the flight deck
+reads in psi.
+o The normal oil pressure range is 40 to 55
+psi.
+o The transmitter restricter prevents the transmitter from sens ing System Surges .
+o The pressure transmitter is vented to
+engine breather pressure.
+ 
+________________
+SUBJECT:
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+B727 ENGINES ATA 71-80 DOC ID 216E DATE 2/89 PAGE 101
+8. Oil Temperature Indicating System (IATA 73-34-0)
+а .
+General Description
+(l)
+(2)
+0il
+(l)
+011
+(l)
+The oil temperature indicating System provides an indication in the control cabin of the oil temperature in each engine. The overall system consists of three oil temperature indicators and three oil temperature sensing bulbs.
+Each oil temperature bulb contains a resistance element which varies its resistance proportionally to changes in temperature. This resistance element controls the current passing through the meter movement in the oil temperature indicator. Electrical power for system operation is 28-volt, 400-cycle ac .
+Temperature Bulb
+The oil temperature bulb comprises an enclosed resistance unit whose value changes from approximately 68 ohms at -70°C to 242 ohms at +300°C. The bulb screws into a fitting at the outlet of the fuel/oil cooler. The temperature sensing part of the bulb is in direct contact with the oil flow leaving the cooler.
+Temperature Indicator
+The oil temperature indicator is a resistance ratiometer type unit. The indicator is operated by the ratio of currents through two coils in the meter movement. The indicator dial is calibrated in degrees centigrade and reads from -700 to +150°C. With power off, the dial pointer remains off Scale at the low temperature end. Electrical connections are made to the indicator through a quick disconnect plug.
+Operation
+(l)
+The oil temperature indicator and the temperature sensing bulb are electrically connected to form the temperature indicating circuit. The temperature sensing bulb is electrically to a deflection coil in the indicator. Since the temperature bulb contacts the engine oil, it will assume the same temperature as the oil, and thus the resistance of the bulb is proportional to oil temperature. Resistance of the bulb controls the current flowing through the indicator deflection coil, and therefore controls the angular position of the pointer.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SIBJECT: B727 ENGINES ATA 71-80 D0C ID - 2 lot DATE 1 2/89 PAGE 102

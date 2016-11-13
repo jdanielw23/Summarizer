@@ -1,0 +1,390 @@
+﻿MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID 127E. Page 23
+III. ENGINE COWL AND INLET DUCT ANTI- ICING SYSTEM
+A.
+General Description
+A thermal anti-icing (TAI) system using engine bleed air is provided to prevent the formation of ice in the engine air inlet and constant speed drive (CSD) oil cooler air scoop for each engine. The systems are separate and independently controlled for each engine. Each system consists of ducting, Control Valves, electrical control components and indicating components.
+The engine inlet Cowl leading edge and CSD Oil Cooler scoop for each pod mounted engine are anti-iced by l3th stage engine bleed air regulated by a thermostatic valve and tempered with ambient air by the use of an ejector. The pod engine Cowl TAI Systems are controlled by a single shutoff valve on the 13th Stage engine bleed Supply line for each engine.
+The center engine inlet cowl leading edge, inlet duct and CSD oil cooler air inlet are anti-iced by l3th stage engine bleed air regulated by a thermostatic valve and mixed with 6th stage engine bleed air by the use of an ejector. The center engine cowl TAI system is controlled by a shutoff valve on the l3th stage engine bleed air supply line and a Shutoff Valve on the mixed air flow distribution duct.
+l. Cowl Anti-Ice Ducting
+On the pod mounted engines, the l3th stage engine bleed air is supplied from the 13th stage engine bleed manifold to the shutoff and thermostatic control valves located on the left side of the engine. From the control valves the air is ducted directly to an ejector on a mixing chamber located in the bottom of the nose cowl. The ejector draws ambient air into the mixing chamber from an air inlet port on the bottom of the cowl. The mixed air is directed to a distribution manifold around the periphery of the cowl lip which has spray holes on the forward side to direct the air against the cowl leading edge. The air is then vented into the cavity between the cowl skins and exhausted overboard through an air outlet located on the bottom of the cowl. A tube connected to the forward end of the mixing chamber supplies TAI air to the lip of the CSD oil cooler air scoop where it is sprayed against the lip of the scoop and then exhausted overboard through the TAI air outlet.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+Page 24
+DOC ID 27E
+Date 3/87
+SUBJECT ICE AND RAIN PROTECTION ATA-3O
+38084 (14
+3 WOQ E SON
+E NYA , E O Ino) 15: "1N!
+C GINw l-3D1-11 NỮ TAAOɔ ɔsoN ONV HNI9Na
+13 THl ,,Iw !) NI XI w
+TỰA OD 350N
+TE}{\, d TWD 11SnO2 w
+80.105 TR).\, 8 ET1003· =
+|T! 10 052) 01
+Å "14 d'fi\ MIw* E2)|*f_1}{y TAMA OD 35 QN
+aanva aprilov anı ona. 3 Anw a 331-ILNw nAoɔ ɔson
+&lw Bowls Huɛı'
+os-wly a ov) s Hus
+._.--.*
+, !
+–m. și →NIY HO
+-- J'],//|ļa " ' ’T EN Ý do
+iwɔı1śñoɔỹ
+N—13 INI JIw
+...‘ONIO 1-11 NY
+TÅOD 35 ON
+| | | | | |80.105 f5 |
+|
+|
+|
+|
+|
+|
+|
+|
+į
+TE NW d QWEIHN E AO , $ 10 TI,
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+Page 25
+DOC ID 27E
+Date 3/87
+SUBJECT ICE AND RAIN PROTECTION ATA-3O
+(?) W01108 o do 1 ! Y 8T1020 SE JIT dS 533 yıld sɛ sɛlɛ lɔñō
+8000 SSE DO Y
+רואX W 15l80d dfl 5 1 + y
+Tl3N NY HD 180 dans 1-, y
+38010081$ ĐN11OnQ & ”ON 3 NisoNg
+£81 I W 15 BWV 83 A 008
+N0413) TT (JO 8 d.
+B 9 fl-1 O TO JINY W NO 15 N W dXE E DI - || 1 N y
+l = Tl 1 ( 10 81 y I STìYH X B B D |* | 1 Ny O TO, IN YW 1ƆŋC)aprilov TEHNYA1371 TO & I y 30VSSY &-& Iy1ST YHXE 3D|-||1. Ny !E2)||-||1. NY
+lƆfld 30 HL10N 3 T 1 nOH Ono w H1 W01 100 o d01 31 YT4 E DIT 45
+–9.015 H8 o HT 1ņ815 ( 1 HOdd TTS TYD I 18 E A
+Å TNO HT 1 n&J1$ 180d dTIS $508.)
+TE NW”, QN0089 YN NE LNY
+9 N18 TY35 NOIȘNyɔxɔ
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+F FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID 27E. Page 26
+st Act recade cov L. T.A. M+CM Pre 1%t of P F r
+Miqy , O P F Wak L. W bagags foto
+to did oil Trd : Raa (), TATIC
+cool at led to a cost to WAY TH To F. His
+U F F O A NA W J F F L T ha A FIF fh L. O
+SE E DE TA IL D fo H. H. H. T.
+CT L T A, li 3 T 3 T' E. Balti
+Ch C r w AL W
+Ejector
+T H E ku a L 3 P T {
+Tad F. R AT use also
+D w I TA I Copa T AR O Y a i WF
+f0 : ht | H. E. HO, Ta a Haut a ur - JA I Å I A 0ހޗީ
+Su FF LY
+Õ rõ TA ääl 0
+PPT A. K if ・一ン
+SEE DE TAIL A FOR Ehed G. Hi E G C) yw L.
+a Tse
+TC) PHE Lyu ATC surr T as a hill fold سمیت
+T H y Trac E. E. M. C. I belle e LEED A R Su Pr T
+di F.
+Exth Edo. 1 COL T a Copa T R O WA U Wf E
+THE s šo kTATIC
+or Taou wa YE
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII|lllllllllllllllllllllllllll
+THERWALExPANSION JONT -- -<ܔ NO. I MANFOLD -- No. 7 MANIFoto
+○ SEE DEAL A - ー IHMAL t KFAN3ION JOIT
+Nutt Anti-ICE
+in Tort A SUPPLY ANT-ICE Patch- i ሀዲJKII
+H SPAy UE NO. O AAN I FOD
+YO, EXCENE Aio RD
+ANT-C surry SEE 0E TAIl (8 Ll AD(S) {SEE 5H J)A, for flAG No Es) N
+TO COWL:
+All A N. SurraY
+x Manifold WORT E K GENERATOR N ANT-ICE SUPPLY w (l8 BLADt5) N
+SEE OE T.A.
+TPA N گي WOx محیے K GNAO །
+ん /ሥ 2ܐܐ
+FWYD
+N . ستائیے۔
+N \ i
+N N.S. I/.. つ
+AWAY 逆>。ィ
+CD COL COOLinG AR DUC
+A.
+WORT Ex Quax.
+Anti-C. At SU Fru. Yr - سس
+w
+DEAL
+CETAIL A
+At WW
+CSO OL COO COOLING A Duct
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D0C ID 127E. Page 27
+On the center engine, the 13th Stage engine bleed air is supplied to a shutoff and thernostatic control valve on the left Side of the engine, the same as on the pod engines. From the control valve the air is ducted to an ejector on the 6th stage engine bleed supply duct. A check valve located in the 6th Stage supply duct prevents any reverse flow into the 6th stage engine bleed supply manifold. The mixed air is then ducted forward along the left side of the airplane to a mixed air shutoff valve which controls the flow of air into the cowl TAI distribution system. The distribution duct is connected to the COwl TAI System by a Supply duct leading from the distribution duct up through the fin front spar, along the top of the engine air inlet duct and engine inlet cowl to a TAI distribution manifold around the periphery of the cowl lip. The cowl distribution manifold has spray holes on the forward side to direct air against the cowl leading edge. The air is then vented into the fuselage and is exhausted overboard through a spring loaded air went door located on the left side of the fuselage. A tube connected to the bottom of the cowl distribution manifold supplies air to a TAI distribution manifold around the periphery of the CSD oil cooler air inlet where it is sprayed against the lip of the inlet. The air is then exhausted overboard the same as th cowl air.
+The outer half of the first bend of the center engine inlet duct is protected by three anti-icing patches. Three pairs of feeder ducts are connected from the TAI supply duct running along the top of the engine inlet duct to three distribution manifolds encircling the top half of the inlet duct. The air flows from the distribution manifolds into the TAI patches on the inlet duct, traveling between the inner duct skin and corrugated patches. The air is then exhausted overboard the same as the inlet Cowl air.
+A row of vortex generators located at rib No. 6 on the inner half of the first bend of the center engine inlet duct is anti-iced. A pair of feeder ducts is connected from the TAI supply duct running along the top of the engine inlet duct to a distribution manifold encircling the bottom half of the inlet duct. The air flows from the exhaust into the engine inlet airstream. On later airplanes an additional row of vortex generators is installed at rib No. 2 The additional row is anti-iced by a separate pair of feeder ducts connected to the TAI supply duct similar to the row at rib No. 6.
+The TAI ducting on the pod engines, from the high pressure bleed manifold through to the ejector, is made of corrosion resistant steel. The mixing chamber and downstream duct are made of aluminum alloy. The TAI ducting on the center engine inlet, from the high pressure bleed manifold through to the center engine inlet TAI control valve, is made of Hastalloy. All ducting downstream of the control valve is titanium.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D0C ID 27E. Page 28
+pas 」イ* RNG
+- RI AETA CONTRO
+0 t SCS
+SLO NG PtStON WALWE U
+IETILIIIIIIIIIIIIIIIIIII|IllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII||I||I||I||I||I||I||I||I||I||I||I||
+STATIONARY WANE PLATE ဝRY WANE
+AMETAL TEMPERATURE SPAR MIG SENSTIVE COL
+PROTARY WANE WAWE
+Anti-Ice Regulator Walve
+ 
+ 
+ 
+________________
+MANTENANCE TECHNICAL TRAINING d. کھکھٹی i
+●C FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 DOC ID 27E. Page 29
+THERMOSTATIC ANTI-ICE REGULATOR WALWE - CLOSED (680 F)
+ANT-CE REGULATOR WALWE
+ 
+________________
+aff MAINTENANCE TECHNICAL TRAINING asp FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 DOC ID 27E. Page 30
+|NLET COWL. Ct. 2 ONLY)
+FIRE fه CL- ཡོད།
+HO O 6
+| 5 V NõRMÄ: Ο
+O O.
+c—ОР -
+ノ OC2کے /ー ہo oCاr۲۲۲۱۔ + -11H-COO ثم
+- عع OP Uuut 3 راى cost NOSE COWL
+**口 OPEN . ۳۳۴ یا تکیه م -1HO غاښما
+-o oOP N LH NLET
+O-O HO O- CL| خطيب
+། O. O.
+VO O OP -ܠ OFF RH |NLET
+O حR ||5 V أما AC O
+(Y COWL امر۔
+O O WING
+ENGINE COWL ANTI-ICE CONTROL CIRCUIT
+________________
+ESäätiör
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 D0C ID ll 27E. Page 3
+COwl Anti-I Ce Control Val VeS
+The flow of air in the cowl TAI systems is controlled by a 2-1/8" di ameter high pressure shutoff valve and a 2-l/8" diameter thermostatic Control valve for each engine, and a 4-l/2" diameter mixed air shutoff valve on the mixed air flow from the center engine.
+All four shutoff valves are electric motor driven butterfly valves which operate on ll 5 volt ac. The valves are equipped with limit switches, to prevent over-running of the motor S, and valve position indicator switches for use in Valve position indicator circuits. They are also equipped with external valve position indicators to verify valve position.
+The thermostatic valve modulates the flow of air from the high pressure bleed to the cowl TAI system. The valve controls the volume of flow in relation to the temperature of the air. Om some airplanes, the valve is a piston type regulated by a series of concave di SCS. AS the temperature increaSeS, the di SC flattens, moving the piston, which closes the opening. On other airplanes, the valve is a rotary vane type. The rotary Vane plate is rotated by a bi-metal temperature sensitive Coil. As the temperature increases, the bi-metal coil rotates the rotary vane plate, which closes the opening, thus decreasing the airflow. An external plunger indicator shows when the valve is in full open position. The valve is designed to permit maximum airflow at temperatures below 490°F and minimum airflow at temperatures above 680°F. The cowl TAI system is designed to limit the quantity of air to no more than is necessary to prevent icing in order to minimize engine thrust loss as engine intake air is heated.
+Cowl Anti-Ice Electric Control Components
+The cowl anti-ice control valves are governed by three control switches, one for each engine, located on the P-5 pilot's overhead panel. These switches also govern the operation of the engine anti-ice valves for the engine inlet guide vanes and nose dome TAI system for their respective engines. The switches are two position "OPEN," "CLOSE" toggle switches. They supply power from the P-6 load control center ll 5 volt ac bus No. 1, No. 2 or No. 3 directly to the nose cowl anti-ice valve of their respective engine. In addition, the engine No. 2 switch also supplies power through the engine No. 2 fire switch to the engihe No. 2 inlet cowl anti-ice valve.
+The engine No. 2 fire switch is a two position, "NORMAL" and "FIRE" toggle switch located on the P-7 pilot's fire switch panel. When the switch is in the "NORMAL" position power is directed to the common pole of the engine No. 2 valve control switch. When the switch is moved to the fire position power is directed to the close contact of the engine No. 2 valve control switch, bypassing the switch and
+closing the inlet cowl anti-ice valve.
+________________
+MAINTENANCE TECHNICAL TRAINING لم لا
+محمد للتفتانی تھی
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D0C ID 127E. Page 32
+FOR TRAINING PURPOSES ONLY
+"5-14
+PS-13
+EAGisse Ho. I
+EMGM G. H.C. 2:
+THERMAL ANTI-ICE CONTROL
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O Date 3/87 D0C ID ll 27E. Page 33
+4. Cowl Anti-Ice Indicating Components
+The cowl anti-ice system is provided with a valve position indicator light for each engine and a valve position Switch. The indicator lights and switch are located on the P-5 pilot's overhead panel adjacent to the valve control SWitches. The lights are 28 volt, green press-to-test type lights. The valve position switch is a six pole, five position switch, OFF-L (engine TAI left valves) - COWL (cowl TAI valves) - R (engine TAI right valves) - WING (Wing TAI valves). When the Switch is moved to the COWL position, it completes a circuit through the engine inlet valve indicator lights and valve position switch to each cowl TAI control valve, through whichever valve position indicator switch in the valve that is closed, to the respective contact of the indicating pole on the valve control switches. If the valve position agrees with the valve control switch position for the respective engine, the Circuit Will be completed through the indicating pole of the valve control switch to ground. In the case of the No. 2 engine both the high pressure and the inlet Cowl anti-ice control valves must be in agreement with the valve control switch position to complete the circuit to ground. There is no indication during valve travel as both valve position indicator switches are open in each valve during valve travel.
+Duct temperature and overheat protection is provided for the No. 2 engine inlet by a duct temperature indicator and duct overheat light located on the P5 pilot's overhead panel. The indicator and light are used in common with the Wing TAI system and are controlled by a temperature sensor an thermal switch located in the TAI duct leading to the center engine inlet.
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 DOC ID 27E. Page 34
+ANT-CE
+Out --RA OWER HEAT
+«ኛ፭°)
+fNG 1-s
+NG ENG )
+TEMPERATURE IN DI CATED N سمي
+BY 'DUCT TEMP' SELECTOR
+OUCT TEMP
+Gao Test WING GRO TEST
+CLOSE Ο Ο CLOSE
+oPEN OFN
+WALWE 2N N WALWE AJN - as
+POS (3) (6) POs
+مثلخ
+ENG T ENG 3
+COW
+L : سمي
+CowL-? ・一ーエ闇 WALWE POSITION
+SELECTOR DETERMINES THE WALVES TO BE CHECK WALYE BY THE WALWE POS). LGHTS
+PCS WS-22 WALWE PO5
+WALWE POSITION LIGHTS WAWE || || LUMINATE. WHEN
+SELECTED ENG WALWES AG REE WITH SWITCH POS IT I ON
+N
+N. ENG 3
+& NLET "S" (). Cf.
+لاہ--->۔ COWL COWL COWL COWL NLET iN LET
+l R L R
+v 8 A 8 ܕܕ a
+13 PRESSURE 13
+COWL -
+--------- STAGE BLEED are 2. LOW STAG CONDITION: ܦܠܠ̈ܐܠܥܪܦܠܐܠܠܠܠܠܠܠܠܠܠܠܠܠܠܠܠܠ
+MD STAGE BLEED ENGINES OPERATING
+2sxᎹxᏕxᏱᏕᏱᏕᎼᏱᏱᏅᏕᎼᏱ; HIGH STAGE BLEED
+ENGINE ANT-CE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+محمخففٹیننھa
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 DOC ID ll 27E. Page 35
+5. Cowl Anti-Icing System Operation
+The cowl anti-icing system is controlled by the three cowl anti-ice switches on the overhead panel. Actuation of these switches to the ON or OPEN position opens the cowl TAI control valves for their respective engine and allows TAI air to flow into the respective cowl TAI distribution System.
+CAUTION: DO NOT OPERATE THE COWL ANTI-ICING SYSTEMS AT HIGH
+ENGINE POWER SETTING WITH THE INDICATED OUTSIDE AMBIENT TEMPERATURES OVER 50°F (10°C). PROLONGED OPERATION UNDER THESE CONDITIONS WILL REDUCE THE HAIL RESISTANCE OF THE COWL LEADING EDGE SKIN.
+The duct temperature indicator will monitor the TAI air supply temperature to the center engine cowl system when the duct temperature selector switch is turned to the engine No. 2 position. The duct overheat light will illuminate when either the center engine inlet or wing TAI air supply has exceeded 490°F or when the overheat relay has overridden the Wing TAI control switch in the GRD-TEST position. Continuous illumination on the ground or in flight may indicate a control valve failure, and engine power should be reduced to prevent structural damage.
+________________
+巴 MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 DOC ID ll 27E Page 36
+U.
+water/todef urri AUk LF FT ter дине. GARO MED
+dron prot pe TOT ATP DAMAst
+O C C (ලූ ඉ ඉ ඉ ඉ ඉ ඉ C
+O VCOff HEAT OTO L–tat
+PAN LOCAON . ULKHEAD STA 302
+C C C ගුව ශූ ශූ C ගුව ශ්‍ර ඉංගු
+a- A-s
+Eşi G|HE - HACELL: WHDow HAT GRAN
+AT-CE BEPELLET
+coco O
+CCTO E G I EstG t
+WAYES
+surface AT-ce الم
+Oо о е)
+LOAD CONTROL CENTER CRCUIT BREAKER PANEL (P6-1)
+________________
+a MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-3O
+Date 3/87 DOC ID l l 27E Page 37
+FPTOT STATC HEATEA MONTOR es
+AG O) at HG. ELEW P test EL JEW P
+। ໃຫ້
+EL ΕνA TOR PTOT TUB ES
+LEFT ANO RIGHT ST A T | C POR T. S
+\-TEMPErature
+PROBE
+LEFT. RIGHT AND A, U | L- AR Y PT o T, TUB ES
+Pitot Static and Temperature Probe Anti-Icing System Equipment Location
+ 
+ 
+ 
+________________
+MAINTENANCE TECHNICAL TRAINING
+FOR TRAINING PURPOSES ONLY
+SUBJECT ICE AND RAIN PROTECTION ATA-30 Date 3/87 DOC ID lill 27E Page 38
+PITOT STATIC HEAT AND MONITOR (ALL AIRCRAFT)
+Ф) PToT STATIc HEATER Mo
+OFF pi To T PIT ot OFF
+TAC TAT
+PROE AU P
+ELOW ?
+L. G. W. P.
+GD DIM-BRIGHT-TEST SWITCH G2) PITOT-STATIC HEAT CONTROL SWITCHES G) ANNUNCIATOR LIGHTS
+NOTE: To provide 28 VDC power to PITOT-STATIC HEAT annunciator lights the
+following circuit breakers must be on:
+N1 OFE - 136FE
+CB-RADIO BUS (P6-2) CB-AIR DATA HEAT MON (Pl8-il )
+TESTING
+With power on aircraft and PITOT-STATIC HEAT switches OFF.
+- Annunciator lights should be illuminated.
+- Select PITOT-STATIC HEAT switches ON. Annunciator lights should extinguish.
+- Select PITOT-STATIC HEAT switches OFF. Annunciator lights should illuminate.
+NOTE: The DIM-BRIGHT-TEST switch will only control the annunciator lights dim/bright feature. The TEST position is inactive on all aircraft.
