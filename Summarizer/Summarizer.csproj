@@ -95,8 +95,11 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Model\FrequencyLocation.cs" />
+    <Compile Include="Model\SummarizerDW.cs" />
     <Compile Include="Model\Utils\DocumentHelper.cs" />
     <Compile Include="Model\Utils\ErrorHandler.cs" />
+    <Compile Include="Model\Utils\ExtensionMethods.cs" />
     <Compile Include="Model\Utils\PdfToText.cs" />
     <Compile Include="View Model\MainWindowViewModel.cs" />
     <Compile Include="MainWindow.xaml.cs">
@@ -122,18 +125,6 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="Documents\727SSG_ATA28_Fuel.pdf" />
-    <None Include="Documents\727SSG_ATA30_IceAndRain.pdf" />
-    <None Include="Documents\727SSG_CH10.pdf" />
-    <None Include="Documents\727SSG_CH2.pdf" />
-    <None Include="Documents\727SSG_CH3.pdf" />
-    <None Include="Documents\727SSG_CH4.pdf" />
-    <None Include="Documents\727SSG_CH5.pdf" />
-    <None Include="Documents\727SSG_CH6.pdf" />
-    <None Include="Documents\727SSG_CH7.pdf" />
-    <None Include="Documents\727SSG_CH8.pdf" />
-    <None Include="Documents\727SSG_CH9.pdf" />
-    <None Include="Documents\727SSG_CH1.pdf" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -145,6 +136,37 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="View\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Documents\727SSG_ATA28_PT1A.txt" />
+    <Resource Include="Documents\727SSG_ATA28_PT1B.txt" />
+    <Resource Include="Documents\727SSG_ATA28_PT1C.txt" />
+    <Resource Include="Documents\727SSG_ATA28_PT1D.txt" />
+    <Resource Include="Documents\727SSG_ATA28_PT1E.txt" />
+    <Resource Include="Documents\727SSG_ATA28_PT1F.txt" />
+    <Resource Include="Documents\727SSG_ATA28_PT1G.txt" />
+    <Resource Include="Documents\727SSG_ATA28_PT1H.txt" />
+    <Resource Include="Documents\727SSG_ATA28_PT2A.txt" />
+    <Resource Include="Documents\727SSG_ATA28_PT2B.txt" />
+    <Resource Include="Documents\727SSG_ATA28_PT2C.txt" />
+    <Resource Include="Documents\727SSG_ATA28_PT2D.txt" />
+    <Resource Include="Documents\727SSG_ATA28_PT2E.txt" />
+    <Resource Include="Documents\727SSG_ATA28_PT2F.txt" />
+    <Resource Include="Documents\727SSG_ATA30_PT1.txt" />
+    <Resource Include="Documents\727SSG_ATA30_PT2.txt" />
+    <Resource Include="Documents\727SSG_ATA30_PT3.txt" />
+    <Resource Include="Documents\727SSG_ATA30_PT4.txt" />
+    <Resource Include="Documents\727SSG_ATA30_PT5.txt" />
+    <Resource Include="Documents\727SSG_CH01.txt" />
+    <Resource Include="Documents\727SSG_CH02.txt" />
+    <Resource Include="Documents\727SSG_CH03.txt" />
+    <Resource Include="Documents\727SSG_CH04.txt" />
+    <Resource Include="Documents\727SSG_CH05.txt" />
+    <Resource Include="Documents\727SSG_CH06.txt" />
+    <Resource Include="Documents\727SSG_CH07.txt" />
+    <Resource Include="Documents\727SSG_CH08.txt" />
+    <Resource Include="Documents\727SSG_CH09.txt" />
+    <Resource Include="Documents\727SSG_CH10.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
