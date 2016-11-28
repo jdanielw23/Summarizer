@@ -67,8 +67,17 @@
     <Reference Include="pdfbox-1.8.9">
       <HintPath>..\..\External Libraries\PDFBox.NET-1.8.9\bin\pdfbox-1.8.9.dll</HintPath>
     </Reference>
+    <Reference Include="RDotNet, Version=1.5.13.32474, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\R.NET.Community.1.5.13\lib\net40\RDotNet.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RDotNet.NativeLibrary, Version=1.5.13.32474, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\R.NET.Community.1.5.13\lib\net40\RDotNet.NativeLibrary.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -101,6 +110,7 @@
     <Compile Include="Model\Utils\ErrorHandler.cs" />
     <Compile Include="Model\Utils\ExtensionMethods.cs" />
     <Compile Include="Model\Utils\PdfToText.cs" />
+    <Compile Include="Model\Utils\RTextAnalyser.cs" />
     <Compile Include="View Model\MainWindowViewModel.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -125,6 +135,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

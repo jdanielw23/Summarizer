@@ -1,6 +1,4 @@
-﻿
-using java.util;
-using Summarizer.Model.Utils;
+﻿using Summarizer.Model.Utils;
 using System;
 using System.Collections;
 using System.Collections.Generic;
