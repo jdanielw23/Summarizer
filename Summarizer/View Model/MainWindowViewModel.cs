@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Summarizer.Model.Utils;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -63,8 +64,13 @@ namespace Summarizer.View_Model
             {
                 // Get the selected file name
                 FilePath = dlg.FileName;
-                
+
                 // TODO: THIS IS WHERE ALL OF THE MAGIC NEEDS TO HAPPEN
+
+                // The following code is a test (Ryan):
+                RTextAnalyzer RTA = new RTextAnalyzer();
+                RTA.test(FilePath);
+
             }
         }
 
