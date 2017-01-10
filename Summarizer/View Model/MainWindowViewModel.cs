@@ -1,4 +1,5 @@
 ﻿using Summarizer.Model.Utils;
+using Summarizer.Model;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -25,6 +26,7 @@ namespace Summarizer.View_Model
                 NotifyPropertyChanged("FilePath");
             }
         }
+
         public string Summary
         {
             get { return summary; }
@@ -53,7 +55,7 @@ namespace Summarizer.View_Model
             Microsoft.Win32.OpenFileDialog dlg = new Microsoft.Win32.OpenFileDialog();
 
             // Set filter for file extension and default file extension 
-            dlg.DefaultExt = ".docx";
+            dlg.DefaultExt = ".txt";
             dlg.Filter = "Documents|*.docx;*.doc;*.txt";
 
             // Display OpenFileDialog by calling ShowDialog method 
@@ -68,8 +70,11 @@ namespace Summarizer.View_Model
                 // TODO: THIS IS WHERE ALL OF THE MAGIC NEEDS TO HAPPEN
 
                 // The following code is a test (Ryan):
-                RTextAnalyzer RTA = new RTextAnalyzer();
-                RTA.test(FilePath);
+
+                //RTextAnalyzer RTA = new RTextAnalyzer();
+                //RTA.test(FilePath);
+
+                Summary = SummarizerAS.getSummary(filePath);
 
             }
         }
