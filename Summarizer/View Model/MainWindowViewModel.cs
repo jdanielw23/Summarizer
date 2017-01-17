@@ -16,6 +16,8 @@ namespace Summarizer.View_Model
     /// </summary>
     class MainWindowViewModel : INotifyPropertyChanged
     {
+        private SummarizerImplementation Summarizer;
+
         private string filePath;
         private string summary;
 
@@ -37,11 +39,11 @@ namespace Summarizer.View_Model
 
         public MainWindowViewModel()
         {
-            Summary = "This is a long sentence that will represent what a summary might look like.Hopefully it works and does not destroy anything. " +
-                "I am also making sure that it will wrap around the edges and that when it passes the bottom of the box a vertical scroll bar will appear.\n\n" + 
-                "Also, I need to make sure that it can handle new paragraphs. Blah blah blah.... More text more text. I'm almost to the end. " + 
-                "What about this sentence or this sentence or this sentence. or this word. How about a whole book of words that will show that this thing will " + 
-                "create a vertical scroll bar when necessary.";
+            //Summarizer = new SummarizerDW();
+            //Summarizer = new SummarizerAS();
+            //Summarizer = new SummarizerRR();
+
+            Summary = "";
         }
 
         /// <summary>

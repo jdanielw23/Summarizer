@@ -104,9 +104,11 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Model\FrequencyLocation.cs" />
-    <Compile Include="Model\SummarizerAS.cs" />
-    <Compile Include="Model\SummarizerDW.cs" />
+    <Compile Include="Model\Daniel%27s Implementation\FrequencyLocation.cs" />
+    <Compile Include="Model\Andrew%27s Implementation\SummarizerAS.cs" />
+    <Compile Include="Model\Daniel%27s Implementation\SummarizerDW.cs" />
+    <Compile Include="Model\Ryan%27s Implementation\SummarizerRR.cs" />
+    <Compile Include="Model\SummarizerImplementation.cs" />
     <Compile Include="Model\Utils\DocumentHelper.cs" />
     <Compile Include="Model\Utils\ErrorHandler.cs" />
     <Compile Include="Model\Utils\ExtensionMethods.cs" />

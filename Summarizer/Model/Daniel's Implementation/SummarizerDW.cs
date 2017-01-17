@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 
 namespace Summarizer.Model
 {
-    public class SummarizerDW
+    public class SummarizerDW : SummarizerImplementation
     {
         public static int MIN_WORD_LENGTH = 3;
 
-        public static void AnalyzeDocument(string filePath, string newFilePath)
+        public string SummarizeDocument(string filePath)
         {
             // Read in the text
             string text = System.IO.File.ReadAllText(filePath);
@@ -103,7 +103,14 @@ namespace Summarizer.Model
                 prevSent = sent;
             }
 
-            System.IO.File.WriteAllText(newFilePath, sb.ToString());
+            
+            return sb.ToString();
+        }
+
+        public void SummarizeToNewDocument(string filePath, string newFilePath)
+        {
+            string summary = SummarizeDocument(filePath);
+            System.IO.File.WriteAllText(newFilePath, summary);
         }
 
         private static string[] SplitIntoSentences(string text)
