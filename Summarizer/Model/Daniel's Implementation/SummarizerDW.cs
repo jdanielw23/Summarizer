@@ -18,24 +18,26 @@ namespace Summarizer.Model
             // Read in the text
             string text = System.IO.File.ReadAllText(filePath);
 
-            // Break it into words or sentences
-            //string[] words = text.Split(' ');
+            // Break the text into sentences
             string[] sentences = SplitIntoSentences(text);
             
+            // This is the data structure for my bigram
             IDictionary<string, Dictionary<string,FrequencyLocation>> wordFrequency = new Dictionary<string, Dictionary<string, FrequencyLocation>>();
             string prevWord = "";
 
+            // Iterate through each sentence
             for (int sentenceIndex = 0; sentenceIndex < sentences.Length; sentenceIndex++)
             {
+                // Break each sentence into words
                 foreach (string rawWord in sentences[sentenceIndex].Split(' '))
                 {
-                    string word = rawWord.Trim().ToLower().RemoveChars(',', ':', ';');
+                    // Simplify word to its simplest form
+                    string word = SimplifyWord(rawWord);
 
-                    if (word.Length >= MIN_WORD_LENGTH &&
-                        word.ContainsOnlyLetters() &&
-                        !word.Equals("the") &&
-                        !word.Equals("and"))
+                    // Disregard stop words and words shorter than MIN_WORD_LENGTH
+                    if (IsValidWord(word))
                     {
+                        // Build word frequency matrix
                         if (!string.IsNullOrEmpty(prevWord))
                         {
                             // If the word is already in the table increment the count
@@ -68,7 +70,7 @@ namespace Summarizer.Model
                 }
             }
 
-            // For outputting word frequency
+            // Create a simpler word frequency with the two words combined together
             IDictionary<string, FrequencyLocation> finalWordFrequency = new Dictionary<string, FrequencyLocation>();
             foreach (var pair1 in wordFrequency)
             {
@@ -77,6 +79,12 @@ namespace Summarizer.Model
                     finalWordFrequency[pair1.Key + " " + pair2.Key] = pair2.Value;
                 }                
             }
+
+            // Build summary based on results
+            // Options:
+            //  First three sentences with top word frequency
+            //  First sentence from each of top 3 word frequencies
+            //  etc...
 
             StringBuilder sb = new StringBuilder();
             int count = 0;
@@ -111,6 +119,19 @@ namespace Summarizer.Model
         {
             string summary = SummarizeDocument(filePath);
             System.IO.File.WriteAllText(newFilePath, summary);
+        }
+
+        private static string SimplifyWord(string word)
+        {
+            return word.Trim().ToLower().RemoveChars(',', ':', ';');
+        }
+
+        private static bool IsValidWord(string word)
+        {
+            return word.Length >= MIN_WORD_LENGTH &&
+                        word.ContainsOnlyLetters() &&
+                        !word.Equals("the") &&
+                        !word.Equals("and");
         }
 
         private static string[] SplitIntoSentences(string text)
