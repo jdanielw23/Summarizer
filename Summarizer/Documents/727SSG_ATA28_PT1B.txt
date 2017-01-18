@@ -10,13 +10,14 @@ TANK NO, 2 FILLED BY مصر - ཁ །《། TRANSFER FROM TANK NUMBERS 1 AND 3 |
 8105 U.S. GALLONS TOTAL /7-----~سے ہہ
 PRESSURE FUE LING 亘ンUSABLE FUEL
 OUANTITY " می / &\ イン。 \ سمصر
-TANK No. 3D y (1798 U.S. GAL) --
-\
-- --سی 1 ހަރހި
-محسی ച്ച് TANK NO. 2 TANK NO. 1 E> WENT
-(4509 U.S. GAL) (1798 U.S. GAL) SURGE TANK
-VEfT SURGE TANK
-FUEl TANK ARRANGENIENT
+TANK No. 3
+(1798 U.S. GAL)
+TANK NO. 2
+(4509 U.S. GAL)
+TANK NO. 1
+(1798 U.S. GAL)
+VENT SURGE TANK
+FUEL TANK ARRANGENMENT
 B. General Description
 l. Fuel Tank Arrangement
 a. Three main fuel tanks and two vent surge tanks are built

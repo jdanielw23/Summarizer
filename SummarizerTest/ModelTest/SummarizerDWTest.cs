@@ -7,6 +7,8 @@ using System.Text;
 using System.IO;
 using System.Linq;
 using System.Collections.Generic;
+using Summarizer.Model.Daniels_Implementation;
+using Summarizer.Model.Utils.Stemming;
 
 namespace SummarizerTest.ModelTest
 {
@@ -51,6 +53,26 @@ namespace SummarizerTest.ModelTest
             Assert.AreEqual(true, Regex.IsMatch(true4, pattern));
 
             Assert.AreEqual(false, Regex.IsMatch(false1, pattern));
+        }
+
+        [TestMethod]
+        public void StemmerTest()
+        {
+            string[] maintain = new string[] { "maintain", "maintains", "maintaining", "maintained" };
+            string[] walk = new string[] { "walk", "walking", "walked", "walks" };
+
+            IStemmer stemmer = new EnglishStemmer();
+
+            foreach(string word in maintain)
+            {
+                Assert.AreEqual("maintain", stemmer.Stem(word));
+            }
+
+            foreach (string word in walk)
+            {
+                Assert.AreEqual("walk", stemmer.Stem(word));
+            }
+
         }
 
         [TestMethod]

@@ -1,4 +1,5 @@
-﻿using Summarizer.Model.Utils;
+﻿using Summarizer.Model.Utils.Stemming;
+using Summarizer.Model.Utils;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -7,11 +8,16 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Summarizer.Model
+namespace Summarizer.Model.Daniels_Implementation
 {
     public class SummarizerDW : SummarizerImplementation
     {
-        public static int MIN_WORD_LENGTH = 3;
+        private int MinWordLength;
+
+        public SummarizerDW(int minWordLength = 3)
+        {
+            MinWordLength = minWordLength;
+        }
 
         public string SummarizeDocument(string filePath)
         {
@@ -121,20 +127,20 @@ namespace Summarizer.Model
             System.IO.File.WriteAllText(newFilePath, summary);
         }
 
-        private static string SimplifyWord(string word)
+        private string SimplifyWord(string word)
         {
-            return word.Trim().ToLower().RemoveChars(',', ':', ';');
+            string trimmedWord = word.Trim().ToLower().RemoveChars(',', ':', ';');
+            return new EnglishStemmer().Stem(trimmedWord);
         }
 
-        private static bool IsValidWord(string word)
+        private bool IsValidWord(string word)
         {
-            return word.Length >= MIN_WORD_LENGTH &&
+            return word.Length >= MinWordLength &&
                         word.ContainsOnlyLetters() &&
-                        !word.Equals("the") &&
-                        !word.Equals("and");
+                        !Constants.ShorterStopWordList.Contains(word);
         }
 
-        private static string[] SplitIntoSentences(string text)
+        private string[] SplitIntoSentences(string text)
         {
             string pattern = @"[A-Z]([a-z]| )+[a-z][a-zA-Z0-9\-\(\)\/\,\'\:\;\s*\n*]*[\.]";
             IList<string> result = new List<string>();
