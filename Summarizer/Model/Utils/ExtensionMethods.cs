@@ -19,17 +19,23 @@ namespace Summarizer.Model.Utils
             return true;
         }
 
-        public static string RemoveChars(this string word, params char[] chars)
+        /// <summary>
+        /// Calls the ToString method of each item in the list and returns a string with each item separated by the specified delimiter.
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="list"></param>
+        /// <param name="delimiter"></param>
+        /// <returns></returns>
+        public static string ListData<T>(this IList<T> list, string delimiter = "\n")
         {
-            for (int i = 0; i < word.Length; i++)
+            StringBuilder sb = new StringBuilder();
+            for(int i = 0; i < list.Count; i++)
             {
-                foreach (char c in chars)
-                {
-                    if (word[i].Equals(c))
-                        word.Remove(i);
-                }
+                sb.Append(list[i].ToString());
+                if (i < list.Count - 1)
+                    sb.Append(delimiter);
             }
-            return word;
+            return sb.ToString();
         }
     }
 }

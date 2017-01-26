@@ -21,14 +21,52 @@ namespace Summarizer.Model.Daniels_Implementation
 
         public string SummarizeDocument(string filePath)
         {
+            return SummarizeDocumentMethod1(filePath);
+            //return SummarizeDocumentMethod2(filePath);
+        }
+
+        public string SummarizeDocumentMethod2(string filePath)
+        {
+            string summary = "";
+
             // Read in the text
             string text = System.IO.File.ReadAllText(filePath);
 
             // Break the text into sentences
             string[] sentences = SplitIntoSentences(text);
-            
+
+            // Move through each sentence forming groups of nouns and storing them in a word frequency matrix
+            FrequencyMatrix wordFrequency = new FrequencyMatrix();
+
+            for (int sentenceIndex = 0; sentenceIndex < sentences.Length; sentenceIndex++)
+            {
+                StringBuilder key = new StringBuilder();
+                foreach(string rawWord in sentences[sentenceIndex].Split(' '))
+                {
+                    string word = SimplifyWord(rawWord, false);
+
+                    if (IsValidWord(word, false, false, true, false))
+                    {
+                        wordFrequency.AddToMatrix(word, sentenceIndex);
+                    }
+                }
+            }
+
+            summary = wordFrequency.ToString();
+
+            return summary;
+        }
+
+        public string SummarizeDocumentMethod1(string filePath)
+        {
+            // Read in the text
+            string text = System.IO.File.ReadAllText(filePath);
+
+            // Break the text into sentences
+            string[] sentences = SplitIntoSentences(text);
+
             // This is the data structure for my bigram
-            IDictionary<string, Dictionary<string,FrequencyLocation>> wordFrequency = new Dictionary<string, Dictionary<string, FrequencyLocation>>();
+            Bigram wordFrequency = new Bigram();
             string prevWord = "";
 
             // Iterate through each sentence
@@ -38,53 +76,35 @@ namespace Summarizer.Model.Daniels_Implementation
                 foreach (string rawWord in sentences[sentenceIndex].Split(' '))
                 {
                     // Simplify word to its simplest form
-                    string word = SimplifyWord(rawWord);
+                    string word = SimplifyWord(rawWord, true);
 
                     // Disregard stop words and words shorter than MIN_WORD_LENGTH
-                    if (IsValidWord(word))
+                    if (IsValidWord(word,true,true,true,false))
                     {
-                        // Build word frequency matrix
-                        if (!string.IsNullOrEmpty(prevWord))
-                        {
-                            // If the word is already in the table increment the count
-                            if (wordFrequency.ContainsKey(prevWord))
-                            {
-                                if (wordFrequency[prevWord].ContainsKey(word))
-                                {
-                                    wordFrequency[prevWord][word].Frequency++;
-                                    wordFrequency[prevWord][word].Locations.Add(sentenceIndex);
-                                }
-                                else
-                                {
-                                    wordFrequency[prevWord][word] = new FrequencyLocation();
-                                    wordFrequency[prevWord][word].Frequency = 1;
-                                    wordFrequency[prevWord][word].Locations.Add(sentenceIndex);
-                                }
-                            }
-                            // otherwise, add it with count = 1
-                            else
-                            {
-                                wordFrequency[prevWord] = new Dictionary<string, FrequencyLocation>();
-                                wordFrequency[prevWord][word] = new FrequencyLocation();
-                                wordFrequency[prevWord][word].Frequency = 1;
-                                wordFrequency[prevWord][word].Locations.Add(sentenceIndex);
-                            }
-                        }
-
+                        wordFrequency.AddToMatrix(prevWord, word, sentenceIndex);
                         prevWord = word;
                     }
                 }
             }
 
             // Create a simpler word frequency with the two words combined together
-            IDictionary<string, FrequencyLocation> finalWordFrequency = new Dictionary<string, FrequencyLocation>();
-            foreach (var pair1 in wordFrequency)
+            IDictionary<string, FrequencyLocation> finalWordFrequency = wordFrequency.FinalWordFrequency;
+
+            // FURTHER ANALYSIS:
+            // Account for word frequencies that are too common?
+
+            /****    Cross-reference sentence indexes in most common word pairs
+            IList<int> commonIndexes = new List<int>();
+            for (int i = 0; i < 5; i++)
             {
-                foreach (var pair2 in pair1.Value.OrderByDescending(kv => kv.Value.Frequency))
+                foreach(int index in finalWordFrequency.OrderByDescending(kv => kv.Value.Frequency).ElementAt(i).Value.Locations.Intersect(
+                finalWordFrequency.OrderByDescending(kv => kv.Value.Frequency).ElementAt(i + 1).Value.Locations))
                 {
-                    finalWordFrequency[pair1.Key + " " + pair2.Key] = pair2.Value;
+                    if (!commonIndexes.Contains(index))
+                        commonIndexes.Add(index);
                 }                
             }
+            /****/
 
             // Build summary based on results
             // Options:
@@ -92,22 +112,57 @@ namespace Summarizer.Model.Daniels_Implementation
             //  First sentence from each of top 3 word frequencies
             //  etc...
 
-            StringBuilder sb = new StringBuilder();
+            StringBuilder summary = new StringBuilder();
+
+            /****    OPTION 0: Show common Indexes    ****
+            int count = 0;
+            foreach(int i in commonIndexes)
+            {
+                summary.AppendLine(sentences[i]);
+                count++;
+                // Limit the number of sentences to 3
+                if (count == 3)
+                    break;
+            }
+            /****/
+
+            /****    OPTION 1: This will print the word frequencies    ****
+            foreach (var pair in finalWordFrequency.OrderByDescending(kv => kv.Value.Frequency))
+            {
+                //// This will write the word pair frequencies, number of sentences, and the list of sentence indexes
+                summary.AppendLine(string.Format("{0}: {1}, Num sentences: {2}; {3}\n", 
+                    pair.Key, pair.Value.Frequency, 
+                    pair.Value.Locations.Count, 
+                    pair.Value.Locations.ListData(", ")));
+            }
+            /****/
+            
+
+            /****    OPTION 2: This will print the top 3 or fewer sentences containing the most common word pair    ****
+            var mostCommonPair = finalWordFrequency.OrderByDescending(kv => kv.Value.Frequency).ElementAt(0);
+            int count = 0;
+            foreach (int location in mostCommonPair.Value.Locations)
+            {
+                summary.AppendLine(sentences[location]);
+                count++;
+                if (count == 3)
+                    break;
+            }
+            /****/
+
+            /****    OPTION 3: This will print the     ****
+
+            /****/
+
+            /****    OPTION 4: This will print the first sentence from the top 3 pairs    ****
             int count = 0;
             int prevSent = 0;
             foreach (var pair in finalWordFrequency.OrderByDescending(kv => kv.Value.Frequency))
             {
-                //// This will write the word pair frequencies
-                //sb.AppendLine(string.Format("{0}: {1}\n", pair.Key, pair.Value.Frequency));
-
-                //// This will write all of the sentences that contain the most popular pair of words
-                //foreach (int loc in pair.Value.Locations)
-                //    sb.AppendLine(sentences[loc] + "...");
-
                 int sent = pair.Value.Locations[0];
                 if (prevSent != sent)
                 {
-                    sb.AppendLine(sentences[sent]);
+                    summary.AppendLine(sentences[sent]);
                     count++;
                 }
 
@@ -116,9 +171,9 @@ namespace Summarizer.Model.Daniels_Implementation
 
                 prevSent = sent;
             }
+            /****/
 
-            
-            return sb.ToString();
+            return summary.ToString();
         }
 
         public void SummarizeToNewDocument(string filePath, string newFilePath)
@@ -127,17 +182,45 @@ namespace Summarizer.Model.Daniels_Implementation
             System.IO.File.WriteAllText(newFilePath, summary);
         }
 
-        private string SimplifyWord(string word)
+        /*****************************************************/
+        /***************    PRIVATE METHODS    ***************/
+        /*****************************************************/
+        private string SimplifyWord(string word, bool stemWord)
         {
-            string trimmedWord = word.Trim().ToLower().RemoveChars(',', ':', ';');
-            return new EnglishStemmer().Stem(trimmedWord);
+            string trimmedWord = word.Trim().ToLower().TrimEnd(',', ':', ';','.');
+
+            if (stemWord)
+                trimmedWord = new EnglishStemmer().Stem(trimmedWord);
+
+            return trimmedWord;
         }
 
-        private bool IsValidWord(string word)
+        private bool IsValidWord(string word, bool minWordLength, bool lettersOnly, bool noStopWords, bool noVerbs)
         {
-            return word.Length >= MinWordLength &&
-                        word.ContainsOnlyLetters() &&
-                        !Constants.ShorterStopWordList.Contains(word);
+            if (minWordLength)
+            {
+                if (word.Length < MinWordLength)
+                    return false;
+            }
+
+            if (lettersOnly)
+            {
+                if (!word.ContainsOnlyLetters())
+                    return false;
+            }
+
+            if (noStopWords)
+            {
+                if (Constants.ShorterStopWordList.Contains(word))
+                    return false;
+            }
+
+            if (noVerbs)
+            {
+
+            }
+
+            return true;
         }
 
         private string[] SplitIntoSentences(string text)
@@ -149,19 +232,6 @@ namespace Summarizer.Model.Daniels_Implementation
             {
                 result.Add(match.ToString());
             }
-
-            //string[] sentences = Regex.Split(text, @"(?<=[.\n])");
-
-            //foreach(string sentence in sentences)
-            //{
-            //    // Only count sentences that contain at least one lower case letter
-            //    if (Regex.IsMatch(sentence, "[a-z]+"))
-            //        result.Add(sentence);
-
-            //    // Don't count a sentence if it contains a new line character
-            //    //if (!sentence.Contains("\n"))
-            //    //    result.Add(sentence);
-            //}
 
             return result.ToArray();
         }

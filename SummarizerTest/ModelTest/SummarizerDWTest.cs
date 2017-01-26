@@ -9,6 +9,7 @@ using System.Linq;
 using System.Collections.Generic;
 using Summarizer.Model.Daniels_Implementation;
 using Summarizer.Model.Utils.Stemming;
+using Summarizer.Model.Utils;
 
 namespace SummarizerTest.ModelTest
 {
@@ -18,20 +19,16 @@ namespace SummarizerTest.ModelTest
         [TestMethod]
         public void SummarizeAllDocumentsTest()
         {
-            foreach (string path in Directory.EnumerateFiles(@"D:\My Libraries\My Documents\The Bible txt"))
-           // foreach (string path in Directory.EnumerateFiles(@"Documents"))
+            foreach (string path in Directory.EnumerateFiles(@"D:\My Libraries\My Documents\The Bible txt\Fixed"))
             {
                 FileInfo file = new FileInfo(path);
                 if (file.Extension.Equals(".txt"))
                 {
-                    //string newFilePath = @"SummarizedDocuments\" + file.Name;
                     string newFilePath = @"D:\My Libraries\My Documents\The Bible txt\Summarized\" + file.Name;
                     SummarizerDW summarizer = new SummarizerDW();
                     summarizer.SummarizeToNewDocument(path, newFilePath);
                 }
             }
-            
-            //Process.Start(newFilePath);
         }
 
         [TestMethod]
@@ -73,6 +70,61 @@ namespace SummarizerTest.ModelTest
                 Assert.AreEqual("walk", stemmer.Stem(word));
             }
 
+        }
+
+        [TestMethod]
+        public void TrimCharactersTest()
+        {
+            string[] toTrim = new string[] { "furnace", "furnace,", "furnace;", "furnace:" };
+
+            foreach (string word in toTrim)
+            {
+                Assert.AreEqual("furnace", word.TrimEnd(',', ':', ';'));
+            }
+        }
+
+
+        /****    ONE TIME SCRIPTS    ****
+        [TestMethod]
+        public void FixTxtFiles()
+        {
+            foreach (string path in Directory.EnumerateFiles(@"D:\My Libraries\My Documents\The Bible txt"))
+            {
+                FileInfo file = new FileInfo(path);
+                if (file.Extension.Equals(".txt"))
+                {
+                    string newFilePath = @"D:\My Libraries\My Documents\The Bible txt\Fixed\" + file.Name;
+
+                    StringBuilder newText = new StringBuilder();
+                    StringBuilder lines = new StringBuilder();
+
+                    string text = System.IO.File.ReadAllText(path);
+                    bool first = true;
+                    foreach (string line in text.Split('\n'))
+                    {
+                        lines.Append(line).Append(" ");
+                        if (first)
+                        {
+                            newText.AppendLine(line);
+                            first = false;
+                        }
+                    }
+
+                    string pattern = @"[\d]+:[\d]+[\D]*";
+                    IList<string> verses = new List<string>();
+                    foreach (var match in Regex.Matches(lines.ToString(), pattern))
+                    {
+                        verses.Add(match.ToString());
+                    }
+
+                    foreach (string verse in verses)
+                    {
+                        newText.AppendLine(verse);
+                    }
+
+                    System.IO.File.WriteAllText(newFilePath, newText.ToString());
+                }
+            }
         }
 
         [TestMethod]
@@ -123,5 +175,6 @@ namespace SummarizerTest.ModelTest
 
             //System.IO.File.WriteAllLines(@"D:\My Libraries\My Documents\The Bible txt\BookPaths.txt", bookPaths);
         }
+        /****/
     }
 }

@@ -65,7 +65,6 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="ModelTest\PdfToTextTest.cs" />
     <Compile Include="ModelTest\SummarizerDWTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

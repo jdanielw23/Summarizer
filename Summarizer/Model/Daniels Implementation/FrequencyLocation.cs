@@ -8,7 +8,13 @@ namespace Summarizer.Model
 {
     public class FrequencyLocation
     {
+        /// <summary>
+        /// Frequency of word pair
+        /// </summary>
         public int Frequency;
+        /// <summary>
+        /// List of sentence indexes where word pair occurs
+        /// </summary>
         public List<int> Locations = new List<int>();
     }
 }
