@@ -104,10 +104,12 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Model\Andrew%27s Implementation\Cleaner.cs" />
     <Compile Include="Model\Daniels Implementation\Bigram.cs" />
     <Compile Include="Model\Daniels Implementation\FrequencyLocation.cs" />
     <Compile Include="Model\Andrew%27s Implementation\SummarizerAS.cs" />
     <Compile Include="Model\Daniels Implementation\FrequencyMatrix.cs" />
+    <Compile Include="Model\Utils\StopwordsDAO.cs" />
     <Compile Include="Model\Utils\Stemming\Among.cs" />
     <Compile Include="Model\Utils\Stemming\EnglishStemmer.cs" />
     <Compile Include="Model\Utils\Stemming\IStemmer.cs" />
@@ -188,6 +190,9 @@
     <Resource Include="Documents\727SSG_CH08.txt" />
     <Resource Include="Documents\727SSG_CH09.txt" />
     <Resource Include="Documents\727SSG_CH10.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Model\Utils\stopwords.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -6,6 +6,9 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Summarizer.Model.Andrews_Implementation;
+using Summarizer.Model.Daniels_Implementation;
+using Summarizer.Model.Ryan_s_Implementation;
 
 namespace Summarizer.View_Model
 {
@@ -69,14 +72,31 @@ namespace Summarizer.View_Model
                 // Get the selected file name
                 FilePath = dlg.FileName;
 
-                // TODO: THIS IS WHERE ALL OF THE MAGIC NEEDS TO HAPPEN
+                int which = 1; // 1: Andrew's, 2: Daniel's, 3: Ryan's
 
-                // The following code is a test (Ryan):
-
-                //RTextAnalyzer RTA = new RTextAnalyzer();
-                //RTA.test(FilePath);
-
-                Summary = SummarizerAS.getSummary(filePath);
+                switch(which)
+                {
+                    case 1:
+                        Summarizer = new SummarizerAS();
+                        break;
+                    case 2:
+                        Summarizer = new SummarizerDW();
+                        break;
+                    case 3:
+                        Summarizer = new SummarizerRR();
+                        break;
+                    default:
+                        Summarizer = null;
+                        break;
+                }
+                if (Summarizer == null)
+                {
+                    Summary = "";
+                }
+                else
+                {
+                    Summary = Summarizer.SummarizeDocument(filePath);
+                }
 
             }
         }
