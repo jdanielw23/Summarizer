@@ -8,36 +8,37 @@ using System.Threading.Tasks;
 namespace Summarizer.Model.Andrew_s_Implementation
 {
     /// <summary>
-    /// This class is a hashtable specialized for string keys and int values.
+    /// This class is a hashtable specialized for string keys and double values.
+    /// It is the same as Table, but uses doubles for the values.
     /// </summary>
-    class Table : IEnumerable<string>
+    class DTable : IEnumerable<string>
     {
         private Hashtable table;
         private string[] sorted_keys; // highest to lowest by values
         private int count;
 
-        public Table()
+        public DTable()
         {
             table = new Hashtable();
             count = 0;
         }
 
-        public Table Clone()
+        public DTable Clone()
         {
-            Table retval = new Table();
+            DTable retval = new DTable();
             foreach (string key in sorted_keys)
             {
-                retval.Add(key, (int) table[key]);
+                retval.Add(key, (double)table[key]);
             }
             retval.Top(0); // Just so it is sorted...
             return retval;
         }
 
-        public void Add(string key, int value)
+        public void Add(string key, double value)
         {
             if (table.ContainsKey(key))
             {
-                int new_value = (int) table[key] + value;
+                double new_value = (double)table[key] + value;
                 table[key] = new_value;
             }
             else if (!string.IsNullOrWhiteSpace(key))
@@ -66,11 +67,11 @@ namespace Summarizer.Model.Andrew_s_Implementation
             return table.ContainsKey(key);
         }
 
-        public int ValueOf(string key)
+        public double ValueOf(string key)
         {
             if (table.ContainsKey(key))
             {
-                return (int)table[key];
+                return (double)table[key];
             }
             return 0;
         }
@@ -102,7 +103,8 @@ namespace Summarizer.Model.Andrew_s_Implementation
             {
                 top_n[i] = sorted_keys[i];
             }
-            if (n > count) { // fill the remaining slots with "<null>"
+            if (n > count)
+            { // fill the remaining slots with "<null>"
                 for (int i = size; i < n; i++)
                 {
                     top_n[i] = "<null>";
@@ -133,7 +135,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
         {
             int i = low;
             int j = high;
-            int pivot = ValueOf(sorted_keys[low + (high - low) / 2]);
+            double pivot = ValueOf(sorted_keys[low + (high - low) / 2]);
             while (i <= j)
             {
                 while (val(i) < pivot)
@@ -162,7 +164,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
             sorted_keys[j] = liason;
         }
 
-        private int val(int index)
+        private double val(int index)
         {
             return ValueOf(sorted_keys[index]);
         }

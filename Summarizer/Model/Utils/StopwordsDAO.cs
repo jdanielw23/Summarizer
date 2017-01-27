@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Summarizer.Model.Utils.Stemming;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,13 +10,16 @@ namespace Summarizer.Model.Utils
     class StopwordsDAO
     {
         private LinkedList<String> stopwords;
+        private bool stem;
 
-        public StopwordsDAO()
+        public StopwordsDAO(bool stem)
         {
             // Stopwords list from http://www.ranks.nl/stopwords
             // TODO: find a better way of loading the file...
-            string filepath = "C:\\Users\\shubin\\Desktop\\Capstone\\Summarizer\\Summarizer\\Model\\Utils\\stopwords.txt";
+            string filepath = "C:\\Users\\shubin\\Desktop\\Capstone\\Summarizer"
+                                + "\\Summarizer\\Model\\Utils\\kjv_stopwords.txt";
             string[] raw = System.IO.File.ReadAllLines(filepath);
+            this.stem = stem;
             stopwords = new LinkedList<String>();
             foreach (string word in raw)
             {
@@ -37,6 +41,11 @@ namespace Summarizer.Model.Utils
                 {
                     clean_word += char.ToLower(c);
                 }
+            }
+            if (stem)
+            {
+                EnglishStemmer stemmer = new EnglishStemmer();
+                clean_word = stemmer.Stem(clean_word);
             }
             return clean_word;
         }

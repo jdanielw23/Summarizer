@@ -27,7 +27,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
             // Translate system return characters into basic whitespace...
             string raw = String.Join(" ", Regex.Split(text, "\r\n|\r|\n"));
             string clean = "";
-            StopwordsDAO dao = new StopwordsDAO();
+            StopwordsDAO dao = new StopwordsDAO(stem);
             EnglishStemmer stemmer = new EnglishStemmer();
             foreach (string word in raw.Split(' '))
             {
@@ -62,6 +62,11 @@ namespace Summarizer.Model.Andrew_s_Implementation
                 clean += ((clean_word == "") ? "" : (clean_word + " "));
             }
             return clean;
+        }
+
+        public static string RemoveNewlines(string source)
+        {
+            return String.Join(" ", Regex.Split(source, "\r\n|\r|\n"));
         }
 
         public static string[] splitToSentences(string text)

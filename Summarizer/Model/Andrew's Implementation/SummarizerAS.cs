@@ -76,39 +76,41 @@ namespace Summarizer.Model.Andrews_Implementation
                         + "%) valid sentences in document.";
             }
 
-            // TODO: determine the most frequent bigrams...
-
-            string[] chosen = { "", "", "" }; // Should contain top 3 scored sentences.
+            string[] chosen; // Should contain top 3 scored sentences.
             WordFrequencies wf = new WordFrequencies(clean_sentences);
 
-            // TODO: score sentences, and put top three in "chosen"...
+            // *** START TEST *** //
+            // This bit is to identify new stopwords...
+            string test_out = "";
+            string[] top_words = wf.Top(20);
+            Console.WriteLine("MOST FRQUENT WORDS WITH FREQUENCIES:");
+            Console.WriteLine("++++++++++++++++++++++++++++++++++++");
+            foreach (string word in top_words)
+            {
+                Console.WriteLine(String.Format("{0, -15}", word) + wf.Count(word));
+            }
+            // *** END TEST *** //
 
             string output = "";
-            BigramCounter bc = new BigramCounter(clean_sentences, wf.Top(5));
-            string[] top_five = wf.Top(5);
-            output += "          " + f(top_five[0]) + f(top_five[1]) + f(top_five[2])
-                + f(top_five[3]) + f(top_five[4]) + "\n";
-            for (int i = 0; i < 5; i++)
+            BigramCounter bc = new BigramCounter(clean_sentences,
+                                                 wf.Top(FREQUENCY_TABLE_LEN));
+            Scorer scorer = new Scorer(clean_sentences);
+            scorer.ScoreWithBigrams(bc);
+            //scorer.ScoreWithWordFrequencies(wf);
+            chosen = scorer.Top(3);
+            IndexFinder ifinder = new IndexFinder(clean_sentences);
+            foreach (string sentence in chosen)
             {
-                output += f(top_five[i]);
-                for (int j = 0; j < 5; j++)
-                {
-                    output += f("" + bc.Count(top_five[i], top_five[j]));
-                }
-                output += "\n";
+                int index = ifinder.Index(sentence);
+                output += addline("\"" + Cleaner.RemoveNewlines(raw_sentences[index])
+                            + "\" (" + Math.Round(scorer.ScoreOf(sentence), 3) + ")");
             }
-            Console.WriteLine(output);
-            return "Done.";
+            return output;
         }
 
         private string addline(string line)
         {
             return line + "\n";
-        }
-
-        private string f(string text)
-        {
-            return String.Format("{0,-10}", text);
         }
     }
 }
