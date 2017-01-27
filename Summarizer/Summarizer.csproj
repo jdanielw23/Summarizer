@@ -34,6 +34,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Summarizer.App</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="commons-logging, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -104,7 +107,9 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Model\Andrew%27s Implementation\BigramCounter.cs" />
     <Compile Include="Model\Andrew%27s Implementation\Cleaner.cs" />
+    <Compile Include="Model\Andrew%27s Implementation\Matrix.cs" />
     <Compile Include="Model\Andrew%27s Implementation\Table.cs" />
     <Compile Include="Model\Andrew%27s Implementation\WordFrequencies.cs" />
     <Compile Include="Model\Daniels Implementation\Bigram.cs" />

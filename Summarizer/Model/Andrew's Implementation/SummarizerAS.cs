@@ -32,6 +32,13 @@ namespace Summarizer.Model.Andrews_Implementation
             {
                 return "File is empty.";
             }
+            for (int i = 0; i < raw_sentences.Length; i++)
+            {
+                if (raw_sentences[i] == null)
+                {
+                    raw_sentences[i] = "";
+                }
+            }
 
             int sentence_count = raw_sentences.Length;
             int numOfWordsInValidSentences = 0;
@@ -56,6 +63,10 @@ namespace Summarizer.Model.Andrews_Implementation
                 {
                     clean_sentences[i] = cleaner.clean(raw_sentences[i]);
                 }
+                else
+                {
+                    clean_sentences[i] = "";
+                }
                 approxNumOfWords += sentence_len;
             }
             double percentValid = (double)numOfWordsInValidSentences / approxNumOfWords;
@@ -65,7 +76,7 @@ namespace Summarizer.Model.Andrews_Implementation
                         + "%) valid sentences in document.";
             }
 
-            // TODO: determine the most frequent words and/or bigrams...
+            // TODO: determine the most frequent bigrams...
 
             string[] chosen = { "", "", "" }; // Should contain top 3 scored sentences.
             WordFrequencies wf = new WordFrequencies(clean_sentences);
@@ -73,11 +84,17 @@ namespace Summarizer.Model.Andrews_Implementation
             // TODO: score sentences, and put top three in "chosen"...
 
             string output = "";
-            int test = 20;
-            string[] test_arr = wf.Top(test);
-            for (int i = 0; i < test; i++)
+            BigramCounter bc = new BigramCounter(clean_sentences, wf.Top(5));
+            string[] top_five = wf.Top(5);
+            output += "      " + top_five[0] + " " + top_five[1] + " " + top_five[2] + " " + top_five[3] + " " + top_five[4] + "\n";
+            for (int i = 0; i < 5; i++)
             {
-                output += addline(test_arr[i] + " occurrs " + wf.Count(test_arr[i]) + " times.");
+                output += top_five[i] + "   ";
+                for (int j = 0; j < 5; j++)
+                {
+                    output += bc.Count(top_five[i], top_five[j]) + "    ";
+                }
+                output += "\n";
             }
             return output;
         }
