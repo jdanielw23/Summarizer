@@ -86,22 +86,29 @@ namespace Summarizer.Model.Andrews_Implementation
             string output = "";
             BigramCounter bc = new BigramCounter(clean_sentences, wf.Top(5));
             string[] top_five = wf.Top(5);
-            output += "      " + top_five[0] + " " + top_five[1] + " " + top_five[2] + " " + top_five[3] + " " + top_five[4] + "\n";
+            output += "          " + f(top_five[0]) + f(top_five[1]) + f(top_five[2])
+                + f(top_five[3]) + f(top_five[4]) + "\n";
             for (int i = 0; i < 5; i++)
             {
-                output += top_five[i] + "   ";
+                output += f(top_five[i]);
                 for (int j = 0; j < 5; j++)
                 {
-                    output += bc.Count(top_five[i], top_five[j]) + "    ";
+                    output += f("" + bc.Count(top_five[i], top_five[j]));
                 }
                 output += "\n";
             }
-            return output;
+            Console.WriteLine(output);
+            return "Done.";
         }
 
         private string addline(string line)
         {
             return line + "\n";
+        }
+
+        private string f(string text)
+        {
+            return String.Format("{0,-10}", text);
         }
     }
 }

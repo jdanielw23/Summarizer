@@ -31,7 +31,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
                     }
                 }
             }
-            cooccurrance = occurrance.Dot(occurrance.Transpose());
+            cooccurrance = occurrance.Transpose().Dot(occurrance);
         }
 
         public int Count(string first, string second)
