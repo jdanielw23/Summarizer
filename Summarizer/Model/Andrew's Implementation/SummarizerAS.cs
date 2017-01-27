@@ -12,7 +12,7 @@ namespace Summarizer.Model.Andrews_Implementation
     {
         private const int FREQUENCY_TABLE_LEN = 10;     // Length of frequency table.
         private const int MIN_SENT_LENGTH = 3;          // Reject sentences with less words.
-        private const int MIN_SENT_NUM = 50;            // Reject doc with less sentences.
+        private const int MIN_SENT_NUM = 1;            // Reject doc with less sentences.
         private const double MIN_SENT_PERCENT = 0.70;   // Reject doc with less valid sentences.
         private const bool KEEP_INVALID_SENT = false;   // Keep invalid sentences?
         private const bool REMOVE_NUM = true;           // Remove numbers?
@@ -68,17 +68,17 @@ namespace Summarizer.Model.Andrews_Implementation
             // TODO: determine the most frequent words and/or bigrams...
 
             string[] chosen = { "", "", "" }; // Should contain top 3 scored sentences.
+            WordFrequencies wf = new WordFrequencies(clean_sentences);
 
             // TODO: score sentences, and put top three in "chosen"...
 
             string output = "";
-            output += addline("Percent valid: " + (percentValid * 100) + "%");
-            output += addline("Total words: " + approxNumOfWords);
-            output += addline("Valid-sentence words: " + numOfWordsInValidSentences);
-            output += addline("");
-            output += addline(chosen[0]);
-            output += addline(chosen[1]);
-            output += addline(chosen[2]);
+            int test = 20;
+            string[] test_arr = wf.Top(test);
+            for (int i = 0; i < test; i++)
+            {
+                output += addline(test_arr[i] + " occurrs " + wf.Count(test_arr[i]) + " times.");
+            }
             return output;
         }
 

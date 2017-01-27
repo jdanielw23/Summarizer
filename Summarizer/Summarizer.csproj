@@ -105,6 +105,8 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Model\Andrew%27s Implementation\Cleaner.cs" />
+    <Compile Include="Model\Andrew%27s Implementation\Table.cs" />
+    <Compile Include="Model\Andrew%27s Implementation\WordFrequencies.cs" />
     <Compile Include="Model\Daniels Implementation\Bigram.cs" />
     <Compile Include="Model\Daniels Implementation\FrequencyLocation.cs" />
     <Compile Include="Model\Andrew%27s Implementation\SummarizerAS.cs" />

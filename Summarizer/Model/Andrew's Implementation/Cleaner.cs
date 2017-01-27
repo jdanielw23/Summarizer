@@ -55,7 +55,11 @@ namespace Summarizer.Model.Andrew_s_Implementation
                         clean_word = stemmer.Stem(clean_word);
                     }
                 }
-                clean += (clean_word == "" ? "" : (clean_word + " "));
+                else
+                {
+                    clean_word = "";
+                }
+                clean += ((clean_word == "") ? "" : (clean_word + " "));
             }
             return clean;
         }
