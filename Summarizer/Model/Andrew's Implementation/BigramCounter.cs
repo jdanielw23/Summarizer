@@ -17,6 +17,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
             int num_sent = sentences.Length;
             int num_cons = constituents.Length;
             Matrix occurrance = new Matrix(num_sent, num_cons);
+            Monitor monitor = new Monitor("bigram calculation", num_sent);
             for (int i = 0; i < num_sent; i++)
             {
                 for (int j = 0; j < num_cons; j++)
@@ -30,6 +31,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
                         occurrance.Set(i, j, 0);
                     }
                 }
+                monitor.Ping();
             }
             cooccurrance = occurrance.Transpose().Dot(occurrance);
         }

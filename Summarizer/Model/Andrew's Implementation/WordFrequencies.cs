@@ -14,9 +14,13 @@ namespace Summarizer.Model.Andrew_s_Implementation
         {
             string clean_text = clean(text);
             words = new Table();
-            foreach (string word in clean_text.Split(' '))
+            string[] words_arr = clean_text.Split(' ');
+            Monitor monitor = new Monitor("word frequency calculation",
+                                            words_arr.Length);
+            foreach (string word in words_arr)
             {
                 words.Add(word, 1);
+                monitor.Ping();
             }
         }
 
@@ -36,17 +40,20 @@ namespace Summarizer.Model.Andrew_s_Implementation
         {
             string new_string = "";
             if (text == "" || text == null) return "";
-            foreach (char c in text)
-            {
-                if (char.IsWhiteSpace(c))
-                {
-                    new_string += " ";
-                }
-                else if (char.IsLetter(c))
-                {
-                    new_string += char.ToLower(c);
-                }
-            }
+            //Monitor monitor = new Monitor("second cleaning", text.Length);
+            //foreach (char c in text)
+            //{
+            //    if (char.IsWhiteSpace(c))
+            //    {
+            //        new_string += " ";
+            //    }
+            //    else if (char.IsLetter(c))
+            //    {
+            //        new_string += char.ToLower(c);
+            //    }
+            //    monitor.Ping();
+            //}
+            new_string = text.ToLower();
             return new_string;
         }
     }

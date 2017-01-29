@@ -10,9 +10,9 @@ namespace Summarizer.Model.Andrews_Implementation
 {
     class SummarizerAS : SummarizerImplementation
     {
-        private const int FREQUENCY_TABLE_LEN = 10;     // Length of frequency table.
+        private const int FREQUENCY_TABLE_LEN = 24;     // Length of frequency table.
         private const int MIN_SENT_LENGTH = 3;          // Reject sentences with less words.
-        private const int MIN_SENT_NUM = 1;            // Reject doc with less sentences.
+        private const int MIN_SENT_NUM = 24;            // Reject doc with less sentences.
         private const double MIN_SENT_PERCENT = 0.70;   // Reject doc with less valid sentences.
         private const bool KEEP_INVALID_SENT = false;   // Keep invalid sentences?
         private const bool REMOVE_NUM = true;           // Remove numbers?
@@ -32,12 +32,15 @@ namespace Summarizer.Model.Andrews_Implementation
             {
                 return "File is empty.";
             }
+            Monitor monitor_null_removal = new Monitor("removal of null sentences",
+                                            raw_sentences.Length);
             for (int i = 0; i < raw_sentences.Length; i++)
             {
                 if (raw_sentences[i] == null)
                 {
                     raw_sentences[i] = "";
                 }
+                monitor_null_removal.Ping();
             }
 
             int sentence_count = raw_sentences.Length;
@@ -51,6 +54,7 @@ namespace Summarizer.Model.Andrews_Implementation
                 return "Less than " + MIN_SENT_NUM
                     + " sentences in document.";
             }
+            Monitor monitor_sent_clean = new Monitor("sentence cleaning", sentence_count);
             for (int i = 0; i < sentence_count; i++)
             {
                 int sentence_len = raw_sentences[i].Split(' ').Length;
@@ -68,6 +72,7 @@ namespace Summarizer.Model.Andrews_Implementation
                     clean_sentences[i] = "";
                 }
                 approxNumOfWords += sentence_len;
+                monitor_sent_clean.Ping();
             }
             double percentValid = (double)numOfWordsInValidSentences / approxNumOfWords;
             if (percentValid < MIN_SENT_PERCENT)
@@ -75,7 +80,7 @@ namespace Summarizer.Model.Andrews_Implementation
                 return "Not enough (<" + (MIN_SENT_PERCENT * 100)
                         + "%) valid sentences in document.";
             }
-
+            Test.Out();
             string[] chosen; // Should contain top 3 scored sentences.
             WordFrequencies wf = new WordFrequencies(clean_sentences);
 
@@ -95,7 +100,8 @@ namespace Summarizer.Model.Andrews_Implementation
             BigramCounter bc = new BigramCounter(clean_sentences,
                                                  wf.Top(FREQUENCY_TABLE_LEN));
             Scorer scorer = new Scorer(clean_sentences);
-            scorer.ScoreWithBigrams(bc);
+            scorer.ScoreWithComplexBigrams(bc);
+            //scorer.ScoreWithBigrams(bc);
             //scorer.ScoreWithWordFrequencies(wf);
             chosen = scorer.Top(3);
             IndexFinder ifinder = new IndexFinder(clean_sentences);

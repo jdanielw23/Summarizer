@@ -112,8 +112,10 @@
     <Compile Include="Model\Andrew%27s Implementation\DTable.cs" />
     <Compile Include="Model\Andrew%27s Implementation\IndexFinder.cs" />
     <Compile Include="Model\Andrew%27s Implementation\Matrix.cs" />
+    <Compile Include="Model\Andrew%27s Implementation\Monitor.cs" />
     <Compile Include="Model\Andrew%27s Implementation\Scorer.cs" />
     <Compile Include="Model\Andrew%27s Implementation\Table.cs" />
+    <Compile Include="Model\Andrew%27s Implementation\Test.cs" />
     <Compile Include="Model\Andrew%27s Implementation\WordFrequencies.cs" />
     <Compile Include="Model\Daniels Implementation\Bigram.cs" />
     <Compile Include="Model\Daniels Implementation\FrequencyLocation.cs" />
