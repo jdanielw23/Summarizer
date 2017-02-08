@@ -26,6 +26,7 @@ namespace Summarizer.Model.Andrews_Implementation
 
         public string SummarizeDocument(string filePath)
         {
+            Clock c = new Clock();
             string[] raw_sentences = Cleaner.splitToSentences(
                 System.IO.File.ReadAllText(filePath));
             if (raw_sentences == null)
@@ -111,6 +112,7 @@ namespace Summarizer.Model.Andrews_Implementation
                 output += addline("\"" + Cleaner.RemoveNewlines(raw_sentences[index])
                             + "\" (" + Math.Round(scorer.ScoreOf(sentence), 3) + ")");
             }
+            output += addline(c.query());
             return output;
         }
 

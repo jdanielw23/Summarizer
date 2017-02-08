@@ -48,7 +48,8 @@ namespace Summarizer.Model.Andrew_s_Implementation
                     {
                         score += bc.Count(word, words[i]);
                         /*
-                         * This inner bit of code will be run
+                         * For each sentence, this inner bit
+                         * of code will be run a total of
                          * 0.5(n^2 + n) times, where n is the 
                          * number of words in the sentence.
                          * (i.e. the value of "length")

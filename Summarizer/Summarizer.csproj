@@ -109,6 +109,7 @@
     </Compile>
     <Compile Include="Model\Andrew%27s Implementation\BigramCounter.cs" />
     <Compile Include="Model\Andrew%27s Implementation\Cleaner.cs" />
+    <Compile Include="Model\Andrew%27s Implementation\Clock.cs" />
     <Compile Include="Model\Andrew%27s Implementation\DTable.cs" />
     <Compile Include="Model\Andrew%27s Implementation\IndexFinder.cs" />
     <Compile Include="Model\Andrew%27s Implementation\Matrix.cs" />
