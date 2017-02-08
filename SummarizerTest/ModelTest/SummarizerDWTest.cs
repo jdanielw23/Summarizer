@@ -21,13 +21,13 @@ namespace SummarizerTest.ModelTest
         {
             const int NUM_BOOKS = 16;
             int count = 0;
-            foreach (string path in Directory.EnumerateFiles(@"D:\My Libraries\My Documents\The Bible txt\Fixed"))
+            foreach (string path in Directory.EnumerateFiles(@"..\..\..\Summarizer\Documents\The Bible txt - Original"))
             {                
                 FileInfo file = new FileInfo(path);
                 if (file.Extension.Equals(".txt"))
                 {
                     count++;
-                    string newFilePath = @"D:\My Libraries\My Documents\The Bible txt\Summarized\" + file.Name;
+                    string newFilePath = @"..\..\..\Summarizer\Documents\The Bible txt - Summarized\" + file.Name;
                     SummarizerDW summarizer = new SummarizerDW();
                     summarizer.SummarizeToNewDocument(path, newFilePath);
                 }
