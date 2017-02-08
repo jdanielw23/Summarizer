@@ -9,17 +9,21 @@ namespace Summarizer.Model.Daniels_Implementation
     class Summary
     {
         private int MinSentenceLength;
+        private int MaxSentenceLength;
         private IList<SentenceScore> _Summary = new List<SentenceScore>();
 
-        public Summary(int minSentenceLength)
+        public Summary(int minSentenceLength, int maxSentenceLength)
         {
             MinSentenceLength = minSentenceLength;
+            MaxSentenceLength = maxSentenceLength;
         }
 
         public void AddToSummary(SentenceScore sentence)
         {
             if (_Summary.Any(sent => sent.Sentence.Equals(sentence.Sentence)) ||
-                sentence.Sentence.Split(' ').Length < MinSentenceLength)
+                sentence.Sentence.Split(' ').Length < MinSentenceLength ||
+                sentence.Sentence.Split(' ').Length > MaxSentenceLength ||
+                sentence.Sentence.EndsWith("?"))
                 return;
 
             if (_Summary.Count < 3)

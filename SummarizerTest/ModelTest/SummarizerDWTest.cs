@@ -19,7 +19,7 @@ namespace SummarizerTest.ModelTest
         [TestMethod]
         public void SummarizeAllDocumentsTest()
         {
-            const int NUM_BOOKS = 5;
+            const int NUM_BOOKS = 16;
             int count = 0;
             foreach (string path in Directory.EnumerateFiles(@"D:\My Libraries\My Documents\The Bible txt\Fixed"))
             {                

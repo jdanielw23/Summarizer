@@ -13,6 +13,7 @@ namespace Summarizer.Model.Daniels_Implementation
     public class SummarizerDW : SummarizerImplementation
     {
         private int MinSentenceLength;
+        private int MaxSentenceLength;
         private int MinWordLength;
 
         /*********************************************
@@ -31,10 +32,11 @@ namespace Summarizer.Model.Daniels_Implementation
             -Maybe create regex that will separate the document by verse or sentence, whichever is most complete.
         **********************************************/
 
-        public SummarizerDW(int minWordLength = 3, int minSentenceLength = 5)
+        public SummarizerDW(int minWordLength = 3, int minSentenceLength = 8, int maxSentenceLength = 50)
         {
             MinWordLength = minWordLength;
             MinSentenceLength = minSentenceLength;
+            MaxSentenceLength = maxSentenceLength;
         }
 
         public string SummarizeDocument(string filePath)
@@ -45,7 +47,7 @@ namespace Summarizer.Model.Daniels_Implementation
 
         public string SummarizeDocumentMethod2(string filePath)
         {
-            Summary summary = new Summary(MinSentenceLength);
+            Summary summary = new Summary(MinSentenceLength, MaxSentenceLength);
 
             // Read in the text
             string text = System.IO.File.ReadAllText(filePath);
@@ -240,7 +242,7 @@ namespace Summarizer.Model.Daniels_Implementation
         /*****************************************************/
         private string SimplifyWord(string word, bool stemWord)
         {
-            string trimmedWord = word.Trim().ToLower().TrimEnd(',', ':', ';', '.', '!', '?');
+            string trimmedWord = word.Trim().ToLower().TrimEnd(',', ':', ';', '.', '!', '?','s');
 
             if (stemWord)
                 trimmedWord = new EnglishStemmer().Stem(trimmedWord);
