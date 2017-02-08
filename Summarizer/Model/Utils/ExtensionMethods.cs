@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,6 +9,60 @@ namespace Summarizer.Model.Utils
 {
     public static class ExtensionMethods
     {
+        /// <summary>
+        /// Capitalizes the first letter in a string
+        /// </summary>
+        /// <param name="input"></param>
+        /// <returns></returns>
+        public static string Capitalize(this string input)
+        {
+            if (string.IsNullOrEmpty(input))
+                return input;
+
+            StringBuilder output = new StringBuilder();
+            for (int i = 0; i < input.Length; i++)
+            {
+                output.Append(input[i].ToString().ToUpper());
+
+                if (input[i].IsLetter())
+                {
+                    output.Append(input.Substring(i + 1));
+                    break;
+                }
+            }
+            return output.ToString();
+        }
+
+        /// <summary>
+        /// Capitalizes each word in a string
+        /// </summary>
+        /// <param name="input"></param>
+        /// <returns></returns>
+        public static string ToTitleCase(this string input)
+        {
+            return CultureInfo.CurrentCulture.TextInfo.ToTitleCase(input.ToLower());
+        }
+
+        public static bool ContainsLowerCaseLetter(this string value)
+        {
+            foreach (char c in value.ToArray())
+            {
+                if (c.IsLetter() && !c.IsUpper())
+                    return true;
+            }
+            return false;
+        }
+
+        public static bool IsLetter(this char value)
+        {
+            return value.IsUpper() || (value >= 97 && value <= 122);
+        }
+
+        public static bool IsUpper(this char value)
+        {
+            return value <= 91 && value >= 65;
+        }
+
         public static bool ContainsOnlyLetters(this string word)
         {
             foreach (char c in word)
