@@ -100,8 +100,8 @@ namespace Summarizer.Model.Andrews_Implementation
             BigramCounter bc = new BigramCounter(clean_sentences,
                                                  wf.Top(FREQUENCY_TABLE_LEN));
             Scorer scorer = new Scorer(clean_sentences);
-            scorer.ScoreWithComplexBigrams(bc);
-            //scorer.ScoreWithBigrams(bc);
+            //scorer.ScoreWithComplexBigrams(bc);
+            scorer.ScoreWithBigrams(bc);
             //scorer.ScoreWithWordFrequencies(wf);
             chosen = scorer.Top(3);
             IndexFinder ifinder = new IndexFinder(clean_sentences);
