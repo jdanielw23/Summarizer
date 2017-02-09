@@ -92,5 +92,23 @@ namespace Summarizer.Model.Utils
             }
             return sb.ToString();
         }
+
+        public static bool Contains<T>(this IList<T> list, params T[] items)
+        {
+            foreach (T item in items)
+            {
+                if (!list.Contains(item))
+                    return false;
+            }
+            return true;
+        }
+
+        public static bool ContainsOnly<T>(this IList<T> list, params T[] items)
+        {
+            if (list.Count != items.Length)
+                return false;
+            return list.Contains(items);
+        }
+
     }
 }

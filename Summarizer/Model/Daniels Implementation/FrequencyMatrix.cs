@@ -93,7 +93,6 @@ namespace Summarizer.Model.Daniels_Implementation
                 //count++;
                 foreach (string synonym in meaning.Synonyms)
                 {
-                    // might need to stem Value
                     if (Matrix.ContainsKey(synonym))
                     {
                         similarKey = synonym;

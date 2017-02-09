@@ -122,11 +122,11 @@ namespace Summarizer.Model.Daniels_Implementation
 
             // This is the data structure for my bigram
             Bigram wordFrequency = new Bigram();
-            string prevWord = "";
 
             // Iterate through each sentence
             for (int sentenceIndex = 0; sentenceIndex < sentences.Length; sentenceIndex++)
             {
+                string prevWord = "";
                 // Break each sentence into words
                 foreach (string rawWord in sentences[sentenceIndex].Split(' '))
                 {
@@ -278,7 +278,7 @@ namespace Summarizer.Model.Daniels_Implementation
             return true;
         }
 
-        private string[] SplitIntoSentences(string text)
+        public static string[] SplitIntoSentences(string text)
         {
             //string pattern = @"[A-Z]([a-z]| )+[a-z][a-zA-Z0-9\-\(\)\/\,\'\;\:\s*\n*]*[\.]";
             string pattern = @"[^\.\?\!]*[\.\?\!]";

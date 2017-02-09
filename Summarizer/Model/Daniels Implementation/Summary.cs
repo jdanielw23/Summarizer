@@ -6,11 +6,17 @@ using System.Threading.Tasks;
 
 namespace Summarizer.Model.Daniels_Implementation
 {
-    class Summary
+    public class Summary
     {
         private int MinSentenceLength;
         private int MaxSentenceLength;
         private IList<SentenceScore> _Summary = new List<SentenceScore>();
+
+        public int NumSentences
+        { get { return _Summary.Count; } }
+
+        public SentenceScore this[int index]
+        { get { return _Summary[index]; } }
 
         public Summary(int minSentenceLength, int maxSentenceLength)
         {
@@ -26,11 +32,7 @@ namespace Summarizer.Model.Daniels_Implementation
                 sentence.Sentence.EndsWith("?"))
                 return;
 
-            if (_Summary.Count < 3)
-            {
-                Insert(sentence);
-            }
-            else if (sentence.Score > MinScore())
+            if (_Summary.Count < 3 || sentence.Score > MinScore())
             {
                 Insert(sentence);
             }
