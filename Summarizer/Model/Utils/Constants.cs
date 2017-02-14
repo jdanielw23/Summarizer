@@ -87,5 +87,19 @@ namespace Summarizer.Model.Utils
                 };
             }
         }
+       
+        public static string[] Punctuation
+        {
+            get
+            {
+                return new string[]
+                {
+                        // Feel free to add to this, I just put it here to help remove punctuation from
+                        // my implementation - Ryan
+                        ".", "!", "?", ",", ";", ":", "'", "\"", "\n", "(", ")", "<", ">"
+
+                };
+            }
+        }
     }
 }
