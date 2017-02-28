@@ -103,6 +103,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="BibleMainWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -110,6 +114,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BibleMainWindow.xaml.cs">
+      <DependentUpon>BibleMainWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="Model\Andrew%27s Implementation\BigramCounter.cs" />
     <Compile Include="Model\Andrew%27s Implementation\Cleaner.cs" />
@@ -120,6 +127,7 @@
     <Compile Include="Model\Andrew%27s Implementation\Table.cs" />
     <Compile Include="Model\Andrew%27s Implementation\WordFrequencies.cs" />
     <Compile Include="Model\Daniels Implementation\Bigram.cs" />
+    <Compile Include="Model\Daniels Implementation\Diagrammer.cs" />
     <Compile Include="Model\Daniels Implementation\FrequencyLocation.cs" />
     <Compile Include="Model\Andrew%27s Implementation\SummarizerAS.cs" />
     <Compile Include="Model\Daniels Implementation\FrequencyMatrix.cs" />
@@ -174,6 +182,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Resources\" />
     <Folder Include="View\" />
   </ItemGroup>
   <ItemGroup>
