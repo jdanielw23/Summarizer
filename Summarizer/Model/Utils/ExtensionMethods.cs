@@ -76,7 +76,8 @@ namespace Summarizer.Model.Utils
         }
 
         /// <summary>
-        /// Calls the ToString method of each item in the list and returns a string with each item separated by the specified delimiter.
+        /// Calls the ToString method of each item in the list and returns a 
+        /// string with each item separated by the specified delimiter.
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="list"></param>

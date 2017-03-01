@@ -29,10 +29,12 @@ namespace Summarizer.Model.Daniels_Implementation
             -Maybe instead of just using the frequency of each word, try to account for words
              that occur too frequently (Mean, StdDev).
             -Maybe just take the sentence before and after the highest scoring sentence?
-            -Maybe create regex that will separate the document by verse or sentence, whichever is most complete.
+            -Maybe create regex that will separate the document by verse or sentence,
+                whichever is most complete.
         **********************************************/
 
-        public SummarizerDW(int minWordLength = 3, int minSentenceLength = 8, int maxSentenceLength = 50)
+        public SummarizerDW(int minWordLength = 3, int minSentenceLength = 8,
+            int maxSentenceLength = 50)
         {
             MinWordLength = minWordLength;
             MinSentenceLength = minSentenceLength;
@@ -158,7 +160,8 @@ namespace Summarizer.Model.Daniels_Implementation
             }
 
             // Create a simpler word frequency with the two words combined together
-            IDictionary<string, FrequencyLocation> finalWordFrequency = wordFrequency.FinalWordFrequency;
+            IDictionary<string, FrequencyLocation> finalWordFrequency = wordFrequency
+                                    .FinalWordFrequency;
 
             // FURTHER ANALYSIS:
             // Account for word frequencies that are too common?
@@ -167,8 +170,10 @@ namespace Summarizer.Model.Daniels_Implementation
             IList<int> commonIndexes = new List<int>();
             for (int i = 0; i < 5; i++)
             {
-                foreach(int index in finalWordFrequency.OrderByDescending(kv => kv.Value.Frequency).ElementAt(i).Value.Locations.Intersect(
-                finalWordFrequency.OrderByDescending(kv => kv.Value.Frequency).ElementAt(i + 1).Value.Locations))
+                foreach(int index in finalWordFrequency.OrderByDescending(kv => kv.Value
+                                .Frequency).ElementAt(i).Value.Locations.Intersect(
+                finalWordFrequency.OrderByDescending(kv => kv.Value.Frequency)
+                                .ElementAt(i + 1).Value.Locations))
                 {
                     if (!commonIndexes.Contains(index))
                         commonIndexes.Add(index);
@@ -199,7 +204,8 @@ namespace Summarizer.Model.Daniels_Implementation
             /****    OPTION 1: This will print the word frequencies    ****
             foreach (var pair in finalWordFrequency.OrderByDescending(kv => kv.Value.Frequency))
             {
-                //// This will write the word pair frequencies, number of sentences, and the list of sentence indexes
+                //// This will write the word pair frequencies, number of sentences,
+                //  and the list of sentence indexes
                 summary.AppendLine(string.Format("{0}: {1}, Num sentences: {2}; {3}\n", 
                     pair.Key, pair.Value.Frequency, 
                     pair.Value.Locations.Count, 
@@ -208,8 +214,10 @@ namespace Summarizer.Model.Daniels_Implementation
             /****/
             
 
-            /****    OPTION 2: This will print the top 3 or fewer sentences containing the most common word pair    ****
-            var mostCommonPair = finalWordFrequency.OrderByDescending(kv => kv.Value.Frequency).ElementAt(0);
+            /****    OPTION 2: This will print the top 3 or fewer sentences containing
+             *  the most common word pair    ****
+            var mostCommonPair = finalWordFrequency.OrderByDescending(kv => kv.Value.Frequency)
+                                        .ElementAt(0);
             int count = 0;
             foreach (int location in mostCommonPair.Value.Locations)
             {
@@ -262,7 +270,8 @@ namespace Summarizer.Model.Daniels_Implementation
         /*****************************************************/
 
         /// <summary>
-        /// Trims punctuation and spacing off of the supplied word and if specified, also stems the word
+        /// Trims punctuation and spacing off of the supplied word and if specified,
+        /// also stems the word
         /// </summary>
         /// <param name="word">The word to be simplified</param>
         /// <param name="stemWord">If true, stems the word</param>
@@ -281,11 +290,15 @@ namespace Summarizer.Model.Daniels_Implementation
         /// Using various options, checks to see if the supplied word is valid
         /// </summary>
         /// <param name="word">Word to check</param>
-        /// <param name="minWordLength">If true, returns false if word.Length is less than MinWordLength</param>
-        /// <param name="lettersOnly">If true, returns false is words contains anything other than letters</param>
+        /// <param name="minWordLength">If true, returns false if word.Length is less
+        /// than MinWordLength</param>
+        /// <param name="lettersOnly">If true, returns false is words contains
+        /// anything other than letters</param>
         /// <param name="noStopWords">If true, returns false if the word is a stop word</param>
-        /// <param name="noVerbs">If true, returns false if word is a verb NOTE: Not yet implemented</param>
-        private bool IsValidWord(string word, bool minWordLength, bool lettersOnly, bool noStopWords, bool noVerbs)
+        /// <param name="noVerbs">If true, returns false if word is a verb
+        /// NOTE: Not yet implemented</param>
+        private bool IsValidWord(string word, bool minWordLength, bool lettersOnly,
+            bool noStopWords, bool noVerbs)
         {
             if (minWordLength)
             {

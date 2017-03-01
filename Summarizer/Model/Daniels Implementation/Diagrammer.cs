@@ -26,12 +26,18 @@ namespace Summarizer.Model.Daniels_Implementation
             HashSet<string> words = new HashSet<string>();
 
             // For referencing
-            string[] allVerbs = System.IO.File.ReadAllLines(@"..\..\..\Resources\Bible KJV PoS\Verbs.txt");
-            string[] allAdverbs = System.IO.File.ReadAllLines(@"..\..\..\Resources\Bible KJV PoS\Adverbs.txt");
-            string[] allAdjectives = System.IO.File.ReadAllLines(@"..\..\..\Resources\Bible KJV PoS\Adjectives.txt");
-            string[] allPronouns = System.IO.File.ReadAllLines(@"..\..\..\Resources\Bible KJV PoS\Pronouns.txt");
-            string[] allPrepositions = System.IO.File.ReadAllLines(@"..\..\..\Resources\Bible KJV PoS\Prepositions.txt");
-            string[] allProperNouns = System.IO.File.ReadAllLines(@"..\..\..\Resources\Bible KJV PoS\Proper Nouns.txt");
+            string[] allVerbs = System.IO.File
+                .ReadAllLines(@"..\..\..\Resources\Bible KJV PoS\Verbs.txt");
+            string[] allAdverbs = System.IO.File
+                .ReadAllLines(@"..\..\..\Resources\Bible KJV PoS\Adverbs.txt");
+            string[] allAdjectives = System.IO.File
+                .ReadAllLines(@"..\..\..\Resources\Bible KJV PoS\Adjectives.txt");
+            string[] allPronouns = System.IO.File
+                .ReadAllLines(@"..\..\..\Resources\Bible KJV PoS\Pronouns.txt");
+            string[] allPrepositions = System.IO.File
+                .ReadAllLines(@"..\..\..\Resources\Bible KJV PoS\Prepositions.txt");
+            string[] allProperNouns = System.IO.File
+                .ReadAllLines(@"..\..\..\Resources\Bible KJV PoS\Proper Nouns.txt");
             string[] allArticles = { "an", "a", "and", "the", "thou" };
 
             // Read in the text
@@ -39,7 +45,8 @@ namespace Summarizer.Model.Daniels_Implementation
 
             foreach (string rawWord in text.Split(' '))
             {
-                string word = rawWord.ToLower().Trim().TrimStart('(','\'','"').TrimEnd(':', ';', '"', '\'', '?', '.', ',', '!', ')');
+                string word = rawWord.ToLower().Trim().TrimStart('(','\'','"')
+                    .TrimEnd(':', ';', '"', '\'', '?', '.', ',', '!', ')');
 
                 if (word.ContainsOnlyLetters() && !string.IsNullOrEmpty(word))
                 {
@@ -64,15 +71,24 @@ namespace Summarizer.Model.Daniels_Implementation
                 }
             }
             
-            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Not Found.txt", others.ToArray());
-            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Verbs.txt", verbs.ToArray());
-            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Adverbs.txt", adverbs.ToArray());
-            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Adjectives.txt", adjectives.ToArray());
-            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Pronouns.txt", pronouns.ToArray());
-            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Prepositions.txt", prepositions.ToArray());
-            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Articles.txt", articles.ToArray());
-            //System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Proper Nouns.txt", properNouns.ToArray());
-            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Posessives.txt", posessives.ToArray());
+            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Not Found.txt",
+                others.ToArray());
+            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Verbs.txt",
+                verbs.ToArray());
+            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Adverbs.txt",
+                adverbs.ToArray());
+            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Adjectives.txt",
+                adjectives.ToArray());
+            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Pronouns.txt",
+                pronouns.ToArray());
+            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Prepositions.txt",
+                prepositions.ToArray());
+            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Articles.txt",
+                articles.ToArray());
+            //System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Proper Nouns.txt",
+                //properNouns.ToArray());
+            System.IO.File.WriteAllLines(@"..\..\..\Resources\Bible KJV PoS\Posessives.txt",
+                posessives.ToArray());
         }
 
 

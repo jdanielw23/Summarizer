@@ -8,7 +8,8 @@ namespace Summarizer.Model
 {
     /// <summary>
     /// Created by J. Daniel Worthington
-    /// Structure for holding a key's frequency as well as a list of the sentence indexes where the key occurs
+    /// Structure for holding a key's frequency as well as a list of the sentence
+    /// indexes where the key occurs
     /// </summary>
     public class FrequencyLocation
     {

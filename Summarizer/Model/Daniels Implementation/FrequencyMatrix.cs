@@ -84,15 +84,18 @@ namespace Summarizer.Model.Daniels_Implementation
             StringBuilder sb = new StringBuilder();
             foreach (var pair in Matrix.OrderByDescending(kv => kv.Value.Frequency))
             {
-                //sb.AppendLine(string.Format("{0} => Frequency: {1}; Locations: {2}", pair.Key, pair.Value.Frequency, pair.Value.Locations.ListData(",")));
-                sb.AppendLine(string.Format("{0} => Frequency: {1}", pair.Key, pair.Value.Frequency));
+                //sb.AppendLine(string.Format("{0} => Frequency: {1}; Locations: {2}",
+                    //pair.Key, pair.Value.Frequency, pair.Value.Locations.ListData(",")));
+                sb.AppendLine(string.Format("{0} => Frequency: {1}", pair.Key,
+                                pair.Value.Frequency));
             }
             return sb.ToString();
         }
 
         /// <summary>
         /// Utilizes the NHunspell library.
-        /// Looks up the key in a Thesaurus and returns true if the Matrix contains either the key or any synonyms of the key
+        /// Looks up the key in a Thesaurus and returns true if the Matrix contains
+        /// either the key or any synonyms of the key
         /// </summary>
         /// <param name="key">They key to lookup</param>
         /// <param name="similarKey">The found similar key</param>

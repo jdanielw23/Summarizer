@@ -50,7 +50,8 @@ namespace Summarizer.View_Model
         }
 
         /// <summary>
-        /// This function opens the Windows OpenFileDialog so that the user can select a document from anywhere on the file system.
+        /// This function opens the Windows OpenFileDialog so that the user can
+        /// select a document from anywhere on the file system.
         /// 
         /// Created by Daniel Worthington 10/15/2016
         /// </summary>

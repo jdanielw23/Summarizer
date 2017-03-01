@@ -25,13 +25,16 @@ namespace Summarizer.Model.Ryan_s_Implementation
     
     class SummarizerRR : SummarizerImplementation
     {
-        private const int   MIN_SENTENCES =                     0; // Minimum number of sentences, less will be rejected.
-        private const int   MAX_FILE_SIZE =             1000000000; // Maximum number of bytes a single document can have.
-        private const bool  REMOVE_NON_ASCII =                true; // Remove non-ascii characters from the result.
-        private const int   MIN_WORD_LENGTH =                    3; // Words smaller than this are ignored.
-        private const bool  PERFORM_STEMMING =                false; // Turns stemming on and off.
-        private const int   NUM_TOP_WORDS =                     10;
-        private const int   NUM_MIN_WORDS_TO_WORK =              6; // Do not change this!
+        private const int   MIN_SENTENCES = 0; // Minimum number of sentences, 
+                                                // less will be rejected.
+        private const int   MAX_FILE_SIZE = 1000000000; // Maximum number of bytes
+                                                    // a single document can have.
+        private const bool  REMOVE_NON_ASCII = true; // Remove non-ascii characters
+                                                    // from the result.
+        private const int   MIN_WORD_LENGTH = 3; // Words smaller than this are ignored.
+        private const bool  PERFORM_STEMMING = false; // Turns stemming on and off.
+        private const int   NUM_TOP_WORDS = 10;
+        private const int   NUM_MIN_WORDS_TO_WORK = 6; // Do not change this!
        
         private readonly char[] newLineA = { (char)13, (char)0 };
         private readonly char[] newLineB = { (char)10, (char)0 };
@@ -166,7 +169,9 @@ namespace Summarizer.Model.Ryan_s_Implementation
 
             // If we don't have enough sentences, fail.
             if (doc.getSentenceCount() < MIN_SENTENCES)
-                return "Cannot generate a summary; Document is too short. It needs at least " + MIN_SENTENCES + ", but only has " + doc.getSentenceCount() + ".";
+                return "Cannot generate a summary; Document is too short. It needs at least "
+                    + MIN_SENTENCES + ", but only has " + doc.getSentenceCount() + ".";
+
 
             // Default string, if an error occurs or we get no output.
             string summaryString = "Error: Summary could not be created.";
@@ -181,7 +186,8 @@ namespace Summarizer.Model.Ryan_s_Implementation
             // Caculate the time taken
             stopwatch.Stop();
             long time = stopwatch.ElapsedMilliseconds;
-            summaryString = "Word Frequency Table Time Taken: " + ((float)time / 1000.0f) + " seconds.\n\n";
+            summaryString = "Word Frequency Table Time Taken: " + ((float)time / 1000.0f)
+                + " seconds.\n\n";
 
             // Sort the words from highest to lowest count
             System.Diagnostics.Stopwatch stopwatch2 = new System.Diagnostics.Stopwatch();
@@ -190,7 +196,8 @@ namespace Summarizer.Model.Ryan_s_Implementation
             SortedWordList.Sort((x, y) => y.Value.count.CompareTo(x.Value.count));
             stopwatch2.Stop();
             time = stopwatch2.ElapsedMilliseconds;
-            summaryString += "Word entry sorting time: " + ((float)time / 1000.0f) + " seconds.\n\n";
+            summaryString += "Word entry sorting time: " + ((float)time / 1000.0f)
+                + " seconds.\n\n";
 
             totalTimeTaken += time;
 
@@ -234,7 +241,8 @@ namespace Summarizer.Model.Ryan_s_Implementation
 
 
 
-            // Rating will be a ratio of the total significant words to the number of words in the bigrams
+            // Rating will be a ratio of the total significant words to the number
+            // of words in the bigrams
 
             /*
             float[] rating = new float[3];
@@ -305,7 +313,8 @@ namespace Summarizer.Model.Ryan_s_Implementation
 
             /*for (int i = 0; i < union.Count; i++)
             {
-                summaryString += "(" + (union.ElementAt(i) + 1) + "): " + doc.getSentence(union.ElementAt(i)) + "\n\n";
+                summaryString += "(" + (union.ElementAt(i) + 1) + "): "
+                    + doc.getSentence(union.ElementAt(i)) + "\n\n";
             }//*/
 
 
@@ -324,7 +333,8 @@ namespace Summarizer.Model.Ryan_s_Implementation
             {
                 for (int i = 0; i < v.occurances.Count; i++)
                 {
-                    summaryString += "(" + (v.occurances.ElementAt(i) + 1) + "): " + doc.getSentence(v.occurances.ElementAt(i)) + "\n\n";
+                    summaryString += "(" + (v.occurances.ElementAt(i) + 1) + "): "
+                        + doc.getSentence(v.occurances.ElementAt(i)) + "\n\n";
                 }
             };
 
