@@ -148,6 +148,7 @@
     <Compile Include="Model\Utils\ExtensionMethods.cs" />
     <Compile Include="Model\Utils\PdfToText.cs" />
     <Compile Include="Model\Utils\RTextAnalyser.cs" />
+    <Compile Include="View Model\BibleMainWindowVM.cs" />
     <Compile Include="View Model\MainWindowViewModel.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>

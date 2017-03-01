@@ -54,7 +54,7 @@ namespace Summarizer.View_Model
         /// 
         /// Created by Daniel Worthington 10/15/2016
         /// </summary>
-        public void OpenNewDocument()
+        public void SummarizeDocument()
         {
             // Create OpenFileDialog 
             Microsoft.Win32.OpenFileDialog dlg = new Microsoft.Win32.OpenFileDialog();

@@ -31,7 +31,14 @@ namespace Summarizer
 
         private void UploadDocument_Click(object sender, RoutedEventArgs e)
         {
-            ViewModel.OpenNewDocument();
+            ViewModel.SummarizeDocument();
+        }
+
+        private void SwitchUI_Click(object sender, RoutedEventArgs e)
+        {
+            Window bibleWindow = new BibleMainWindow();
+            bibleWindow.Show();
+            this.Close();
         }
     }
 }
