@@ -10,24 +10,54 @@ using System.Threading.Tasks;
 
 namespace Summarizer.Model.Daniels_Implementation
 {
+    /// <summary>
+    /// Created by J. Daniel Worthington
+    /// Contains the main logic for summarizing a document
+    /// </summary>
     public class SummarizerDW : SummarizerImplementation
     {
+        private int MinSentenceLength;
+        private int MaxSentenceLength;
         private int MinWordLength;
 
-        public SummarizerDW(int minWordLength = 3)
+        /*********************************************
+        NEXT STEPS:
+        I somewhat like the current setup.
+        
+        
+        Possible Implementation Enhancements:
+            -Maybe instead of just using the frequency of each word, try to account for words
+             that occur too frequently (Mean, StdDev).
+            -Maybe just take the sentence before and after the highest scoring sentence?
+            -Maybe create regex that will separate the document by verse or sentence, whichever is most complete.
+        **********************************************/
+
+        public SummarizerDW(int minWordLength = 3, int minSentenceLength = 8, int maxSentenceLength = 50)
         {
             MinWordLength = minWordLength;
+            MinSentenceLength = minSentenceLength;
+            MaxSentenceLength = maxSentenceLength;
         }
 
+        /// <summary>
+        /// Main interface method for summarizing a document
+        /// </summary>
+        /// <param name="filePath">The full path to the file to be summarized</param>
+        /// <returns>The summary of the document</returns>
         public string SummarizeDocument(string filePath)
         {
-            return SummarizeDocumentMethod1(filePath);
-            //return SummarizeDocumentMethod2(filePath);
+            //return SummarizeDocumentMethod1(filePath);
+            return SummarizeDocumentMethod2(filePath);
         }
 
+        /// <summary>
+        /// Algorithm 2: Uses sentence score and thesaurus to look for similar keys
+        /// </summary>
+        /// <param name="filePath">The full path to the file to be summarized</param>
+        /// <returns>The summary of the document</returns>
         public string SummarizeDocumentMethod2(string filePath)
         {
-            string summary = "";
+            Summary summary = new Summary(MinSentenceLength, MaxSentenceLength);
 
             // Read in the text
             string text = System.IO.File.ReadAllText(filePath);
@@ -35,9 +65,24 @@ namespace Summarizer.Model.Daniels_Implementation
             // Break the text into sentences
             string[] sentences = SplitIntoSentences(text);
 
-            // Move through each sentence forming groups of nouns and storing them in a word frequency matrix
-            FrequencyMatrix wordFrequency = new FrequencyMatrix();
+            /******* Simpler but same thing ******
+            IDictionary<string, int> wordFrequency = new Dictionary<string, int>();
+            foreach (string rawWord in text.Split(' '))
+            {
+                string word = SimplifyWord(rawWord, true);
 
+                if (IsValidWord(word, true, false, true, false))
+                {
+                    if (wordFrequency.ContainsKey(word))
+                        wordFrequency[word] += 1;
+                    else
+                        wordFrequency[word] = 0;
+                }
+            }
+            /****************/
+
+            /***************   ***************/
+            FrequencyMatrix wordFrequency = new FrequencyMatrix();
             for (int sentenceIndex = 0; sentenceIndex < sentences.Length; sentenceIndex++)
             {
                 StringBuilder key = new StringBuilder();
@@ -45,18 +90,43 @@ namespace Summarizer.Model.Daniels_Implementation
                 {
                     string word = SimplifyWord(rawWord, false);
 
-                    if (IsValidWord(word, false, false, true, false))
+                    if (IsValidWord(word, true, true, true, false))
                     {
                         wordFrequency.AddToMatrix(word, sentenceIndex);
                     }
                 }
             }
+            /********************************/
 
-            summary = wordFrequency.ToString();
+            for (int sentenceIndex = 0; sentenceIndex < sentences.Length; sentenceIndex++)
+            {
+                int sum = 0;
+                int numWords = 0;
+                foreach (string rawWord in sentences[sentenceIndex].Split(' '))
+                {
+                    string word = SimplifyWord(rawWord, false);
+                    numWords++;
+                    //sum += (wordFrequency.ContainsKey(word)) ? wordFrequency[word] : 0;
+                    sum += wordFrequency[word].Frequency;
+                }
+                double score = (numWords == 0) ? 0 : (sum / numWords);
 
-            return summary;
+                summary.AddToSummary(new SentenceScore()
+                {
+                    Sentence = sentences[sentenceIndex].Trim().Capitalize(),
+                    Score = score
+                });
+            }
+
+            //return wordFrequency.ToString();
+            return summary.ToString();
         }
 
+        /// <summary>
+        /// Algorithm 1: Creates a bigram and returns top 3 sentences
+        /// </summary>
+        /// <param name="filePath">The full path to the file to be summarized</param>
+        /// <returns>The summary of the document</returns>
         public string SummarizeDocumentMethod1(string filePath)
         {
             // Read in the text
@@ -67,11 +137,11 @@ namespace Summarizer.Model.Daniels_Implementation
 
             // This is the data structure for my bigram
             Bigram wordFrequency = new Bigram();
-            string prevWord = "";
 
             // Iterate through each sentence
             for (int sentenceIndex = 0; sentenceIndex < sentences.Length; sentenceIndex++)
             {
+                string prevWord = "";
                 // Break each sentence into words
                 foreach (string rawWord in sentences[sentenceIndex].Split(' '))
                 {
@@ -176,6 +246,11 @@ namespace Summarizer.Model.Daniels_Implementation
             return summary.ToString();
         }
 
+        /// <summary>
+        /// Summarizes the specified document and writes it to a new file
+        /// </summary>
+        /// <param name="filePath">File to be summarized</param>
+        /// <param name="newFilePath">File to be created from summary</param>
         public void SummarizeToNewDocument(string filePath, string newFilePath)
         {
             string summary = SummarizeDocument(filePath);
@@ -185,9 +260,16 @@ namespace Summarizer.Model.Daniels_Implementation
         /*****************************************************/
         /***************    PRIVATE METHODS    ***************/
         /*****************************************************/
+
+        /// <summary>
+        /// Trims punctuation and spacing off of the supplied word and if specified, also stems the word
+        /// </summary>
+        /// <param name="word">The word to be simplified</param>
+        /// <param name="stemWord">If true, stems the word</param>
+        /// <returns>The trimmed word</returns>
         private string SimplifyWord(string word, bool stemWord)
         {
-            string trimmedWord = word.Trim().ToLower().TrimEnd(',', ':', ';','.');
+            string trimmedWord = word.Trim().ToLower().TrimEnd(',', ':', ';', '.', '!', '?','s');
 
             if (stemWord)
                 trimmedWord = new EnglishStemmer().Stem(trimmedWord);
@@ -195,6 +277,14 @@ namespace Summarizer.Model.Daniels_Implementation
             return trimmedWord;
         }
 
+        /// <summary>
+        /// Using various options, checks to see if the supplied word is valid
+        /// </summary>
+        /// <param name="word">Word to check</param>
+        /// <param name="minWordLength">If true, returns false if word.Length is less than MinWordLength</param>
+        /// <param name="lettersOnly">If true, returns false is words contains anything other than letters</param>
+        /// <param name="noStopWords">If true, returns false if the word is a stop word</param>
+        /// <param name="noVerbs">If true, returns false if word is a verb NOTE: Not yet implemented</param>
         private bool IsValidWord(string word, bool minWordLength, bool lettersOnly, bool noStopWords, bool noVerbs)
         {
             if (minWordLength)
@@ -211,7 +301,7 @@ namespace Summarizer.Model.Daniels_Implementation
 
             if (noStopWords)
             {
-                if (Constants.ShorterStopWordList.Contains(word))
+                if (Constants.BibleStopWordList.Contains(word))
                     return false;
             }
 
@@ -223,9 +313,15 @@ namespace Summarizer.Model.Daniels_Implementation
             return true;
         }
 
-        private string[] SplitIntoSentences(string text)
+        /// <summary>
+        /// Splits the text of the document into an array of sentences.
+        /// </summary>
+        /// <param name="text">The text to be split</param>
+        /// <returns>An array of sentences</returns>
+        public static string[] SplitIntoSentences(string text)
         {
-            string pattern = @"[A-Z]([a-z]| )+[a-z][a-zA-Z0-9\-\(\)\/\,\'\:\;\s*\n*]*[\.]";
+            //string pattern = @"[A-Z]([a-z]| )+[a-z][a-zA-Z0-9\-\(\)\/\,\'\;\:\s*\n*]*[\.]";
+            string pattern = @"[^\.\?\!]*[\.\?\!]";
             IList<string> result = new List<string>();
             
             foreach (var match in Regex.Matches(text, pattern))

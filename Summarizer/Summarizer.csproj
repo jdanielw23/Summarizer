@@ -67,6 +67,10 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\External Libraries\PDFBox.NET-1.8.9\bin\IKVM.Runtime.dll</HintPath>
     </Reference>
+    <Reference Include="NHunspell, Version=1.2.5554.16953, Culture=neutral, PublicKeyToken=1ac793ea843b4366, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHunspell.1.2.5554.16953\lib\net\NHunspell.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="pdfbox-1.8.9">
       <HintPath>..\..\External Libraries\PDFBox.NET-1.8.9\bin\pdfbox-1.8.9.dll</HintPath>
     </Reference>
@@ -99,6 +103,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="BibleMainWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -106,6 +114,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BibleMainWindow.xaml.cs">
+      <DependentUpon>BibleMainWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="Model\Andrew%27s Implementation\BigramCounter.cs" />
     <Compile Include="Model\Andrew%27s Implementation\Cleaner.cs" />
@@ -119,9 +130,13 @@
     <Compile Include="Model\Andrew%27s Implementation\Test.cs" />
     <Compile Include="Model\Andrew%27s Implementation\WordFrequencies.cs" />
     <Compile Include="Model\Daniels Implementation\Bigram.cs" />
+    <Compile Include="Model\Daniels Implementation\Diagrammer.cs" />
     <Compile Include="Model\Daniels Implementation\FrequencyLocation.cs" />
     <Compile Include="Model\Andrew%27s Implementation\SummarizerAS.cs" />
     <Compile Include="Model\Daniels Implementation\FrequencyMatrix.cs" />
+    <Compile Include="Model\Daniels Implementation\SentenceScore.cs" />
+    <Compile Include="Model\Daniels Implementation\Summary.cs" />
+    <Compile Include="Model\Ryan%27s Implementation\Document.cs" />
     <Compile Include="Model\Utils\StopwordsDAO.cs" />
     <Compile Include="Model\Utils\Stemming\Among.cs" />
     <Compile Include="Model\Utils\Stemming\EnglishStemmer.cs" />
@@ -136,6 +151,7 @@
     <Compile Include="Model\Utils\ExtensionMethods.cs" />
     <Compile Include="Model\Utils\PdfToText.cs" />
     <Compile Include="Model\Utils\RTextAnalyser.cs" />
+    <Compile Include="View Model\BibleMainWindowVM.cs" />
     <Compile Include="View Model\MainWindowViewModel.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -171,41 +187,157 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Resources\" />
     <Folder Include="View\" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Documents\727SSG_ATA28_PT1A.txt" />
-    <Resource Include="Documents\727SSG_ATA28_PT1B.txt" />
-    <Resource Include="Documents\727SSG_ATA28_PT1C.txt" />
-    <Resource Include="Documents\727SSG_ATA28_PT1D.txt" />
-    <Resource Include="Documents\727SSG_ATA28_PT1E.txt" />
-    <Resource Include="Documents\727SSG_ATA28_PT1F.txt" />
-    <Resource Include="Documents\727SSG_ATA28_PT1G.txt" />
-    <Resource Include="Documents\727SSG_ATA28_PT1H.txt" />
-    <Resource Include="Documents\727SSG_ATA28_PT2A.txt" />
-    <Resource Include="Documents\727SSG_ATA28_PT2B.txt" />
-    <Resource Include="Documents\727SSG_ATA28_PT2C.txt" />
-    <Resource Include="Documents\727SSG_ATA28_PT2D.txt" />
-    <Resource Include="Documents\727SSG_ATA28_PT2E.txt" />
-    <Resource Include="Documents\727SSG_ATA28_PT2F.txt" />
-    <Resource Include="Documents\727SSG_ATA30_PT1.txt" />
-    <Resource Include="Documents\727SSG_ATA30_PT2.txt" />
-    <Resource Include="Documents\727SSG_ATA30_PT3.txt" />
-    <Resource Include="Documents\727SSG_ATA30_PT4.txt" />
-    <Resource Include="Documents\727SSG_ATA30_PT5.txt" />
-    <Resource Include="Documents\727SSG_CH01.txt" />
-    <Resource Include="Documents\727SSG_CH02.txt" />
-    <Resource Include="Documents\727SSG_CH03.txt" />
-    <Resource Include="Documents\727SSG_CH04.txt" />
-    <Resource Include="Documents\727SSG_CH05.txt" />
-    <Resource Include="Documents\727SSG_CH06.txt" />
-    <Resource Include="Documents\727SSG_CH07.txt" />
-    <Resource Include="Documents\727SSG_CH08.txt" />
-    <Resource Include="Documents\727SSG_CH09.txt" />
-    <Resource Include="Documents\727SSG_CH10.txt" />
+    <None Include="Hunspellx64.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Hunspellx86.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Model\Utils\stopwords.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Documents\The Bible txt - Original\01 - Genesis.txt" />
+    <Resource Include="Documents\The Bible txt - Original\02 - Exodus.txt" />
+    <Resource Include="Documents\The Bible txt - Original\03 - Leviticus.txt" />
+    <Resource Include="Documents\The Bible txt - Original\04 - Numbers.txt" />
+    <Resource Include="Documents\The Bible txt - Original\05 - Deuteronomy.txt" />
+    <Resource Include="Documents\The Bible txt - Original\06 - The Book of Joshua.txt" />
+    <Resource Include="Documents\The Bible txt - Original\07 - The Book of Judges.txt" />
+    <Resource Include="Documents\The Bible txt - Original\08 - The Book of Ruth.txt" />
+    <Resource Include="Documents\The Bible txt - Original\09 - The First Book of Samuel.txt" />
+    <Resource Include="Documents\The Bible txt - Original\10 - The Second Book of Samuel.txt" />
+    <Resource Include="Documents\The Bible txt - Original\11 - The First Book of the Kings.txt" />
+    <Resource Include="Documents\The Bible txt - Original\12 - The Second Book of the Kings.txt" />
+    <Resource Include="Documents\The Bible txt - Original\13 - The First Book of the Chronicles.txt" />
+    <Resource Include="Documents\The Bible txt - Original\14 - The Second Book of the Chronicles.txt" />
+    <Resource Include="Documents\The Bible txt - Original\15 - Ezra.txt" />
+    <Resource Include="Documents\The Bible txt - Original\16 - The Book of Nehemiah.txt" />
+    <Resource Include="Documents\The Bible txt - Original\17 - The Book of Esther.txt" />
+    <Resource Include="Documents\The Bible txt - Original\18 - The Book of Job.txt" />
+    <Resource Include="Documents\The Bible txt - Original\19 - The Book of Psalms.txt" />
+    <Resource Include="Documents\The Bible txt - Original\20 - The Proverbs.txt" />
+    <Resource Include="Documents\The Bible txt - Original\21 - Ecclesiastes.txt" />
+    <Resource Include="Documents\The Bible txt - Original\22 - The Song of Solomon.txt" />
+    <Resource Include="Documents\The Bible txt - Original\23 - The Book of the Prophet Isaiah.txt" />
+    <Resource Include="Documents\The Bible txt - Original\24 - The Book of the Prophet Jeremiah.txt" />
+    <Resource Include="Documents\The Bible txt - Original\25 - The Lamentations of Jeremiah.txt" />
+    <Resource Include="Documents\The Bible txt - Original\26 - The Book of the Prophet Ezekiel.txt" />
+    <Resource Include="Documents\The Bible txt - Original\27 - The Book of Daniel.txt" />
+    <Resource Include="Documents\The Bible txt - Original\28 - Hosea.txt" />
+    <Resource Include="Documents\The Bible txt - Original\29 - Joel.txt" />
+    <Resource Include="Documents\The Bible txt - Original\30 - Amos.txt" />
+    <Resource Include="Documents\The Bible txt - Original\31 - Obadiah.txt" />
+    <Resource Include="Documents\The Bible txt - Original\32 - Jonah.txt" />
+    <Resource Include="Documents\The Bible txt - Original\33 - Micah.txt" />
+    <Resource Include="Documents\The Bible txt - Original\34 - Nahum.txt" />
+    <Resource Include="Documents\The Bible txt - Original\35 - Habakkuk.txt" />
+    <Resource Include="Documents\The Bible txt - Original\36 - Zephaniah.txt" />
+    <Resource Include="Documents\The Bible txt - Original\37 - Haggai.txt" />
+    <Resource Include="Documents\The Bible txt - Original\38 - Zechariah.txt" />
+    <Resource Include="Documents\The Bible txt - Original\39 - Malachi.txt" />
+    <Resource Include="Documents\The Bible txt - Original\40 - The Gospel According to Saint Matthew.txt" />
+    <Resource Include="Documents\The Bible txt - Original\41 - The Gospel According to Saint Mark.txt" />
+    <Resource Include="Documents\The Bible txt - Original\42 - The Gospel According to Saint Luke.txt" />
+    <Resource Include="Documents\The Bible txt - Original\43 - The Gospel According to Saint John.txt" />
+    <Resource Include="Documents\The Bible txt - Original\44 - The Acts of the Apostles.txt" />
+    <Resource Include="Documents\The Bible txt - Original\45 - The Epistle of Paul the Apostle to the Romans.txt" />
+    <Resource Include="Documents\The Bible txt - Original\46 - The First Epistle of Paul the Apostle to the Corinthians.txt" />
+    <Resource Include="Documents\The Bible txt - Original\47 - The Second Epistle of Paul the Apostle to the Corinthians.txt" />
+    <Resource Include="Documents\The Bible txt - Original\48 - The Epistle of Paul the Apostle to the Galatians.txt" />
+    <Resource Include="Documents\The Bible txt - Original\49 - The Epistle of Paul the Apostle to the Ephesians.txt" />
+    <Resource Include="Documents\The Bible txt - Original\50 - The Epistle of Paul the Apostle to the Philippians.txt" />
+    <Resource Include="Documents\The Bible txt - Original\51 - The Epistle of Paul the Apostle to the Colossians.txt" />
+    <Resource Include="Documents\The Bible txt - Original\52 - The First Epistle of Paul the Apostle to the Thessalonians.txt" />
+    <Resource Include="Documents\The Bible txt - Original\53 - The Second Epistle of Paul the Apostle to the Thessalonians.txt" />
+    <Resource Include="Documents\The Bible txt - Original\54 - The First Epistle of Paul the Apostle to Timothy.txt" />
+    <Resource Include="Documents\The Bible txt - Original\55 - The Second Epistle of Paul the Apostle to Timothy.txt" />
+    <Resource Include="Documents\The Bible txt - Original\56 - The Epistle of Paul the Apostle to Titus.txt" />
+    <Resource Include="Documents\The Bible txt - Original\57 - The Epistle of Paul the Apostle to Philemon.txt" />
+    <Resource Include="Documents\The Bible txt - Original\58 - The Epistle of Paul the Apostle to the Hebrews.txt" />
+    <Resource Include="Documents\The Bible txt - Original\59 - The General Epistle of James.txt" />
+    <Resource Include="Documents\The Bible txt - Original\60 - The First Epistle General of Peter.txt" />
+    <Resource Include="Documents\The Bible txt - Original\61 - The Second General Epistle of Peter.txt" />
+    <Resource Include="Documents\The Bible txt - Original\62 - The First Epistle General of John.txt" />
+    <Resource Include="Documents\The Bible txt - Original\63 - The Second Epistle General of John.txt" />
+    <Resource Include="Documents\The Bible txt - Original\64 - The Third Epistle General of John.txt" />
+    <Resource Include="Documents\The Bible txt - Original\65 - The General Epistle of Jude.txt" />
+    <Resource Include="Documents\The Bible txt - Original\66 - The Revelation of Jesus Christ.txt" />
+    <Resource Include="Documents\The Bible txt - Original\Bible_KJV.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Documents\The Bible txt - Summarized\01 - Genesis_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\02 - Exodus_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\03 - Leviticus_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\04 - Numbers_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\05 - Deuteronomy_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\06 - The Book of Joshua_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\07 - The Book of Judges_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\08 - The Book of Ruth_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\09 - The First Book of Samuel_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\10 - The Second Book of Samuel_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\11 - The First Book of the Kings_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\12 - The Second Book of the Kings_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\13 - The First Book of the Chronicles_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\14 - The Second Book of the Chronicles_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\15 - Ezra_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\16 - The Book of Nehemiah_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\17 - The Book of Esther_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\18 - The Book of Job_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\19 - The Book of Psalms_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\20 - The Proverbs_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\21 - Ecclesiastes_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\22 - The Song of Solomon_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\23 - The Book of the Prophet Isaiah_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\24 - The Book of the Prophet Jeremiah_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\25 - The Lamentations of Jeremiah_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\26 - The Book of the Prophet Ezekiel_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\27 - The Book of Daniel_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\28 - Hosea_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\29 - Joel_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\30 - Amos_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\31 - Obadiah_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\32 - Jonah_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\33 - Micah_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\34 - Nahum_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\35 - Habakkuk_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\36 - Zephaniah_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\37 - Haggai_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\38 - Zechariah_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\39 - Malachi_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\40 - The Gospel According to Saint Matthew_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\41 - The Gospel According to Saint Mark_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\42 - The Gospel According to Saint Luke_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\43 - The Gospel According to Saint John_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\44 - The Acts of the Apostles_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\45 - The Epistle of Paul the Apostle to the Romans_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\46 - The First Epistle of Paul the Apostle to the Corinthians_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\47 - The Second Epistle of Paul the Apostle to the Corinthians_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\48 - The Epistle of Paul the Apostle to the Galatians_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\49 - The Epistle of Paul the Apostle to the Ephesians_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\50 - The Epistle of Paul the Apostle to the Philippians_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\51 - The Epistle of Paul the Apostle to the Colossians_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\52 - The First Epistle of Paul the Apostle to the Thessalonians_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\53 - The Second Epistle of Paul the Apostle to the Thessalonians_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\54 - The First Epistle of Paul the Apostle to Timothy_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\55 - The Second Epistle of Paul the Apostle to Timothy_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\56 - The Epistle of Paul the Apostle to Titus_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\57 - The Epistle of Paul the Apostle to Philemon_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\58 - The Epistle of Paul the Apostle to the Hebrews_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\59 - The General Epistle of James_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\60 - The First Epistle General of Peter_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\61 - The Second General Epistle of Peter_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\62 - The First Epistle General of John_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\63 - The Second Epistle General of John_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\64 - The Third Epistle General of John_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\65 - The General Epistle of Jude_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\66 - The Revelation of Jesus Christ_s.txt" />
+    <Resource Include="Documents\The Bible txt - Summarized\Bible_KJV_s.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

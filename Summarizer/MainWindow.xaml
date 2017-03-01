@@ -11,7 +11,14 @@
     <DockPanel>
         <!-- TITLE BAR -->
         <Border DockPanel.Dock="Top" Background="DarkBlue" Height="50">
-            <TextBlock Text="Document Summarizer" VerticalAlignment="Center" Padding="10,0" FontSize="24" Foreground="White"/>
+            <DockPanel>
+                <TextBlock Text="Document Summarizer" VerticalAlignment="Center" Padding="10,0" FontSize="24" Foreground="White"/>
+                <TextBlock DockPanel.Dock="Right" VerticalAlignment="Bottom" HorizontalAlignment="Right" Padding="10,5" >
+                    <Hyperlink Click="SwitchUI_Click" Foreground="White">
+                        <TextBlock Text="Switch to Bible Summarizer"/>
+                    </Hyperlink>
+                </TextBlock>
+            </DockPanel>
         </Border>
 
         <!-- TEXT BOX LABEL -->

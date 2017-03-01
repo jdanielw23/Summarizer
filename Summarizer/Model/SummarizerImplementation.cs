@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Summarizer.Model
 {
+    /// <summary>
+    /// Created by J. Daniel Worthington
+    /// An interface for summarization algorithm implementations
+    /// </summary>
     public interface SummarizerImplementation
     {
         /// <summary>

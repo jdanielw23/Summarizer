@@ -65,7 +65,13 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="ModelTest\BibleTest.cs" />
+    <Compile Include="ModelTest\BigramTest.cs" />
+    <Compile Include="ModelTest\DiagrammerTest.cs" />
+    <Compile Include="ModelTest\ExtensionMethodsTest.cs" />
+    <Compile Include="ModelTest\FrequencyMatrixTest.cs" />
     <Compile Include="ModelTest\SummarizerDWTest.cs" />
+    <Compile Include="ModelTest\SummaryTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

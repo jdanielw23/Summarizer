@@ -19,37 +19,42 @@ namespace SummarizerTest.ModelTest
         [TestMethod]
         public void SummarizeAllDocumentsTest()
         {
-            foreach (string path in Directory.EnumerateFiles(@"D:\My Libraries\My Documents\The Bible txt\Fixed"))
-            {
+            const int NUM_BOOKS = 16;
+            int count = 0;
+            foreach (string path in Directory.EnumerateFiles(@"..\..\..\Summarizer\Documents\The Bible txt - Original"))
+            {                
                 FileInfo file = new FileInfo(path);
                 if (file.Extension.Equals(".txt"))
                 {
-                    string newFilePath = @"D:\My Libraries\My Documents\The Bible txt\Summarized\" + file.Name;
+                    count++;
+                    string newFilePath = @"..\..\..\Summarizer\Documents\The Bible txt - Summarized\" + file.Name.Split('.')[0] + "_s" + file.Extension;
                     SummarizerDW summarizer = new SummarizerDW();
                     summarizer.SummarizeToNewDocument(path, newFilePath);
                 }
+                //if (count > NUM_BOOKS)
+                //    break;
             }
         }
 
         [TestMethod]
-        public void SentenceRegexTest()
+        public void SplitIntoSentencesTest()
         {
-            // This is a pattern to recognize an acceptable sentence
-            string pattern = @"[A-Z]([a-z]| )+[a-z][a-zA-Z0-9\-\(\)\/\,\'\:\;\s*\n*]*[\.]";
+            string text =
+                "1:8 And God called the firmament Heaven. And the evening and the morning were the second day. " +
+                "1:9 And God said, Let the waters under the heaven be gathered together " +                "unto one place, and let the dry land appear: and it was so. " +
+                "1:10 And God called the dry land Earth; and the gathering together of " +                "the waters called he Seas: and God saw that it was good. " +
+                "1:11 And God said, Let the earth bring forth grass, the herb yielding " +                "seed, and the fruit tree yielding fruit after his kind, whose seed is " +                "in itself, upon the earth: and it was so. " +
+                "1:12 And the earth brought forth grass, and herb yielding seed after " +                "his kind, and the tree yielding fruit, whose seed was in itself, after " +                "his kind: and God saw that it was good. " +
+                "1:13 And the evening and the morning were the third day. " +
+                "1:14 And God said, Let there be lights in the firmament of the heaven " +                "to divide the day from the night; and let them be for signs, and for " +                "seasons, and for days, and years: " +
+                "1:15 And let them be for lights in " +                "the firmament of the heaven to give light upon the earth: and it was so. " +
+                "1:16 And God made two great lights; the greater light to rule the day, " +                "and the lesser light to rule the night: he made the stars also? " +
+                "1:17 And God set them in the firmament of the heaven to give light " +                "upon the earth, " +
+                "1:18 And to rule over the day and over the night, and " +                "to divide the light from the darkness: and God saw that it was good. " +
+                "1:19 And the evening and the morning were the fourth day!";
 
-            string true1 = "This is an acceptable sentence.";
-            string true2 = "This is an acceptable sentence\n even though it is split.";
-            string true3 = "This is: an acceptable; sentence.";
-            string true4 = "This is: an acceptable; sentence.";
-
-            string false1 = "THIS IS NOT AN ACCEPTABLE SENTENCE";
-
-            Assert.AreEqual(true, Regex.IsMatch(true1, pattern));
-            Assert.AreEqual(true, Regex.IsMatch(true2, pattern));
-            Assert.AreEqual(true, Regex.IsMatch(true3, pattern));
-            Assert.AreEqual(true, Regex.IsMatch(true4, pattern));
-
-            Assert.AreEqual(false, Regex.IsMatch(false1, pattern));
+            string[] sentences = SummarizerDW.SplitIntoSentences(text);
+            Assert.AreEqual(11, sentences.Length);
         }
 
         [TestMethod]

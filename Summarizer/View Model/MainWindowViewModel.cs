@@ -54,7 +54,7 @@ namespace Summarizer.View_Model
         /// 
         /// Created by Daniel Worthington 10/15/2016
         /// </summary>
-        public void OpenNewDocument()
+        public void SummarizeDocument()
         {
             // Create OpenFileDialog 
             Microsoft.Win32.OpenFileDialog dlg = new Microsoft.Win32.OpenFileDialog();
@@ -72,7 +72,7 @@ namespace Summarizer.View_Model
                 // Get the selected file name
                 FilePath = dlg.FileName;
 
-                int which = 1; // 1: Andrew's, 2: Daniel's, 3: Ryan's
+                int which = 3; // 1: Andrew's, 2: Daniel's, 3: Ryan's
 
                 switch(which)
                 {
