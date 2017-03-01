@@ -10,7 +10,8 @@ using RDotNet;
 
 using System.Windows;
 
-// This class handles text analysis of a given document. It builds a word-frequency table and attempts
+// This class handles text analysis of a given document. It builds a word-frequency
+// table and attempts
 // to create a summary of the document passed in.
 
 namespace Summarizer.Model.Utils
@@ -33,7 +34,8 @@ namespace Summarizer.Model.Utils
 
         public void test(string filepath)
         {
-            MessageBox.Show("Analysis can begin", "TextAnalysis", MessageBoxButton.OK, MessageBoxImage.Exclamation);
+            MessageBox.Show("Analysis can begin", "TextAnalysis",
+                MessageBoxButton.OK, MessageBoxImage.Exclamation);
 
             engine.Evaluate("cname <- file.path(\"C:\", \"texts\")");
             engine.Evaluate("cname");

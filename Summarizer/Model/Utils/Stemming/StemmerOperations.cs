@@ -197,7 +197,8 @@ namespace Summarizer.Model.Utils.Stemming
             int i;
             for (i = 0; i != s_size; i++)
             {
-                //               if (current.charAt(cursor - s_size + i) != s.charAt(i)) return false;
+                //               if (current.charAt(cursor - s_size + i) != s.charAt(i))
+                //                              return false;
                 if (current[cursor - s_size + i] != s[i]) return false;
             }
             cursor -= s_size;
@@ -392,7 +393,8 @@ namespace Summarizer.Model.Utils.Stemming
             return adjustment;
         }
 
-        private StringBuilder StringBufferReplace(int start, int end, StringBuilder s, string s1)
+        private StringBuilder StringBufferReplace(int start, int end,
+                                                StringBuilder s, string s1)
         {
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < start; i++)
@@ -472,7 +474,8 @@ namespace Summarizer.Model.Utils.Stemming
             //StringBufferReplace(0, s.Length, s, ss);
             //return s;
             return StringBufferReplace(0, s.Length, s, current.ToString().Substring(bra, len));
-            //           return StringBufferReplace(0, lengh, s, current.ToString().Substring(bra, ket));
+            //           return StringBufferReplace(0, lengh, s, current.ToString()
+            //                                          .Substring(bra, ket));
             //           return s;
         }
 
@@ -521,7 +524,7 @@ namespace Summarizer.Model.Utils.Stemming
         //*/
 
         //};
-        ///////////////////////////// METHODS FOR CZECH STEMMER AGRESSIVE //////////////////////////////////
+        /////////////////// METHODS FOR CZECH STEMMER AGRESSIVE /////////////////////
         protected void removeDerivational()
         {
             int len = current.Length;
@@ -542,7 +545,7 @@ namespace Summarizer.Model.Utils.Stemming
                 }
                 if (current.ToString().Substring(len - 5, 5).Equals("ovisk") ||
                         current.ToString().Substring(len - 5, 5).Equals("ovstv") ||
-                        current.ToString().Substring(len - 5, 5).Equals("ovi\u0161t") ||  //-ovišt
+                        current.ToString().Substring(len - 5, 5).Equals("ovi\u0161t") || //-ovišt
                         current.ToString().Substring(len - 5, 5).Equals("ovn\u00edk"))
                 { //-ovník
 
@@ -690,7 +693,7 @@ namespace Summarizer.Model.Utils.Stemming
                     current = current.Remove(len - 2, 2);
                     return;
                 }
-                if (current.ToString().Substring(len - 2, 2).Equals("\u010dk") ||              //-čk
+                if (current.ToString().Substring(len - 2, 2).Equals("\u010dk") ||   //-čk
                         current.ToString().Substring(len - 2, 2).Equals("\u010dn") ||  //-čn
                         current.ToString().Substring(len - 2, 2).Equals("dl") ||
                         current.ToString().Substring(len - 2, 2).Equals("nk") ||
@@ -762,9 +765,9 @@ namespace Summarizer.Model.Utils.Stemming
             if (len > 6)
             {
                 if (current.ToString().Substring(len - 4, 4).Equals("e\u010dek") ||      //-eček
-                   current.ToString().Substring(len - 4, 4).Equals("\u00e9\u010dek") ||    //-éček
-                   current.ToString().Substring(len - 4, 4).Equals("i\u010dek") ||         //-iček
-                   current.ToString().Substring(len - 4, 4).Equals("\u00ed\u010dek") ||    //íček
+                   current.ToString().Substring(len - 4, 4).Equals("\u00e9\u010dek") ||  //-éček
+                   current.ToString().Substring(len - 4, 4).Equals("i\u010dek") ||       //-iček
+                   current.ToString().Substring(len - 4, 4).Equals("\u00ed\u010dek") ||  //íček
                    current.ToString().Substring(len - 4, 4).Equals("enek") ||
                    current.ToString().Substring(len - 4, 4).Equals("\u00e9nek") ||      //-ének
                    current.ToString().Substring(len - 4, 4).Equals("inek") ||

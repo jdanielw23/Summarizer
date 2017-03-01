@@ -14,6 +14,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
     class DTable : IEnumerable<string>
     {
         private Hashtable table;
+        private int sorts = 0;
         private string[] sorted_keys; // highest to lowest by values
         private int count;
 
@@ -135,6 +136,9 @@ namespace Summarizer.Model.Andrew_s_Implementation
         {
             int i = low;
             int j = high;
+            sorts++;
+            if (sorts % 1000 == 0) Console.WriteLine("Sorting... ("
+                                                    + (sorts / 1000) + ")");
             double pivot = ValueOf(sorted_keys[low + (high - low) / 2]);
             while (i <= j)
             {

@@ -11,34 +11,33 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Summarizer
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for BibleMainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class BibleMainWindow : Window
     {
-        private MainWindowViewModel ViewModel = new MainWindowViewModel();
+        private BibleMainWindowVM ViewModel = new BibleMainWindowVM();
 
-        public MainWindow()
+        public BibleMainWindow()
         {
             InitializeComponent();
             DataContext = ViewModel;
         }
 
-        private void UploadDocument_Click(object sender, RoutedEventArgs e)
-        {
-            ViewModel.SummarizeDocument();
-        }
-
         private void SwitchUI_Click(object sender, RoutedEventArgs e)
         {
-            Window bibleWindow = new BibleMainWindow();
-            bibleWindow.Show();
+            Window mainWindow = new MainWindow();
+            mainWindow.Show();
             this.Close();
+        }
+
+        private void SummarizeChapter_Click(object sender, RoutedEventArgs e)
+        {
+            ViewModel.SummarizeChapter();
         }
     }
 }

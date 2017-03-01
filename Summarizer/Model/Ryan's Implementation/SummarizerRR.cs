@@ -29,6 +29,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
    
     class SummarizerRR : SummarizerImplementation
     {
+<<<<<<< HEAD
         private const int   MIN_SENTENCES =                     0; // Minimum number of sentences, less will be rejected.
         private const int   MAX_FILE_SIZE =             1000000000; // Maximum number of bytes a single document can have.
         private const bool  REMOVE_NON_ASCII =                true; // Remove non-ascii characters from the result.
@@ -39,6 +40,19 @@ namespace Summarizer.Model.Ryan_s_Implementation
         private const bool  BIBLE_MODE =                     false;
         private const int   MIN_SENTENCE_LENGTH =                3;
 
+=======
+        private const int   MIN_SENTENCES = 0; // Minimum number of sentences, 
+                                                // less will be rejected.
+        private const int   MAX_FILE_SIZE = 1000000000; // Maximum number of bytes
+                                                    // a single document can have.
+        private const bool  REMOVE_NON_ASCII = true; // Remove non-ascii characters
+                                                    // from the result.
+        private const int   MIN_WORD_LENGTH = 3; // Words smaller than this are ignored.
+        private const bool  PERFORM_STEMMING = false; // Turns stemming on and off.
+        private const int   NUM_TOP_WORDS = 10;
+        private const int   NUM_MIN_WORDS_TO_WORK = 6; // Do not change this!
+       
+>>>>>>> origin/master
         private readonly char[] newLineA = { (char)13, (char)0 };
         private readonly char[] newLineB = { (char)10, (char)0 };
 
@@ -188,7 +202,9 @@ namespace Summarizer.Model.Ryan_s_Implementation
 
             // If we don't have enough sentences, fail.
             if (doc.getSentenceCount() < MIN_SENTENCES)
-                return "Cannot generate a summary; Document is too short. It needs at least " + MIN_SENTENCES + ", but only has " + doc.getSentenceCount() + ".";
+                return "Cannot generate a summary; Document is too short. It needs at least "
+                    + MIN_SENTENCES + ", but only has " + doc.getSentenceCount() + ".";
+
 
             // Default string, if an error occurs or we get no output.
             string summaryString = "Error: Summary could not be created.";
@@ -203,17 +219,30 @@ namespace Summarizer.Model.Ryan_s_Implementation
             // Caculate the time taken
             stopwatch.Stop();
             long time = stopwatch.ElapsedMilliseconds;
+<<<<<<< HEAD
             summaryString = "Word Frequency Table Time Taken: " + time + " milliseconds.\n";
             totalTimeTaken += time;
+=======
+            summaryString = "Word Frequency Table Time Taken: " + ((float)time / 1000.0f)
+                + " seconds.\n\n";
+>>>>>>> origin/master
 
             // Sort the words from highest to lowest count
             stopwatch.Reset();
             stopwatch.Start();
             List<KeyValuePair<string, WordFreqDataEntry>> SortedWordList = wordFreqTable.ToList();
             SortedWordList.Sort((x, y) => y.Value.count.CompareTo(x.Value.count));
+<<<<<<< HEAD
             stopwatch.Stop();
             time = stopwatch.ElapsedMilliseconds;
             summaryString += "Word entry sorting time: " + ((float)time + " milliseconds.\n");
+=======
+            stopwatch2.Stop();
+            time = stopwatch2.ElapsedMilliseconds;
+            summaryString += "Word entry sorting time: " + ((float)time / 1000.0f)
+                + " seconds.\n\n";
+
+>>>>>>> origin/master
             totalTimeTaken += time;
             
             // Build WF co-occurance matrix
@@ -260,6 +289,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
 
             stopwatch.Stop();
 
+<<<<<<< HEAD
             time = stopwatch.ElapsedMilliseconds;
             summaryString += "Bigram generation time: " + time + " milliseconds\n\n";
             totalTimeTaken += time;
@@ -269,6 +299,10 @@ namespace Summarizer.Model.Ryan_s_Implementation
             // sure to iterate by 2 to skip the second entry; It's not worth the amount
             // of time or work to remove them.
             summaryString = "";
+=======
+            // Rating will be a ratio of the total significant words to the number
+            // of words in the bigrams
+>>>>>>> origin/master
 
             float[] rating = new float[3];
             int lastHighestString = -1;
@@ -347,10 +381,16 @@ namespace Summarizer.Model.Ryan_s_Implementation
             var sentences = MaxentTagger.tokenizeText(new java.io.StringReader(text)).toArray();
             foreach (ArrayList sentence in sentences)
             {
+<<<<<<< HEAD
                 var taggedSentence = tagger.tagSentence(sentence);
                 summaryString += SentenceUtils.listToString(taggedSentence, false) + "\n\n";
             }
             //*/
+=======
+                summaryString += "(" + (union.ElementAt(i) + 1) + "): "
+                    + doc.getSentence(union.ElementAt(i)) + "\n\n";
+            }//*/
+>>>>>>> origin/master
 
             return summaryString;
 
@@ -365,6 +405,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
             {
                 for (int i = 0; i < coOccurance[k*2, (k*2)+1].Count; i++)
                 {
+<<<<<<< HEAD
                     int currentSentenceIndex = coOccurance[k * 2, (k * 2) + 1].ElementAt(i);
 
                     string[] words = Clean(doc.getSentence(currentSentenceIndex)).Split(' ');
@@ -388,6 +429,10 @@ namespace Summarizer.Model.Ryan_s_Implementation
                         rating[k] = r;
                         lastHighestString = currentSentenceIndex;
                     }
+=======
+                    summaryString += "(" + (v.occurances.ElementAt(i) + 1) + "): "
+                        + doc.getSentence(v.occurances.ElementAt(i)) + "\n\n";
+>>>>>>> origin/master
                 }
 
                 if (lastHighestString <= -1)

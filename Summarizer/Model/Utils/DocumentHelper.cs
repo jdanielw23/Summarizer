@@ -17,7 +17,8 @@ namespace Summarizer.Model.Utils
             }
             catch (Exception)
             {
-                ErrorHandler.ReportError("ERROR: The File may already be open.\n\nPlease close it and try again.");
+                ErrorHandler.ReportError("ERROR: The File may already be open.\n\n"
+                    + "Please close it and try again.");
             }
             return document;
         }
