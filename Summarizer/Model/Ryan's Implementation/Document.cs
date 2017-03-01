@@ -9,21 +9,14 @@ namespace Summarizer.Model.Ryan_s_Implementation
 {
     // This data structure prevents redundancy, storing only the starts and lengths
     // of setences so that we can look it up rather than duplicate the data.
-
-    struct SentenceData
-    {
-        public int start, length;
-    }
-
+    
     // Document class. Handles loading the text data and storing it.
-
     class Document
     {
         List<string> Sentences = new List<string>();
 
         public Document(string filePath)
         {
-            string theEntireDoc = "";
             Sentences.Clear();
 
             // Calculate sentence info
@@ -49,6 +42,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
                     // finding the values.
                     if ((sPrevChar == '!' || sPrevChar == '?' || sPrevChar == '.') && c == ' ')
                     {
+                        currentSentence = currentSentence.Trim();
                         Sentences.Add(currentSentence);
                         currentSentence = "";
                     }
@@ -67,27 +61,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
             //    theEntireDoc = theEntireDoc.Replace(System.Environment.NewLine, " ");
             // }
             //
-
-
-
-
-            // Fill out the sentence data
-            for (int i = 0; i < theEntireDoc.Length; i++)
-            {
-                char a = theEntireDoc.ElementAt(i);
-                char b = ' ';
-
-                //if (i + 1 >= theEntireDoc.Length)
-                //    b = ' ';
-                //else
-                //    b = theEntireDoc.ElementAt(i + 1);
-
-                if ((a == '!' || a == '?' || a == '.') && b == ' ')
-                {
-                }
-            }
-
-            theEntireDoc = "";
+            
         }
 
         /// <summary>
@@ -106,15 +80,6 @@ namespace Summarizer.Model.Ryan_s_Implementation
            
             return Sentences[index];
         }
-
-        public void removeStopWords()
-        {
-
-        }
-
-        public string getFullText()
-        {
-            return "";
-        }
+        
     }
 }
