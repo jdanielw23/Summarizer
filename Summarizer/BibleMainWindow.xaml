@@ -39,7 +39,7 @@
                 <DockPanel DockPanel.Dock="Top">
                     <TextBlock DockPanel.Dock="Left" VerticalAlignment="Bottom" Padding="5,0" FontSize="14" Text="Original text"/>
                     <TextBlock DockPanel.Dock="Right" VerticalAlignment="Bottom" Padding="5,0" HorizontalAlignment="Right"
-                               Text="Word count: ___"/>
+                               Text="{Binding OriginalTextWordCount, StringFormat='Word count: {0}', Mode=OneWay}"/>
                 </DockPanel>
                 
                 <TextBox DockPanel.Dock="Top" Margin="4" IsReadOnly="True"
@@ -62,25 +62,31 @@
                 <DockPanel Grid.Row="0">
                     <TextBlock DockPanel.Dock="Left" VerticalAlignment="Bottom" Padding="5,0" FontSize="14" Text="Ryan's Summary"/>
                     <TextBlock DockPanel.Dock="Right" VerticalAlignment="Bottom" Padding="5,0" HorizontalAlignment="Right"
-                               Text="Word count: ___"/>
+                               Text="{Binding RyanSummaryWordCount, StringFormat='Word count: {0}', Mode=OneWay}"/>
                 </DockPanel>
-                <TextBox Grid.Row="1" Margin="4" IsReadOnly="True" />
+                <TextBox Grid.Row="1" Margin="4" IsReadOnly="True" 
+                         TextWrapping="Wrap" VerticalScrollBarVisibility="Auto"
+                         Text="{Binding RyanSummary, Mode=OneWay}" />
 
                 <!-- ANDREW'S SUMMARY -->
                 <DockPanel Grid.Row="2">
                     <TextBlock DockPanel.Dock="Left" VerticalAlignment="Bottom" Padding="5,0" FontSize="14" Text="Andrew's Summary"/>
                     <TextBlock DockPanel.Dock="Right" VerticalAlignment="Bottom" Padding="5,0" HorizontalAlignment="Right"
-                               Text="Word count: ___"/>
+                               Text="{Binding AndrewSummaryWordCount, StringFormat='Word count: {0}', Mode=OneWay}"/>
                 </DockPanel>
-                <TextBox Grid.Row="3" Margin="4" IsReadOnly="True" />
+                <TextBox Grid.Row="3" Margin="4" IsReadOnly="True"
+                         TextWrapping="Wrap" VerticalScrollBarVisibility="Auto"
+                         Text="{Binding AndrewSummary, Mode=OneWay}" />
 
                 <!-- DANIEL'S SUMMARY -->
                 <DockPanel Grid.Row="4">
                     <TextBlock DockPanel.Dock="Left" VerticalAlignment="Bottom" Padding="5,0" FontSize="14" Text="Daniel's Summary"/>
                     <TextBlock DockPanel.Dock="Right" VerticalAlignment="Bottom" Padding="5,0" HorizontalAlignment="Right"
-                               Text="Word count: ___"/>
+                               Text="{Binding DanielSummaryWordCount, StringFormat='Word count: {0}', Mode=OneWay}"/>
                 </DockPanel>
-                <TextBox Grid.Row="5" Margin="4" IsReadOnly="True" />
+                <TextBox Grid.Row="5" Margin="4" IsReadOnly="True"
+                         TextWrapping="Wrap" VerticalScrollBarVisibility="Auto"
+                         Text="{Binding DanielSummary, Mode=OneWay}" />
             </Grid>
 
         </Grid>

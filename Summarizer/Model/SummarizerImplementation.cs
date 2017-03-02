@@ -17,6 +17,14 @@ namespace Summarizer.Model
         /// </summary>
         /// <param name="filePath">Full file path to the txt document to be summarized</param>
         /// <returns>Summary of the document</returns>
-        string SummarizeDocument(string filePath);
+        string SummarizeFile(string filePath);
+
+        /// <summary>
+        /// Takes the book name and chapter number of the Bible to Summarize
+        /// </summary>
+        /// <param name="bookName"></param>
+        /// <param name="chapterNum"></param>
+        /// <returns></returns>
+        string SummarizeBible(string bookName, int chapterNum);
     }
 }

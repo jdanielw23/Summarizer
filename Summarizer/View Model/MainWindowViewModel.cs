@@ -83,9 +83,9 @@ namespace Summarizer.View_Model
                     case 2:
                         Summarizer = new SummarizerDW();
                         break;
-                    case 3:
-                        Summarizer = new SummarizerRR();
-                        break;
+                    //case 3:
+                    //    Summarizer = new SummarizerRR();
+                        //break;
                     default:
                         Summarizer = null;
                         break;
@@ -96,7 +96,7 @@ namespace Summarizer.View_Model
                 }
                 else
                 {
-                    Summary = Summarizer.SummarizeDocument(filePath);
+                    Summary = Summarizer.SummarizeFile(filePath);
                 }
 
             }

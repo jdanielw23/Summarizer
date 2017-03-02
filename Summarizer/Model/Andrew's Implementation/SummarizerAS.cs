@@ -24,7 +24,12 @@ namespace Summarizer.Model.Andrews_Implementation
             // Perhaps refactor later to make constructor set above parameters...
         }
 
-        public string SummarizeDocument(string filePath)
+        public string SummarizeBible(string bookName, int chapterNum)
+        {
+            throw new NotImplementedException();
+        }
+
+        public string SummarizeFile(string filePath)
         {
             Clock c = new Clock();
             string[] raw_sentences = Cleaner.splitToSentences(

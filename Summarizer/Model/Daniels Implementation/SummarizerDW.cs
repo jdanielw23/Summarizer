@@ -46,10 +46,18 @@ namespace Summarizer.Model.Daniels_Implementation
         /// </summary>
         /// <param name="filePath">The full path to the file to be summarized</param>
         /// <returns>The summary of the document</returns>
-        public string SummarizeDocument(string filePath)
+        public string SummarizeFile(string filePath)
         {
+            // Read in the text
+            string text = System.IO.File.ReadAllText(filePath);
+
             //return SummarizeDocumentMethod1(filePath);
-            return SummarizeDocumentMethod2(filePath);
+            return Summarize(text);
+        }
+
+        public string SummarizeBible(string bookName, int chapterNum)
+        {
+            return Summarize(Constants.Bible[bookName][chapterNum].Values.ToList().ListData(""));
         }
 
         /// <summary>
@@ -57,12 +65,11 @@ namespace Summarizer.Model.Daniels_Implementation
         /// </summary>
         /// <param name="filePath">The full path to the file to be summarized</param>
         /// <returns>The summary of the document</returns>
-        public string SummarizeDocumentMethod2(string filePath)
+        public string Summarize(string text)
         {
             Summary summary = new Summary(MinSentenceLength, MaxSentenceLength);
 
-            // Read in the text
-            string text = System.IO.File.ReadAllText(filePath);
+            
 
             // Break the text into sentences
             string[] sentences = SplitIntoSentences(text);
@@ -261,7 +268,7 @@ namespace Summarizer.Model.Daniels_Implementation
         /// <param name="newFilePath">File to be created from summary</param>
         public void SummarizeToNewDocument(string filePath, string newFilePath)
         {
-            string summary = SummarizeDocument(filePath);
+            string summary = SummarizeFile(filePath);
             System.IO.File.WriteAllText(newFilePath, summary);
         }
 
