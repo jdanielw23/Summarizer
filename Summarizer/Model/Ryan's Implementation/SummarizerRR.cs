@@ -49,6 +49,11 @@ namespace Summarizer.Model.Ryan_s_Implementation
               
         }
 
+        public string SummarizeBible(string bookName, int chapter)
+        {
+            throw new NotImplementedException();
+        }
+
 
         private string printArray(List<int> list)
         {
@@ -178,7 +183,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
             }
         }
 
-        public string SummarizeDocument(string filePath)
+        public string SummarizeFile(string filePath)
         {
             // Timer
             long totalTimeTaken = 0;
