@@ -120,8 +120,8 @@ namespace Summarizer.View_Model
             OriginalText = Constants.Bible[SelectedBook][SelectedChapter].Values.ToList().ListData("");
 
             SummarizeUsing(new SummarizerDW());
-            //SummarizeUsing(new SummarizerRR());
-            //SummarizeUsing(new SummarizerAS());
+            SummarizeUsing(new SummarizerRR());
+            SummarizeUsing(new SummarizerAS());
         }
 
 

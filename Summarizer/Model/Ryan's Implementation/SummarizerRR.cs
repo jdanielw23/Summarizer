@@ -8,6 +8,7 @@ using Summarizer.Model.Utils.Stemming;
 using edu.stanford.nlp.ling;
 using edu.stanford.nlp.tagger.maxent;
 using java.util;
+using System.Text.RegularExpressions;
 
 // I'm not going to use R anymore, seems to much work to learn and use it for a single text 
 // document. I may fallback on it though if mine doesn't pan out right, but I think this
@@ -51,7 +52,139 @@ namespace Summarizer.Model.Ryan_s_Implementation
 
         public string SummarizeBible(string bookName, int chapter)
         {
-            throw new NotImplementedException();
+            string summaryString = "";
+
+            buildWordFrequencyBible(bookName, chapter);
+
+            List<KeyValuePair<string, WordFreqDataEntry>> SortedWordList = wordFreqTable.ToList();
+            SortedWordList.Sort((x, y) => y.Value.count.CompareTo(x.Value.count));
+            
+            // Build WF co-occurance matrix
+
+            // Find the smallest integer viable for calculating the WFs
+            int WF_SIZE = Math.Min(NUM_TOP_WORDS, SortedWordList.Count);
+
+            if (WF_SIZE < NUM_MIN_WORDS_TO_WORK)
+                return "Error: Not enough words in the document to generate a summary.";
+
+            // Must be at least six to work.
+            if (WF_SIZE < NUM_MIN_WORDS_TO_WORK)
+                WF_SIZE = NUM_MIN_WORDS_TO_WORK;
+
+            // Create the matrix
+            HashSet<int>[,] coOccurance = new HashSet<int>[WF_SIZE, WF_SIZE];
+
+            // Calculate the most significant bigrams
+            BigramEntry[] bigrams = new BigramEntry[WF_SIZE * WF_SIZE];
+
+            //stopwatch.Reset();
+            //stopwatch.Start();
+            // Fill out the matrix
+            for (int i = 0; i < WF_SIZE; i++)
+                for (int j = 0; j < WF_SIZE; j++)
+                {
+                    HashSet<int> a, b;
+                    a = SortedWordList.ElementAt(i).Value.occurances;
+                    b = SortedWordList.ElementAt(j).Value.occurances;
+                    coOccurance[i, j] = new HashSet<int>(a);
+                    coOccurance[i, j].IntersectWith(b);
+
+                    bigrams[(j * WF_SIZE) + i].wordA = i;
+                    bigrams[(j * WF_SIZE) + i].wordB = j;
+
+                    if (bigrams[(j * WF_SIZE) + i].wordA != bigrams[(j * WF_SIZE) + i].wordB)
+                        bigrams[(j * WF_SIZE) + i].ouccrances = coOccurance[i, j].Count;
+                    else
+                        bigrams[(j * WF_SIZE) + i].ouccrances = 0;
+                }
+
+            // Find the highest bigrams
+            Array.Sort(bigrams, ((x, y) => y.ouccrances.CompareTo(x.ouccrances)));
+
+            /*stopwatch.Stop();
+
+            time = stopwatch.ElapsedMilliseconds;
+            summaryString += "Bigram generation time: " + time + " milliseconds\n\n";
+            totalTimeTaken += time;
+
+            summaryString += "Total Time: " + totalTimeTaken + " milliseconds\n\n";
+            // So here we have our top bigrams - there are duplicates in the list, so make
+            // sure to iterate by 2 to skip the second entry; It's not worth the amount
+            // of time or work to remove them.
+            //*/
+
+            summaryString = "";
+
+            // Rating will be a ratio of the total significant words to the number
+            // of words in the bigrams
+
+            float[] rating = new float[3];
+            int lastHighestString = -1;
+            int prevSentence = -1;
+            int[] stringNumber = new int[3];
+            string[] finalSentences = new string[3];
+
+            rating[0] = -1;
+            rating[1] = -1;
+            rating[2] = -1;
+
+            int z = 0;
+
+            int[] used = new int[3];
+
+            for (int k = 0; k < 6; k += 2)
+            {
+                //summaryString += k + ":: " + SortedWordList.ElementAt(bigrams[k].wordA).Key + " --- " + SortedWordList.ElementAt(bigrams[k].wordB).Key + "\n";
+
+                for (int i = 0; i < coOccurance[bigrams[k].wordA, bigrams[k].wordB].Count; i++)
+                {
+                    int currentSentenceIndex = coOccurance[bigrams[k].wordA, bigrams[k].wordB].ElementAt(i);
+
+                    string[] words = Clean(Utils.Constants.Bible[bookName][chapter][currentSentenceIndex]).Split(' ');
+                    int totalsWords = words.Count();
+                    int wordACnt = 0, wordBCnt = 0;
+
+                    for (int j = 0; j < words.Count(); j++)
+                    {
+                        if (words[j] == SortedWordList.ElementAt(bigrams[k].wordA).Key)
+                            wordACnt++;
+
+                        if (words[j] == SortedWordList.ElementAt(bigrams[k].wordB).Key)
+                            wordBCnt++;
+                    }
+
+                    float r = (float)(wordACnt + wordBCnt) / (float)totalsWords;
+
+                    if (rating[z] < r && currentSentenceIndex != used[0] && currentSentenceIndex != used[1])
+                    {
+                        used[z] = currentSentenceIndex;
+                        rating[z] = r;
+                        lastHighestString = currentSentenceIndex;
+                    }
+                };
+
+                if (lastHighestString <= -1)
+                    return summaryString + "\n\nThere was an error. Summary string " + k + " could not be created.";
+
+                stringNumber[z] = lastHighestString;
+                prevSentence = lastHighestString;
+
+                lastHighestString = -1;
+
+                z++;
+            }
+
+            Array.Sort(stringNumber);
+            string[] s = { Utils.Constants.Bible[bookName][chapter][stringNumber[0]], Utils.Constants.Bible[bookName][chapter][stringNumber[1]], Utils.Constants.Bible[bookName][chapter][stringNumber[2]] };
+
+
+            summaryString += "\"" + s[0].Trim() + " " + s[1].Trim() + " " + s[2].Trim() + "\"";
+
+            summaryString = summaryString.Replace((char)10, ' ');
+            summaryString = summaryString.Replace((char)13, ' ');
+
+
+            return summaryString;
         }
 
 
@@ -107,6 +240,14 @@ namespace Summarizer.Model.Ryan_s_Implementation
 
             // convert to lower case
             text = text.ToLower();
+
+            // Remove newlines
+            text = text.Replace("\n", "");
+
+            // Remove newlines
+            text = text.Replace((char)13, ' ');
+            // Remove newlines
+            text = text.Replace((char)10, ' ');
 
             // remove punctuation
             for (int k = 0; k < Utils.Constants.Punctuation.Length; k++)
@@ -181,6 +322,64 @@ namespace Summarizer.Model.Ryan_s_Implementation
                     }
                 }
             }
+        }
+
+        private void buildWordFrequencyBible(string bookName, int chapter)
+        {
+            wordFreqTable = new SortedDictionary<string, WordFreqDataEntry>();
+
+            int verses = Utils.Constants.Bible[bookName][chapter].Count + 1;
+            
+            string t = "";
+
+            EnglishStemmer stemmer = new EnglishStemmer();
+
+            Regex rep = new Regex("[(0-9)]*:[(0-9)]*");
+
+            for (int i = 1; i < verses; i++)
+            {
+                t = Utils.Constants.Bible[bookName][chapter][i];
+                t = rep.Replace(t, "");
+                t = Clean(t);
+
+                string[] words = t.Split(' ');
+
+                if (words.Length < MIN_SENTENCE_LENGTH)
+                    continue;
+
+                for (int k = 0; k < words.Length; k++)
+                {
+                    string word = "";
+
+                    if (PERFORM_STEMMING)
+                        word = stemmer.Stem(words[k]);
+                    else
+                        word = words[k];
+
+                   if (word == "" || word.Length < MIN_WORD_LENGTH)
+                        continue;
+
+                    WordFreqDataEntry value;
+
+                    if (wordFreqTable.TryGetValue(word, out value))
+                    {
+                        value.count++;
+                        value.occurances.Add(i);
+                        wordFreqTable[word] = value;
+                    }
+                    else
+                    {
+                        WordFreqDataEntry newEntry = new WordFreqDataEntry();
+                        newEntry.occurances = new HashSet<int>();
+                        newEntry.count = 1;
+                        newEntry.occurances.Add(i);
+
+                        wordFreqTable.Add(word, newEntry);
+                    }
+                }
+            }
+
+    
         }
 
         public string SummarizeFile(string filePath)
