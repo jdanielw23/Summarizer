@@ -8,6 +8,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
 {
     class Scorer
     {
+        private const int 
         private DTable scored_sentences;
 
         public Scorer(string[] sentences)
@@ -30,6 +31,24 @@ namespace Summarizer.Model.Andrew_s_Implementation
              * highest scoring bigram (and which does not contain the
              * highest scoring bigram), and the third... etc.
              */
+            reset();
+            this.ScoreWithBigrams(bc);
+            Table sorted_bigrams = bc.Table();
+            DTable scored_sentences_clone = scored_sentences.Clone();
+            scored_sentences_clone.Top(0); // to sort it...
+            int score = sorted_bigrams.Size();
+            int process_length = scored_sentences.Size() * sorted_bigrams.Size();
+            Monitor monitor = new Monitor("score filtering", process_length);
+            scored_sentences = new DTable();
+            foreach (string bigram in sorted_bigrams)
+            {
+                foreach (string sentence in scored_sentences_clone)
+                {
+
+                    monitor.Ping();
+                }
+                score--;
+            }
         }
 
         public void ScoreWithBigrams(BigramCounter bc)
@@ -91,7 +110,35 @@ namespace Summarizer.Model.Andrew_s_Implementation
 
         public string[] Top(int n)
         {
-            return scored_sentences.Top(3);
+            if (n < scored_sentences.Size())
+            {
+                return scored_sentences.Top(n);
+            }
+            return scored_sentences.Top(scored_sentences.Size());
+        }
+
+        /*
+         * Checks if the sentence contains the bigram.
+         * The bigram is to be the two words concatenated with a space.
+         */
+        private bool contains(string sentence, string bigram)
+        {
+            string[] bigram_words = bigram.Split(' ');
+            string[] sentence_words = sentence.Split(' ');
+            bool first = false;
+            bool second = false;
+            foreach (string word in sentence_words)
+            {
+                if (word == bigram_words[0])
+                {
+                    first = true;
+                }
+                if (word == bigram_words[1])
+                {
+                    second = true;
+                }
+            }
+            return first && second;
         }
 
         private void reset()

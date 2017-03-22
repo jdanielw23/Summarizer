@@ -73,7 +73,7 @@ namespace Summarizer.View_Model
                 // Get the selected file name
                 FilePath = dlg.FileName;
 
-                int which = 3; // 1: Andrew's, 2: Daniel's, 3: Ryan's
+                int which = 1; // 1: Andrew's, 2: Daniel's, 3: Ryan's
 
                 switch(which)
                 {

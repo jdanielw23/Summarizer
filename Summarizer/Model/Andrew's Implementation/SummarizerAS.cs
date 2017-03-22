@@ -10,6 +10,7 @@ namespace Summarizer.Model.Andrews_Implementation
 {
     class SummarizerAS : SummarizerImplementation
     {
+        private const int RESULT_COUNT = 3;             // Number of sentences returned.
         private const int FREQUENCY_TABLE_LEN = 24;     // Length of frequency table.
         private const int MIN_SENT_LENGTH = 3;          // Reject sentences with less words.
         private const int MIN_SENT_NUM = 24;            // Reject doc with less sentences.
@@ -87,7 +88,7 @@ namespace Summarizer.Model.Andrews_Implementation
                         + "%) valid sentences in document.";
             }
             Test.Out();
-            string[] chosen; // Should contain top 3 scored sentences.
+            string[] chosen; // Should contain top RESULT_COUNT scored sentences.
             WordFrequencies wf = new WordFrequencies(clean_sentences);
 
             // *** START TEST *** //
@@ -109,7 +110,7 @@ namespace Summarizer.Model.Andrews_Implementation
             //scorer.ScoreWithComplexBigrams(bc);
             scorer.ScoreWithBigrams(bc);
             //scorer.ScoreWithWordFrequencies(wf);
-            chosen = scorer.Top(3);
+            chosen = scorer.Top(RESULT_COUNT);
             IndexFinder ifinder = new IndexFinder(clean_sentences);
             foreach (string sentence in chosen)
             {

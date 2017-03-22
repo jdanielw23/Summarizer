@@ -78,5 +78,20 @@ namespace Summarizer.Model.Andrew_s_Implementation
             }
             return tran;
         }
+
+        // Returns false if matrix is not square,
+        // Otherwise, returns true and sets diagonal to zeroes
+        public bool ZeroDiagonal()
+        {
+            if (cols != rows)
+            {
+                return false;
+            }
+            for (int i = 0; i < rows; i++)
+            {
+                this.Set(i, i, 0);
+            }
+            return true;
+        }
     }
 }

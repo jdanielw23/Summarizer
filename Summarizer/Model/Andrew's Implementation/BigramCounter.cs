@@ -34,6 +34,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
                 monitor.Ping();
             }
             cooccurrance = occurrance.Transpose().Dot(occurrance);
+            cooccurrance.ZeroDiagonal();
         }
 
         public int Count(string first, string second)
@@ -57,6 +58,43 @@ namespace Summarizer.Model.Andrew_s_Implementation
                 return cooccurrance.Get(first_index, second_index);
             }
             return 0;
+        }
+
+        public Table Table()
+        {
+            return top(words.Length);
+        }
+
+        private Table top(int n)
+        {
+            if (n > words.Length)
+            {
+                n = words.Length;
+            }
+            Table pairs = new Table();
+            int length = words.Length;
+            int skip = 0;
+            double score = 0;
+            string key;
+            int value;
+            foreach (string word in words)
+            {
+                for (int i = skip; i < length; i++)
+                {
+                    key = word + " " + words[i];
+                    value = this.Count(word, words[i]);
+                    pairs.Add(key, value);
+                }
+                skip++;
+            }
+            Table top_n = new Table();
+            string[] top_keys = pairs.Top(n);
+            for (int i = 0; i < top_keys.Length; i++)
+            {
+                value = pairs.ValueOf(top_keys[i]);
+                top_n.Add(top_keys[i], value);
+            }
+            return top_n;
         }
 
         private bool found(string term, string sentence)
