@@ -8,7 +8,6 @@ namespace Summarizer.Model.Andrew_s_Implementation
 {
     class Scorer
     {
-        private const int 
         private DTable scored_sentences;
 
         public Scorer(string[] sentences)
@@ -31,24 +30,40 @@ namespace Summarizer.Model.Andrew_s_Implementation
              * highest scoring bigram (and which does not contain the
              * highest scoring bigram), and the third... etc.
              */
-            reset();
             this.ScoreWithBigrams(bc);
-            Table sorted_bigrams = bc.Table();
-            DTable scored_sentences_clone = scored_sentences.Clone();
-            scored_sentences_clone.Top(0); // to sort it...
-            int score = sorted_bigrams.Size();
-            int process_length = scored_sentences.Size() * sorted_bigrams.Size();
+            Table bigrams = bc.Table();
+            string[] sorted_bigrams = bigrams.Top(bigrams.Size());
+            string[] scored_sentences_clone = scored_sentences.Top(scored_sentences.Size());
+            List<string> used_bigrams = new List<string>();
+            int score = sorted_bigrams.Length;
+            int process_length = sorted_bigrams.Length;
             Monitor monitor = new Monitor("score filtering", process_length);
             scored_sentences = new DTable();
             foreach (string bigram in sorted_bigrams)
             {
                 foreach (string sentence in scored_sentences_clone)
                 {
-
-                    monitor.Ping();
+                    bool escape = false;
+                    foreach (string used_bigram in used_bigrams)
+                    {
+                        if (contains(used_bigram, sentence))
+                        {
+                            escape = true;
+                            break;
+                        }
+                    }
+                    if (escape) continue;
+                    if (contains(bigram, sentence))
+                    {
+                        scored_sentences.Add(sentence, score);
+                        break;
+                    }
                 }
+                used_bigrams.Add(bigram);
                 score--;
+                monitor.Ping();
             }
+            int test_thing = 2342 * 4;
         }
 
         public void ScoreWithBigrams(BigramCounter bc)
@@ -121,7 +136,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
          * Checks if the sentence contains the bigram.
          * The bigram is to be the two words concatenated with a space.
          */
-        private bool contains(string sentence, string bigram)
+        private bool contains(string bigram, string sentence)
         {
             string[] bigram_words = bigram.Split(' ');
             string[] sentence_words = sentence.Split(' ');

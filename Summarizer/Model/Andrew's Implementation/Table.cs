@@ -25,6 +25,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
 
         public Table Clone()
         {
+            this.Top(0); // To sort it before cloning...
             Table retval = new Table();
             foreach (string key in sorted_keys)
             {

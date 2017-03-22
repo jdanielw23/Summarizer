@@ -26,6 +26,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
 
         public DTable Clone()
         {
+            this.Top(0); // To sort it before cloning...
             DTable retval = new DTable();
             foreach (string key in sorted_keys)
             {
