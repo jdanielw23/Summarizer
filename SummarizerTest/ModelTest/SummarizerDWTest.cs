@@ -105,9 +105,9 @@ namespace SummarizerTest.ModelTest
 
                     string text = System.IO.File.ReadAllText(path);
                     bool first = true;
-                    foreach (string line in text.Split('\n'))
+                    foreach (string line in text.Split('\r'))
                     {
-                        lines.Append(line).Append(" ");
+                        lines.Append(line.Trim()).Append(" ");
                         if (first)
                         {
                             newText.AppendLine(line);
@@ -131,7 +131,9 @@ namespace SummarizerTest.ModelTest
                 }
             }
         }
+        /*******************/
 
+        /***************
         [TestMethod]
         public void SeparateBible()
         {

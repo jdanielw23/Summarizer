@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.ComponentModel;
 using System.Globalization;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -95,6 +97,20 @@ namespace Summarizer.Model.Utils
             return sb.ToString();
         }
 
+        public static string ListData<T>(this ICollection<T> list, string delimiter = "\n")
+        {
+            StringBuilder sb = new StringBuilder();
+            int index = 0;
+            foreach (T item in list)
+            {
+                sb.Append(item.ToString());
+                if (index < list.Count - 1)
+                    sb.Append(delimiter);
+                index++;
+            }
+            return sb.ToString();
+        }
+
         public static bool Contains<T>(this IList<T> list, params T[] items)
         {
             foreach (T item in items)
@@ -112,5 +128,25 @@ namespace Summarizer.Model.Utils
             return list.Contains(items);
         }
 
+        public static string GetDescription(this Enum value)
+        {
+            Type type = value.GetType();
+            string name = Enum.GetName(type, value);
+            if (name != null)
+            {
+                FieldInfo field = type.GetField(name);
+                if (field != null)
+                {
+                    DescriptionAttribute attr =
+                           Attribute.GetCustomAttribute(field,
+                             typeof(DescriptionAttribute)) as DescriptionAttribute;
+                    if (attr != null)
+                    {
+                        return attr.Description;
+                    }
+                }
+            }
+            return null;
+        }
     }
 }

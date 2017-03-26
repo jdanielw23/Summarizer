@@ -16,16 +16,15 @@ namespace Summarizer.View_Model
     public class BibleMainWindowVM : INotifyPropertyChanged
     {
         private enum Implementation { Ryan, Andrew, Daniel }
+        private const int AllChapters = 0;
 
-        private string selectedBook;
+        private BibleBooks selectedBook;
         private int selectedChapter;
         private string ryanSummary = "";
         private string andrewSummary = "";
         private string danielSummary = "";
-        private string originalText = "";
 
-        public Collection<int> ChapterNums { get; private set; }
-        public List<string> ChapterNames { get; private set; }
+        public Collection<string> ChapterNums { get; private set; }
 
         public string RyanSummary
         {
@@ -57,25 +56,16 @@ namespace Summarizer.View_Model
                 NotifyPropertyChanged("DanielSummaryWordCount");
             }
         }
-        public string OriginalText
-        {
-            get { return originalText; }
-            set
-            {
-                originalText = value;
-                NotifyPropertyChanged("OriginalText");
-                NotifyPropertyChanged("OriginalTextWordCount");
-            }
-        }
 
-        public string SelectedBook
+        public BibleBooks SelectedBook
         {
             get { return selectedBook; }
             set
             {
                 selectedBook = value;
-                ResetChapterNumbers(Constants.BibleBooks[selectedBook]);
+                ResetChapterNumbers(Bible.BookChapters[selectedBook]);
                 NotifyPropertyChanged("SelectedBook");
+                NotifyPropertyChanged("OriginalText");
             }
         }
         public int SelectedChapter
@@ -83,10 +73,22 @@ namespace Summarizer.View_Model
             get { return selectedChapter; }
             set { selectedChapter = value;
                 NotifyPropertyChanged("SelectedChapter");
+                NotifyPropertyChanged("OriginalText");
             }
         }
 
         // READ ONLY PROPERTIES
+        public string OriginalText
+        {
+            get
+            {
+                if (SelectedChapter == AllChapters)
+                    return Bible.Get(SelectedBook).ToString();
+                else
+                    return Bible.Get(SelectedBook)[SelectedChapter].ToString();
+            }
+        }
+
         public int OriginalTextWordCount
         { get { return OriginalText.Split(' ').Length; } }
 
@@ -104,20 +106,21 @@ namespace Summarizer.View_Model
         /// </summary>
         public BibleMainWindowVM()
         {
-            ChapterNames = Constants.BibleBooks.Keys.ToList();
-            ChapterNums = new ObservableCollection<int>();
-            SelectedBook = "Genesis";
-            SelectedChapter = 1;
+            ChapterNums = new ObservableCollection<string>();
+            SelectedBook = BibleBooks.Genesis;
+            SelectedChapter = AllChapters;
 
             SummarizeChapter();
         }
 
         /// <summary>
-        /// Called when user clicks GO
+        /// Called when user clicks Summarize
         /// </summary>
         public void SummarizeChapter()
         {
-            OriginalText = Constants.Bible[SelectedBook][SelectedChapter].Values.ToList().ListData("");
+            RyanSummary = "Working...";
+            AndrewSummary = "Working...";
+            DanielSummary = "Working...";
 
             SummarizeUsing(new SummarizerDW());
             SummarizeUsing(new SummarizerRR());
@@ -132,28 +135,16 @@ namespace Summarizer.View_Model
         {
             ChapterNums.Clear();
 
+            ChapterNums.Add("All");
             for (int i = 1; i <= numChapters; i++)
             {
-                ChapterNums.Add(i);
+                ChapterNums.Add(i.ToString());
             }
-            SelectedChapter = ChapterNums[0];
+            SelectedChapter = AllChapters;
         }
 
         private void SummarizeUsing(SummarizerImplementation implementation)
         {
-            if (implementation.GetType().Equals(typeof(SummarizerRR)))
-            {
-                RyanSummary = "Working...";
-            }
-            else if (implementation.GetType().Equals(typeof(SummarizerAS)))
-            {
-                AndrewSummary = "Working...";
-            }
-            else if (implementation.GetType().Equals(typeof(SummarizerDW)))
-            {
-                DanielSummary = "Working...";
-            }
-
             string summary = "";
             BackgroundWorker bw = new BackgroundWorker();
 
@@ -161,7 +152,8 @@ namespace Summarizer.View_Model
             bw.DoWork += new DoWorkEventHandler(
             delegate (object o, DoWorkEventArgs args)
             {
-                summary = implementation.SummarizeBible(SelectedBook, SelectedChapter);
+                //summary = implementation.SummarizeBible(SelectedBook, SelectedChapter);
+                summary = new SummarizerDW().Summarize(OriginalText);
             });
 
             if (implementation.GetType().Equals(typeof(SummarizerRR)))

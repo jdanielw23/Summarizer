@@ -41,6 +41,7 @@ namespace Summarizer.Model.Daniels_Implementation
             MaxSentenceLength = maxSentenceLength;
         }
 
+        /*********************  OLD INTERFACE, MAYBE DELETE  ************************/
         /// <summary>
         /// Main interface method for summarizing a document
         /// </summary>
@@ -59,6 +60,8 @@ namespace Summarizer.Model.Daniels_Implementation
         {
             return Summarize(Constants.Bible[bookName][chapterNum].Values.ToList().ListData(""));
         }
+        /*****************************************************************************/
+        
 
         /// <summary>
         /// Algorithm 2: Uses sentence score and thesaurus to look for similar keys
@@ -68,8 +71,6 @@ namespace Summarizer.Model.Daniels_Implementation
         public string Summarize(string text)
         {
             Summary summary = new Summary(MinSentenceLength, MaxSentenceLength);
-
-            
 
             // Break the text into sentences
             string[] sentences = SplitIntoSentences(text);

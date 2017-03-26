@@ -5,9 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Summarizer"
         xmlns:con="clr-namespace:Summarizer.Model.Utils"
+        xmlns:model="clr-namespace:Summarizer.Model.Utils"
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
-        Title="Bible Summarizer" Height="500" Width="800">
+        Title="Bible Summarizer" Height="500" Width="1000">
     <DockPanel>
         <!-- TITLE BAR -->
         <Border DockPanel.Dock="Top" Background="DarkBlue" Height="50">
@@ -30,14 +31,14 @@
             
             <DockPanel Grid.Column="0">
                 <StackPanel DockPanel.Dock="Top" Orientation="Horizontal">
-                    <ComboBox Margin="4" Width="120" ItemsSource="{Binding ChapterNames}" SelectedItem="{Binding SelectedBook}"/>
-                    <ComboBox Margin="4" Width="50" ItemsSource="{Binding ChapterNums}" SelectedItem="{Binding SelectedChapter}"/>
-                    <Button Margin="4" Padding="5,0" Content="Go" Background="DodgerBlue" Foreground="White"
+                    <ComboBox Margin="4" Width="120" ItemsSource="{Binding Source={model:EnumBindingSource {x:Type model:BibleBooks}}}" SelectedItem="{Binding SelectedBook}"/>
+                    <ComboBox Margin="4" Width="50" ItemsSource="{Binding ChapterNums}" SelectedIndex="{Binding SelectedChapter}"/>
+                    <Button Margin="4" Padding="5,0" Content="Summarize" Background="DodgerBlue" Foreground="White"
                             Click="SummarizeChapter_Click"/>
                 </StackPanel>
                 
                 <DockPanel DockPanel.Dock="Top">
-                    <TextBlock DockPanel.Dock="Left" VerticalAlignment="Bottom" Padding="5,0" FontSize="14" Text="Original text"/>
+                    <TextBlock DockPanel.Dock="Left" VerticalAlignment="Bottom" Padding="5,0" FontSize="14" Text="Original Text"/>
                     <TextBlock DockPanel.Dock="Right" VerticalAlignment="Bottom" Padding="5,0" HorizontalAlignment="Right"
                                Text="{Binding OriginalTextWordCount, StringFormat='Word count: {0}', Mode=OneWay}"/>
                 </DockPanel>

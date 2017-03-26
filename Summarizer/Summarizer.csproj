@@ -235,6 +235,9 @@
     <Compile Include="Model\Daniels Implementation\SentenceScore.cs" />
     <Compile Include="Model\Daniels Implementation\Summary.cs" />
     <Compile Include="Model\Ryan%27s Implementation\Document.cs" />
+    <Compile Include="Model\Utils\Bible.cs" />
+    <Compile Include="Model\Utils\EnumBindingSourceExtension.cs" />
+    <Compile Include="Model\Utils\EnumDescriptionTypeConverter.cs" />
     <Compile Include="Model\Utils\StopwordsDAO.cs" />
     <Compile Include="Model\Utils\Stemming\Among.cs" />
     <Compile Include="Model\Utils\Stemming\EnglishStemmer.cs" />

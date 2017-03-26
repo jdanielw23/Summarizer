@@ -22,6 +22,10 @@ namespace Summarizer.Model.Utils
             }
         }
 
+        /// <summary>
+        /// A dictionary containing the name of each book in the Bible as the key
+        /// with the number of chapters in that book as the value
+        /// </summary>
         public static IDictionary<string, int> BibleBooks
         {
             get
@@ -259,17 +263,14 @@ namespace Summarizer.Model.Utils
             }
         }
 
-        private static IDictionary<string, IDictionary<int,
-                            IDictionary<int, string>>> BuildBible()
+        private static IDictionary<string, IDictionary<int, IDictionary<int, string>>> BuildBible()
         {
-            IDictionary<string, IDictionary<int, 
-                       IDictionary<int, string>>> result 
+            IDictionary<string, IDictionary<int, IDictionary<int, string>>> result 
                        = new Dictionary<string, IDictionary<int, IDictionary<int, string>>>();
             List<string> BibleNames = Constants.BibleBooks.Keys.ToList();
 
             int bkInd = 0;
-            foreach (string path in Directory
-                .EnumerateFiles(@"..\..\..\Summarizer\Documents\The Bible txt - Original"))
+            foreach (string path in Directory.EnumerateFiles(@"..\..\..\Summarizer\Documents\The Bible txt - Original"))
             {
                 string text = System.IO.File.ReadAllText(path);
                 string book = BibleNames[bkInd];
