@@ -53,12 +53,18 @@
                     
                     <!-- WORD COUNT OF ORIGINAL DOCUMENT -->
                     <TextBlock Text="Original Document:" Style="{StaticResource Tb_Label}"/>
+                    <TextBlock Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" Padding="5,0"
+                               Text="{Binding OriginalTextWordCount, StringFormat={}{0} words}"/>
                 
                     <!-- WORD COUNT OF SUMMARY -->
                     <TextBlock Grid.Row="1" Text="Summary:" Style="{StaticResource Tb_Label}"/>
+                    <TextBlock Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" Padding="5,0"
+                               Text="{Binding SummaryWordCount, StringFormat={}{0} words}"/>
                 
                     <!-- PERCENT REDUCTION -->
                     <TextBlock Grid.Row="2" Text="Percent Reduction:" Style="{StaticResource Tb_Label}"/>
+                    <TextBlock Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" Padding="5,0"
+                               Text="{Binding PercentReduction, StringFormat={}{0:P}}"/>
                     
                 </Grid>
 

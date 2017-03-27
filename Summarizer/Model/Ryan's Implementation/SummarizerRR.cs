@@ -382,13 +382,13 @@ namespace Summarizer.Model.Ryan_s_Implementation
     
         }
 
-        public string SummarizeFile(string filePath)
+        public string Summarize(string originalText) // Edited name of method and name of parameter to match new interface - Daniel 3/27/2017
         {
             // Timer
             long totalTimeTaken = 0;
 
             // Load the document data
-            Document doc = new Document(filePath);
+            Document doc = new Document(originalText);
 
             // If we don't have enough sentences, fail.
             if (doc.getSentenceCount() < MIN_SENTENCES)

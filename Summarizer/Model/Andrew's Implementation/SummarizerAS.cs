@@ -30,11 +30,10 @@ namespace Summarizer.Model.Andrews_Implementation
             throw new NotImplementedException();
         }
 
-        public string SummarizeFile(string filePath)
+        public string Summarize(string originalText) // Edited name of method and name of parameter to match new interface - Daniel 3/27/2017
         {
             Clock c = new Clock();
-            string[] raw_sentences = Cleaner.splitToSentences(
-                System.IO.File.ReadAllText(filePath));
+            string[] raw_sentences = Cleaner.splitToSentences(originalText); // Replaced "System.IO.File.ReadAllText(filePath)" with originalText - Daniel 3/27/2017
             if (raw_sentences == null)
             {
                 return "File is empty.";

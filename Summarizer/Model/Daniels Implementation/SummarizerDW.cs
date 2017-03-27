@@ -41,39 +41,17 @@ namespace Summarizer.Model.Daniels_Implementation
             MaxSentenceLength = maxSentenceLength;
         }
 
-        /*********************  OLD INTERFACE, MAYBE DELETE  ************************/
-        /// <summary>
-        /// Main interface method for summarizing a document
-        /// </summary>
-        /// <param name="filePath">The full path to the file to be summarized</param>
-        /// <returns>The summary of the document</returns>
-        public string SummarizeFile(string filePath)
-        {
-            // Read in the text
-            string text = System.IO.File.ReadAllText(filePath);
-
-            //return SummarizeDocumentMethod1(filePath);
-            return Summarize(text);
-        }
-
-        public string SummarizeBible(string bookName, int chapterNum)
-        {
-            return Summarize(Constants.Bible[bookName][chapterNum].Values.ToList().ListData(""));
-        }
-        /*****************************************************************************/
-        
-
         /// <summary>
         /// Algorithm 2: Uses sentence score and thesaurus to look for similar keys
         /// </summary>
         /// <param name="filePath">The full path to the file to be summarized</param>
         /// <returns>The summary of the document</returns>
-        public string Summarize(string text)
+        public string Summarize(string originalText)
         {
             Summary summary = new Summary(MinSentenceLength, MaxSentenceLength);
 
             // Break the text into sentences
-            string[] sentences = SplitIntoSentences(text);
+            string[] sentences = SplitIntoSentences(originalText);
 
             /******* Simpler but same thing ******
             IDictionary<string, int> wordFrequency = new Dictionary<string, int>();
@@ -269,7 +247,7 @@ namespace Summarizer.Model.Daniels_Implementation
         /// <param name="newFilePath">File to be created from summary</param>
         public void SummarizeToNewDocument(string filePath, string newFilePath)
         {
-            string summary = SummarizeFile(filePath);
+            string summary = Summarize(filePath);
             System.IO.File.WriteAllText(newFilePath, summary);
         }
 

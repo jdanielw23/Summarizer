@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Summarizer.Model
 {
+    public enum SummarizerImplementations { Ryan, Andrew, Daniel }
     /// <summary>
     /// Created by J. Daniel Worthington
     /// An interface for summarization algorithm implementations
@@ -15,9 +16,9 @@ namespace Summarizer.Model
         /// <summary>
         /// Takes a txt file and returns a summary of the document.
         /// </summary>
-        /// <param name="filePath">Full file path to the txt document to be summarized</param>
+        /// <param name="originalText">The text to be summarized</param>
         /// <returns>Summary of the document</returns>
-        string SummarizeFile(string filePath);
+        string Summarize(string originalText);
 
         /// <summary>
         /// Takes the book name and chapter number of the Bible to Summarize
@@ -25,6 +26,6 @@ namespace Summarizer.Model
         /// <param name="bookName"></param>
         /// <param name="chapterNum"></param>
         /// <returns></returns>
-        string SummarizeBible(string bookName, int chapterNum);
+        //string SummarizeBible(string bookName, int chapterNum);
     }
 }

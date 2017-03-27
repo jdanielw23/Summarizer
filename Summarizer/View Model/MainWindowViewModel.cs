@@ -22,6 +22,7 @@ namespace Summarizer.View_Model
         private SummarizerImplementation Summarizer;
 
         private string filePath;
+        private string originalText;
         private string summary;
 
         public string FilePath
@@ -32,20 +33,40 @@ namespace Summarizer.View_Model
             }
         }
 
+        public string OriginalText
+        {
+            get { return originalText; }
+            set { originalText = value;
+                NotifyPropertyChanged("OriginalText");
+                NotifyPropertyChanged("OriginalTextWordCount");
+                NotifyPropertyChanged("PercentReduction");
+            }
+        }
+
         public string Summary
         {
             get { return summary; }
             set { summary = value;
                 NotifyPropertyChanged("Summary");
+                NotifyPropertyChanged("SummaryWordCount");
+                NotifyPropertyChanged("PercentReduction");
             }
         }
 
+        // READ-ONLY PROPERTIES
+        public int OriginalTextWordCount
+        { get { return OriginalText.Split(' ').Length; } }
+
+        public int SummaryWordCount
+        { get { return Summary.Split(' ').Length; } }
+
+        public double PercentReduction
+        { get { return ((double)OriginalTextWordCount - (double)SummaryWordCount) / (double)OriginalTextWordCount; } }
+
+        // CONSTRUCTOR
         public MainWindowViewModel()
         {
-            //Summarizer = new SummarizerDW();
-            //Summarizer = new SummarizerAS();
-            //Summarizer = new SummarizerRR();
-
+            OriginalText = "";
             Summary = "";
         }
 
@@ -62,7 +83,7 @@ namespace Summarizer.View_Model
 
             // Set filter for file extension and default file extension 
             dlg.DefaultExt = ".txt";
-            dlg.Filter = "Documents|*.docx;*.doc;*.txt";
+            dlg.Filter = "Documents|*.txt";
 
             // Display OpenFileDialog by calling ShowDialog method 
             Nullable<bool> result = dlg.ShowDialog();
@@ -73,19 +94,19 @@ namespace Summarizer.View_Model
                 // Get the selected file name
                 FilePath = dlg.FileName;
 
-                int which = 1; // 1: Andrew's, 2: Daniel's, 3: Ryan's
+                SummarizerImplementations which = SummarizerImplementations.Daniel;
 
                 switch(which)
                 {
-                    case 1:
+                    case SummarizerImplementations.Andrew:
                         Summarizer = new SummarizerAS();
                         break;
-                    case 2:
+                    case SummarizerImplementations.Daniel:
                         Summarizer = new SummarizerDW();
                         break;
-                    //case 3:
+                    //case SummarizerImplementations.Ryan:
                     //    Summarizer = new SummarizerRR();
-                        //break;
+                    //    break;
                     default:
                         Summarizer = null;
                         break;
@@ -96,7 +117,8 @@ namespace Summarizer.View_Model
                 }
                 else
                 {
-                    Summary = Summarizer.SummarizeFile(filePath);
+                    OriginalText = System.IO.File.ReadAllText(filePath);
+                    Summary = Summarizer.Summarize(OriginalText);
                 }
 
             }

@@ -15,7 +15,6 @@ namespace Summarizer.View_Model
 {
     public class BibleMainWindowVM : INotifyPropertyChanged
     {
-        private enum Implementation { Ryan, Andrew, Daniel }
         private const int AllChapters = 0;
 
         private BibleBooks selectedBook;
@@ -123,8 +122,8 @@ namespace Summarizer.View_Model
             DanielSummary = "Working...";
 
             SummarizeUsing(new SummarizerDW());
-            SummarizeUsing(new SummarizerRR());
-            SummarizeUsing(new SummarizerAS());
+            //SummarizeUsing(new SummarizerRR());
+            //SummarizeUsing(new SummarizerAS());
         }
 
 
@@ -152,8 +151,7 @@ namespace Summarizer.View_Model
             bw.DoWork += new DoWorkEventHandler(
             delegate (object o, DoWorkEventArgs args)
             {
-                //summary = implementation.SummarizeBible(SelectedBook, SelectedChapter);
-                summary = new SummarizerDW().Summarize(OriginalText);
+                summary = implementation.Summarize(OriginalText);
             });
 
             if (implementation.GetType().Equals(typeof(SummarizerRR)))
