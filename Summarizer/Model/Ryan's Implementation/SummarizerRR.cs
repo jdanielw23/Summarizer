@@ -285,7 +285,12 @@ namespace Summarizer.Model.Ryan_s_Implementation
 
             for (int i = 0; i < doc.getSentenceCount(); i++)
             {
-                string[] words = Clean(doc.getSentence(i)).Split(' ');
+                string sentence = doc.getSentence(i);
+
+                // Perform tagging here
+
+
+                string[] words = Clean(sentence).Split(' ');
 
                 if (words.Length < MIN_SENTENCE_LENGTH)
                     continue;
@@ -298,7 +303,6 @@ namespace Summarizer.Model.Ryan_s_Implementation
                         word = stemmer.Stem(words[k]);
                     else
                         word = words[k];
-
 
                     if (word == "" || word.Length < MIN_WORD_LENGTH)
                         continue;
@@ -323,7 +327,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
                 }
             }
         }
-
+       
         private void buildWordFrequencyBible(string bookName, int chapter)
         {
             wordFreqTable = new SortedDictionary<string, WordFreqDataEntry>();
@@ -388,7 +392,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
             long totalTimeTaken = 0;
 
             // Load the document data
-            Document doc = new Document(originalText);
+            Document doc = new Document(originalText, false);
 
             // If we don't have enough sentences, fail.
             if (doc.getSentenceCount() < MIN_SENTENCES)
@@ -477,9 +481,11 @@ namespace Summarizer.Model.Ryan_s_Implementation
             totalTimeTaken += time;
 
             summaryString += "Total Time: " + totalTimeTaken + " milliseconds\n\n";
+
             // So here we have our top bigrams - there are duplicates in the list, so make
             // sure to iterate by 2 to skip the second entry; It's not worth the amount
             // of time or work to remove them.
+
             summaryString = "";
 
             // Rating will be a ratio of the total significant words to the number
