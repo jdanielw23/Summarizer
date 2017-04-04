@@ -41,16 +41,28 @@ namespace SummarizerTest.ModelTest
         {
             string text =
                 "1:8 And God called the firmament Heaven. And the evening and the morning were the second day. " +
-                "1:9 And God said, Let the waters under the heaven be gathered together " +                "unto one place, and let the dry land appear: and it was so. " +
-                "1:10 And God called the dry land Earth; and the gathering together of " +                "the waters called he Seas: and God saw that it was good. " +
-                "1:11 And God said, Let the earth bring forth grass, the herb yielding " +                "seed, and the fruit tree yielding fruit after his kind, whose seed is " +                "in itself, upon the earth: and it was so. " +
-                "1:12 And the earth brought forth grass, and herb yielding seed after " +                "his kind, and the tree yielding fruit, whose seed was in itself, after " +                "his kind: and God saw that it was good. " +
+                "1:9 And God said, Let the waters under the heaven be gathered together " +
+                "unto one place, and let the dry land appear: and it was so. " +
+                "1:10 And God called the dry land Earth; and the gathering together of " +
+                "the waters called he Seas: and God saw that it was good. " +
+                "1:11 And God said, Let the earth bring forth grass, the herb yielding " +
+                "seed, and the fruit tree yielding fruit after his kind, whose seed is " +
+                "in itself, upon the earth: and it was so. " +
+                "1:12 And the earth brought forth grass, and herb yielding seed after " +
+                "his kind, and the tree yielding fruit, whose seed was in itself, after " +
+                "his kind: and God saw that it was good. " +
                 "1:13 And the evening and the morning were the third day. " +
-                "1:14 And God said, Let there be lights in the firmament of the heaven " +                "to divide the day from the night; and let them be for signs, and for " +                "seasons, and for days, and years: " +
-                "1:15 And let them be for lights in " +                "the firmament of the heaven to give light upon the earth: and it was so. " +
-                "1:16 And God made two great lights; the greater light to rule the day, " +                "and the lesser light to rule the night: he made the stars also? " +
-                "1:17 And God set them in the firmament of the heaven to give light " +                "upon the earth, " +
-                "1:18 And to rule over the day and over the night, and " +                "to divide the light from the darkness: and God saw that it was good. " +
+                "1:14 And God said, Let there be lights in the firmament of the heaven " +
+                "to divide the day from the night; and let them be for signs, and for " +
+                "seasons, and for days, and years: " +
+                "1:15 And let them be for lights in " +
+                "the firmament of the heaven to give light upon the earth: and it was so. " +
+                "1:16 And God made two great lights; the greater light to rule the day, " +
+                "and the lesser light to rule the night: he made the stars also? " +
+                "1:17 And God set them in the firmament of the heaven to give light " +
+                "upon the earth, " +
+                "1:18 And to rule over the day and over the night, and " +
+                "to divide the light from the darkness: and God saw that it was good. " +
                 "1:19 And the evening and the morning were the fourth day!";
 
             string[] sentences = SummarizerDW.SplitIntoSentences(text);

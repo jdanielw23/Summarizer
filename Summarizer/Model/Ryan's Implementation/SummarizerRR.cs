@@ -31,16 +31,16 @@ namespace Summarizer.Model.Ryan_s_Implementation
 
     public class SummarizerRR : SummarizerImplementation
     {
-        private const int   MIN_SENTENCES =                     0; // Minimum number of sentences, less will be rejected.
+        private const int   MIN_SENTENCES =                      3; // Minimum number of sentences, less will be rejected.
         private const int   MAX_FILE_SIZE =             1000000000; // Maximum number of bytes a single document can have.
         private const bool  REMOVE_NON_ASCII =                true; // Remove non-ascii characters from the result.
         private const int   MIN_WORD_LENGTH =                    3; // Words smaller than this are ignored.
         private const bool  PERFORM_STEMMING =                true; // Turns stemming on and off.
         private const int   NUM_TOP_WORDS =                     10;
         private const int   NUM_MIN_WORDS_TO_WORK =              6; // Do not change this!
-        private const bool  BIBLE_MODE =                      true;
+        private const bool  BIBLE_MODE =                     false;
         private const int   MIN_SENTENCE_LENGTH =                3;
-        private const bool  USE_TAGGING =                     true;
+        private const bool  USE_TAGGING =                    false;
        
         private readonly char[] newLineA = { (char)13, (char)0 };
         private readonly char[] newLineB = { (char)10, (char)0 };
@@ -48,6 +48,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
         SortedDictionary<string, WordFreqDataEntry> wordFreqTable;
 
         public const string TooShortMessage = "Error: Cannot create summary. Input text is too short.";
+        public const string NotEnoughWordsMessage = "Error: Not enough words in the document to generate a summary.";
 
         public SummarizerRR()
         {
@@ -264,7 +265,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
             int WF_SIZE = Math.Min(NUM_TOP_WORDS, SortedWordList.Count);
 
             if (WF_SIZE < NUM_MIN_WORDS_TO_WORK)
-                return "Error: Not enough words in the document to generate a summary.";
+                return NotEnoughWordsMessage;
 
             // Must be at least six to work.
             if (WF_SIZE < NUM_MIN_WORDS_TO_WORK)
