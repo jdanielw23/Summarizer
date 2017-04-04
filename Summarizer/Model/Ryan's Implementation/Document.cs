@@ -10,13 +10,27 @@ namespace Summarizer.Model.Ryan_s_Implementation
 {
     // This data structure prevents redundancy, storing only the starts and lengths
     // of setences so that we can look it up rather than duplicate the data.
-    
+
     // Document class. Handles loading the text data and storing it.
-    class Document
+    public class Document
     {
         List<string> Sentences = new List<string>();
 
-        public Document(string input, bool file)
+        public void TestDocumentClass()
+        {
+            string text = "In Christ alone my hope is found;" + 
+                           "He is my light, my strength, my song; " +
+                           "This cornerstone, this solid ground, " + 
+                           "Firm through the fiercest drought and storm. " +
+                           "What heights of love, what depths of peace, When "+
+                           "fears are stilled, when strivings cease! My comforter, " +
+                           "my all in all— Here in the love of Christ I stand.";
+
+            LoadSentences(text, false);
+            
+        }
+
+        private void LoadSentences(string input, bool file)
         {
             Sentences.Clear();
 
@@ -53,24 +67,28 @@ namespace Summarizer.Model.Ryan_s_Implementation
                         sPrevChar = c;
                     }
                 }
-                
+
             }
             else
             {
                 int pos = 0;
 
-                foreach (Match m in Regex.Matches(input, "([!?.]) "))
+                // Remove line breaks, these don't work well.
+                input = Regex.Replace(input, @"[\u000A\u000B\u000C\u000D\u2028\u2029\u0085]+", " ");
+
+                foreach (Match m in Regex.Matches(input, "([!?.][ \"']+)"))
                 {
-                    string sentence = input.Substring(pos, m.Index - pos) + m.Value;                  
+                    string sentence = input.Substring(pos, m.Index - pos) + m.Value;
                     pos = m.Index + m.Length;
-                    sentence.Replace("\r", " ");
-                    sentence.Replace("\n", " ");
-                    sentence.Replace((char)10, ' ');
-                    sentence.Replace((char)13, ' ');
                     Sentences.Add(sentence);
                 }
-                
+
             }
+        }
+
+        public Document(string input, bool file)
+        {
+            LoadSentences(input, file);
         }
 
         /// <summary>
@@ -91,4 +109,6 @@ namespace Summarizer.Model.Ryan_s_Implementation
         }
         
     }
+
+
 }
