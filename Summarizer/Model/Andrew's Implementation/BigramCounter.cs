@@ -62,7 +62,10 @@ namespace Summarizer.Model.Andrew_s_Implementation
 
         public Table Table()
         {
-            return top(words.Length);
+            // find number of unique, non-zero entries...
+            int len = words.Length;
+            int count = (int)(Math.Pow(len, 2) - len) / 2;
+            return top(count);
         }
 
         private Table top(int n)

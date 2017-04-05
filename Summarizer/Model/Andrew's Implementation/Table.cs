@@ -104,12 +104,12 @@ namespace Summarizer.Model.Andrew_s_Implementation
             {
                 top_n[i] = sorted_keys[i];
             }
-            if (n > count) { // fill the remaining slots with "<null>"
-                for (int i = size; i < n; i++)
-                {
-                    top_n[i] = "<null>";
-                }
-            }
+            //if (n > count) { // fill the remaining slots with "<null>"
+            //    for (int i = size; i < n; i++)
+            //    {
+            //        top_n[i] = "<null>";
+            //    }
+            //}
             return top_n;
         }
 
