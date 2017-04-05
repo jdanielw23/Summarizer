@@ -4,6 +4,10 @@ using Summarizer.Model.Daniels_Implementation;
 
 namespace SummarizerTest.ModelTest
 {
+    /// <summary>
+    /// Created by J. Daniel Worthington
+    /// A class to test the Summary data structure
+    /// </summary>
     [TestClass]
     public class SummaryTest
     {
@@ -49,7 +53,7 @@ namespace SummarizerTest.ModelTest
             });
             summary.AddToSummary(new SentenceScore()
             {
-                Sentence = "This is the highest scoring sentence.",
+                Sentence = "This is the highest scoring valid sentence.",
                 Score = 355
             });
 

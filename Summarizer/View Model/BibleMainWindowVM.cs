@@ -122,8 +122,8 @@ namespace Summarizer.View_Model
             DanielSummary = "Working...";
 
             SummarizeUsing(new SummarizerDW());
-            //SummarizeUsing(new SummarizerRR());
-            //SummarizeUsing(new SummarizerAS());
+            SummarizeUsing(new SummarizerRR());
+            SummarizeUsing(new SummarizerAS());
         }
 
 

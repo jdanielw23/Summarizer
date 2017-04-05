@@ -13,6 +13,10 @@ using Summarizer.Model.Utils;
 
 namespace SummarizerTest.ModelTest
 {
+    /// <summary>
+    /// Created by J. Daniel Worthington
+    /// A class to test Daniel's summarization implementation
+    /// </summary>
     [TestClass]
     public class SummarizerDWTest
     {
@@ -90,6 +94,7 @@ namespace SummarizerTest.ModelTest
 
 
         /****    ONE TIME SCRIPTS    ****
+        
         [TestMethod]
         public void FixTxtFiles()
         {

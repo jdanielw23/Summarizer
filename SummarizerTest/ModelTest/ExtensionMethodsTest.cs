@@ -6,6 +6,10 @@ using System.Linq;
 
 namespace SummarizerTest.ModelTest
 {
+    /// <summary>
+    /// Created by J. Daniel Worthington
+    /// A class to test all of the extension methods
+    /// </summary>
     [TestClass]
     public class ExtensionMethodsTest
     {

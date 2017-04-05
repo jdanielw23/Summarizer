@@ -8,7 +8,7 @@ using Summarizer.Model.Andrew_s_Implementation;
 
 namespace Summarizer.Model.Andrews_Implementation
 {
-    class SummarizerAS : SummarizerImplementation
+    public class SummarizerAS : SummarizerImplementation
     {
         private const int RESULT_COUNT = 3;             // Number of sentences returned.
         private const int FREQUENCY_TABLE_LEN = 24;     // Length of frequency table.

@@ -21,16 +21,18 @@ namespace Summarizer.Model.Daniels_Implementation
         private int MinWordLength;
 
         /*********************************************
-        NEXT STEPS:
-        I somewhat like the current setup.
+        FUTURE STEPS:
+        I somewhat like the current results.        
         
-        
+        BUT....
+
         Possible Implementation Enhancements:
             -Maybe instead of just using the frequency of each word, try to account for words
              that occur too frequently (Mean, StdDev).
             -Maybe just take the sentence before and after the highest scoring sentence?
-            -Maybe create regex that will separate the document by verse or sentence,
+            -Maybe create regex that will separate the bible text by verse or sentence,
                 whichever is most complete.
+            -Include Part of Speech tagging to narrow down word definitions
         **********************************************/
 
         public SummarizerDW(int minWordLength = 3, int minSentenceLength = 8,
@@ -44,7 +46,7 @@ namespace Summarizer.Model.Daniels_Implementation
         /// <summary>
         /// Algorithm 2: Uses sentence score and thesaurus to look for similar keys
         /// </summary>
-        /// <param name="filePath">The full path to the file to be summarized</param>
+        /// <param name="originalText">The original text to be summarized</param>
         /// <returns>The summary of the document</returns>
         public string Summarize(string originalText)
         {
@@ -53,23 +55,7 @@ namespace Summarizer.Model.Daniels_Implementation
             // Break the text into sentences
             string[] sentences = SplitIntoSentences(originalText);
 
-            /******* Simpler but same thing ******
-            IDictionary<string, int> wordFrequency = new Dictionary<string, int>();
-            foreach (string rawWord in text.Split(' '))
-            {
-                string word = SimplifyWord(rawWord, true);
-
-                if (IsValidWord(word, true, false, true, false))
-                {
-                    if (wordFrequency.ContainsKey(word))
-                        wordFrequency[word] += 1;
-                    else
-                        wordFrequency[word] = 0;
-                }
-            }
-            /****************/
-
-            /***************   ***************/
+            // Generate a word frequency matrix based on words that are similar to each other in meaning
             FrequencyMatrix wordFrequency = new FrequencyMatrix();
             for (int sentenceIndex = 0; sentenceIndex < sentences.Length; sentenceIndex++)
             {
@@ -84,8 +70,9 @@ namespace Summarizer.Model.Daniels_Implementation
                     }
                 }
             }
-            /********************************/
 
+            // Score each sentence by summing the word frequency of each word in the sentence
+            // and dividing it by the total number of words in the sentence
             for (int sentenceIndex = 0; sentenceIndex < sentences.Length; sentenceIndex++)
             {
                 int sum = 0;
@@ -94,23 +81,23 @@ namespace Summarizer.Model.Daniels_Implementation
                 {
                     string word = SimplifyWord(rawWord, false);
                     numWords++;
-                    //sum += (wordFrequency.ContainsKey(word)) ? wordFrequency[word] : 0;
                     sum += wordFrequency[word].Frequency;
                 }
                 double score = (numWords == 0) ? 0 : (sum / numWords);
 
+                // The Summary data structure will only hold the 3 highest scoring sentences
                 summary.AddToSummary(new SentenceScore()
                 {
                     Sentence = sentences[sentenceIndex].Trim().Capitalize(),
                     Score = score
                 });
             }
-
-            //return wordFrequency.ToString();
+            
             return summary.ToString();
         }
 
         /// <summary>
+        /// Deprecated: No longer using this implementation
         /// Algorithm 1: Creates a bigram and returns top 3 sentences
         /// </summary>
         /// <param name="filePath">The full path to the file to be summarized</param>
@@ -214,11 +201,7 @@ namespace Summarizer.Model.Daniels_Implementation
             }
             /****/
 
-            /****    OPTION 3: This will print the     ****
-
-            /****/
-
-            /****    OPTION 4: This will print the first sentence from the top 3 pairs    ****
+            /****    OPTION 3: This will print the first sentence from the top 3 pairs    ****
             int count = 0;
             int prevSent = 0;
             foreach (var pair in finalWordFrequency.OrderByDescending(kv => kv.Value.Frequency))
@@ -306,7 +289,8 @@ namespace Summarizer.Model.Daniels_Implementation
 
             if (noVerbs)
             {
-
+                // Not yet implemented
+                // Probably not necessary
             }
 
             return true;
@@ -319,7 +303,6 @@ namespace Summarizer.Model.Daniels_Implementation
         /// <returns>An array of sentences</returns>
         public static string[] SplitIntoSentences(string text)
         {
-            //string pattern = @"[A-Z]([a-z]| )+[a-z][a-zA-Z0-9\-\(\)\/\,\'\;\:\s*\n*]*[\.]";
             string pattern = @"[^\.\?\!]*[\.\?\!]";
             IList<string> result = new List<string>();
             

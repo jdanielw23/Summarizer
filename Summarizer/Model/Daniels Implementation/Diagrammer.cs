@@ -8,6 +8,10 @@ using System.Threading.Tasks;
 
 namespace Summarizer.Model.Daniels_Implementation
 {
+    /// <summary>
+    /// Created by J. Daniel Worthington
+    /// Not being used. At one point, I was considering implementing my own sentence diagrammer.
+    /// </summary>
     public class Diagrammer
     {
         private HashSet<string> verbs = new HashSet<string>();

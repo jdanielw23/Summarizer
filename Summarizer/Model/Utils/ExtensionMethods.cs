@@ -12,6 +12,13 @@ namespace Summarizer.Model.Utils
 {
     public static class ExtensionMethods
     {
+        public static Collection<T> AddAll<T>(this Collection<T> original, Collection<T> newItems)
+        {
+            foreach (T item in newItems)
+                original.Add(item);
+            return original;
+        }
+
         /// <summary>
         /// Capitalizes the first letter in a string
         /// </summary>

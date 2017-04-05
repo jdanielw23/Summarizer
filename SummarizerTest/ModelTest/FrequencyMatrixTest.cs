@@ -4,6 +4,10 @@ using Summarizer.Model.Daniels_Implementation;
 
 namespace SummarizerTest.ModelTest
 {
+    /// <summary>
+    /// Created by J. Daniel Worthington
+    /// A class to test the FrequencyMatrix data structure
+    /// </summary>
     [TestClass]
     public class FrequencyMatrixTest
     {

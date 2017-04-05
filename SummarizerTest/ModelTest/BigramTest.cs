@@ -6,6 +6,10 @@ using Summarizer.Model.Utils;
 
 namespace SummarizerTest.ModelTest
 {
+    /// <summary>
+    /// Created by J. Daniel Worthington
+    /// Tests the custom Bigram data structure
+    /// </summary>
     [TestClass]
     public class BigramTest
     {

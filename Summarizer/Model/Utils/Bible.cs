@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.IO;
 using System.Linq;
@@ -13,7 +15,27 @@ namespace Summarizer.Model.Utils
     public class Bible
     {
         private static IDictionary<BibleBooks, Book> bible = BuildBible();
+        private static Collection<string> verses;
 
+        public static Collection<string> Verses
+        {
+            get
+            {
+                if (verses == null)
+                {
+                    verses = new Collection<string>();
+                    foreach (Book b in bible.Values)
+                    {
+                        verses.AddAll(b.Verses);
+                    }
+                }
+                return verses;
+            }
+        }
+
+        /// <summary>
+        /// Returns the book of the Bible with the supplied name
+        /// </summary>
         public static Book Get(BibleBooks bookName)
         {
             if (bible.ContainsKey(bookName))
@@ -21,6 +43,9 @@ namespace Summarizer.Model.Utils
             return bible[BibleBooks.Genesis];
         }
 
+        /// <summary>
+        /// Returns the entire Bible as a single string of text.
+        /// </summary>
         public static string All
         { get { return bible.Values.ListData(""); } }
 
@@ -104,18 +129,58 @@ namespace Summarizer.Model.Utils
             }
         }
 
-        public class Book
+        public class Book : IEnumerator, IEnumerable
         {
             private IDictionary<int, Chapter> book;
+            private Collection<string> verses;
+            int position = -1;
+
+            public Collection<string> Verses
+            {
+                get
+                {
+                    if (verses == null)
+                    {
+                        verses = new Collection<string>();
+                        foreach(Chapter c in book.Values)
+                        {
+                            verses.AddAll(c.Verses);
+                        }
+                    }
+                    return verses;
+                }
+            }
 
             public Book(IDictionary<int, Chapter> chapters)
             {
                 book = chapters;
             }
 
+            /// <summary>
+            /// Returns the chapter for the given chapter number
+            /// </summary>
+            public Chapter this[int chapterNumber]
+            { get { return Get(chapterNumber); } }
+
+            /// <summary>
+            /// Returns the chapter for the given chapter number
+            /// </summary>
+            public Chapter Get(int chapterNumber)
+            {
+                if (book.ContainsKey(chapterNumber))
+                    return book[chapterNumber];
+                return book[1];
+            }
+
+            /// <summary>
+            /// Returns the verse for the given reference string
+            /// </summary>
             public Verse this[string reference]
             { get { return Get(reference); } }
 
+            /// <summary>
+            /// Returns the verse for the given reference string
+            /// </summary>
             public Verse Get(string reference)
             {
                 string exceptionText = "Improperly formatted reference";
@@ -133,34 +198,70 @@ namespace Summarizer.Model.Utils
                 return this[chap][verse];
             }
 
-            public Chapter this[int chapterNumber]
-            { get { return Get(chapterNumber); } }
-
-            public Chapter Get(int chapterNumber)
-            {
-                if (book.ContainsKey(chapterNumber))
-                    return book[chapterNumber];
-                return book[1];
-            }
-
+            /// <summary>
+            /// Converts the entire book into a single string of text
+            /// </summary>
             public override string ToString()
             {
                 return book.Values.ListData("");
             }
+
+            //IEnumerator and IEnumerable require these methods.
+            public IEnumerator GetEnumerator()
+            {
+                return (IEnumerator)this;
+            }
+
+            //IEnumerator
+            public bool MoveNext()
+            {
+                position++;                
+                return (position < Verses.Count);
+            }
+
+            //IEnumerable
+            public void Reset()
+            { position = 0; }
+
+            //IEnumerable
+            public object Current
+            { get { return Verses[position]; } }
         }
 
-        public class Chapter
+        public class Chapter : IEnumerator, IEnumerable
         {
             private IDictionary<int, Verse> chapter;
+            private Collection<string> verses;
+            int position = -1;
+
+            public Collection<string> Verses
+            {
+                get
+                {
+                    if (verses == null)
+                    {
+                        verses = new Collection<string>();
+                        foreach (Verse v in chapter.Values)
+                            verses.Add(v.ToString());
+                    }
+                    return verses;
+                }
+            }
 
             public Chapter(IDictionary<int, Verse> verses)
             {
                 chapter = verses;
             }
 
+            /// <summary>
+            /// Returns the verse for the given verse number
+            /// </summary>
             public Verse this[int verseNumber]
             { get { return Get(verseNumber); } }
 
+            /// <summary>
+            /// Returns the verse for the given verse number
+            /// </summary>
             public Verse Get(int verseNumber)
             {
                 if (chapter.ContainsKey(verseNumber))
@@ -168,17 +269,40 @@ namespace Summarizer.Model.Utils
                 return chapter[1];
             }
 
+            /// <summary>
+            /// Converts the entire chapter into a single string of text
+            /// </summary>
             public override string ToString()
             {
                 return chapter.Values.ListData("");
+            }
+
+            //IEnumerator and IEnumerable require these methods.
+            public IEnumerator GetEnumerator()
+            {
+                return (IEnumerator)this;
+            }
+
+            //IEnumerator
+            public bool MoveNext()
+            {
+                position++;
+                return (position < Verses.Count);
+            }
+
+            //IEnumerable
+            public void Reset()
+            { position = 0; }
+
+            //IEnumerable
+            public object Current
+            {
+                get { return Verses[position]; }
             }
         }
 
         public class Verse
         {
-            private int ChapterScore;
-            private int BookScore;
-            private int BibleScore;
             private string Text;
 
             public Verse(string text)
@@ -186,6 +310,10 @@ namespace Summarizer.Model.Utils
                 Text = text;
             }
 
+            /// <summary>
+            /// Returns the text of the verse
+            /// </summary>
+            /// <returns></returns>
             public override string ToString()
             {
                 return Text;

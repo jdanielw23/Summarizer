@@ -5,6 +5,10 @@ using System.Linq;
 
 namespace SummarizerTest.ModelTest
 {
+    /// <summary>
+    /// Created by J. Daniel Worthington
+    /// A class to test the Bible structure
+    /// </summary>
     [TestClass]
     public class BibleTest
     {
@@ -29,6 +33,15 @@ namespace SummarizerTest.ModelTest
 
             Assert.IsTrue(rev.StartsWith("1:1 The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John: "));
             Assert.IsTrue(rev.EndsWith("22:21 The grace of our Lord Jesus Christ be with you all. Amen."));
+        }
+
+        [TestMethod]
+        public void IterationTest()
+        {
+            foreach(string verse in Bible.Get(BibleBooks.Galatians))
+            {
+
+            }
         }
     }
 }
