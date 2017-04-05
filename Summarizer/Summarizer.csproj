@@ -247,11 +247,8 @@
     <Compile Include="Model\Ryan%27s Implementation\SummarizerRR.cs" />
     <Compile Include="Model\SummarizerImplementation.cs" />
     <Compile Include="Model\Utils\Constants.cs" />
-    <Compile Include="Model\Utils\DocumentHelper.cs" />
     <Compile Include="Model\Utils\ErrorHandler.cs" />
     <Compile Include="Model\Utils\ExtensionMethods.cs" />
-    <Compile Include="Model\Utils\PdfToText.cs" />
-    <Compile Include="Model\Utils\RTextAnalyser.cs" />
     <Compile Include="View Model\BibleMainWindowVM.cs" />
     <Compile Include="View Model\MainWindowViewModel.cs" />
     <Compile Include="MainWindow.xaml.cs">

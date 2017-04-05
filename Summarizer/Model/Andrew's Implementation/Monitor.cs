@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Summarizer.Model.Andrew_s_Implementation
 {
-    class Monitor
+    public class Monitor
     {
         private int op_size;
         private int progress;

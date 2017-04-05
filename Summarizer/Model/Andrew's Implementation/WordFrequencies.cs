@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Summarizer.Model.Andrew_s_Implementation
 {
-    class WordFrequencies
+    public class WordFrequencies
     {
         private Table words;
 

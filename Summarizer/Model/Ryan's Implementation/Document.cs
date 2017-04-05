@@ -15,21 +15,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
     public class Document
     {
         List<string> Sentences = new List<string>();
-
-        public void TestDocumentClass()
-        {
-            string text = "In Christ alone my hope is found;" + 
-                           "He is my light, my strength, my song; " +
-                           "This cornerstone, this solid ground, " + 
-                           "Firm through the fiercest drought and storm. " +
-                           "What heights of love, what depths of peace, When "+
-                           "fears are stilled, when strivings cease! My comforter, " +
-                           "my all in all— Here in the love of Christ I stand.";
-
-            LoadSentences(text, false);
-            
-        }
-
+        
         private void LoadSentences(string input, bool file)
         {
             Sentences.Clear();
@@ -73,16 +59,21 @@ namespace Summarizer.Model.Ryan_s_Implementation
             {
                 int pos = 0;
 
+                
+
                 // Remove line breaks, these don't work well.
                 input = Regex.Replace(input, @"[\u000A\u000B\u000C\u000D\u2028\u2029\u0085]+", " ");
+                int lastIndex, lastLength;
 
                 foreach (Match m in Regex.Matches(input, "([!?.][ \"']+)"))
                 {
                     string sentence = input.Substring(pos, m.Index - pos) + m.Value;
                     pos = m.Index + m.Length;
-                    Sentences.Add(sentence);
+                    Sentences.Add(sentence.Trim());
                 }
 
+                string lastSentence = input.Substring(pos, input.Length - pos);
+                Sentences.Add(lastSentence.Trim());
             }
         }
 

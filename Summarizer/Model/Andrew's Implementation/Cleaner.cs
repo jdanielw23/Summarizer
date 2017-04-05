@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Summarizer.Model.Andrew_s_Implementation
 {
-    class Cleaner
+    public class Cleaner
     {
         private bool removeSymbols;
         private bool removeNums;
@@ -60,6 +60,17 @@ namespace Summarizer.Model.Andrew_s_Implementation
                     clean_word = "";
                 }
                 clean += ((clean_word == "") ? "" : (clean_word + " "));
+            }
+            for (int i = clean.Length; i >= 0; i--)
+            {
+                if (clean.EndsWith(" "))
+                {
+                    clean = clean.Substring(0, i - 1);
+                }
+                else
+                {
+                    break;
+                }
             }
             return clean;
         }

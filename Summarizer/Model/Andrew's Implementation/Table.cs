@@ -10,7 +10,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
     /// <summary>
     /// This class is a hashtable specialized for string keys and int values.
     /// </summary>
-    class Table : IEnumerable<string>
+    public class Table : IEnumerable<string>
     {
         private Hashtable table;
         private int sorts = 0;

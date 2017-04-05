@@ -25,11 +25,6 @@ namespace Summarizer.Model.Andrews_Implementation
             // Perhaps refactor later to make constructor set above parameters...
         }
 
-        public string SummarizeBible(string bookName, int chapterNum)
-        {
-            throw new NotImplementedException();
-        }
-
         public string Summarize(string originalText) // Edited name of method and name of parameter to match new interface - Daniel 3/27/2017
         {
             Clock c = new Clock();

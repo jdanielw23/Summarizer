@@ -11,7 +11,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
     /// Only built to be used as it is by classes in
     /// namespace Summarizer.Model.Andrew_s_Implementation
     /// </summary>
-    class Matrix
+    public class Matrix
     {
         private int[,] matrix;
         private int cols;

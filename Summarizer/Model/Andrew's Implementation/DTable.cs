@@ -11,7 +11,7 @@ namespace Summarizer.Model.Andrew_s_Implementation
     /// This class is a hashtable specialized for string keys and double values.
     /// It is the same as Table, but uses doubles for the values.
     /// </summary>
-    class DTable : IEnumerable<string>
+    public class DTable : IEnumerable<string>
     {
         private Hashtable table;
         private int sorts = 0;
