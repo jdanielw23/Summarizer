@@ -57,6 +57,7 @@ namespace SummarizerTest.ModelTest
 
             const string text = sentence1 + " " + sentence2 + " " + sentence3 + " " + sentence4 + " " + sentence5;
 
+
             // The second tells it whether the text is a file location or not.
             Document doc1 = new Document(text, false);
             
@@ -76,7 +77,7 @@ namespace SummarizerTest.ModelTest
 
             const string text = sentence1 + " " + sentence2 + " " + sentence3 + " " + sentence4 + " " + sentence5;
 
-            // The second tells it whether the text is a file location or not.
+            // The second parameter tells it whether the text is a file location or not.
             Document doc1 = new Document(text, false);
 
             string temp = doc1.getSentence(10000);

@@ -38,7 +38,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
         private const bool  PERFORM_STEMMING =                true; // Turns stemming on and off.
         private const int   NUM_TOP_WORDS =                     10;
         private const int   NUM_MIN_WORDS_TO_WORK =              6; // Do not change this!
-        private const bool  BIBLE_MODE =                     false;
+        private const bool  BIBLE_MODE =                      true;
         private const int   MIN_SENTENCE_LENGTH =                3;
         private const bool  USE_TAGGING =                    false;
        
@@ -48,7 +48,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
         SortedDictionary<string, WordFreqDataEntry> wordFreqTable;
 
         public const string TooShortMessage = "Error: Cannot create summary. Input text is too short.";
-        public const string NotEnoughWordsMessage = "Error: Not enough words in the document to generate a summary.";
+        public const string NotEnoughWordsMessage = "Error: Not enough words in the text to generate a summary.";
 
         public SummarizerRR()
         {
@@ -363,10 +363,7 @@ namespace Summarizer.Model.Ryan_s_Implementation
                         lastHighestString = currentSentenceIndex;
                     }
                 };
-
-                if (lastHighestString <= -1)
-                    return summaryString + "\n\nThere was an error. Summary string " + k + " could not be created.";
-
+                
                 stringNumber[z] = lastHighestString;
                 prevSentence = lastHighestString;
 
@@ -377,9 +374,20 @@ namespace Summarizer.Model.Ryan_s_Implementation
 
             Array.Sort(stringNumber);
 
-            summaryString += "\"" + (doc.getSentence(stringNumber[0]) +
-                             "  " + doc.getSentence(stringNumber[1]) +
-                             " " + doc.getSentence(stringNumber[2]) + "\"\n\n");
+            string s1 = "", s2 = "", s3 = "";
+
+            if (stringNumber[0] >= 0)
+                s1 = doc.getSentence(stringNumber[0]);
+
+            if (stringNumber[1] >= 0)
+                s2 = doc.getSentence(stringNumber[1]);
+
+            if (stringNumber[2] >= 0)
+                s3 = doc.getSentence(stringNumber[2]);
+
+            summaryString += "\"" + s1 +
+                             "  " + s2 +
+                             " " + s3 + "\"\n\n";
 
             return summaryString;
             
