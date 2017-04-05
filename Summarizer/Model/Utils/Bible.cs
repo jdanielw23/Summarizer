@@ -209,7 +209,7 @@ namespace Summarizer.Model.Utils
             //IEnumerator and IEnumerable require these methods.
             public IEnumerator GetEnumerator()
             {
-                return (IEnumerator) verses.GetEnumerator();
+                return (IEnumerator) Verses.GetEnumerator();
             }
 
             //IEnumerator
@@ -280,7 +280,7 @@ namespace Summarizer.Model.Utils
             //IEnumerator and IEnumerable require these methods.
             public IEnumerator GetEnumerator()
             {
-                return verses.GetEnumerator();
+                return Verses.GetEnumerator();
             }
 
             //IEnumerator

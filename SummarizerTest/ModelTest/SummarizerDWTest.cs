@@ -20,7 +20,10 @@ namespace SummarizerTest.ModelTest
     [TestClass]
     public class SummarizerDWTest
     {
-        [TestMethod]
+        /// <summary>
+        /// This was only for mass visual testing of all books of the bible
+        /// </summary>
+        //[TestMethod]
         public void SummarizeAllDocumentsTest()
         {
             const int NUM_BOOKS = 16;

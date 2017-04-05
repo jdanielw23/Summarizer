@@ -38,10 +38,8 @@ namespace SummarizerTest.ModelTest
         [TestMethod]
         public void IterationTest()
         {
-            foreach(string verse in Bible.Get(BibleBooks.Galatians))
-            {
-
-            }
+            foreach (string verse in Bible.Get(BibleBooks.Galatians)) { }
+            foreach (string verse in Bible.Get(BibleBooks.Revelation)[1]) { }
         }
     }
 }
