@@ -46,7 +46,7 @@ namespace Summarizer.Model.Daniels_Implementation
         public FrequencyMatrix()
         {
             Matrix = new Dictionary<string, FrequencyLocation>();
-            Thesaurus = new MyThes("th_en_US_new.dat");
+            Thesaurus = new MyThes(@"..\..\..\Resources\th_en_US_new.dat");
         }
 
         /// <summary>
