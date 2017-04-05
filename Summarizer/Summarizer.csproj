@@ -233,6 +233,7 @@
     <Compile Include="Model\Andrew%27s Implementation\SummarizerAS.cs" />
     <Compile Include="Model\Daniels Implementation\FrequencyMatrix.cs" />
     <Compile Include="Model\Daniels Implementation\SentenceScore.cs" />
+    <Compile Include="Model\Daniels Implementation\SummarizerDW.cs" />
     <Compile Include="Model\Daniels Implementation\Summary.cs" />
     <Compile Include="Model\Ryan%27s Implementation\Document.cs" />
     <Compile Include="Model\Utils\Bible.cs" />

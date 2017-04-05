@@ -181,6 +181,7 @@
     <Compile Include="ModelTest\ExtensionMethodsTest.cs" />
     <Compile Include="ModelTest\FrequencyMatrixTest.cs" />
     <Compile Include="ModelTest\Shubin\UnitTests.cs" />
+    <Compile Include="ModelTest\SummarizerDWTest.cs" />
     <Compile Include="ModelTest\SummaryAccuracyTest.cs" />
     <Compile Include="ModelTest\SummaryTest.cs" />
     <Compile Include="ModelTest\SummarizerRRTest.cs" />
