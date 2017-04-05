@@ -243,7 +243,6 @@
     <Compile Include="Model\Utils\Stemming\EnglishStemmer.cs" />
     <Compile Include="Model\Utils\Stemming\IStemmer.cs" />
     <Compile Include="Model\Utils\Stemming\StemmerOperations.cs" />
-    <Compile Include="Model\Daniels Implementation\SummarizerDW.cs" />
     <Compile Include="Model\Ryan%27s Implementation\SummarizerRR.cs" />
     <Compile Include="Model\SummarizerImplementation.cs" />
     <Compile Include="Model\Utils\Constants.cs" />
