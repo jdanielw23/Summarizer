@@ -13,6 +13,10 @@ using Summarizer.Model.Utils;
 
 namespace SummarizerTest.ModelTest
 {
+    /// <summary>
+    /// Created by J. Daniel Worthington
+    /// A class to test Daniel's summarization implementation
+    /// </summary>
     [TestClass]
     public class SummarizerDWTest
     {
@@ -22,7 +26,7 @@ namespace SummarizerTest.ModelTest
             const int NUM_BOOKS = 16;
             int count = 0;
             foreach (string path in Directory.EnumerateFiles(@"..\..\..\Summarizer\Documents\The Bible txt - Original"))
-            {                
+            {
                 FileInfo file = new FileInfo(path);
                 if (file.Extension.Equals(".txt"))
                 {
@@ -77,7 +81,7 @@ namespace SummarizerTest.ModelTest
 
             IStemmer stemmer = new EnglishStemmer();
 
-            foreach(string word in maintain)
+            foreach (string word in maintain)
             {
                 Assert.AreEqual("maintain", stemmer.Stem(word));
             }
@@ -102,6 +106,7 @@ namespace SummarizerTest.ModelTest
 
 
         /****    ONE TIME SCRIPTS    ****
+        
         [TestMethod]
         public void FixTxtFiles()
         {
