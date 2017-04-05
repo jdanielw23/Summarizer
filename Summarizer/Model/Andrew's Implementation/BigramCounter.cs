@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Summarizer.Model.Andrew_s_Implementation
 {
-    class BigramCounter
+    public class BigramCounter
     {
         private Matrix cooccurrance;
         private string[] words;

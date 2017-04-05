@@ -7,7 +7,7 @@ using System.Diagnostics;
 
 namespace Summarizer.Model.Andrew_s_Implementation
 {
-    class Clock
+    public class Clock
     {
         private Stopwatch sw;
 

@@ -8,7 +8,7 @@ using Summarizer.Model.Andrew_s_Implementation;
 
 namespace Summarizer.Model.Andrews_Implementation
 {
-    class SummarizerAS : SummarizerImplementation
+    public class SummarizerAS : SummarizerImplementation
     {
         private const int RESULT_COUNT = 3;             // Number of sentences returned.
         private const int FREQUENCY_TABLE_LEN = 24;     // Length of frequency table.
@@ -23,11 +23,6 @@ namespace Summarizer.Model.Andrews_Implementation
         public SummarizerAS()
         {
             // Perhaps refactor later to make constructor set above parameters...
-        }
-
-        public string SummarizeBible(string bookName, int chapterNum)
-        {
-            throw new NotImplementedException();
         }
 
         public string Summarize(string originalText) // Edited name of method and name of parameter to match new interface - Daniel 3/27/2017

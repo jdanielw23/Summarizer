@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Summarizer.Model.Andrew_s_Implementation
 {
-    class Test
+    public class Test
     {
         public static void Out()
         {
