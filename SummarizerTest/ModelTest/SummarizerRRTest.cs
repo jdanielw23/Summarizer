@@ -22,7 +22,7 @@ namespace SummarizerTest.ModelTest
         public void TestSummarizerNotEnoughWords()
         {
             SummarizerRR summarizer = new SummarizerRR();
-            string summarizerTooShort = summarizer.Summarize("This text is way too short. But it needs. At least three sentences to work.");
+            string summarizerTooShort = summarizer.Summarize("This. But it needs. At least.");
             Assert.AreEqual(summarizerTooShort, SummarizerRR.NotEnoughWordsMessage);
         }
 
