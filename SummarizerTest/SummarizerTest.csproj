@@ -177,11 +177,7 @@
   <ItemGroup>
     <Compile Include="ModelTest\BibleTest.cs" />
     <Compile Include="ModelTest\BigramTest.cs" />
-<<<<<<< HEAD
-=======
-    <Compile Include="ModelTest\DiagrammerTest.cs" />
     <Compile Include="ModelTest\DocumentTestRR.cs" />
->>>>>>> c9001e0e93bb71744142d6adf516cc9528dcce18
     <Compile Include="ModelTest\ExtensionMethodsTest.cs" />
     <Compile Include="ModelTest\FrequencyMatrixTest.cs" />
     <Compile Include="ModelTest\Shubin\UnitTests.cs" />
