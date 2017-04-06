@@ -201,20 +201,16 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="BibleMainWindow.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="MainWindow.xaml">
-      <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="BibleMainWindow.xaml.cs">
-      <DependentUpon>BibleMainWindow.xaml</DependentUpon>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="Model\Andrew%27s Implementation\BigramCounter.cs" />
     <Compile Include="Model\Andrew%27s Implementation\Cleaner.cs" />
@@ -249,12 +245,7 @@
     <Compile Include="Model\Utils\Constants.cs" />
     <Compile Include="Model\Utils\ErrorHandler.cs" />
     <Compile Include="Model\Utils\ExtensionMethods.cs" />
-    <Compile Include="View Model\BibleMainWindowVM.cs" />
-    <Compile Include="View Model\MainWindowViewModel.cs" />
-    <Compile Include="MainWindow.xaml.cs">
-      <DependentUpon>MainWindow.xaml</DependentUpon>
-      <SubType>Code</SubType>
-    </Compile>
+    <Compile Include="View Model\MainWindowVM.cs" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">

@@ -13,17 +13,19 @@ using System.Threading.Tasks;
 
 namespace Summarizer.View_Model
 {
-    public class BibleMainWindowVM : INotifyPropertyChanged
+    public class MainWindowVM : INotifyPropertyChanged
     {
         private const int AllChapters = 0;
 
         private BibleBooks selectedBook;
         private int selectedChapter;
+        private string originalText = "";
         private string ryanSummary = "";
         private string andrewSummary = "";
         private string danielSummary = "";
 
         public Collection<string> ChapterNums { get; private set; }
+        public bool ShowBibleSelection { get; set; }
 
         public string RyanSummary
         {
@@ -75,18 +77,34 @@ namespace Summarizer.View_Model
                 NotifyPropertyChanged("OriginalText");
             }
         }
-
-        // READ ONLY PROPERTIES
         public string OriginalText
         {
             get
             {
-                if (SelectedChapter == AllChapters)
-                    return Bible.Get(SelectedBook).ToString();
+                if (ShowBibleSelection)
+                {
+                    if (SelectedChapter == AllChapters)
+                        return Bible.Get(SelectedBook).ToString();
+                    else
+                        return Bible.Get(SelectedBook)[SelectedChapter].ToString();
+                }
                 else
-                    return Bible.Get(SelectedBook)[SelectedChapter].ToString();
+                    return originalText;
+            }
+            set
+            {
+                originalText = value;
+                NotifyPropertyChanged("OriginalText");
+                NotifyPropertyChanged("OriginalTextWordCount");
             }
         }
+
+        // READ ONLY PROPERTIES
+        public string Title
+        { get { return (ShowBibleSelection) ? "Bible Summarizer" : "Document Summarizer"; } }
+
+        public string SwitchToText
+        { get { return (ShowBibleSelection) ? "Switch to Document Summarizer" : "Switch to Bible Summarizer"; } }
 
         public int OriginalTextWordCount
         { get { return OriginalText.Split(' ').Length; } }
@@ -103,13 +121,31 @@ namespace Summarizer.View_Model
         /// <summary>
         /// Constructor
         /// </summary>
-        public BibleMainWindowVM()
+        public MainWindowVM()
         {
+            ShowBibleSelection = true;
             ChapterNums = new ObservableCollection<string>();
-            SelectedBook = BibleBooks.Genesis;
-            SelectedChapter = AllChapters;
+            ResetBibleUI();
+        }
 
-            SummarizeChapter();
+        public void SwitchUI()
+        {
+            ShowBibleSelection = !ShowBibleSelection;
+            if (ShowBibleSelection)
+            {
+                ResetBibleUI();
+                NotifyPropertyChanged("OriginalTextWordCount");
+            }
+            else
+            {
+                OriginalText = "";
+                RyanSummary = "";
+                AndrewSummary = "";
+                DanielSummary = "";
+            }
+            NotifyPropertyChanged("ShowBibleSelection");
+            NotifyPropertyChanged("Title");
+            NotifyPropertyChanged("SwitchToText");
         }
 
         /// <summary>
@@ -126,10 +162,30 @@ namespace Summarizer.View_Model
             SummarizeUsing(new SummarizerAS());
         }
 
+        /// <summary>
+        /// Called when user clicks Upload
+        /// </summary>
+        public void UploadDocument(string filePath)
+        {
+            OriginalText = System.IO.File.ReadAllText(filePath);
+
+            SummarizeUsing(new SummarizerDW());
+            SummarizeUsing(new SummarizerRR());
+            SummarizeUsing(new SummarizerAS());
+        }
+
 
         /***************************************************/
         /*************     PRIVATE METHODS     *************/
         /***************************************************/
+        private void ResetBibleUI()
+        {
+            SelectedBook = BibleBooks.Genesis;
+            SelectedChapter = AllChapters;
+
+            SummarizeChapter();
+        }
+
         private void ResetChapterNumbers(int numChapters)
         {
             ChapterNums.Clear();

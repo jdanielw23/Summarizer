@@ -4,72 +4,131 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Summarizer"
+        xmlns:con="clr-namespace:Summarizer.Model.Utils"
+        xmlns:model="clr-namespace:Summarizer.Model.Utils"
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
-        Title="Document Summarizer" Height="350" Width="525">
+        Title="NLP Summarizer" Height="500" Width="1000">
 
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVisConv"/>
+    </Window.Resources>
+    
     <DockPanel>
         <!-- TITLE BAR -->
         <Border DockPanel.Dock="Top" Background="DarkBlue" Height="50">
             <DockPanel>
-                <TextBlock Text="Document Summarizer" VerticalAlignment="Center" Padding="10,0" FontSize="24" Foreground="White"/>
+                <TextBlock Text="{Binding Title}" VerticalAlignment="Center" Padding="10,0" FontSize="24" Foreground="White"/>
                 <TextBlock DockPanel.Dock="Right" VerticalAlignment="Bottom" HorizontalAlignment="Right" Padding="10,5" >
                     <Hyperlink Click="SwitchUI_Click" Foreground="White">
-                        <TextBlock Text="Switch to Bible Summarizer"/>
+                        <TextBlock Text="{Binding SwitchToText}"/>
                     </Hyperlink>
                 </TextBlock>
             </DockPanel>
         </Border>
 
-        <!-- TEXT BOX LABEL -->
-        <TextBlock DockPanel.Dock="Top" Text="File to be Summarized:" Style="{StaticResource Tb_Heading}" Padding="5,5,0,0"/>
-        
-        <!-- UPLOAD TEXT BOX -->
-        <DockPanel DockPanel.Dock="Top">
-            <Button DockPanel.Dock="Right" Padding="8,2" Margin="4" Background="DodgerBlue" Foreground="White" FontWeight="Bold" Content="UPLOAD" Click="UploadDocument_Click"/>
-            <TextBox DockPanel.Dock="Left" Margin="4" Text="{Binding FilePath}"/>
-        </DockPanel>
+        <!-- SELECTOR & ORIGINAL TEXT-->
+        <Grid DockPanel.Dock="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
 
-        <!-- SUMMARIZATION PANE -->
-        <Border DockPanel.Dock="Bottom" BorderThickness="0,2,0,0" BorderBrush="DimGray" Margin="0,5,0,0">
-            <DockPanel>
+            <DockPanel Grid.Column="0">
                 
-                <!-- SUMMARY -->
-                <TextBlock DockPanel.Dock="Top" Text="SUMMARY" Style="{StaticResource Tb_Heading}"/>
-                <TextBox x:Name="Tb_Summary" DockPanel.Dock="Top" Margin="5,0,5,5" Padding="5" TextWrapping="Wrap" Height="120"
-                         ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Auto" IsReadOnly="True"
-                         Text="{Binding Summary}"/>
+                <!-- UPLOAD DOCUMENT -->
+                <DockPanel DockPanel.Dock="Top">
+                    <DockPanel.Style>
+                        <Style TargetType="DockPanel">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding ShowBibleSelection}" Value="False">
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DockPanel.Style>
+                    <!-- TEXT BOX LABEL -->
+                    <TextBlock DockPanel.Dock="Top" Text="File to be Summarized:" Style="{StaticResource Tb_Heading}" Padding="5,5,0,0"/>
 
-                <Grid DockPanel.Dock="Bottom">
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="150"/>
-                        <ColumnDefinition/>
-                    </Grid.ColumnDefinitions>
-                    <Grid.RowDefinitions>
-                        <RowDefinition />
-                        <RowDefinition />
-                        <RowDefinition />
-                    </Grid.RowDefinitions>
-                    
-                    <!-- WORD COUNT OF ORIGINAL DOCUMENT -->
-                    <TextBlock Text="Original Document:" Style="{StaticResource Tb_Label}"/>
-                    <TextBlock Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" Padding="5,0"
-                               Text="{Binding OriginalTextWordCount, StringFormat={}{0} words}"/>
+                    <!-- UPLOAD TEXT BOX -->
+                    <DockPanel DockPanel.Dock="Top">
+                        <Button DockPanel.Dock="Right" Padding="8,2" Margin="4" Background="DodgerBlue" Foreground="White" FontWeight="Bold" Content="UPLOAD" Click="UploadDocument_Click"/>
+                        <TextBox x:Name="FilePath" DockPanel.Dock="Left" Margin="4"/>
+                    </DockPanel>
+                </DockPanel>
                 
-                    <!-- WORD COUNT OF SUMMARY -->
-                    <TextBlock Grid.Row="1" Text="Summary:" Style="{StaticResource Tb_Label}"/>
-                    <TextBlock Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" Padding="5,0"
-                               Text="{Binding SummaryWordCount, StringFormat={}{0} words}"/>
+                <!-- SELECT BIBLE CHAPTER -->
+                <StackPanel DockPanel.Dock="Top" Orientation="Horizontal">
+                    <StackPanel.Style>
+                        <Style TargetType="StackPanel">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding ShowBibleSelection}" Value="True">
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </StackPanel.Style>
+                    <ComboBox Margin="4" Width="120" ItemsSource="{Binding Source={model:EnumBindingSource {x:Type model:BibleBooks}}}" SelectedItem="{Binding SelectedBook}"/>
+                    <ComboBox Margin="4" Width="50" ItemsSource="{Binding ChapterNums}" SelectedIndex="{Binding SelectedChapter}"/>
+                    <Button Margin="4" Padding="5,0" Content="Summarize" Background="DodgerBlue" Foreground="White"
+                            Click="SummarizeChapter_Click"/>
+                </StackPanel>
                 
-                    <!-- PERCENT REDUCTION -->
-                    <TextBlock Grid.Row="2" Text="Percent Reduction:" Style="{StaticResource Tb_Label}"/>
-                    <TextBlock Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" Padding="5,0"
-                               Text="{Binding PercentReduction, StringFormat={}{0:P}}"/>
-                    
-                </Grid>
-
+                <DockPanel DockPanel.Dock="Top">
+                    <TextBlock DockPanel.Dock="Left" VerticalAlignment="Bottom" Padding="5,0" FontSize="14" Text="Original Text"/>
+                    <TextBlock DockPanel.Dock="Right" VerticalAlignment="Bottom" Padding="5,0" HorizontalAlignment="Right"
+                               Text="{Binding OriginalTextWordCount, StringFormat='Word count: {0}', Mode=OneWay}"/>
+                </DockPanel>
+                
+                <TextBox DockPanel.Dock="Top" Margin="4" IsReadOnly="True"
+                         TextWrapping="Wrap" VerticalScrollBarVisibility="Auto"
+                         Text="{Binding OriginalText, Mode=OneWay}" />
             </DockPanel>
-        </Border>
+        
+            <!-- SUMMARY PANEL -->
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                
+                <!-- RYAN'S SUMMARY -->                
+                <DockPanel Grid.Row="0">
+                    <TextBlock DockPanel.Dock="Left" VerticalAlignment="Bottom" Padding="5,0" FontSize="14" Text="Ryan's Summary"/>
+                    <TextBlock DockPanel.Dock="Right" VerticalAlignment="Bottom" Padding="5,0" HorizontalAlignment="Right"
+                               Text="{Binding RyanSummaryWordCount, StringFormat='Word count: {0}', Mode=OneWay}"/>
+                </DockPanel>
+                <TextBox Grid.Row="1" Margin="4" IsReadOnly="True" 
+                         TextWrapping="Wrap" VerticalScrollBarVisibility="Auto"
+                         Text="{Binding RyanSummary, Mode=OneWay}" />
 
+                <!-- ANDREW'S SUMMARY -->
+                <DockPanel Grid.Row="2">
+                    <TextBlock DockPanel.Dock="Left" VerticalAlignment="Bottom" Padding="5,0" FontSize="14" Text="Andrew's Summary"/>
+                    <TextBlock DockPanel.Dock="Right" VerticalAlignment="Bottom" Padding="5,0" HorizontalAlignment="Right"
+                               Text="{Binding AndrewSummaryWordCount, StringFormat='Word count: {0}', Mode=OneWay}"/>
+                </DockPanel>
+                <TextBox Grid.Row="3" Margin="4" IsReadOnly="True"
+                         TextWrapping="Wrap" VerticalScrollBarVisibility="Auto"
+                         Text="{Binding AndrewSummary, Mode=OneWay}" />
+
+                <!-- DANIEL'S SUMMARY -->
+                <DockPanel Grid.Row="4">
+                    <TextBlock DockPanel.Dock="Left" VerticalAlignment="Bottom" Padding="5,0" FontSize="14" Text="Daniel's Summary"/>
+                    <TextBlock DockPanel.Dock="Right" VerticalAlignment="Bottom" Padding="5,0" HorizontalAlignment="Right"
+                               Text="{Binding DanielSummaryWordCount, StringFormat='Word count: {0}', Mode=OneWay}"/>
+                </DockPanel>
+                <TextBox Grid.Row="5" Margin="4" IsReadOnly="True"
+                         TextWrapping="Wrap" VerticalScrollBarVisibility="Auto"
+                         Text="{Binding DanielSummary, Mode=OneWay}" />
+            </Grid>
+
+        </Grid>
     </DockPanel>
 </Window>
