@@ -324,9 +324,14 @@ namespace Summarizer.Model.Utils
         {
             IDictionary<BibleBooks, Book> books = new Dictionary<BibleBooks, Book>();
             List<BibleBooks> BibleNames = BookChapters.Keys.ToList();
-
+            string documents = "";
+#if DEBUG
+            documents = @"..\..\..\Summarizer\Documents\The Bible txt - Original";
+#else
+            documents = @".\Documents\The Bible txt - Original";
+#endif
             int bkInd = 0;
-            foreach (string path in Directory.EnumerateFiles(@"..\..\..\Summarizer\Documents\The Bible txt - Original"))
+            foreach (string path in Directory.EnumerateFiles(documents))
             {
                 IDictionary<int, Chapter> chapters = new Dictionary<int, Chapter>();
 

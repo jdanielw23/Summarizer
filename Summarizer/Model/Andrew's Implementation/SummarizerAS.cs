@@ -87,14 +87,14 @@ namespace Summarizer.Model.Andrews_Implementation
 
             // *** START TEST *** //
             // This bit is to identify new stopwords...
-            string test_out = "";
-            string[] top_words = wf.Top(20);
-            Console.WriteLine("MOST FRQUENT WORDS WITH FREQUENCIES:");
-            Console.WriteLine("++++++++++++++++++++++++++++++++++++");
-            foreach (string word in top_words)
-            {
-                Console.WriteLine(String.Format("{0, -15}", word) + wf.Count(word));
-            }
+            //string test_out = "";
+            //string[] top_words = wf.Top(20);
+            //Console.WriteLine("MOST FRQUENT WORDS WITH FREQUENCIES:");
+            //Console.WriteLine("++++++++++++++++++++++++++++++++++++");
+            //foreach (string word in top_words)
+            //{
+            //    Console.WriteLine(String.Format("{0, -15}", word) + wf.Count(word));
+            //}
             // *** END TEST *** //
 
             string output = "";

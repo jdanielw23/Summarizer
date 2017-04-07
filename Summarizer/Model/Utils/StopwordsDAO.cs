@@ -16,7 +16,14 @@ namespace Summarizer.Model.Utils
         {
             // Stopwords list from http://www.ranks.nl/stopwords
             // TODO: find a better way of loading the file...
-            string filepath = @"..\..\..\Summarizer\Model\Utils\kjv_stopwords.txt"; // Converted this to relative path - Daniel 4/4/17
+            string filepath = ""; // Converted this to relative path - Daniel 4/4/17 (moved to below by Andrew)
+
+            // Debug-sensitive filepaths added -- Andrew 5/7/17
+#if DEBUG
+            filepath = @"..\..\..\Summarizer\Model\Utils\kjv_stopwords.txt";
+#else
+            filepath = @".\Documents\kjv_stopwords.txt";
+#endif
             string[] raw = System.IO.File.ReadAllLines(filepath);
             this.stem = stem;
             stopwords = new LinkedList<String>();

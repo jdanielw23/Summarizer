@@ -147,7 +147,12 @@ namespace Summarizer.Model.Ryan_s_Implementation
 
             EnglishStemmer stemmer = new EnglishStemmer();
 
-            var jarRoot = @"..\..\Resources\stanford-postagger-full-2016-10-31";
+            var jarRoot = "";
+#if DEBUG
+            jarRoot = @"..\..\Resources\stanford-postagger-full-2016-10-31";
+#else
+            jarRoot = @".\Documents\stanford-postagger-full-2016-10-31";
+#endif
             var modelsDirectory = jarRoot + @"\models";
 
             // Loading POS Tagger

@@ -270,6 +270,13 @@ namespace Summarizer.Model.Utils
             List<string> BibleNames = Constants.BibleBooks.Keys.ToList();
 
             int bkInd = 0;
+
+            string documents = "";
+#if DEBUG
+            documents = @"..\..\..\Summarizer\Documents\The Bible txt - Original";
+#else
+            documents = @".\Documents\The Bible txt - Original";
+#endif
             foreach (string path in Directory.EnumerateFiles(@"..\..\..\Summarizer\Documents\The Bible txt - Original"))
             {
                 string text = System.IO.File.ReadAllText(path);
