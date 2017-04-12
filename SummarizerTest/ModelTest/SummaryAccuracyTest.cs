@@ -15,6 +15,99 @@ namespace SummarizerTest.ModelTest
     public class SummaryAccuracyTest
     {
         [TestMethod]
+        public void RuthTest()
+        {
+            string[] refs = { "1:6", "1:22", "2:15", "3:11", "3:13", "4:17" };
+            Assert.IsTrue(BibleBookSummaryTest(BibleBooks.Ruth, refs));
+        }
+
+        [TestMethod]
+        public void RomansTest()
+        {
+            string[] refs = { "1:16", "1:17", "6:23", "10:13", "12:1", "12:2" };
+            Assert.IsTrue(BibleBookSummaryTest(BibleBooks.Romans, refs));
+        }
+
+        [TestMethod]
+        public void GalatiansTest()
+        {
+            string[] refs = { "1:9", "2:20", "3:1", "3:2", "3:3", "5:16" };
+            Assert.IsTrue(BibleBookSummaryTest(BibleBooks.Galatians, refs));
+        }
+
+        //[TestMethod]
+        public void HebrewsTest()
+        {
+            string[] refs = { "1:6", "3:3", "4:12", "5:10", "11:1", "12:2" };
+            Assert.IsTrue(BibleBookSummaryTest(BibleBooks.Hebrews, refs));
+        }
+
+        [TestMethod]
+        public void JamesTest()
+        {
+            string[] refs = { "1:22", "2:10", "2:18", "4:7", "5:19", "5:20" };
+            Assert.IsTrue(BibleBookSummaryTest(BibleBooks.James, refs));
+        }
+
+        /// <summary>
+        /// Runs a summary test on the given Bible book. 
+        /// </summary>
+        /// <param name="book">The book of the Bible to summarize</param>
+        /// <param name="desiredRefs">The references for the desired summary</param>
+        /// <returns>Returns true if any of our summaries contain one of the supplied references 
+        /// or a 3 word phrase from the given references</returns>
+        private static bool BibleBookSummaryTest(BibleBooks book, string[] desiredRefs)
+        {
+            SummarizerImplementation[] implementations =
+            {
+                new SummarizerDW(),
+                new SummarizerRR(),
+                new SummarizerAS()
+            };
+
+            foreach (var implementation in implementations)
+            {
+                string summary = implementation.Summarize(Bible.Get(book).ToString());
+                foreach (string reference in desiredRefs)
+                {
+                    // If summary contains at least one desired reference, it's a good summary
+                    if (summary.Contains(reference))
+                        return true;
+
+                    // Build list of phrases
+                    IList<string> phrases = new List<string>();
+                    const int PHRASE_LENGTH = 3;
+                    int numWords = 0;
+                    StringBuilder sb = new StringBuilder();
+                    foreach (string word in Bible.Get(book)[reference].ToString().Split(' '))
+                    {
+                        if (numWords == PHRASE_LENGTH)
+                        {
+                            phrases.Add(sb.ToString());
+                            sb.Clear();
+                            numWords = 0;
+                        }
+                        else
+                        {
+                            sb.Append(word + " ");
+                            numWords++;
+                        }
+                    }
+
+                    // Check to see if summary contains any phrases
+                    foreach (string phrase in phrases)
+                    {
+                        // If the summary contains at least one phrase, it's a good summary
+                        if (summary.Contains(phrase))
+                            return true;
+                    }
+                }
+            }
+            return false;
+        }
+
+        /* OLD TEST
+        [TestMethod]
         public void AccuracyTest()
         {
             string desiredRuthSummary = 
@@ -147,5 +240,6 @@ namespace SummarizerTest.ModelTest
 
             return (REF_MULTIPLIER * numRefMatches) + numPhraseMatches;
         }
+        */
     }
 }
