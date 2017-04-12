@@ -11,7 +11,7 @@ namespace Summarizer.Model.Andrews_Implementation
     public class SummarizerAS : SummarizerImplementation
     {
         private const int RESULT_COUNT = 3;             // Number of sentences returned.
-        private const int FREQUENCY_TABLE_LEN = 24;     // Length of frequency table.
+        private const int FREQUENCY_TABLE_LEN = 10;     // Length of frequency table.
         private const int MIN_SENT_LENGTH = 3;          // Reject sentences with less words.
         private const int MIN_SENT_NUM = 24;            // Reject doc with less sentences.
         private const double MIN_SENT_PERCENT = 0.70;   // Reject doc with less valid sentences.
@@ -100,6 +100,7 @@ namespace Summarizer.Model.Andrews_Implementation
             string output = "";
             BigramCounter bc = new BigramCounter(clean_sentences,
                                                  wf.Top(FREQUENCY_TABLE_LEN));
+            //bc.Print();
             Scorer scorer = new Scorer(clean_sentences);
             scorer.ScoreWithComplexBigrams(bc);
             //scorer.ScoreWithBigrams(bc);

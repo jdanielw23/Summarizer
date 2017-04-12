@@ -68,6 +68,43 @@ namespace Summarizer.Model.Andrew_s_Implementation
             return top(count);
         }
 
+        public void Print()
+        {
+            string format = "|";
+            string bar = "-";
+            int width = words.Length + 1;
+            object[] row = new object[width];
+            for (int i = 0; i < width; i++)
+            {
+                format += " {" + i + ",7} |";
+                bar += "----------";
+            }
+            p(bar);
+            row[0] = "";
+            for (int i = 0; i < words.Length; i++)
+            {
+                row[i + 1] = words[i];
+            }
+            p(String.Format(format, row));
+            p(bar);
+            for (int i = 0; i < words.Length; i++)
+            {
+                row = new object[width];
+                row[0] = words[i];
+                for (int j = 0; j < words.Length; j++)
+                {
+                    row[j + 1] = cooccurrance.Get(i, j);
+                }
+                p(String.Format(format, row));
+                p(bar);
+            }
+        }
+
+        private void p(string line)
+        {
+            Console.WriteLine(line);
+        }
+
         private Table top(int n)
         {
             if (n > words.Length)
